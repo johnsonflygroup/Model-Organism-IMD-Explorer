@@ -298,10 +298,6 @@ Users should consult and cite the original databases and publications when using
 
 A formal citation will be added following publication of the associated manuscript.
 
-Until then, please cite this GitHub repository and include the date or version accessed:
-
-> Integrative Inherited Metabolic Disease Gene and Model Organism Explorer. Johnson Fly Group. GitHub repository: `johnsonflygroup/Model-Organism-IMD-Explorer`.
-
 ## Disclaimer
 
 This resource is intended for research and model-selection support. It is not a diagnostic or clinical decision-making tool. Orthology support does not guarantee conservation of phenotype, biochemical function, tissue context, or therapeutic response.
@@ -316,5 +312,3 @@ Suggestions, bug reports, and reproducibility issues can be submitted through th
 - steps needed to reproduce the problem.
 
 ## License
-
-Add the selected software and data-use licence in a separate `LICENSE` file, and update this section once the licence has been confirmed.
