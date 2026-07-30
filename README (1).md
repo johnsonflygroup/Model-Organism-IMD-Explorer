@@ -1,0 +1,320 @@
+# Integrative Inherited Metabolic Disease Gene and Model Organism Explorer
+
+An interactive **R Shiny** application for exploring inherited metabolic diseases (IMDs), associated human genes, orthology relationships, published model-organism evidence, and pathway-level conservation across commonly used experimental organisms.
+
+## Web application
+
+The public web interface is available at:
+
+**[Integrative IMD Model Organism Explorer](https://www.johnson-flylab.com/tools/integrative-imd-model-organism-explorer)**
+
+## Overview
+
+Inherited metabolic diseases are individually rare and many have limited clinical and mechanistic evidence. Selecting an appropriate experimental model can therefore be difficult, particularly when orthology relationships are complex.
+
+This application integrates disease annotation, gene-level orthology, published model-organism studies, and KEGG pathway information to help researchers:
+
+- search for IMDs by gene or disease name;
+- compare orthology support across model organisms;
+- interpret one-to-one and complex orthology relationships;
+- browse IMDs by disease classification or pathway;
+- identify published model-organism studies;
+- explore pathway-level gene coverage; and
+- prioritise candidate model organisms for further investigation.
+
+Orthology information is intended to support model selection rather than replace biological judgement. Gene function, phenotype, disease relevance, experimental feasibility, and tissue or pathway context should also be considered.
+
+## Supported model organisms
+
+The application currently includes:
+
+| Common name | Scientific name |
+|---|---|
+| Mouse | *Mus musculus* |
+| Zebrafish | *Danio rerio* |
+| Fruit fly | *Drosophila melanogaster* |
+| Nematode worm | *Caenorhabditis elegans* |
+| Budding yeast | *Saccharomyces cerevisiae* |
+| Fission yeast | *Schizosaccharomyces pombe* |
+
+## Main features
+
+### Disease search
+
+Search by:
+
+- human gene symbol;
+- ICIEM disease name;
+- alternative disease name; or
+- disease abbreviation.
+
+Multiple terms can be entered, one per line. The search includes partial and approximate matching, so results should be reviewed before an entry is selected.
+
+### Adjustable DIOPT threshold
+
+The advanced search panel provides a global DIOPT score threshold. The default threshold is **7**.
+
+Increasing the threshold retains more strongly supported orthology predictions. Decreasing it includes broader, potentially weaker orthology support. The selected threshold is applied throughout the current session, including disease searches, model browsing, disease-classification browsing, pathway browsing, and disease-page outputs.
+
+### Browse by model organism
+
+Users can browse IMD-associated genes according to orthology support in each model organism and distinguish:
+
+- one-to-one orthology;
+- one-to-two orthology;
+- complex orthology; and
+- no detected ortholog support.
+
+### ICIMD disease classification
+
+IMD records can be explored using the ICIMD classification hierarchy. Each disease category displays model-organism orthology coverage and can be expanded to show subcategories and individual disease records.
+
+### IMD–KEGG pathway classification
+
+IMD-associated genes can be explored by KEGG pathway category, subcategory, and pathway. Interactive pathway maps allow users to inspect mapped genes and open linked disease records.
+
+### IMD disease pages
+
+Each disease page can display:
+
+- ICIEM disease name;
+- associated human gene;
+- disease category and subcategory;
+- alternative names and abbreviations;
+- mode of inheritance;
+- treatability;
+- prevalence;
+- OMIM, Orphanet, IEMbase, and GeneReviews links;
+- published IMD studies in model organisms;
+- orthology relationships across all supported organisms;
+- DIOPT-supported human and model-gene components; and
+- links to organism-specific model databases.
+
+### Orthology-based model prioritisation
+
+The application uses the following interpretation:
+
+| Orthology relationship | Application label | Interpretation |
+|---|---|---|
+| 1:1 | Prioritized | Clearest gene-level correspondence |
+| 1:2 | Retained | Potentially useful, with possible paralogue redundancy |
+| Other complex relationships | Deprioritized | Requires additional biological interpretation |
+| No supported relationship | No ortholog | No ortholog support at the selected threshold |
+
+When multiple models have one-to-one orthology, a model-selection matrix is used to rank them according to the configured model weights.
+
+## Repository structure
+
+The application expects the following general structure:
+
+```text
+Model-Organism-IMD-Explorer/
+├── app.R
+├── prepare_data.R
+├── app_data.rds
+├── pathway_gene_clickmap.rds
+│
+├── KEGG_hsa_pathway_to_genes_with_category.xlsx
+├── IMDs_Info_With_Category.xlsx
+├── IMDs_Others.xlsx
+├── Gene_reference_table.xlsx
+├── Childhood_Dementia_Gene_List.xlsx
+├── Disease_Associations_With_Paper_Titles.docx
+├── model_selection_matrix.xlsx
+├── pathway_gene_clickmap_with_image_size.csv
+│
+├── Human_to_Mouse_Orthology_State_All_DIOPT_Thresholds.xlsx
+├── Human_to_Zebrafish_Orthology_State_All_DIOPT_Thresholds.xlsx
+├── Human_to_Fly_Orthology_State_All_DIOPT_Thresholds.xlsx
+├── Human_to_Worm_Orthology_State_All_DIOPT_Thresholds.xlsx
+├── Human_to_BuddingYeast_Orthology_State_All_DIOPT_Thresholds.xlsx
+├── Human_to_FissionYeast_Orthology_State_All_DIOPT_Thresholds.xlsx
+│
+├── Model_Link/
+│   ├── Mouse.xlsx
+│   ├── Zebrafish.xlsx
+│   ├── Fly.xlsx
+│   ├── Worm.xlsx
+│   ├── BuddingYeast.xlsx
+│   └── FissionYeast.xlsx
+│
+├── Pathway_View/
+│   ├── Mus musculus/
+│   ├── Danio rerio/
+│   ├── Drosophila melanogaster/
+│   ├── Caenorhabditis elegans/
+│   ├── Saccharomyces cerevisiae/
+│   └── Schizosaccharomyces pombe/
+│
+└── www/
+    └── static images and interface assets
+```
+
+The exact contents of `Pathway_View/` and `www/` depend on the pathway images and interface assets included in the deployed version.
+
+## Requirements
+
+The application uses the following R packages:
+
+```r
+required_packages <- c(
+  "shiny",
+  "shinyjs",
+  "DT",
+  "readxl",
+  "dplyr",
+  "stringr",
+  "tidyr",
+  "purrr",
+  "htmltools",
+  "scales",
+  "officer",
+  "tibble"
+)
+
+new_packages <- required_packages[
+  !required_packages %in% rownames(installed.packages())
+]
+
+if (length(new_packages) > 0) {
+  install.packages(new_packages)
+}
+```
+
+## Data preparation
+
+`prepare_data.R` reads and validates the source files, standardises gene symbols, combines disease annotations, processes orthology results at each DIOPT threshold, imports model-database links, calculates model-selection information, and prepares pathway click-map coordinates.
+
+It creates two deployment-ready files:
+
+```text
+app_data.rds
+pathway_gene_clickmap.rds
+```
+
+### Important path setting
+
+Before running the preparation script, make sure `base_dir` points to the repository directory.
+
+For a portable GitHub version, use:
+
+```r
+base_dir <- normalizePath(".", winslash = "/", mustWork = TRUE)
+```
+
+Then open R in the repository root and run:
+
+```r
+source("prepare_data.R")
+```
+
+Alternatively, from a terminal:
+
+```bash
+Rscript prepare_data.R
+```
+
+The script should finish with messages confirming that `app_data.rds` and `pathway_gene_clickmap.rds` were created.
+
+## Running the application locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/johnsonflygroup/Model-Organism-IMD-Explorer.git
+cd Model-Organism-IMD-Explorer
+```
+
+Start the application from R:
+
+```r
+shiny::runApp()
+```
+
+The app requires the following files in the repository root before startup:
+
+```text
+app_data.rds
+pathway_gene_clickmap.rds
+```
+
+It also requires the pathway images and static interface assets used by the deployed version.
+
+## Updating the data
+
+When an input table or source file is changed:
+
+1. replace or update the relevant source file;
+2. confirm that its filename and required column names remain compatible with `prepare_data.R`;
+3. rerun `prepare_data.R`;
+4. check that both RDS files are recreated successfully;
+5. launch the app locally and inspect several representative disease, model, and pathway records; and
+6. commit the updated source files, scripts, and generated RDS files as appropriate.
+
+## Minimum files needed for deployment
+
+A deployment that does not rebuild the source data requires at least:
+
+```text
+app.R
+app_data.rds
+pathway_gene_clickmap.rds
+Pathway_View/
+www/
+```
+
+For full reproducibility, also retain `prepare_data.R` and the source data tables, subject to the reuse and redistribution conditions of the original data providers.
+
+## Data resources
+
+The application integrates or links information derived from resources including:
+
+- IEMbase and the ICIMD disease classification;
+- DIOPT orthology predictions;
+- KEGG pathway annotations;
+- Alliance of Genome Resources;
+- OMIM;
+- Orphanet;
+- GeneReviews;
+- Mouse Genome Informatics;
+- ZFIN;
+- FlyBase;
+- WormBase;
+- Saccharomyces Genome Database; and
+- PomBase.
+
+Users should consult and cite the original databases and publications when using information derived from these resources.
+
+## Reproducibility notes
+
+- Human gene symbols are standardised using `Gene_reference_table.xlsx`.
+- Orthology results are organised by DIOPT threshold.
+- The default application threshold is 7 when that value is available.
+- The same selected threshold is applied across the application during a user session.
+- The application reads preprocessed RDS objects at startup to reduce repeated parsing of Excel, CSV, and Word files.
+- Pathway click-map coordinates are stored separately and loaded when required.
+
+## Citation
+
+A formal citation will be added following publication of the associated manuscript.
+
+Until then, please cite this GitHub repository and include the date or version accessed:
+
+> Integrative Inherited Metabolic Disease Gene and Model Organism Explorer. Johnson Fly Group. GitHub repository: `johnsonflygroup/Model-Organism-IMD-Explorer`.
+
+## Disclaimer
+
+This resource is intended for research and model-selection support. It is not a diagnostic or clinical decision-making tool. Orthology support does not guarantee conservation of phenotype, biochemical function, tissue context, or therapeutic response.
+
+## Contributing
+
+Suggestions, bug reports, and reproducibility issues can be submitted through the repository's **Issues** page. When reporting an issue, please include:
+
+- the affected gene, disease, model organism, or pathway;
+- the selected DIOPT threshold;
+- the expected and observed result; and
+- steps needed to reproduce the problem.
+
+## License
+
+Add the selected software and data-use licence in a separate `LICENSE` file, and update this section once the licence has been confirmed.
