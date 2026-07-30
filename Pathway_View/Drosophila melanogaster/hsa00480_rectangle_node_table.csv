@@ -1,0 +1,66 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"145","PGD, 6PGD","rectangle",169,511,46,17,NA,NA
+"146","ODC1, BABS, NEDBA, NEDBIA, ODC","rectangle",208,683,46,17,"hsa:4953",100
+"147","SRM, PAPT, SPDSY, SPS1, SRML1","rectangle",290,643,46,17,NA,NA
+"148","K01833","rectangle",417,613,46,17,NA,NA
+"149","K01833","rectangle",417,695,46,17,NA,NA
+"150","K01833","rectangle",557,629,46,17,NA,NA
+"151","K01833","rectangle",557,685,46,17,NA,NA
+"152","SMS, MRSR, MRXSSR, SPMSY, SRS, SpS","rectangle",369,727,46,17,"hsa:6611",100
+"153","K01833","rectangle",417,865,46,17,NA,NA
+"154","K01833","rectangle",557,865,46,17,NA,NA
+"155","SRM, PAPT, SPDSY, SPS1, SRML1","rectangle",237,921,46,17,NA,NA
+"156","K01833","rectangle",417,921,46,17,NA,NA
+"157","K01833","rectangle",557,931,46,17,NA,NA
+"159","K01833","rectangle",557,912,46,17,NA,NA
+"160","K00434","rectangle",736,650,46,17,NA,NA
+"161","K04283","rectangle",736,603,46,17,NA,NA
+"162","RRM2B, MTDPS8A, MTDPS8B, P53R2, RCDFRD...","rectangle",736,729,46,17,"hsa:50484;hsa:6240",100
+"163","K11185...","rectangle",711,708,46,17,NA,NA
+"164","RRM2B, MTDPS8A, MTDPS8B, P53R2, RCDFRD...","rectangle",736,790,46,17,"hsa:50484;hsa:6240",100
+"165","K11185...","rectangle",736,769,46,17,NA,NA
+"166","K04283","rectangle",736,859,46,17,NA,NA
+"167","K04283","rectangle",736,913,46,17,NA,NA
+"168","Arginine biosynthesis","roundrectangle",208,774,124,25,NA,NA
+"171","K01255","rectangle",307,323,46,17,NA,NA
+"172","K01255","rectangle",592,536,46,17,NA,NA
+"173","K07751","rectangle",307,342,46,17,NA,NA
+"174","K07751","rectangle",640,536,46,17,NA,NA
+"175","K01270","rectangle",307,361,46,17,NA,NA
+"176","K01270","rectangle",688,536,46,17,NA,NA
+"177","LAP3, HEL-S-106, LAP, LAPEP, PEPS","rectangle",357,342,46,17,NA,NA
+"178","LAP3, HEL-S-106, LAP, LAPEP, PEPS","rectangle",640,515,46,17,NA,NA
+"179","K11207","rectangle",759,708,46,17,NA,NA
+"180","K15428","rectangle",357,362,46,17,NA,NA
+"181","K15428","rectangle",688,515,46,17,NA,NA
+"182","CHAC2, GCG1...","rectangle",263,416,46,17,NA,NA
+"183","PRDX6, 1-Cys, AOP2, HEL-S-128m, LPCAT-5, NSGPx, PRX, aiPLA2, p29","rectangle",242,567,46,17,NA,NA
+"31","TITLE:Glutathione metabolism","roundrectangle",150,58,219,25,NA,NA
+"32","Alanine, aspartate and glutamate metabolism","roundrectangle",584,232,74,34,NA,NA
+"33","Taurine and hypotaurine metabolism","roundrectangle",490,211,78,45,NA,NA
+"34","Cyanoamino acid metabolism","roundrectangle",406,276,112,34,NA,NA
+"35","Cysteine and methionine metabolism","roundrectangle",329,206,82,45,NA,NA
+"36","K03423","rectangle",662,460,46,17,NA,NA
+"37","ANPEP, AP-M, AP-N, APN, CD13, GP150, LAP1, P150, PEPN, hAPN","rectangle",592,515,46,17,NA,NA
+"38","GGT2...","rectangle",489,526,46,17,"hsa:2678",100
+"39","GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N24.1...","rectangle",194,567,46,17,NA,NA
+"43","K21888","rectangle",121,613,46,17,NA,NA
+"46","GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx","rectangle",217,546,46,17,"hsa:2879",100
+"47","TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19","rectangle",169,546,46,17,NA,NA
+"48","K00310","rectangle",169,613,46,17,NA,NA
+"49","G6PD, G6PD1","rectangle",217,511,46,17,"hsa:2539",100
+"50","K00032","rectangle",217,490,46,17,NA,NA
+"51","IDH1, HEL-216, HEL-S-26, IDCD, IDH, IDP, IDPC, PICD...","rectangle",169,490,46,17,"hsa:3417;hsa:3418",100
+"52","GSS, GSHS, HEL-S-64p, HEL-S-88n","rectangle",458,457,46,17,"hsa:2937",100
+"53","GCLC, GCL, GCS, GLCL, GLCLC...","rectangle",542,275,46,17,"hsa:2729",100
+"54","GGT2...","rectangle",332,430,46,17,"hsa:2678",100
+"55","ANPEP, AP-M, AP-N, APN, CD13, GP150, LAP1, P150, PEPN, hAPN","rectangle",357,323,46,17,NA,NA
+"56","OPLAH, 5-Opase, OPLA, OPLAHD","rectangle",374,144,46,17,"hsa:26873",100
+"57","GGCT, C7orf24, CRF21, GCTG, GGC","rectangle",449,103,46,17,NA,NA
+"58","GGT2...","rectangle",195,405,46,17,"hsa:2678",100
+"59","GGCT, C7orf24, CRF21, GCTG, GGC","rectangle",195,257,46,17,NA,NA
+"60","NAT8, ATase2, CCNAT, CML1, GLA, Hcml1, TSC501, TSC510","rectangle",801,526,46,17,NA,NA
+"61","LANCL1, GPR69A, p40...","rectangle",388,526,46,17,NA,NA
+"62","K01917...","rectangle",417,674,46,17,NA,NA
+"63","K01460","rectangle",417,592,46,17,NA,NA
+"95","GSR, GR, GSRD, HEL-75, HEL-S-122m","rectangle",169,458,46,17,"hsa:2936",0

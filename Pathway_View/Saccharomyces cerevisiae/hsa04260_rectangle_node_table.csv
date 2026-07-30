@@ -1,0 +1,31 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"110","TRDN, CARDAR, CPVT5, TDN, TRISK","rectangle",333,288,46,17,NA,NA,NA,NA
+"111","ASPH, AAH, BAH, CASQ2BP1, FDLAB, HAAH, JCTN, junctin","rectangle",333,234,46,17,NA,NA,NA,NA
+"112","CASQ2, PDIB2","rectangle",434,254,46,17,NA,NA,NA,NA
+"114","HRC","rectangle",529,294,46,17,NA,NA,NA,NA
+"118","HRC","rectangle",404,294,46,17,NA,NA,NA,NA
+"119",NA,"rectangle",333,261,46,71,NA,NA,NA,NA
+"18","TITLE:Cardiac muscle contraction","roundrectangle",168,58,256,25,NA,NA,NA,NA
+"25","CACNG3...","rectangle",235,256,46,17,NA,NA,NA,NA
+"26","RYR2, ARVC2, ARVD2, RYR-2, RyR, VACRDS, VTSIP","rectangle",333,261,46,17,NA,NA,NA,NA
+"27","SLC8A2, NCX2...","rectangle",682,140,46,17,NA,NA,NA,NA
+"28","SLC8A2, NCX2...","rectangle",235,482,46,17,NA,NA,NA,NA
+"31","ATP2A1, ATP2A, SERCA1...","rectangle",587,311,46,17,NA,NA,NA,NA
+"32","TNNC1, CMD1Z, CMH13, TN-C, TNC, TNNC","rectangle",415,401,46,17,NA,NA,NA,NA
+"37","TNNI3, CMD1FF, CMD2A, CMH7, RCM1, TNNC1, cTnI","rectangle",377,437,46,17,NA,NA,NA,NA
+"38","TNNC1, CMD1Z, CMH13, TN-C, TNC, TNNC","rectangle",653,401,46,17,NA,NA,NA,NA
+"39","TNNT2, CMD1D, CMH2, CMPD2, LVNC6, RCM3, TnTC, cTnT","rectangle",455,437,46,17,NA,NA,NA,NA
+"40","ACTC1, ACTC, ASD5, CMD1R, CMH11, LVNC4","rectangle",399,500,46,17,NA,NA,NA,NA
+"41","TPM1, C15orf13, CMD1Y, CMH3, HEL-S-265, HTM-alpha, LVNC9, TMSA...","rectangle",424,483,46,17,NA,NA,NA,NA
+"42","MYH6, ASD3, CMD1EE, CMH14, MYHC, MYHCA, SSS3, alpha-MHC...","rectangle",399,554,46,17,NA,NA,NA,NA
+"43","Calcium signaling pathway","roundrectangle",483,181,117,34,NA,NA,NA,NA
+"45","TNNI3, CMD1FF, CMD2A, CMH7, RCM1, TNNC1, cTnI","rectangle",618,437,46,17,NA,NA,NA,NA
+"46","TNNT2, CMD1D, CMH2, CMPD2, LVNC6, RCM3, TnTC, cTnT","rectangle",696,437,46,17,NA,NA,NA,NA
+"47","ACTC1, ACTC, ASD5, CMD1R, CMH11, LVNC4","rectangle",648,500,46,17,NA,NA,NA,NA
+"48","TPM1, C15orf13, CMD1Y, CMH3, HEL-S-265, HTM-alpha, LVNC9, TMSA...","rectangle",673,483,46,17,NA,NA,NA,NA
+"49","MYH6, ASD3, CMD1EE, CMH14, MYHC, MYHCA, SSS3, alpha-MHC...","rectangle",648,554,46,17,NA,NA,NA,NA
+"69","SLC8A2, NCX2...","rectangle",765,355,46,17,NA,NA,NA,NA
+"70","SLC9A6, MRSA, MRXSCH, NDPACX, NHE6...","rectangle",830,355,46,17,"hsa:84679",NA,"SLC9A7",100
+"71","UQCR11, 0710008D09Rik, QCR10, UQCR...","rectangle",879,280,46,17,"hsa:1327;hsa:1337;hsa:1339;hsa:1340;hsa:1349;hsa:1351;hsa:1537;hsa:27089;hsa:7381;hsa:7384;hsa:7385;hsa:7386;hsa:84701;hsa:9377","7.1.1.8","COX4I1; COX4I2; COX5A; COX6A1; COX6A2; COX6B1; COX7B; COX8A; CYC1; UQCRB; UQCRC1; UQCRC2; UQCRFS1; UQCRQ",100
+"78","ATP1B4...","rectangle",752,140,46,17,NA,NA,NA,NA
+"83","SLC9A1, APNH, LIKNS, NHE-1, NHE1, PPP1R143","rectangle",820,141,46,17,NA,NA,NA,NA

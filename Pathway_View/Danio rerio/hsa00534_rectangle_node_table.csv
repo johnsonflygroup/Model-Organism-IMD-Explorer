@@ -1,0 +1,30 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"142","Glycosaminoglycan degradation","roundrectangle",1311,974,116,34,NA,NA
+"149","NDST1, HSST, MRT46, NST1...","rectangle",1312,776,46,17,"hsa:3340",100
+"15","EXTL2, EXTR2...","rectangle",1312,452,46,17,"hsa:2137",100
+"154","HS3ST5, 3-OST-5, 3OST5, HS3OST5, NBLA04021","rectangle",195,762,46,17,NA,NA
+"155","HS3ST3B1, 3-OST-3B, 3OST3B1, h3-OST-3B...","rectangle",947,941,46,17,NA,NA
+"157","HS3ST3B1, 3-OST-3B, 3OST3B1, h3-OST-3B...","rectangle",1088,942,46,17,NA,NA
+"170","B3GAT3, GLCATI, JDSCD, glcUAT-I","rectangle",1312,381,46,17,"hsa:26229",100
+"171","XYLT1, DBQD2, PXYLT1, XT-I, XT1, XTI, XYLTI, xylT-I...","rectangle",1312,170,46,17,"hsa:64131;hsa:64132",100
+"172","B4GALT7, EDSP1, EDSSLA, EDSSPD1, XGALT1, XGPT, XGPT1","rectangle",1312,240,46,17,"hsa:11285",100
+"175","B3GALT6, ALGAZ, EDSP2, EDSSPD2, SEMDJL1, beta3GalT6","rectangle",1312,309,46,17,"hsa:126792",100
+"19","TITLE:Glycosaminoglycan biosynthesis - heparan sulfate / heparin","roundrectangle",290,58,499,25,NA,NA
+"21","NDST1, HSST, MRT46, NST1...","rectangle",337,462,46,17,"hsa:3340",100
+"22","HS3ST2, 30ST2, 3OST2","rectangle",503,762,46,17,NA,NA
+"23","HS3ST1, 3OST, 3OST1","rectangle",337,762,46,17,NA,NA
+"24","HS6ST2, MRXSPM","rectangle",145,610,46,17,"hsa:90161",100
+"25","HS3ST1, 3OST, 3OST1","rectangle",145,762,46,17,NA,NA
+"31","HS3ST3B1, 3-OST-3B, 3OST3B1, h3-OST-3B...","rectangle",746,941,46,17,NA,NA
+"32","HS3ST2, 30ST2, 3OST2","rectangle",897,941,46,17,NA,NA
+"33","HS6ST1, HH15, HS6ST","rectangle",1063,799,46,17,"hsa:9394",100
+"34","GLCE, HSEPI","rectangle",568,511,46,17,NA,NA
+"44","HS2ST1, NFSRA, dJ604K5.2","rectangle",922,610,46,17,NA,NA
+"46","EXT1, EXT, LGCR, LGS, TRPS2, TTV...","rectangle",1312,520,46,17,"hsa:2131;hsa:2132",100
+"48","EXTL1, EXTL...","rectangle",1312,589,46,17,"hsa:2137",100
+"53","GLCE, HSEPI","rectangle",1312,850,46,17,NA,NA
+"62","HS2ST1, NFSRA, dJ604K5.2","rectangle",505,610,46,17,NA,NA
+"63","HS6ST1, HH15, HS6ST","rectangle",657,610,46,17,"hsa:9394",100
+"64","HS6ST3, HS6ST-3","rectangle",195,610,46,17,NA,NA
+"65","HS6ST3, HS6ST-3","rectangle",707,610,46,17,NA,NA
+"66","HS6ST3, HS6ST-3","rectangle",1113,799,46,17,NA,NA

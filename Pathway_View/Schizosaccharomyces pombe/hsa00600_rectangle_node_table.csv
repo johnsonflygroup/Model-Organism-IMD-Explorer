@@ -1,0 +1,66 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"124","SGMS2, CDL, SMS2...","rectangle",756,318,46,17,"hsa:166929",0
+"128","PSAP, GLBA, PARK24, PSAPD, SAP1, SAP2...","rectangle",583,542,46,17,"hsa:5660",0
+"131","K04709","rectangle",450,338,46,17,NA,NA
+"134","GAL3ST1, CST","rectangle",385,550,46,17,NA,NA
+"136","ARSA, ASA, MLD","rectangle",341,530,46,17,"hsa:410",0
+"140","B4GALNT1, GALGT, GALNACT, GalNAc-T, SPG26","rectangle",385,640,46,17,"hsa:2583",0
+"141","HEXA, TSD...","rectangle",341,620,46,17,"hsa:3073;hsa:3074",0
+"144","GLA, GALA","rectangle",281,550,46,17,"hsa:2717",100
+"147","GALC","rectangle",896,169,46,17,"hsa:2581",0
+"150","GBA1, GBA, GCB, GLUC...","rectangle",966,169,46,17,"hsa:57704",0
+"156","GLB1, EBP, ELNR1, MPS4B","rectangle",212,710,46,17,"hsa:2720",0
+"157","HEXA, TSD...","rectangle",212,626,46,17,"hsa:3073;hsa:3074",0
+"163","HEXA, TSD...","rectangle",143,626,46,17,"hsa:3073;hsa:3074",0
+"164","GLB1, EBP, ELNR1, MPS4B","rectangle",143,710,46,17,"hsa:2720",0
+"167","NEU3, SIAL3...","rectangle",212,550,46,17,"hsa:4758",0
+"169","HEXA, TSD...","rectangle",281,626,46,17,"hsa:3073;hsa:3074",0
+"172","GM2A, GM2-AP, GM2AP, SAP-3","rectangle",212,603,46,17,"hsa:2760",0
+"173","GM2A, GM2-AP, GM2AP, SAP-3","rectangle",143,603,46,17,"hsa:2760",0
+"176","UGT8, CGT, UGT4","rectangle",840,169,46,17,NA,NA
+"178","K28560","rectangle",307,427,46,17,NA,NA
+"181","K28561","rectangle",450,427,46,17,NA,NA
+"35","ACER3, APHC, PHCA, PLDECO","rectangle",450,405,46,17,"hsa:55331",0
+"36","K05848","rectangle",450,287,46,17,NA,NA
+"38","SGPP2, SPP2, SPPase2...","rectangle",756,504,46,17,NA,NA
+"39","SGPP2, SPP2, SPPase2...","rectangle",597,169,46,17,NA,NA
+"40","SGPP2, SPP2, SPPase2...","rectangle",307,213,46,17,NA,NA
+"41","ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME...","rectangle",450,384,46,17,"hsa:427",0
+"42","ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME...","rectangle",450,266,46,17,"hsa:427",0
+"43","CERS1, EPM8, GDF-1, GDF1, LAG1, LASS1, UOG1...","rectangle",450,359,46,17,"hsa:10715;hsa:204219;hsa:29956",100
+"44","DEGS2, C14orf66, DES2, FADS8...","rectangle",574,347,46,17,"hsa:8560",100
+"45","K04709","rectangle",450,229,46,17,NA,NA
+"46","DEGS2, C14orf66, DES2, FADS8...","rectangle",510,322,46,17,"hsa:8560",100
+"47","DEGS2, C14orf66, DES2, FADS8...","rectangle",388,322,46,17,"hsa:8560",100
+"48","ENPP7, ALK-SMase, E-NPP 7, NPP-7, NPP7...","rectangle",756,358,46,17,"hsa:55627;hsa:6609",0
+"49","CERS1, EPM8, GDF-1, GDF1, LAG1, LASS1, UOG1...","rectangle",600,263,46,17,"hsa:10715;hsa:204219;hsa:29956",100
+"51","SAMD8, HEL-177, SMSr...","rectangle",756,266,46,17,"hsa:166929",0
+"52","K01123","rectangle",815,399,46,17,NA,NA
+"53","CERK, LK4, dA59H18.2, dA59H18.3, hCERK","rectangle",756,439,46,17,NA,NA
+"54","PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A...","rectangle",756,483,46,17,NA,NA
+"55","PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A...","rectangle",547,169,46,17,NA,NA
+"56","PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A...","rectangle",256,213,46,17,NA,NA
+"61","Glycosphingolipid biosynthesis - ganglio series","roundrectangle",146,804,170,34,NA,NA
+"64","Glycosphingolipid biosynthesis - globo and isoglobo series","roundrectangle",352,804,170,34,NA,NA
+"65","Glycosphingolipid biosynthesis - lacto and neolacto series","roundrectangle",167,449,170,34,NA,NA
+"66","Glycine, serine and threonine metabolism","roundrectangle",166,166,126,34,NA,NA
+"67","SPTLC1, ALS27, HSAN1, HSN1, LBC1, LCB1, SPT1, SPTI...","rectangle",198,349,46,17,"hsa:10558;hsa:9517",100
+"68","KDSR, DHSR, EKVP4, FVT1, SDR35C1","rectangle",307,358,46,17,"hsa:2531",0
+"69","GAL3ST1, CST","rectangle",756,694,46,17,NA,NA
+"70","GLA, GALA","rectangle",649,634,46,17,"hsa:2717",100
+"71","GAL3ST1, CST","rectangle",756,587,46,17,NA,NA
+"72","NEU3, SIAL3...","rectangle",601,586,46,17,"hsa:4758",0
+"73","UGT8, CGT, UGT4","rectangle",694,536,46,17,NA,NA
+"74","GLB1, EBP, ELNR1, MPS4B","rectangle",450,506,46,17,"hsa:2720",0
+"75","GBA1, GBA, GCB, GLUC...","rectangle",583,493,49,17,"hsa:57704",0
+"76","UGCG, GCS, GLCT1","rectangle",580,439,46,17,"hsa:7357",0
+"77","ACER1, ALKCDase1, ASAH3...","rectangle",672,244,46,17,"hsa:427",0
+"80","SPHK2, SK 2, SK-2, SPK 2, SPK-2...","rectangle",672,169,46,17,NA,NA
+"81","SPHK2, SK 2, SK-2, SPK 2, SPK-2...","rectangle",362,213,46,17,NA,NA
+"82","SGPL1, NPHS14, RENI, S1PL, SPL","rectangle",583,120,46,17,"hsa:8879",0
+"83","SGPL1, NPHS14, RENI, S1PL, SPL","rectangle",450,129,46,17,"hsa:8879",0
+"85","GALC","rectangle",648,514,46,17,"hsa:2581",0
+"86","TITLE:Sphingolipid metabolism","roundrectangle",147,58,214,25,NA,NA
+"87","K01130","rectangle",756,612,46,17,NA,NA
+"88","ARSA, ASA, MLD","rectangle",756,633,46,17,"hsa:410",0
+"89","B4GALT6, B4Gal-T6, beta4Gal-T6...","rectangle",450,486,46,17,NA,NA

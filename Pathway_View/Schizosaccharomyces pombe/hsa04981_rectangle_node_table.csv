@@ -1,0 +1,49 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"104","SLC19A1, CHMD, FOLT, IFC-1, IFC1, IMD114, MEGAF, REFC, RFC, RFC1, RFT-1, hRFC, hSLC19A1","rectangle",813,489,46,17,"hsa:6573",0
+"105","ST20-MTHFS, MTHFS...","rectangle",411,364,46,17,"hsa:10588",100
+"109","MTHFR","rectangle",493,450,46,17,"hsa:4524",100
+"110","MTHFD1, CIMAH, MTHFC, MTHFD","rectangle",493,380,46,17,"hsa:4522",100
+"114","ABCC2, ABC30, CMOAT, DJS, MRP2, cMRP","rectangle",249,630,46,17,"hsa:1244",100
+"115","SLCO2B1, OATP-B, OATP2B1, OATPB, SLC21A9","rectangle",251,605,46,17,NA,NA
+"119","ABCC1, ABC29, ABCC, DFNA77, GS-X, MRP, MRP1","rectangle",703,605,46,17,NA,NA
+"120","SHMT1, CSHMT, SHMT...","rectangle",1026,404,46,17,"hsa:6472",100
+"122","SLCO1B1, HBLRR, LST-1, LST1, OATP-C, OATP1B1, OATP2, OATPC, SLC21A6...","rectangle",813,580,46,17,NA,NA
+"123","SLC19A1, CHMD, FOLT, IFC-1, IFC1, IMD114, MEGAF, REFC, RFC, RFC1, RFT-1, hRFC, hSLC19A1","rectangle",693,1219,46,17,"hsa:6573",0
+"144","One carbon pool by folate","roundrectangle",495,279,140,25,NA,NA
+"145","Antifolate resistance","roundrectangle",1118,613,130,25,NA,NA
+"25","TITLE:Folate transport and metabolism","roundrectangle",195,58,310,25,NA,NA
+"317","DHFR, DHFR1, DHFRP1, DYR...","rectangle",936,404,46,17,"hsa:1719",0
+"318","ABCG2, ABC15, ABCP, BCRP, BCRP1, BMDP, CD338, CDw338, CDw388, EST157481, GOUT1, MRX, MXR, MXR-1, MXR1, UAQTL1","rectangle",250,653,46,17,NA,NA
+"331","ABCC5, ABC33, EST277145, MOAT-C, MOATC, MRP5, SMRP, pABC11...","rectangle",703,489,46,17,NA,NA
+"332","SLC19A1, CHMD, FOLT, IFC-1, IFC1, IMD114, MEGAF, REFC, RFC, RFC1, RFT-1, hRFC, hSLC19A1","rectangle",249,489,46,17,"hsa:6573",0
+"333","FOLH1, FGCP, FOLH, GCP2, GCPII, NAALAD1, PSM, PSMA, mGCP","rectangle",82,351,46,17,NA,NA
+"335","Folate biosynthesis","roundrectangle",85,256,110,25,NA,NA
+"340","SLC46A1, G21, HCP1, HsPCFT, PCFT, hPCFT","rectangle",248,340,46,17,"hsa:113235",0
+"352","SLC46A1, G21, HCP1, HsPCFT, PCFT, hPCFT","rectangle",813,340,46,17,"hsa:113235",0
+"366","ABCC2, ABC30, CMOAT, DJS, MRP2, cMRP","rectangle",883,695,46,17,"hsa:1244",100
+"368","ABCG2, ABC15, ABCP, BCRP, BCRP1, BMDP, CD338, CDw338, CDw388, EST157481, GOUT1, MRX, MXR, MXR-1, MXR1, UAQTL1","rectangle",939,695,46,17,NA,NA
+"369","SLCO2B1, OATP-B, OATP2B1, OATPB, SLC21A9","rectangle",813,605,46,17,NA,NA
+"375","MTHFR","rectangle",1122,404,46,17,"hsa:4524",100
+"380","ABCC4, MOAT-B, MOATB, MRP4...","rectangle",1215,340,46,17,NA,NA
+"388","FOLR1, FBP, FOLR, FRalpha, NCFTD...","rectangle",244,1059,46,17,"hsa:2348",0
+"390","SLC46A1, G21, HCP1, HsPCFT, PCFT, hPCFT","rectangle",547,1089,46,17,"hsa:113235",0
+"391","ABCC5, ABC33, EST277145, MOAT-C, MOATC, MRP5, SMRP, pABC11...","rectangle",245,1319,46,17,NA,NA
+"392","ABCG2, ABC15, ABCP, BCRP, BCRP1, BMDP, CD338, CDw338, CDw388, EST157481, GOUT1, MRX, MXR, MXR-1, MXR1, UAQTL1","rectangle",693,1269,46,17,NA,NA
+"393","FOLR1, FBP, FOLR, FRalpha, NCFTD...","rectangle",693,1059,46,17,"hsa:2348",0
+"394","FOLR1, FBP, FOLR, FRalpha, NCFTD...","rectangle",502,1059,46,17,"hsa:2348",0
+"395","SLC22A6, HOAT1, OAT1, PAHT, ROAT1...","rectangle",693,1319,46,17,NA,NA
+"396","Endocytosis","roundrectangle",302,931,72,25,NA,NA
+"401","SLC46A1, G21, HCP1, HsPCFT, PCFT, hPCFT","rectangle",243,1145,46,17,"hsa:113235",0
+"409","MTHFR","rectangle",105,1084,46,17,"hsa:4524",100
+"424","TYMS, DKCD, HST422, TMS, TS","rectangle",996,456,46,17,"hsa:7298",100
+"431","Pyrimidine metabolism","roundrectangle",1118,554,130,25,NA,NA
+"437","FOLR1, FBP, FOLR, FRalpha, NCFTD...","rectangle",362,1059,46,17,"hsa:2348",0
+"465","BHMT2...","rectangle",1228,1066,46,17,NA,NA
+"466","MTR, HMAG, MS, cblG","rectangle",1228,1096,46,17,"hsa:4548",0
+"473","FOLR1, FBP, FOLR, FRalpha, NCFTD...","rectangle",801,1098,46,17,"hsa:2348",0
+"479","One carbon pool by folate","roundrectangle",1030,1254,140,25,NA,NA
+"481","Cholinergic synapse","roundrectangle",1191,932,120,25,NA,NA
+"487","MTHFD1, CIMAH, MTHFC, MTHFD","rectangle",105,1108,46,17,"hsa:4522",100
+"488","ST20-MTHFS, MTHFS...","rectangle",105,1132,46,17,"hsa:10588",100
+"490","FPGS","rectangle",965,303,46,17,NA,NA
+"491","FPGS","rectangle",1026,580,46,17,NA,NA

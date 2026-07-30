@@ -1,0 +1,115 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","CKB, B-CK, BCK, CKBB, CPK-B, HEL-211, HEL-S-29...","rectangle",507,201,46,17,NA,NA
+"101","K08687","rectangle",507,281,46,17,NA,NA
+"103","K01473...","rectangle",639,281,46,17,NA,NA
+"104","K01485...","rectangle",701,235,46,17,NA,NA
+"105","K01470","rectangle",572,163,46,17,NA,NA
+"109","Cysteine and methionine metabolism","roundrectangle",1017,594,135,34,NA,NA
+"110","Tropane, piperidine and pyridine alkaloid biosynthesis","roundrectangle",792,589,163,34,NA,NA
+"113","K13747","rectangle",850,778,46,17,NA,NA
+"114","K13746","rectangle",850,722,46,17,NA,NA
+"115","K13746","rectangle",773,722,46,17,NA,NA
+"117","K13747","rectangle",773,778,46,17,NA,NA
+"120","Glycine, serine and threonine metabolism","roundrectangle",669,669,70,34,NA,NA
+"126","AZIN2, ADC, AZI2, AZIB1, ODC-p, ODC1L, ODCp","rectangle",286,402,46,17,NA,NA
+"127","K01480","rectangle",329,622,46,17,NA,NA
+"128","K10536","rectangle",354,466,46,17,NA,NA
+"129","K12251","rectangle",530,466,46,17,NA,NA
+"132","K14329","rectangle",536,524,46,17,NA,NA
+"136","K14329","rectangle",536,587,46,17,NA,NA
+"138","CNDP1, CN1, CPGL2, HsT2308","rectangle",703,946,46,17,"hsa:84735",100
+"139","K13366","rectangle",808,825,46,17,NA,NA
+"141","SMOX, C20orf16, PAO, PAO-1, PAO1, PAOH, PAOH1, SMO","rectangle",1053,870,46,17,NA,NA
+"142","K17839...","rectangle",1053,891,46,17,NA,NA
+"144","K17839...","rectangle",923,722,46,17,NA,NA
+"150","K00296","rectangle",322,301,46,17,NA,NA
+"151","K23233","rectangle",274,301,46,17,NA,NA
+"152","K00934","rectangle",389,310,46,17,NA,NA
+"153","NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS...","rectangle",344,363,46,17,NA,NA
+"154","NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS...","rectangle",471,385,46,17,NA,NA
+"155","K00491","rectangle",394,363,46,17,NA,NA
+"156","K00491","rectangle",471,406,46,17,NA,NA
+"157","Glycine, serine and threonine metabolism","roundrectangle",1320,681,120,34,NA,NA
+"159","Alanine, aspartate and glutamate metabolism","roundrectangle",941,119,133,34,NA,NA
+"160","K00673","rectangle",197,218,46,17,NA,NA
+"162","K01484","rectangle",197,157,46,17,NA,NA
+"163","K00840","rectangle",302,121,46,17,NA,NA
+"164","K06447","rectangle",520,119,46,17,NA,NA
+"165","K05526","rectangle",684,119,46,17,NA,NA
+"172","OAT, GACR, HOGA, OATASE, OKT","rectangle",695,330,46,17,"hsa:4942",100
+"173","PYCR2, HLD10, P5CR2...","rectangle",938,329,46,17,"hsa:29920;hsa:5831",100
+"174","PRODH, HSPOX2, PIG6, POX, PRODH1, PRODH2, TP53I6","rectangle",938,300,46,17,"hsa:5625",100
+"175","ALDH4A1, ALDH4, P5CD, P5CDh","rectangle",824,204,46,17,"hsa:8659",100
+"176","ALDH18A1, ADCL3, ARCL3A, GSAS, P5CS, PYCS, SPG9, SPG9A, SPG9B","rectangle",767,169,46,17,"hsa:5832",100
+"177","ALDH18A1, ADCL3, ARCL3A, GSAS, P5CS, PYCS, SPG9, SPG9A, SPG9B","rectangle",768,269,46,17,"hsa:5832",100
+"179","K01750...","rectangle",807,405,46,17,NA,NA
+"204","P4HA3...","rectangle",1080,330,46,17,NA,NA
+"205","PRODH2, HSPOX1, HYPDH","rectangle",1180,329,46,17,"hsa:58510",0
+"206","PYCR2, HLD10, P5CR2...","rectangle",1180,301,46,17,"hsa:29920;hsa:5831",100
+"207","ALDH4A1, ALDH4, P5CD, P5CDh","rectangle",1232,375,46,17,"hsa:8659",100
+"208","ALDH4A1, ALDH4, P5CD, P5CDh","rectangle",1301,375,46,17,"hsa:8659",100
+"209","GOT1L1...","rectangle",1233,455,46,17,"hsa:2806",100
+"210","K00824","rectangle",1207,474,46,17,NA,NA
+"212","HOGA1, C10orf65, DHDPS2, DHDPSL, HP3, NPL2","rectangle",1232,563,46,17,"hsa:112817",0
+"214","Citrate cycle (TCA cycle)","roundrectangle",1300,644,77,25,NA,NA
+"215","Glyoxylate and dicarboxylate metabolism","roundrectangle",1235,726,141,34,NA,NA
+"223","K01777","rectangle",1010,446,46,17,NA,NA
+"224","K19743","rectangle",938,421,46,17,NA,NA
+"225","DAO, DAAO, DAMOX, OXDA","rectangle",938,467,46,17,NA,NA
+"226","K21672","rectangle",985,513,46,17,NA,NA
+"227","K10793...","rectangle",1035,513,46,17,NA,NA
+"229","Lysine degradation","roundrectangle",1138,553,111,25,NA,NA
+"230","K17851","rectangle",938,488,46,17,NA,NA
+"232","L3HYPDH, C14orf149","rectangle",799,478,46,17,NA,NA
+"233","LAP3, HEL-S-106, LAP, LAPEP, PEPS","rectangle",1047,373,46,17,NA,NA
+"235","Arginine biosynthesis","roundrectangle",76,329,80,34,NA,NA
+"236","ODC1, BABS, NEDBA, NEDBIA, ODC","rectangle",622,425,46,17,"hsa:4953",100
+"238","K19742","rectangle",938,442,46,17,NA,NA
+"24","TITLE:Arginine and proline metabolism","roundrectangle",187,58,293,25,NA,NA
+"240","Butanoate metabolism","roundrectangle",621,996,122,25,NA,NA
+"243","K21624...","rectangle",799,528,46,17,NA,NA
+"244","K21639","rectangle",167,432,46,17,NA,NA
+"247","Arginine biosynthesis","roundrectangle",885,378,125,25,NA,NA
+"248","K22842","rectangle",768,351,46,17,NA,NA
+"250","K23121","rectangle",1004,275,46,17,NA,NA
+"329","Pantothenate and CoA biosynthesis","roundrectangle",1180,776,105,34,NA,NA
+"333","K24954...","rectangle",239,273,46,17,NA,NA
+"334","K24952...","rectangle",239,243,46,17,NA,NA
+"336","D-Amino acid metabolism","roundrectangle",1127,224,86,34,NA,NA
+"337","K27545...","rectangle",481,340,46,17,NA,NA
+"342","K27502","rectangle",282,879,46,17,NA,NA
+"343","K27684","rectangle",473,1022,46,17,NA,NA
+"345","K27683","rectangle",970,947,46,17,NA,NA
+"47","ARG1...","rectangle",481,319,46,17,"hsa:383",100
+"48","K12252","rectangle",117,432,46,17,NA,NA
+"49","K12253","rectangle",142,580,46,17,NA,NA
+"50","K12254","rectangle",142,791,46,17,NA,NA
+"51","AGMAT","rectangle",245,936,46,17,NA,NA
+"52","GATM, AGAT, AT, CCDS3, FRTS, FRTS1, RFS","rectangle",413,964,46,17,"hsa:2628",0
+"53","K01426","rectangle",197,791,46,17,NA,NA
+"55","K09470","rectangle",365,655,46,17,NA,NA
+"56","K09471","rectangle",365,733,46,17,NA,NA
+"57","K09472","rectangle",365,814,46,17,NA,NA
+"58","K09473","rectangle",365,889,46,17,NA,NA
+"59","K03343","rectangle",541,711,46,17,NA,NA
+"61","K12256","rectangle",646,764,46,17,NA,NA
+"62","AOC1, ABP, ABP1, DAO, DAO1, KAO, KDAO","rectangle",621,745,46,17,NA,NA
+"63","K09251","rectangle",596,764,46,17,NA,NA
+"64","K12254","rectangle",646,882,46,17,NA,NA
+"65","K00137","rectangle",596,882,46,17,NA,NA
+"66","ALDH2, ALDH-E2, ALDHI, ALDM...","rectangle",621,863,46,17,"hsa:219;hsa:224;hsa:501",100
+"67","SRM, PAPT, SPDSY, SPS1, SRML1","rectangle",973,795,46,17,NA,NA
+"68","AMD1, ADOMETDC, AMD, SAMDC","rectangle",1016,704,46,17,NA,NA
+"69","SMS, MRSR, MRXSSR, SPMSY, SRS, SpS","rectangle",1054,836,46,17,"hsa:6611",0
+"70","SAT2, SSAT-2, SSAT2...","rectangle",431,655,46,17,"hsa:6303",100
+"72","MAOA, BRNRS, MAO-A...","rectangle",456,733,46,17,"hsa:4128",100
+"73","ALDH2, ALDH-E2, ALDHI, ALDM...","rectangle",456,814,46,17,"hsa:219;hsa:224;hsa:501",100
+"75","Alanine, aspartate and glutamate metabolism","roundrectangle",832,963,133,34,NA,NA
+"78","Glutathione metabolism","roundrectangle",1169,894,79,34,NA,NA
+"80","CARNS1, ATPGD1","rectangle",703,901,46,17,NA,NA
+"81","CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA","rectangle",703,925,46,17,NA,NA
+"83","beta-Alanine metabolism","roundrectangle",1246,835,74,34,NA,NA
+"85","K00316","rectangle",808,846,46,17,NA,NA
+"97","GATM, AGAT, AT, CCDS3, FRTS, FRTS1, RFS","rectangle",352,243,46,17,"hsa:2628",0
+"98","GAMT, CCDS2, HEL-S-20, PIG2, TP53I2","rectangle",393,201,46,17,"hsa:2593",0
+"99","K08688","rectangle",441,235,46,17,NA,NA

@@ -1,0 +1,69 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"103","PAK1, IDDMSSD, PAKalpha, alpha-PAK, p65-PAK","rectangle",868,487,46,17,NA,NA,NA,NA
+"108","STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91...","rectangle",564,129,46,17,"hsa:6773",NA,"STAT2",0
+"109","MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, NS13, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK...","rectangle",858,205,46,17,NA,NA,NA,NA
+"110","AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...","rectangle",647,300,46,17,"hsa:208","2.7.11.1","AKT2",0
+"111","HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras...","rectangle",651,205,46,17,NA,NA,NA,NA
+"112","MAP2K1, CFC3, MAPKK1, MEK1, MEL, MKK1, PRKMK1","rectangle",789,205,46,17,NA,NA,NA,NA
+"114","RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf...","rectangle",720,205,46,17,NA,NA,NA,NA
+"116","Ubiquitin mediated proteolysis","roundrectangle",860,363,102,34,NA,NA,NA,NA
+"117","DOCK2, IMD40","rectangle",605,433,46,17,NA,NA,NA,NA
+"118","RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1...","rectangle",767,432,46,17,NA,NA,NA,NA
+"119","PRKCZ, PKC-ZETA, PKC2","rectangle",647,264,46,17,NA,NA,NA,NA
+"12","PTK2, FADK, FADK 1, FAK, FAK1, FRNK, PPP1R71, p125FAK, pp125FAK","rectangle",474,674,46,17,NA,NA,NA,NA
+"121","NFKB1, CVID12, EBP-1, KBF1, NF-kB, NF-kB1, NF-kappa-B1, NF-kappaB, NF-kappabeta, NFKB-p105, NFKB-p50, NFkappaB...","rectangle",858,266,46,17,NA,NA,NA,NA
+"122","CHUK, BPS2, IKBKA, IKK-1, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16...","rectangle",772,300,46,17,NA,NA,NA,NA
+"123","NFKBIA, EDAID2, IKBA, MAD-3, NFKBI...","rectangle",858,300,46,17,NA,NA,NA,NA
+"13","FGR, SRC2, c-fgr, c-src2, p55-Fgr, p55c-fgr, p58-Fgr, p58c-fgr...","rectangle",355,300,46,17,NA,NA,NA,NA
+"132","MAPK signaling pathway","roundrectangle",694,166,101,34,NA,NA,NA,NA
+"135","PREX1, P-REX1","rectangle",605,386,46,17,NA,NA,NA,NA
+"137","SOS1, GF1, GGF1, GINGF, HGF, NS4, SOS-1...","rectangle",582,205,46,17,NA,NA,NA,NA
+"138","FOXO3, AF6q21, FKHRL1, FKHRL1P2, FOXO2, FOXO3A","rectangle",858,240,46,17,NA,NA,NA,NA
+"139","GSK3A...","rectangle",772,378,46,17,NA,NA,NA,NA
+"14","PXN","rectangle",646,661,46,17,NA,NA,NA,NA
+"150","TITLE:Chemokine signaling pathway","roundrectangle",180,58,280,25,NA,NA,NA,NA
+"152","PTK2, FADK, FADK 1, FAK, FAK1, FRNK, PPP1R71, p125FAK, pp125FAK","rectangle",766,810,46,17,NA,NA,NA,NA
+"153","CRK, CRKII, p38...","rectangle",766,827,46,17,NA,NA,NA,NA
+"154","BCAR1, CAS, CAS1, CASS1, CRKAS, P130Cas","rectangle",812,810,46,17,NA,NA,NA,NA
+"155","PXN","rectangle",812,827,46,17,NA,NA,NA,NA
+"156","PTK2B, CADTK, CAKB, FADK2, FAK2, PKB, PTK, PYK2, RAFTK","rectangle",675,819,46,17,NA,NA,NA,NA
+"16","RHOA, ARH12, ARHA, EDFAOB, RHO12, RHOH12","rectangle",757,626,46,17,NA,NA,NA,NA
+"161","BAD, BBC2, BCL2L8","rectangle",772,343,46,17,NA,NA,NA,NA
+"164","PIK3R6, C17orf38, HsT41028, p84 PIKAP, p87(PIKAP), p87PIKAP...","rectangle",445,313,46,17,"hsa:23533",NA,"PIK3R5",0
+"165","GNAQ, CMAL, CMC1, G-ALPHA-q, GAQ, SWS","rectangle",273,537,46,17,NA,NA,NA,NA
+"166",NA,"rectangle",605,441,46,34,NA,NA,NA,NA
+"167",NA,"rectangle",749,500,46,51,NA,NA,NA,NA
+"168",NA,"rectangle",789,818,92,34,NA,NA,NA,NA
+"17","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",445,289,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296","2.7.1.153","PIK3CA; PIK3CD; PIK3R1; PIK3R2",0
+"18","PLCB1, DEE12, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B...","rectangle",363,752,46,17,"hsa:23236;hsa:5331;hsa:5332;hsa:5336","3.1.4.11","PLCB1; PLCB3; PLCB4; PLCG2",0
+"28","Leukocyte transendothelial migration","roundrectangle",1119,486,140,34,NA,NA,NA,NA
+"29","SHC2, SCK, SHCB, SLI...","rectangle",444,205,46,17,NA,NA,NA,NA
+"31","GNAI1, Gi, HG1B, NEDHISB...","rectangle",276,300,46,17,NA,NA,NA,NA
+"32","GNB5, GB5, HG2E, IDDCA, LADCI, LDMLS1, LDMLS2, gbeta5...","rectangle",276,368,46,17,NA,NA,NA,NA
+"39","GRB2, ASH, EGFRBP-GRB2, Grb3-3, MST084, MSTP084, NCKAP2","rectangle",513,205,46,17,NA,NA,NA,NA
+"44","BCAR1, CAS, CAS1, CASS1, CRKAS, P130Cas","rectangle",576,685,46,17,NA,NA,NA,NA
+"46","ELMO1, CED-12, CED12, ELMO-1","rectangle",605,450,46,17,NA,NA,NA,NA
+"47","CRK, CRKII, p38...","rectangle",646,686,46,17,NA,NA,NA,NA
+"49","GRK7, GPRK7...","rectangle",247,596,46,17,NA,NA,NA,NA
+"5","CXCR6, BONZO, CD186, CDw186, STRL33, TYMSTR...","rectangle",160,334,46,17,NA,NA,NA,NA
+"50","ARRB1, ARB1, ARR1...","rectangle",231,622,46,17,NA,NA,NA,NA
+"54","ROCK1, P160ROCK, ROCK-I...","rectangle",829,626,46,17,NA,NA,NA,NA
+"58","JAK-STAT signaling pathway","roundrectangle",478,100,109,34,NA,NA,NA,NA
+"59","VAV3...","rectangle",595,560,46,17,NA,NA,NA,NA
+"6","CCL26, IMAC, MIP-4a, MIP-4alpha, SCYA26, TSC-1...","rectangle",93,334,46,17,NA,NA,NA,NA
+"61","ITK, EMT, LPFS1, LYK, PSCTK2","rectangle",524,560,46,17,NA,NA,NA,NA
+"64","CDC42, CDC42Hs, G25K, TKS","rectangle",734,560,46,17,NA,NA,NA,NA
+"68","ADCY1, AC1, DFNB44...","rectangle",291,249,46,17,NA,NA,NA,NA
+"7","JAK2, JTK10...","rectangle",305,129,46,17,NA,NA,NA,NA
+"70","RASGRP2, CALDAG-GEFI, CDC25L","rectangle",576,752,46,17,NA,NA,NA,NA
+"71","RAP1A, C21KG, G-22K, KREV-1, KREV1, RAP1, SMGP21...","rectangle",668,752,46,17,NA,NA,NA,NA
+"75","WAS, IMD2, SCNX, THC, THC1, WASP, WASPA","rectangle",822,560,46,17,NA,NA,NA,NA
+"79","PRKCB, PKC-beta, PKCB, PKCI(2), PKCbeta, PRKCB1, PRKCB2...","rectangle",576,819,46,17,NA,NA,NA,NA
+"8","Regulation of actin cytoskeleton","roundrectangle",983,486,101,34,NA,NA,NA,NA
+"81","PARD3, ASIP, Baz, PAR3, PAR3alpha, PARD-3, PARD3A, PPP1R118, SE2-5L16, SE2-5LT1, SE2-5T2","rectangle",749,500,46,17,NA,NA,NA,NA
+"82","PRKCZ, PKC-ZETA, PKC2","rectangle",749,517,46,17,NA,NA,NA,NA
+"83","TIAM1, NEDLDS, TIAM-1","rectangle",749,483,46,17,NA,NA,NA,NA
+"86","NCF1, CGD1, NCF-1, NCF-47K, NCF1A, NOXO2, SH3PXD1A, p47-phox, p47phox","rectangle",675,856,46,17,NA,NA,NA,NA
+"9","Cytokine-cytokine receptor interaction","roundrectangle",105,292,145,34,NA,NA,NA,NA
+"91","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",350,169,46,17,NA,NA,NA,NA
+"99","PTK2B, CADTK, CAKB, FADK2, FAK2, PKB, PTK, PYK2, RAFTK","rectangle",523,620,46,17,NA,NA,NA,NA

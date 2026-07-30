@@ -1,0 +1,58 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"103","CREB3, LUMAN, LZIP, sLZIP...","rectangle",1158,522,46,17,NA,NA,NA,NA
+"104","PPP1R1B, DARPP-32, DARPP32","rectangle",1158,589,46,17,NA,NA,NA,NA
+"105","MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA...","rectangle",1158,553,46,17,NA,NA,NA,NA
+"112","TH, DYT14, DYT5b, TYH","rectangle",156,466,46,17,"hsa:7054","1.14.16.2","TH",0
+"115","DRD1, D1R, DADR, DRD1A","rectangle",753,474,46,17,NA,NA,NA,NA
+"116","DRD3, D3DR, ETM1, FET1...","rectangle",753,762,46,17,NA,NA,NA,NA
+"117","MAOA, BRNRS, MAO-A...","rectangle",504,765,46,17,"hsa:4128","1.4.3.4","MAOA",0
+"118","TOMT, COMT2...","rectangle",504,792,46,17,NA,NA,NA,NA
+"123","FOS, AP-1, C-FOS, p55","rectangle",1263,553,46,17,NA,NA,NA,NA
+"125","DRD2, D2DR, D2R","rectangle",466,318,46,17,NA,NA,NA,NA
+"129","Tyrosine metabolism","roundrectangle",186,510,92,34,NA,NA,NA,NA
+"132","TOMT, COMT2...","rectangle",670,170,46,17,NA,NA,NA,NA
+"133","TOMT, COMT2...","rectangle",571,93,46,17,NA,NA,NA,NA
+"134","MAOA, BRNRS, MAO-A...","rectangle",544,153,46,17,"hsa:4128","1.4.3.4","MAOA",0
+"145","PPP3CA, ACCIID, CALN, CALNA, CALNA1, CCN1, CNA1, DEE91, IECEE, IECEE1, PPP2B...","rectangle",1253,458,46,17,NA,NA,NA,NA
+"146","CAMK2A, CAMKA, CaMKIINalpha, CaMKIIalpha, MRD53, MRT63...","rectangle",1253,425,46,17,NA,NA,NA,NA
+"148","ARRB1, ARB1, ARR1...","rectangle",863,796,46,17,NA,NA,NA,NA
+"149","PPP2R3B, NYREN8, PPP2R3L, PPP2R3LY, PR48, PR70...","rectangle",863,813,46,17,NA,NA,NA,NA
+"153","PPP1CA, PP-1A, PP1A, PP1alpha, PPP1A...","rectangle",1081,588,46,17,NA,NA,NA,NA
+"155","Synaptic vesicle cycle","roundrectangle",431,558,92,34,NA,NA,NA,NA
+"159","DRD2, D2DR, D2R","rectangle",624,721,46,17,NA,NA,NA,NA
+"162","CACNA1A, APCA, BI, CACNL1A4, CAV2.1, DEE42, EA2, EIEE42, FHM, HPCA, MHP, MHP1, SCA6...","rectangle",753,690,46,17,NA,NA,NA,NA
+"163","KCNJ3, GIRK1, KGA, KIR3.1...","rectangle",753,725,46,17,NA,NA,NA,NA
+"17","TITLE:Dopaminergic synapse","roundrectangle",146,58,212,25,NA,NA,NA,NA
+"171","SCN1A, DEE6, DEE6A, DEE6B, DRVT, EIEE6, FEB3, FEB3A, FHM3, GEFSP2, HBSCI, NAC1, Nav1.1, SCN1, SMEI","rectangle",753,607,46,17,NA,NA,NA,NA
+"178","Calcium signaling pathway","roundrectangle",925,397,108,34,NA,NA,NA,NA
+"179","CALML6, CAGLP...","rectangle",1159,441,46,17,NA,NA,NA,NA
+"181","CACNA1C, CACH2, CACN2, CACNA1C-IT2, CACNL1A1, CCHL1A1, CaV1.2, LQT8, NEDHLSS, TS, TS. LQT8...","rectangle",753,658,46,17,NA,NA,NA,NA
+"192","KIF5A, ALS25, D12S1889, MY050, NEIMY, NKHC, SPG10...","rectangle",1119,756,46,17,"hsa:3798;hsa:3800","5.6.1.3","KIF5A; KIF5C",0
+"193","CLOCK, KAT13D, bHLHe8","rectangle",1119,787,46,17,NA,NA,NA,NA
+"194","BMAL1, ARNTL, ARNTL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5","rectangle",1119,804,46,17,NA,NA,NA,NA
+"195","GRIA1, GLUH1, GLUR1, GLURA, GluA1, HBGR1, MRD67, MRT76...","rectangle",1119,739,46,17,"hsa:2891;hsa:2892;hsa:2893",NA,"GRIA2; GRIA3; GRIA4",0
+"196","GRIN2A, EPND, FESD, GluN2A, LKS, NMDAR2A, NR2A...","rectangle",1119,702,46,17,"hsa:2903;hsa:2904",NA,"GRIN2A; GRIN2B",0
+"208","Glutamatergic synapse","roundrectangle",1221,709,92,34,NA,NA,NA,NA
+"217","CALY, DRD1IP, NSG3","rectangle",846,438,46,17,NA,NA,NA,NA
+"218",NA,"rectangle",863,804,46,34,NA,NA,NA,NA
+"219",NA,"rectangle",1119,747,46,34,NA,NA,NA,NA
+"220",NA,"rectangle",1119,795,46,34,NA,NA,NA,NA
+"24","DRD5, DBDR, DRD1B, DRD1L2","rectangle",753,535,46,17,NA,NA,NA,NA
+"26","SLC6A3, DAT, DAT1, PKDYS, PKDYS1","rectangle",716,219,46,17,"hsa:6531",NA,"SLC6A3",0
+"29","SLC18A1, CGAT, VAT1, VMAT1...","rectangle",243,550,46,17,"hsa:6571",NA,"SLC18A2",0
+"34","GNAL, DYT25, HG1O...","rectangle",847,535,46,17,NA,NA,NA,NA
+"35","ADCY5, AC5, DSKOD, FDFM","rectangle",959,535,46,17,NA,NA,NA,NA
+"36","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",1081,535,46,17,NA,NA,NA,NA
+"37","GNAQ, CMAL, CMC1, G-ALPHA-q, GAQ, SWS","rectangle",847,474,46,17,NA,NA,NA,NA
+"38","PLCB1, DEE12, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B...","rectangle",925,474,46,17,"hsa:23236;hsa:5331;hsa:5332","3.1.4.11","PLCB1; PLCB3; PLCB4",0
+"50","ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29...","rectangle",1043,422,46,17,"hsa:3708;hsa:3709",NA,"ITPR1; ITPR2",0
+"53","PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA...","rectangle",1159,490,46,17,NA,NA,NA,NA
+"56","Parkinson disease","roundrectangle",195,674,92,34,NA,NA,NA,NA
+"58","DDC, AADC","rectangle",155,570,46,17,"hsa:1644","4.1.1.105; 4.1.1.28","DDC",0
+"59","MAOA, BRNRS, MAO-A...","rectangle",683,109,46,17,"hsa:4128","1.4.3.4","MAOA",0
+"60","SLC6A3, DAT, DAT1, PKDYS, PKDYS1","rectangle",624,781,46,17,"hsa:6531",NA,"SLC6A3",0
+"69","CACNA1A, APCA, BI, CACNL1A4, CAV2.1, DEE42, EA2, EIEE42, FHM, HPCA, MHP, MHP1, SCA6...","rectangle",624,493,46,17,NA,NA,NA,NA
+"92","DRD2, D2DR, D2R","rectangle",753,802,46,17,NA,NA,NA,NA
+"93","GNB5, GB5, HG2E, IDDCA, LADCI, LDMLS1, LDMLS2, gbeta5...","rectangle",863,762,46,17,NA,NA,NA,NA
+"97","AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...","rectangle",945,805,46,17,"hsa:208","2.7.11.1","AKT2",0
+"98","GSK3A...","rectangle",1016,805,46,17,NA,NA,NA,NA

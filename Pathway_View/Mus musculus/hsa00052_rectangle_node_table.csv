@@ -1,0 +1,67 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","K04618","rectangle",346,116,46,17,NA,NA
+"101","G6PC1, G6PC, G6PT, G6Pase, GSD1, GSD1a...","rectangle",407,457,46,17,"hsa:92579",100
+"102","K01819","rectangle",517,766,46,17,NA,NA
+"103","K02744...","rectangle",867,581,46,17,NA,NA
+"104","K02079","rectangle",867,673,46,17,NA,NA
+"105","K02082","rectangle",927,720,46,17,NA,NA
+"116","K02744...","rectangle",814,673,46,17,NA,NA
+"117","GLA, GALA","rectangle",686,657,46,17,"hsa:2717",100
+"119","Amino sugar and nucleotide sugar metabolism","roundrectangle",192,240,155,34,NA,NA
+"163","SI","rectangle",790,503,46,17,"hsa:6476",100
+"164","K18127","rectangle",864,162,46,17,NA,NA
+"166","K11395","rectangle",864,253,46,17,NA,NA
+"167","K05308","rectangle",672,162,46,17,NA,NA
+"168","K11395","rectangle",864,141,46,17,NA,NA
+"169","K18126","rectangle",788,197,46,17,NA,NA
+"172","K18124","rectangle",227,185,46,17,NA,NA
+"173","K18125","rectangle",227,206,46,17,NA,NA
+"179","GALK1, GALK, GK1, HEL-S-19","rectangle",223,306,46,17,"hsa:2584",100
+"180","GALM, BLOCK25, GALAC4, GLAT, HEL-S-63p, IBD1","rectangle",141,306,46,17,"hsa:130589",100
+"183","K01854...","rectangle",413,326,46,17,NA,NA
+"184","K12447","rectangle",293,344,46,17,NA,NA
+"187","K21622","rectangle",1030,858,46,17,NA,NA
+"191","K01804","rectangle",336,810,46,17,NA,NA
+"55","K00094","rectangle",814,896,46,17,NA,NA
+"56","K02773...","rectangle",547,896,46,17,NA,NA
+"57","GLA, GALA","rectangle",570,520,46,17,"hsa:2717",100
+"58","K00917","rectangle",1007,563,46,17,NA,NA
+"59","PFKL, ATP-PFK, PFK-B, PFK-L...","rectangle",957,563,46,17,"hsa:5213",100
+"60","K01635...","rectangle",983,350,46,17,NA,NA
+"61","K01631","rectangle",864,232,46,17,NA,NA
+"62","K01220","rectangle",250,654,46,17,NA,NA
+"63","GLA, GALA","rectangle",606,612,46,17,"hsa:2717",100
+"64","K01193","rectangle",607,550,46,17,NA,NA
+"65","K06611","rectangle",606,477,46,17,NA,NA
+"66","GAA, IOPD, LOPD, LYAG...","rectangle",740,503,46,17,"hsa:2548",100
+"67","GLA, GALA","rectangle",718,449,46,17,"hsa:2717",100
+"68","K01193","rectangle",686,550,46,17,NA,NA
+"69","K02786...","rectangle",250,466,46,17,NA,NA
+"70","AKR1B1, ADR, ALDR1, ALR2, AR...","rectangle",174,858,46,17,NA,NA
+"71","GLA, GALA","rectangle",159,764,46,17,"hsa:2717",100
+"72","GLA, GALA","rectangle",158,686,46,17,"hsa:2717",100
+"73","GLA, GALA","rectangle",157,610,46,17,"hsa:2717",100
+"74","GLA, GALA","rectangle",156,534,46,17,"hsa:2717",100
+"75","GCK, FGQTL3, GK, GLK, HHF3, HK4, HKIV, HXKP, LGLK, MODY2, PNDM1","rectangle",407,500,46,17,"hsa:2645",100
+"76","HK1, CNSHA5, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, NEDVIBA, NMSR, RP79, hexokinase...","rectangle",407,479,46,17,"hsa:3098",100
+"77","LCT, LAC, LPH, LPH1","rectangle",186,439,46,17,"hsa:3938",100
+"78","GLB1, EBP, ELNR1, MPS4B","rectangle",186,418,46,17,"hsa:2720",100
+"79","PGM1, CDG1T, GSD14...","rectangle",484,415,46,17,"hsa:5236",100
+"80","B4GALT1, B4GAL-T1, CDG2D, CLDLFIB, GGTB2, GT1, GTB, beta4Gal-T1...","rectangle",317,429,46,17,"hsa:2683",100
+"81","GALE, SDR1E1, THC13","rectangle",524,306,46,17,"hsa:2582",100
+"82","UGP2, DEE83, EIEE83, SVUGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379","rectangle",483,269,46,17,"hsa:7360",100
+"84","GALT","rectangle",332,306,46,17,"hsa:2592",100
+"85","K00883","rectangle",738,197,46,17,NA,NA
+"86","K01684","rectangle",672,141,46,17,NA,NA
+"88","K00035...","rectangle",227,141,46,17,NA,NA
+"89","K06617","rectangle",606,414,46,17,NA,NA
+"90","Glycolysis / Gluconeogenesis","roundrectangle",483,563,66,25,NA,NA
+"91","Fructose and mannose metabolism","roundrectangle",340,593,124,34,NA,NA
+"92","Pentose and glucuronate interconversions","roundrectangle",644,233,136,34,NA,NA
+"93","Pentose phosphate pathway","roundrectangle",1082,242,115,34,NA,NA
+"94","TITLE:Galactose metabolism","roundrectangle",139,58,197,25,NA,NA
+"95","K18819","rectangle",552,377,46,17,NA,NA
+"96","K01190...","rectangle",186,377,46,17,NA,NA
+"97","K21620","rectangle",547,858,46,17,NA,NA
+"98","K21621","rectangle",813,858,46,17,NA,NA
+"99","K22215","rectangle",227,162,46,17,NA,NA

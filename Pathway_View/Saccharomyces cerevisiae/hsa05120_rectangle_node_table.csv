@@ -1,0 +1,56 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"152","K15848","rectangle",226,905,46,17,NA,NA,NA,NA
+"162","K11028","rectangle",598,837,46,17,NA,NA,NA,NA
+"163",NA,"rectangle",658,591,46,51,NA,NA,NA,NA
+"29","K15845","rectangle",226,823,46,17,NA,NA,NA,NA
+"30","K15844","rectangle",226,799,46,17,NA,NA,NA,NA
+"31","K15843","rectangle",226,775,46,17,NA,NA,NA,NA
+"33","K11028","rectangle",314,727,46,17,NA,NA,NA,NA
+"34","MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA...","rectangle",692,491,46,17,NA,NA,NA,NA
+"35","JUN, AP-1, AP1, c-Jun, cJUN, p39","rectangle",761,532,46,17,NA,NA,NA,NA
+"36","MAPK8, JNK, JNK-46, JNK1, JNK1A2, JNK21B1/2, PRKM8, SAPK1, SAPK1c...","rectangle",692,532,46,17,NA,NA,NA,NA
+"37","MAP2K4, JNKK, JNKK1, MAPKK4, MEK4, MKK4, PRKMK4, SAPKK-1, SAPKK1, SEK1, SERK1, SKK1","rectangle",623,532,46,17,NA,NA,NA,NA
+"38","CHUK, BPS2, IKBKA, IKK-1, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16","rectangle",658,574,46,17,NA,NA,NA,NA
+"39","IKBKG, AMCBX1, EDAID1, FIP-3, FIP3, Fip3p, IKK-gamma, IKKAP1, IKKG, IMD33, IP, IP1, IP2, IPD2, NEMO, SAIDX, ZC2HC9","rectangle",658,608,46,17,NA,NA,NA,NA
+"40","IKBKB, IKK-2, IKK-beta, IKK2, IKKB, IMD15, IMD15A, IMD15B, NFKBIKB","rectangle",658,591,46,17,NA,NA,NA,NA
+"41","NFKBIA, EDAID2, IKBA, MAD-3, NFKBI","rectangle",761,582,46,17,NA,NA,NA,NA
+"42","ATP6V1FP2...","rectangle",689,796,46,17,"hsa:23545;hsa:523;hsa:529;hsa:537","7.1.2.2","ATP6AP1; ATP6V0A2; ATP6V1A; ATP6V1E1",100
+"43","CASP3, CPP32, CPP32B, SCA-1","rectangle",783,745,46,17,NA,NA,NA,NA
+"44","PAK1, IDDMSSD, PAKalpha, alpha-PAK, p65-PAK","rectangle",485,556,46,17,NA,NA,NA,NA
+"45","NFKB1, CVID12, EBP-1, KBF1, NF-kB, NF-kB1, NF-kappa-B1, NF-kappaB, NF-kappabeta, NFKB-p105, NFKB-p50, NFkappaB...","rectangle",761,630,46,17,NA,NA,NA,NA
+"46","CCL5, D17S136E, RANTES, SCYA5, SIS-delta, SISd, TCP228, eoCP","rectangle",890,630,46,17,NA,NA,NA,NA
+"47","CXCL1, FSP, GRO1, GROa, MGSA, MGSA-a, NAP-3, SCYB1...","rectangle",890,543,46,17,NA,NA,NA,NA
+"48","CXCL8, GCP-1, GCP1, IL8, LECT, LUCT, LYNAP, MDNCF, MONAP, NAF, NAP-1, NAP1, SCYB8","rectangle",890,519,46,17,NA,NA,NA,NA
+"49","CDC42, CDC42Hs, G25K, TKS","rectangle",596,444,46,17,NA,NA,NA,NA
+"50","RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1","rectangle",596,422,46,17,NA,NA,NA,NA
+"51","MAP3K14, FTDCR1B, HS, HSNIK, IMD112, NIK","rectangle",555,583,46,17,NA,NA,NA,NA
+"52","K08303","rectangle",262,657,46,17,NA,NA,NA,NA
+"53","K01428","rectangle",186,628,46,17,NA,NA,NA,NA
+"54","K14048","rectangle",186,611,46,17,NA,NA,NA,NA
+"55","K15842...","rectangle",156,434,46,17,NA,NA,NA,NA
+"56","Oxidative phosphorylation","roundrectangle",794,797,153,25,NA,NA,NA,NA
+"57","Tight junction","roundrectangle",671,139,96,25,NA,NA,NA,NA
+"58","MET, AUTS9, DA11, DFNB97, HGFR, RCCP2, c-Met","rectangle",404,157,46,17,NA,NA,NA,NA
+"59","IGSF5, GSF5, JAM4...","rectangle",623,113,46,17,NA,NA,NA,NA
+"60","PLCG1, IDAA, NCKAP3, PLC-II, PLC1, PLC148, PLCgamma1...","rectangle",455,157,46,17,"hsa:5336","3.1.4.11","PLCG2",0
+"61","ADAM17, ADAM18, CD156B, CSVP, NISBD, NISBD1, TACE","rectangle",404,247,46,17,NA,NA,NA,NA
+"62","HBEGF, DTR, DTS, DTSF, HEGFL","rectangle",313,276,46,17,NA,NA,NA,NA
+"67","ADAM10, AD10, AD18, CD156c, CDw156, HsT18717, MADM, RAK, kuz","rectangle",404,305,46,17,NA,NA,NA,NA
+"68","CXCL8, GCP-1, GCP1, IL8, LECT, LUCT, LYNAP, MDNCF, MONAP, NAF, NAP-1, NAP1, SCYB8","rectangle",313,348,46,17,NA,NA,NA,NA
+"69","Apoptosis","roundrectangle",1004,337,89,25,NA,NA,NA,NA
+"73","Bacterial secretion system","roundrectangle",313,434,184,25,NA,NA,NA,NA
+"74","MAPK signaling pathway","roundrectangle",775,267,184,34,NA,NA,NA,NA
+"75","TJP1, ZO-1","rectangle",594,130,46,17,NA,NA,NA,NA
+"76","CXCR1, C-C, C-C-CKR-1, CD128, CD181, CDw128a, CKR-1, CMKAR1, IL8R1, IL8RA, IL8RBA...","rectangle",404,348,46,17,NA,NA,NA,NA
+"77","CSK","rectangle",623,380,46,17,NA,NA,NA,NA
+"78","EGFR, ERBB, ERBB1, ERRP, HER1, NISBD2, NNCIS, PIG61, mENA","rectangle",404,276,46,17,NA,NA,NA,NA
+"79","K15842","rectangle",509,335,46,17,NA,NA,NA,NA
+"80","LYN, JTK8, SAIDV, p53Lyn, p56Lyn...","rectangle",543,380,46,17,NA,NA,NA,NA
+"81","GIT1, p95-APP1","rectangle",485,689,46,17,NA,NA,NA,NA
+"82","K03191","rectangle",87,619,46,17,NA,NA,NA,NA
+"83","PTPRZ1, HPTPZ, HPTPzeta, PTP-ZETA, PTP18, PTPRZ, PTPZ, R-PTP-zeta-2, RPTPB, RPTPbeta, phosphacan","rectangle",404,689,46,17,NA,NA,NA,NA
+"84","K15847","rectangle",226,880,46,17,NA,NA,NA,NA
+"85","PTPN11, BPTP3, CFC, JMML, METCDS, NS1, PTP-1D, PTP2C, SH-PTP2, SH-PTP3, SHP2","rectangle",623,335,46,17,NA,NA,NA,NA
+"86","NOD1, CARD4, CLR7.1, NLRC1, hNod1","rectangle",555,630,46,17,NA,NA,NA,NA
+"87","K15846","rectangle",226,847,46,17,NA,NA,NA,NA
+"88","TITLE:Epithelial cell signaling in Helicobacter pylori infection","roundrectangle",300,58,519,25,NA,NA,NA,NA

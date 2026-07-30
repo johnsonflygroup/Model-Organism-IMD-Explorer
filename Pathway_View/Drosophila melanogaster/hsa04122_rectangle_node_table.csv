@@ -1,0 +1,41 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"114","K03637","rectangle",940,567,46,17,NA,NA
+"115","NFS1, COXPD52, HUSSY-08, IscS, NIFS","rectangle",818,435,46,17,"hsa:9054",100
+"116","MOCS2, MCBPE, MOCO1, MOCODB, MPTS","rectangle",888,472,46,17,"hsa:4338",100
+"117","MOCS3, UBA4","rectangle",818,471,46,17,"hsa:27304",100
+"128","K03639","rectangle",937,451,46,17,NA,NA
+"129","K03639","rectangle",939,545,46,17,NA,NA
+"166","K03831...","rectangle",989,589,46,17,NA,NA
+"168","K21232","rectangle",725,472,46,17,NA,NA
+"169","K21028","rectangle",772,552,46,17,NA,NA
+"170","K03636","rectangle",724,894,46,17,NA,NA
+"171","K21147","rectangle",818,894,46,17,NA,NA
+"174","Cysteine and methionine metabolism","roundrectangle",950,825,130,34,NA,NA
+"178","K21148","rectangle",888,894,46,17,NA,NA
+"180","K21140","rectangle",965,882,46,17,NA,NA
+"181","Folate biosynthesis","roundrectangle",1106,519,92,34,NA,NA
+"37","MOCS3, UBA4","rectangle",294,471,46,17,"hsa:27304",100
+"38","URM1, C9orf74","rectangle",200,471,46,17,NA,NA
+"39","NFS1, COXPD52, HUSSY-08, IscS, NIFS","rectangle",293,398,46,17,"hsa:9054",100
+"40","CTU2, C16orf84, MFRG, NCS2, UPF0432","rectangle",385,457,46,17,NA,NA
+"42","CTU1, ATPBD3, NCS6","rectangle",385,440,46,17,NA,NA
+"43","MPST, MST, TST2, TUM1...","rectangle",292,434,46,17,"hsa:4357",0
+"44","K14171","rectangle",386,504,46,17,NA,NA
+"63","Ubiquitin mediated proteolysis","roundrectangle",58,141,95,34,NA,NA
+"64","K04085","rectangle",294,628,46,17,NA,NA
+"65","NFS1, COXPD52, HUSSY-08, IscS, NIFS","rectangle",294,592,46,17,"hsa:9054",100
+"71","K07237","rectangle",200,683,46,17,NA,NA
+"72","K07236","rectangle",294,683,46,17,NA,NA
+"73","K07235","rectangle",294,666,46,17,NA,NA
+"77","K11179","rectangle",364,666,46,17,NA,NA
+"78","K03154","rectangle",724,756,46,17,NA,NA
+"79","K03148","rectangle",818,756,46,17,NA,NA
+"80","K00566","rectangle",429,666,46,17,NA,NA
+"81","NFS1, COXPD52, HUSSY-08, IscS, NIFS","rectangle",818,683,46,17,"hsa:9054",100
+"82","K03151","rectangle",818,720,46,17,NA,NA
+"9","TITLE:Sulfur relay system","roundrectangle",140,58,200,25,NA,NA
+"91","Thiamine metabolism","roundrectangle",929,729,92,34,NA,NA
+"92","NFS1, COXPD52, HUSSY-08, IscS, NIFS","rectangle",818,552,46,17,"hsa:9054",100
+"93","MOCS2, MCBPE, MOCO1, MOCODB, MPTS","rectangle",888,588,46,17,"hsa:4338",100
+"94","K03636...","rectangle",724,588,46,17,NA,NA
+"95","K21029...","rectangle",818,588,46,17,NA,NA

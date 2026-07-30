@@ -1,0 +1,40 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"13","K25341","rectangle",648,571,46,17,NA,NA,NA,NA
+"14","K26025","rectangle",648,613,46,17,NA,NA,NA,NA
+"15","K21316","rectangle",647,529,46,17,NA,NA,NA,NA
+"16","NGFR, CD271, Gp80-LNGFR, TNFRSF16, p75(NTR), p75NTR","rectangle",747,677,46,17,NA,NA,NA,NA
+"17","CHRNA1, ACHRA, ACHRD, CHRNA, CMS1A, CMS1B, CMS2A, FCCMS, SCCMS","rectangle",747,631,46,17,NA,NA,NA,NA
+"18","NCAM1, CD56, MSK39, NCAM...","rectangle",747,654,46,17,NA,NA,NA,NA
+"24","TITLE:Virion - Ebolavirus, Lyssavirus and Morbillivirus","roundrectangle",254,58,427,25,NA,NA,NA,NA
+"29","K24589","rectangle",648,653,46,17,NA,NA,NA,NA
+"30","K25342","rectangle",646,488,46,17,NA,NA,NA,NA
+"38","K25335","rectangle",647,120,46,17,NA,NA,NA,NA
+"39","K25334","rectangle",647,232,46,17,NA,NA,NA,NA
+"40","K27063","rectangle",647,270,46,17,NA,NA,NA,NA
+"41","K24534","rectangle",647,303,46,17,NA,NA,NA,NA
+"42","K27065","rectangle",647,180,46,17,NA,NA,NA,NA
+"43","K25333","rectangle",647,215,46,17,NA,NA,NA,NA
+"48","K27064","rectangle",647,150,46,17,NA,NA,NA,NA
+"49","NPC1, NPC, POGZ, SLC65A1","rectangle",647,401,46,17,"hsa:4864",NA,"NPC1",100
+"50","K25338","rectangle",704,120,46,17,NA,NA,NA,NA
+"51","K25337","rectangle",704,232,46,17,NA,NA,NA,NA
+"52","K27066","rectangle",704,270,46,17,NA,NA,NA,NA
+"53","K27068","rectangle",704,180,46,17,NA,NA,NA,NA
+"54","K25336","rectangle",704,215,46,17,NA,NA,NA,NA
+"55","K27067","rectangle",704,150,46,17,NA,NA,NA,NA
+"56","K24535","rectangle",704,303,46,17,NA,NA,NA,NA
+"57","ASGR1, ASGPR, ASGPR1, CLEC4H1, HL-1","rectangle",704,401,46,17,NA,NA,NA,NA
+"67","CLEC4M, CD209L, CD299, DC-SIGN2, DC-SIGNR, DCSIGNR, HP10347, L-SIGN, LSIGN...","rectangle",747,1073,46,17,NA,NA,NA,NA
+"68","CD46, AHUS2, MCP, MIC10, TLX, TRA2.10","rectangle",747,1005,46,17,NA,NA,NA,NA
+"69","SLAMF1, CD150, CDw150, IPO3, SLAM","rectangle",747,1026,46,17,NA,NA,NA,NA
+"70","K19378","rectangle",649,1026,46,17,NA,NA,NA,NA
+"71","K19379","rectangle",649,1075,46,17,NA,NA,NA,NA
+"72","K19376","rectangle",649,868,46,17,NA,NA,NA,NA
+"73","K19377","rectangle",649,908,46,17,NA,NA,NA,NA
+"74","K19380","rectangle",649,816,46,17,NA,NA,NA,NA
+"75","K19381","rectangle",649,969,46,17,NA,NA,NA,NA
+"76","K22280","rectangle",709,897,46,17,NA,NA,NA,NA
+"77","K22281","rectangle",709,920,46,17,NA,NA,NA,NA
+"79","NECTIN4, EDSS1, LNIR, PRR4, PVRL4, nectin-4","rectangle",747,1047,46,17,NA,NA,NA,NA
+"81","FCGR2B, CD32, CD32B, FCG2, FCGR2, FCGR2C, FcGRIIB, FcRII-c, FcgammaRIIb, IGFR2","rectangle",747,817,46,17,NA,NA,NA,NA
+"86","Measles","roundrectangle",536,1134,68,26,NA,NA,NA,NA

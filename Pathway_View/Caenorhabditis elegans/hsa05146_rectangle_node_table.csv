@@ -1,0 +1,76 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","Endocytosis","roundrectangle",509,666,72,25,NA,NA
+"101","HSPB1, CMT2F, HEL-S-102, HMN2B, HMND3, HS.76067, HSP27, HSP28, Hsp25, SRP27","rectangle",519,135,46,17,NA,NA
+"107","TLR2, CD282, TIL4","rectangle",913,622,46,17,NA,NA
+"108","CD1A, CD1, FCB6, HTA1, R4, T6...","rectangle",995,622,46,17,NA,NA
+"112","CD14","rectangle",902,530,46,17,NA,NA
+"113","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",1318,869,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296",100
+"115","NFKB1, CVID12, EBP-1, KBF1, NF-kB, NF-kB1, NF-kappa-B1, NF-kappaB, NF-kappabeta, NFKB-p105, NFKB-p50, NFkappaB...","rectangle",976,513,46,17,NA,NA
+"118","Antigen processing and presentation","roundrectangle",1068,644,78,34,NA,NA
+"120","IFNG, IFG, IFI, IMD69","rectangle",1266,663,46,17,NA,NA
+"123","ITGAM, CD11B, CR3A, MAC-1, MAC1A, MO1A, SLEB6...","rectangle",1253,869,46,17,NA,NA
+"127","ARG1...","rectangle",740,746,46,17,"hsa:383",100
+"130","PRDX1, MSP23, NKEF-A, NKEFA, PAG, PAGA, PAGB, PRX1, PRXI, TDPX2","rectangle",779,926,46,17,NA,NA
+"133","K08570","rectangle",821,700,46,17,NA,NA
+"141","K13978","rectangle",770,1058,46,17,NA,NA
+"142","K13970...","rectangle",804,1181,46,17,NA,NA
+"143","K08570","rectangle",752,1238,46,17,NA,NA
+"146","IGH, IGH@, IGHV4, IGHV4-30, IGHV4-38-2, IGHV4-39, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv","rectangle",896,1255,46,17,NA,NA
+"149","C8A...","rectangle",896,1171,46,17,NA,NA
+"150","C9, ARMD15, C9D","rectangle",896,1190,46,17,NA,NA
+"156","Complement and coagulation cascades","roundrectangle",1062,1207,118,25,NA,NA
+"159","K13972","rectangle",659,659,46,17,NA,NA
+"161","GNAL, DYT25, HG1O...","rectangle",193,243,46,17,NA,NA
+"162","GNA11, FBH, FBH2, FHH2, GNA-11, HG1K, HHC2, HYPOC2...","rectangle",138,243,46,17,NA,NA
+"163","PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA...","rectangle",86,388,46,17,NA,NA
+"164","ADCY1, AC1, DFNB44","rectangle",193,284,46,17,NA,NA
+"165","PLCB1, DEE12, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B...","rectangle",138,284,46,17,"hsa:23236;hsa:5331;hsa:5332",100
+"175","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",193,357,46,17,NA,NA
+"179","K13974","rectangle",138,388,46,17,NA,NA
+"190","IL10, CSIF, GVHDS, IL-10, IL10A, TGIF","rectangle",1409,1018,46,17,NA,NA
+"191","TGFB1, CED, DPD1, IBDIMDE, LAP, TGF-beta1, TGFB, TGFbeta...","rectangle",1409,1080,46,17,NA,NA
+"194","Arachidonic acid metabolism","roundrectangle",750,1024,99,34,NA,NA
+"197","COL1A1, CAFYD, EDSARTH1, EDSC, OI1, OI2, OI3, OI4...","rectangle",397,269,46,17,NA,NA
+"210","K23601","rectangle",153,649,46,17,NA,NA
+"211","K23602","rectangle",153,669,46,17,NA,NA
+"22","K08570","rectangle",318,234,46,17,NA,NA
+"23","IL1B, IL-1, IL1-BETA, IL1F2, IL1beta","rectangle",382,185,46,17,NA,NA
+"230","Regulation of actin cytoskeleton","roundrectangle",658,849,113,34,NA,NA
+"24","MUC2, MLP, MUC-2, SMUC","rectangle",397,234,46,17,NA,NA
+"259","VCL, CMD1W, CMH15, HEL114, MV, MVCL, VINC","rectangle",634,807,46,17,NA,NA
+"26","FN1, CIG, ED-B, FINC, FN, FNZ, GFND, GFND2, LETS, MSF, SMDCF","rectangle",397,288,46,17,NA,NA
+"260","ACTN4, ACTININ-4, FSGS, FSGS1...","rectangle",683,807,46,17,NA,NA
+"262","FN1, CIG, ED-B, FINC, FN, FNZ, GFND, GFND2, LETS, MSF, SMDCF","rectangle",634,623,46,17,NA,NA
+"263","COL1A1, CAFYD, EDSARTH1, EDSC, OI1, OI2, OI3, OI4...","rectangle",683,623,46,17,NA,NA
+"266","PTK2, FADK, FADK_1, FAK, FAK1, FRNK, PPP1R71, p125FAK, pp125FAK","rectangle",628,704,46,17,NA,NA
+"27","LAMC3, OCCM...","rectangle",397,307,46,17,NA,NA
+"272","K04072","rectangle",740,725,46,17,NA,NA
+"273","CTSG, CATG, CG","rectangle",1409,954,46,17,NA,NA
+"274","SERPINB6, CAP, DFNB91, MSTP057, PI-6, PI6, PTI, SPI3...","rectangle",821,954,46,17,NA,NA
+"280","K13977","rectangle",690,763,46,17,NA,NA
+"281","K13976","rectangle",628,723,46,17,NA,NA
+"282","Focal adhesion","roundrectangle",582,748,92,25,NA,NA
+"285","Arginine and proline metabolism","roundrectangle",1124,778,118,34,NA,NA
+"286","Apoptosis","roundrectangle",1559,836,67,25,NA,NA
+"291","TITLE:Amoebiasis","roundrectangle",93,58,106,25,NA,NA
+"293",NA,"rectangle",902,521,46,34,NA,NA
+"34","K13973","rectangle",462,497,46,17,NA,NA
+"35","NFKB1, CVID12, EBP-1, KBF1, NF-kB, NF-kB1, NF-kappa-B1, NF-kappaB, NF-kappabeta, NFKB-p105, NFKB-p50, NFkappaB...","rectangle",519,185,46,17,NA,NA
+"36","CXCL8, GCP-1, GCP1, IL8, LECT, LUCT, LYNAP, MDNCF, MONAP, NAF, NAP-1, NAP1, SCYB8","rectangle",1138,503,46,17,NA,NA
+"37","IL6, BSF-2, BSF2, CDF, HGF, HSF, IFN-beta-2, IFNB2, IL-6","rectangle",1138,429,46,17,NA,NA
+"38","CASP3, CPP32, CPP32B, SCA-1","rectangle",489,466,46,17,NA,NA
+"41","CXCL1, FSP, GRO1, GROa, MGSA, MGSA-a, NAP-3, SCYB1...","rectangle",1138,448,46,17,NA,NA
+"42","CSF2, CSF, GMCSF","rectangle",1138,467,46,17,NA,NA
+"43","IL1R1, CD121A, CRMO3, D2S1473, IL-1R-alpha, IL-1RT1, IL1R, IL1RA, P80...","rectangle",447,185,46,17,NA,NA
+"45","Toll-like receptor signaling pathway","roundrectangle",860,570,111,34,NA,NA
+"46","TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F","rectangle",1138,522,46,17,NA,NA
+"73","NOS2, HEP-NOS, INOS, NOS, NOS2A","rectangle",1301,783,46,17,NA,NA
+"79","TLR2, CD282, TIL4...","rectangle",902,513,46,17,NA,NA
+"80","IGH, IGH@, IGHV4, IGHV4-30, IGHV4-38-2, IGHV4-39, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv","rectangle",656,397,46,17,NA,NA
+"90","Intestinal immune network for IgA production","roundrectangle",786,377,141,25,NA,NA
+"91","K13968...","rectangle",260,324,46,17,NA,NA
+"92","IL12A, CLMF, IL-12A, NFSK, NKSF1, P35...","rectangle",1065,589,46,17,NA,NA
+"94","K13970...","rectangle",260,435,46,17,NA,NA
+"97","Apoptosis","roundrectangle",721,451,67,25,NA,NA
+"98","K13975","rectangle",495,584,46,17,NA,NA
+"99","RAB7B, RAB7...","rectangle",526,612,46,17,"hsa:7879",100

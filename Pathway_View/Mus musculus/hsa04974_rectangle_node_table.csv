@@ -1,0 +1,36 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","CPA1, CPA...","rectangle",159,414,46,17,NA,NA
+"101","CPB1, CPB, PASP, PCPB...","rectangle",214,414,46,17,NA,NA
+"102","PGA5, Pg5...","rectangle",212,275,46,17,NA,NA
+"111","SLC9A3, DIAR8, NHE-3, NHE3","rectangle",619,316,46,17,NA,NA
+"118","KCNE3, BRGDA6, HOKPP, HYPP, MiRP2...","rectangle",1007,268,46,17,NA,NA
+"133","SLC36A4, PAT4...","rectangle",622,699,46,17,"hsa:153201",100
+"141","SLC8A2, NCX2...","rectangle",1007,579,46,17,NA,NA
+"145","DPP4, ADABP, ADCP2, CD26, DPPIV, TP103...","rectangle",620,446,46,17,NA,NA
+"147","Gastric acid secretion","roundrectangle",218,205,124,25,NA,NA
+"150","ELN, ADCL1, SVAS, WBS, WS","rectangle",134,591,46,17,NA,NA
+"151","COL1A1, CAFYD, EDSARTH1, EDSC, OI1, OI2, OI3, OI4...","rectangle",134,615,46,17,NA,NA
+"178","SLC16A10, MCT10, PRO0813, TAT1","rectangle",1007,699,46,17,NA,NA
+"185","Tyrosine metabolism","roundrectangle",330,665,126,25,NA,NA
+"186","Valine, leucine and isoleucine degradation","roundrectangle",105,679,126,34,NA,NA
+"187","Tryptophan metabolism","roundrectangle",330,695,126,25,NA,NA
+"193","Alanine, aspartate and glutamate metabolism","roundrectangle",916,540,126,34,NA,NA
+"41","TITLE:Protein digestion and absorption","roundrectangle",195,58,310,25,NA,NA
+"44","Tight junction","roundrectangle",682,113,115,25,NA,NA
+"65","SLC1A1, DCBXA, EAAC1, EAAT3, SCZD18, hEAAC1","rectangle",534,511,46,17,"hsa:6505",100
+"66","SLC7A9, BAT1, CSNU3","rectangle",535,766,46,17,"hsa:11136",100
+"67","SLC7A8, LAT2, LPI-PC1","rectangle",1007,644,46,17,NA,NA
+"68","SLC38A2, ATA2, PRO1068, SAT2, SNAT2","rectangle",1007,456,46,17,NA,NA
+"74","SLC7A7, LAT3, LPI, MOP-2, Y+LAT1, y+LAT-1","rectangle",1007,770,46,17,"hsa:9056",100
+"78","SLC15A1, HPECT1, HPEPT1, PEPT1","rectangle",533,383,46,17,NA,NA
+"79","SLC6A19, B0AT1, HND","rectangle",533,637,46,17,"hsa:340024",100
+"80","SLC1A5, AAAT, ASCT2, ATBO, M7V1, M7VS1, R16, RDRC","rectangle",621,570,46,17,NA,NA
+"81","Pancreatic secretion","roundrectangle",217,313,124,25,NA,NA
+"82","PRSS1, TRP1, TRY1, TRY4, TRYP1...","rectangle",159,361,46,17,NA,NA
+"85","SLC3A1, ATR1, CSNU1, D2H, NBAT, RBAT","rectangle",508,749,46,17,"hsa:6519",100
+"86","ATP1B4...","rectangle",1007,308,46,17,NA,NA
+"90","SLC3A2, 4F2, 4F2HC, 4T2HC, CD98, CD98HC, MDU1, NACAE","rectangle",1007,753,46,17,NA,NA
+"91","SLC3A2, 4F2, 4F2HC, 4T2HC, CD98, CD98HC, MDU1, NACAE","rectangle",1007,627,46,17,NA,NA
+"97","CTRB1, CTRB...","rectangle",214,361,46,17,NA,NA
+"98","CTRL, CTRL1","rectangle",269,361,46,17,NA,NA
+"99","CELA3A, ELA3, ELA3A...","rectangle",159,388,46,17,NA,NA

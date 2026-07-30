@@ -1,0 +1,27 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"38","K10784...","rectangle",568,214,46,17,NA,NA
+"39","K10784...","rectangle",317,402,46,17,NA,NA
+"40","ICA1, ICA69, ICAp69","rectangle",166,286,46,17,NA,NA
+"42","CD28, IMD123, Tp44","rectangle",568,237,46,17,NA,NA
+"43","Apoptosis","roundrectangle",139,506,71,25,NA,NA
+"44","IL12A, CLMF, IL-12A, NFSK, NKSF1, P35...","rectangle",514,278,46,17,NA,NA
+"45","CPE, BDVS, CPH, IDDHH","rectangle",166,246,46,17,NA,NA
+"46","CD80, B7, B7-1, B7.1, BB1, CD28LG, CD28LG1, LAB7...","rectangle",460,237,46,17,NA,NA
+"47","PTPRN, IA-2, IA-2/PTP, IA2, ICA512, R-PTP-N...","rectangle",166,226,46,17,NA,NA
+"48","GAD1, CPSQ1, DEE89, GAD, SCP...","rectangle",166,205,46,17,"hsa:2571",100
+"49","HSPD1, CPN60, GROEL, HLD4, HSP-60, HSP60, HSP65, HuCHA60, SPG13","rectangle",166,266,46,17,"hsa:3329",100
+"50","IL2, IL-2, TCGF, lymphokine","rectangle",542,357,46,17,NA,NA
+"51","T cell receptor signaling pathway","roundrectangle",645,225,99,34,NA,NA
+"52","INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10, PNDM4","rectangle",166,185,46,17,"hsa:3630",0
+"53","FASLG, ALPS1B, APT1LG1, APTL, CD178, CD95-L, CD95L, FASL, TNFSF6, TNLG1A","rectangle",317,425,46,17,NA,NA
+"54","GZMB, C11, CCPI, CGL-1, CGL1, CSP-B, CSPB, CTLA1, CTSGL1, HLP, SECT","rectangle",263,477,46,17,NA,NA
+"55","HLA-DMA, D6S222E, DMA, HLADM, RING6...","rectangle",460,214,46,17,NA,NA
+"56","HLA-A, HLAA...","rectangle",209,402,46,17,NA,NA
+"57","FAS, ALPS1A, APO-1, APT1, CD95, FAS1, FASTM, TNFRSF6","rectangle",209,425,46,17,NA,NA
+"58","IFNG, IFG, IFI, IMD69","rectangle",263,499,46,17,NA,NA
+"59","IFNG, IFG, IFI, IMD69","rectangle",599,357,46,17,NA,NA
+"60","PRF1, HPLH2, P1, PFP","rectangle",263,458,46,17,NA,NA
+"61","IL1A, IL-1_alpha, IL-1A, IL1, IL1-ALPHA, IL1F1...","rectangle",263,559,46,17,NA,NA
+"62","TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F","rectangle",263,540,46,17,NA,NA
+"63","LTA, LT, TNFB, TNFSF1, TNLG1E","rectangle",263,518,46,17,NA,NA
+"64","TITLE:Type I diabetes mellitus","roundrectangle",149,58,218,25,NA,NA

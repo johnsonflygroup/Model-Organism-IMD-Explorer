@@ -1,0 +1,68 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"10","TITLE:Longevity regulating pathway - multiple species","roundrectangle",258,58,435,25,NA,NA
+"101","ADCY1, AC1, DFNB44...","rectangle",513,189,46,17,NA,NA
+"104","K01768","rectangle",513,824,46,17,NA,NA
+"106","PRKAG2, AAKG, AAKG2, CMH6, H91620p, WPWS...","rectangle",628,282,46,17,"hsa:51422",100
+"113","INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10, PNDM4","rectangle",249,223,46,17,"hsa:3630",100
+"114","INSR, CD220, HHF5","rectangle",339,223,46,17,"hsa:3643",100
+"116","Insulin signaling pathway","roundrectangle",252,334,108,34,NA,NA
+"117","mTOR signaling pathway","roundrectangle",749,334,108,34,NA,NA
+"118","PI3K-Akt signaling pathway","roundrectangle",485,334,120,34,NA,NA
+"123","FoxO signaling pathway","roundrectangle",1094,211,108,34,NA,NA
+"124","SOD2, GC1, GClnc1, IPO-B, IPOB, MNSOD, MVCD6, Mn-SOD","rectangle",1289,225,46,17,NA,NA
+"125","SOD1, ALS, ALS1, HEL-S-44, IPOA, SOD, STAHP, hSod1, homodimer...","rectangle",1289,450,46,17,NA,NA
+"126","SOD2, GC1, GClnc1, IPO-B, IPOB, MNSOD, MVCD6, Mn-SOD","rectangle",1289,667,46,17,NA,NA
+"127","CRYAB, CMD1II, CRYA2, CTPP2, CTRCT16, HEL-S-101, HSPB5, MFM2...","rectangle",1289,476,46,17,NA,NA
+"128","K19766...","rectangle",1289,713,46,17,NA,NA
+"129","CLPB, ANKCLB, ANKCLP, HSP78, MEGCANN, MGCA7, MGCA7A, SCN9, SKD3","rectangle",1289,932,46,17,"hsa:81570",100
+"158","AMPK signaling pathway","roundrectangle",621,334,120,34,NA,NA
+"162","PRKAG2, AAKG, AAKG2, CMH6, H91620p, WPWS...","rectangle",628,476,46,17,"hsa:51422",100
+"164","CAT","rectangle",1289,249,46,17,"hsa:847",100
+"165","ATG5, APG5, APG5-LIKE, APG5L, ASP, SCAR25, hAPG5","rectangle",1289,274,46,17,"hsa:9474",100
+"168","CAT","rectangle",1289,690,46,17,"hsa:847",100
+"169","CAT","rectangle",1289,906,46,17,"hsa:847",100
+"170","SOD2, GC1, GClnc1, IPO-B, IPOB, MNSOD, MVCD6, Mn-SOD","rectangle",1289,878,46,17,NA,NA
+"171","Longevity regulating pathway","roundrectangle",232,183,129,34,NA,NA
+"172","Longevity regulating pathway - worm","roundrectangle",232,595,129,34,NA,NA
+"173","K01440","rectangle",913,950,46,17,NA,NA
+"174","K11121","rectangle",946,991,46,17,NA,NA
+"178","SIRT1, SIR2, SIR2L1, SIR2alpha","rectangle",946,766,46,17,NA,NA
+"179","SIRT1, SIR2, SIR2L1, SIR2alpha","rectangle",946,310,46,17,NA,NA
+"183","SIRT1, SIR2, SIR2L1, SIR2alpha","rectangle",946,570,46,17,NA,NA
+"187","HDAC1, GON-10, HD1, KDAC1, RPD3, RPD3L1...","rectangle",927,536,46,17,NA,NA
+"20","IGF1, IGF, IGF-I, IGFI, MGF","rectangle",249,246,46,17,NA,NA
+"21","IGF1R, CD221, IGFIR, IGFR, JTK13","rectangle",338,246,46,17,NA,NA
+"23","IRS1, HIRS-1...","rectangle",427,215,46,17,NA,NA
+"24","HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras...","rectangle",427,259,46,17,NA,NA
+"28","FOXO3, AF6q21, FKHRL1, FKHRL1P2, FOXO2, FOXO3A","rectangle",1009,422,46,17,NA,NA
+"29","RPS6KB1, PS6K, S6K, S6K-beta-1, S6K1, STK14A, p70_S6KA, p70(S6K)-alpha, p70-S6K, p70-alpha...","rectangle",782,476,46,17,NA,NA
+"30","MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS...","rectangle",705,476,46,17,NA,NA
+"31","AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...","rectangle",716,422,46,17,"hsa:208",100
+"32","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",513,422,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296",100
+"4","FOXO1, FKH1, FKHR, FOXO1A...","rectangle",1009,233,46,17,NA,NA
+"43","IGF1, IGF, IGF-I, IGFI, MGF...","rectangle",249,422,46,17,"hsa:3630",100
+"44","IGF1R, CD221, IGFIR, IGFR, JTK13","rectangle",339,422,46,17,NA,NA
+"46","IRS1, HIRS-1","rectangle",427,399,46,17,NA,NA
+"49","FOXO3, AF6q21, FKHRL1, FKHRL1P2, FOXO2, FOXO3A","rectangle",1009,643,46,17,NA,NA
+"5","RPS6KB1, PS6K, S6K, S6K-beta-1, S6K1, STK14A, p70_S6KA, p70(S6K)-alpha, p70-S6K, p70-alpha...","rectangle",782,282,46,17,NA,NA
+"50","AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...","rectangle",718,643,46,17,"hsa:208",100
+"51","PIK3CA, CCM4, CLAPO, CLOVE, CWS5, HMH, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha...","rectangle",513,642,46,17,"hsa:5290;hsa:5293",100
+"59","INSR, CD220, HHF5","rectangle",339,642,46,17,"hsa:3643",100
+"6","MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS...","rectangle",705,282,46,17,NA,NA
+"61","K12762","rectangle",339,824,46,17,NA,NA
+"62","KRAS, 'C-K-RAS, C-K-RAS, CFC2, K-RAS2A, K-RAS2B, K-RAS4A, K-RAS4B, K-Ras, K-Ras_2, KI-RAS, KRAS1, KRAS2, NS, NS3, OES, RALD, RASK2, c-Ki-ras, c-Ki-ras2","rectangle",427,824,46,17,NA,NA
+"63","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",718,824,46,17,NA,NA
+"64","K09468","rectangle",1009,828,46,17,NA,NA
+"69","RPS6KB1, PS6K, S6K, S6K-beta-1, S6K1, STK14A, p70_S6KA, p70(S6K)-alpha, p70-S6K, p70-alpha...","rectangle",782,702,46,17,NA,NA
+"7","AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...","rectangle",716,233,46,17,"hsa:208",100
+"70","MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS...","rectangle",705,702,46,17,NA,NA
+"72","K19800","rectangle",792,907,46,17,NA,NA
+"73","MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS","rectangle",715,907,46,17,NA,NA
+"75","K12767","rectangle",825,870,46,17,NA,NA
+"8","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",513,233,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296",100
+"82","EIF4EBP2, 4EBP2, PHASII","rectangle",1009,500,46,17,NA,NA
+"85","FOXA2, HNF-3-beta, HNF3B, TCF3B","rectangle",1009,702,46,17,NA,NA
+"88","K19798","rectangle",1009,870,46,17,NA,NA
+"89","K19764","rectangle",249,642,46,17,NA,NA
+"91","IRS1, HIRS-1","rectangle",427,615,46,17,NA,NA
+"99","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",716,189,46,17,NA,NA

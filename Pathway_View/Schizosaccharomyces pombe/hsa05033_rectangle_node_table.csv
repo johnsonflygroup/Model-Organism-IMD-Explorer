@@ -1,0 +1,33 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"114","CHRNA6, CHNRA6","rectangle",441,511,46,17,NA,NA
+"115","CACNA1A, APCA, BI, CACNL1A4, CAV2.1, DEE42, EA2, EIEE42, FHM, HPCA, MHP, MHP1, SCA6...","rectangle",441,549,46,17,NA,NA
+"116","CACNA1A, APCA, BI, CACNL1A4, CAV2.1, DEE42, EA2, EIEE42, FHM, HPCA, MHP, MHP1, SCA6...","rectangle",441,656,46,17,NA,NA
+"117","CHRNA6, CHNRA6","rectangle",1079,499,46,17,NA,NA
+"118","CACNA1A, APCA, BI, CACNL1A4, CAV2.1, DEE42, EA2, EIEE42, FHM, HPCA, MHP, MHP1, SCA6...","rectangle",1079,548,46,17,NA,NA
+"119","CACNA1A, APCA, BI, CACNL1A4, CAV2.1, DEE42, EA2, EIEE42, FHM, HPCA, MHP, MHP1, SCA6...","rectangle",1079,653,46,17,NA,NA
+"120","CHRNA4, BFNC, EBN, EBN1, NACHR, NACHRA4, NACRA4...","rectangle",1079,694,46,17,NA,NA
+"121","CHRNA7, CHRNA7-2, NACHRA7...","rectangle",441,873,46,17,NA,NA
+"122","CHRNA7, CHRNA7-2, NACHRA7...","rectangle",1079,868,46,17,NA,NA
+"123","CHRNA4, BFNC, EBN, EBN1, NACHR, NACHRA4, NACRA4...","rectangle",441,687,46,17,NA,NA
+"126","GABRR3...","rectangle",549,567,46,17,"hsa:2554;hsa:2559;hsa:2560;hsa:2561;hsa:2562;hsa:2563;hsa:2566",0
+"127","GABRR3...","rectangle",1188,571,46,17,"hsa:2554;hsa:2559;hsa:2560;hsa:2561;hsa:2562;hsa:2563;hsa:2566",0
+"164","GRIN3A, GluN3A, NMDAR-L, NMDAR3A, NR3A...","rectangle",549,933,46,17,"hsa:2902;hsa:2903;hsa:2904;hsa:2906",0
+"165","GRIA1, GLUH1, GLUR1, GLURA, GluA1, HBGR1, MRD67, MRT76...","rectangle",548,1009,46,17,"hsa:2891;hsa:2892;hsa:2893",0
+"166","GRIA1, GLUH1, GLUR1, GLURA, GluA1, HBGR1, MRD67, MRT76...","rectangle",1188,1002,46,17,"hsa:2891;hsa:2892;hsa:2893",0
+"167","GRIN3A, GluN3A, NMDAR-L, NMDAR3A, NR3A...","rectangle",1188,923,46,17,"hsa:2902;hsa:2903;hsa:2904;hsa:2906",0
+"189","GABAergic synapse","roundrectangle",166,571,109,34,NA,NA
+"190","Glutamatergic synapse","roundrectangle",165,931,109,34,NA,NA
+"196","CHRNA4, BFNC, EBN, EBN1, NACHR, NACHRA4, NACRA4...","rectangle",549,807,46,17,NA,NA
+"197","CHRNA4, BFNC, EBN, EBN1, NACHR, NACHRA4, NACRA4...","rectangle",1188,755,46,17,NA,NA
+"210","CHRNA7, CHRNA7-2, NACHRA7...","rectangle",548,1066,46,17,NA,NA
+"211","CHRNA7, CHRNA7-2, NACHRA7...","rectangle",1188,1066,46,17,NA,NA
+"217","GABAergic synapse","roundrectangle",801,575,109,34,NA,NA
+"218","Glutamatergic synapse","roundrectangle",802,934,109,34,NA,NA
+"228","SLC32A1, VGAT, VIAAT, VIAAT_GEFSP12","rectangle",241,601,46,17,NA,NA
+"229","SLC32A1, VGAT, VIAAT, VIAAT_GEFSP12","rectangle",887,603,46,17,NA,NA
+"230","SLC17A8, DFNA25, VGLUT3...","rectangle",215,974,46,17,NA,NA
+"231","SLC17A8, DFNA25, VGLUT3...","rectangle",855,974,46,17,NA,NA
+"232","Dopaminergic synapse","roundrectangle",1423,766,109,34,NA,NA
+"245","CACNA1A, APCA, BI, CACNL1A4, CAV2.1, DEE42, EA2, EIEE42, FHM, HPCA, MHP, MHP1, SCA6...","rectangle",441,915,46,17,NA,NA
+"249","CACNA1A, APCA, BI, CACNL1A4, CAV2.1, DEE42, EA2, EIEE42, FHM, HPCA, MHP, MHP1, SCA6...","rectangle",1079,909,46,17,NA,NA
+"31","TITLE:Nicotine addiction","roundrectangle",131,58,182,25,NA,NA

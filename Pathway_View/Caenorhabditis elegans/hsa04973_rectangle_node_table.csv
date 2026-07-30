@@ -1,0 +1,32 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"102","MGAM, MG, MGA...","rectangle",507,443,46,17,NA,NA
+"107","Pancreatic secretion","roundrectangle",141,235,115,25,NA,NA
+"108","AMY1A, AMY1...","rectangle",137,286,46,17,NA,NA
+"115","SLC2A2, GLUT2","rectangle",536,699,46,17,"hsa:6514",100
+"119","CACNA1D, CACH3, CACN4, CACNL1A2, CCHL1A2, Cav1.3, PASNA, SANDD","rectangle",447,636,46,17,NA,NA
+"126","SLC2A2, GLUT2","rectangle",636,654,46,17,"hsa:6514",100
+"132","HK1, CNSHA5, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, NEDVIBA, NMSR, RP79, hexokinase...","rectangle",720,417,46,17,"hsa:3098",100
+"133","G6PC1, G6PC, G6PT, G6Pase, GSD1, GSD1a...","rectangle",854,430,46,17,"hsa:92579",0
+"135","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",680,504,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296",100
+"136","AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...","rectangle",793,544,46,17,"hsa:208",100
+"145","TAS1R2, GPR71, T1R2, TR2","rectangle",447,759,46,17,NA,NA
+"146","TAS1R3, T1R3","rectangle",447,776,46,17,NA,NA
+"147","GNAT3, GDCA, HG1E","rectangle",551,769,46,17,NA,NA
+"148","PLCB1, DEE12, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B...","rectangle",643,769,46,17,"hsa:23236;hsa:5331;hsa:5332",100
+"149","PRKCB, PKC-beta, PKCB, PKCI(2), PKCbeta, PRKCB1, PRKCB2","rectangle",718,720,46,17,NA,NA
+"158","Taste transduction","roundrectangle",604,738,116,25,NA,NA
+"186","Butanoate metabolism","roundrectangle",279,709,123,25,NA,NA
+"187","Propanoate metabolism","roundrectangle",279,739,123,25,NA,NA
+"188","Pyruvate metabolism","roundrectangle",279,769,123,25,NA,NA
+"189",NA,"rectangle",447,767,46,34,NA,NA
+"24","TITLE:Carbohydrate digestion and absorption","roundrectangle",223,58,366,25,NA,NA
+"25","Salivary secretion","roundrectangle",141,203,115,25,NA,NA
+"28","Tight junction","roundrectangle",600,117,115,25,NA,NA
+"49","SLC5A1, D22S675, NAGT, SGLT-1, SGLT1","rectangle",446,382,46,17,"hsa:6523",0
+"50","SLC2A5, GLUT-5, GLUT5","rectangle",535,568,46,17,NA,NA
+"51","SLC2A2, GLUT2","rectangle",976,358,46,17,"hsa:6514",100
+"52","ATP1B4...","rectangle",975,309,46,17,NA,NA
+"53","SLC37A4, CDG2W, G6PT, G6PT1, G6PT2, G6PT3, GSD1b, GSD1c, GSD1d, PRO0685, SPX4, TRG-19, TRG19","rectangle",747,443,46,17,"hsa:2542",100
+"66","SLC2A2, GLUT2","rectangle",976,695,46,17,"hsa:6514",100
+"78","LCT, LAC, LPH, LPH1","rectangle",420,248,46,17,"hsa:3938",100
+"79","SI","rectangle",425,504,46,17,"hsa:6476",100

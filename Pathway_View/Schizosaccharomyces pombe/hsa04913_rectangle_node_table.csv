@@ -1,0 +1,54 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","INSR, CD220, HHF5","rectangle",216,302,46,17,"hsa:3643",0
+"101","IGF1, IGF, IGF-I, IGFI, MGF","rectangle",131,327,46,17,NA,NA
+"102","IGF1R, CD221, IGFIR, IGFR, JTK13","rectangle",216,329,46,17,NA,NA
+"103","INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10, PNDM4","rectangle",131,771,46,17,"hsa:3630",0
+"104","INSR, CD220, HHF5","rectangle",216,771,46,17,"hsa:3643",0
+"105","IGF1, IGF, IGF-I, IGFI, MGF","rectangle",131,799,46,17,NA,NA
+"106","IGF1R, CD221, IGFIR, IGFR, JTK13","rectangle",216,800,46,17,NA,NA
+"112","LDLR, FH, FHC, FHCL1, LDLCQ2","rectangle",216,410,46,17,"hsa:3949",0
+"115","Insulin signaling pathway","roundrectangle",359,289,123,34,NA,NA
+"116","Insulin signaling pathway","roundrectangle",346,789,123,34,NA,NA
+"117","Steroid hormone biosynthesis","roundrectangle",387,742,123,34,NA,NA
+"123","ALOX5, 5-LO, 5-LOX, 5LPG, LOG5","rectangle",738,172,46,17,NA,NA
+"124","CYP2J2, CPJ2, CYPIIJ2","rectangle",738,208,46,17,NA,NA
+"125","PTGS2, COX-2, COX2, GRIPGHS, PGG/HS, PGHS-2, PHS-2, hCox-2","rectangle",738,244,46,17,NA,NA
+"128","PLA2G4B, HsT16992, cPLA2-beta...","rectangle",493,165,46,17,"hsa:5321",0
+"139","GnRH signaling pathway","roundrectangle",108,185,123,34,NA,NA
+"142","GnRH signaling pathway","roundrectangle",106,836,123,34,NA,NA
+"143","BMP15, GDF9B, ODG2, POF4","rectangle",131,933,46,17,NA,NA
+"144","BMP6, IO, VGR, VGR1","rectangle",131,964,46,17,"hsa:654",0
+"150","TGF-beta signaling pathway","roundrectangle",417,958,123,34,NA,NA
+"154","CYP17A1, CPT7, CYP17, P450C17, S17AH","rectangle",512,527,46,17,"hsa:1586",0
+"155","CYP17A1, CPT7, CYP17, P450C17, S17AH","rectangle",634,527,46,17,"hsa:1586",0
+"157","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",517,895,46,17,NA,NA
+"161","SCARB1, CD36L1, CLA-1, CLA1, HDLCQ6, HDLQTL6, SR-BI, SRB1","rectangle",216,456,46,17,"hsa:949",0
+"32","HSD3B1, 3BETAHSD, HSD3B, HSDB3, HSDB3A, SDR11E1...","rectangle",488,455,46,17,"hsa:3284",0
+"33","HSD3B1, 3BETAHSD, HSD3B, HSDB3, HSDB3A, SDR11E1...","rectangle",603,455,46,17,"hsa:3284",0
+"34","HSD3B1, 3BETAHSD, HSD3B, HSDB3, HSDB3A, SDR11E1...","rectangle",716,455,46,17,"hsa:3284",0
+"35","HSD3B1, 3BETAHSD, HSD3B, HSDB3, HSDB3A, SDR11E1...","rectangle",827,455,46,17,"hsa:3284",0
+"36","HSD17B2, EDH17B2, HSD17, SDR9C2...","rectangle",735,527,46,17,NA,NA
+"37","LHCGR, HHG, LCGR, LGR2, LH/CG-R, LH/CGR, LHR, LHRHR, LSH-R, ULG5","rectangle",216,245,46,17,NA,NA
+"38","CGA, CG-ALPHA, FSHA, GPA1, GPHA1, GPHa, HCG, LHA, TSHA...","rectangle",131,245,46,17,NA,NA
+"39","STAR, STARD1","rectangle",399,367,46,17,"hsa:6770",0
+"40","CYP11A1, CYP11A, CYPXIA1, P450SCC","rectangle",398,390,46,17,"hsa:1583",0
+"41","CYP17A1, CPT7, CYP17, P450C17, S17AH","rectangle",512,396,46,17,"hsa:1586",0
+"42","CYP17A1, CPT7, CYP17, P450C17, S17AH","rectangle",631,396,46,17,"hsa:1586",0
+"43","GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI","rectangle",301,245,46,17,NA,NA
+"44","ADCY1, AC1, DFNB44...","rectangle",389,245,46,17,NA,NA
+"48","CGA, CG-ALPHA, FSHA, GPA1, GPHA1, GPHa, HCG, LHA, TSHA...","rectangle",131,895,46,17,NA,NA
+"49","FSHR, FSHR1, FSHRO, LGR1, ODG1","rectangle",216,895,46,17,NA,NA
+"50","GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI","rectangle",299,895,46,17,NA,NA
+"51","ADCY1, AC1, DFNB44...","rectangle",385,895,46,17,NA,NA
+"6","TITLE:Ovarian steroidogenesis","roundrectangle",159,58,238,25,NA,NA
+"62","HSD17B2, EDH17B2, HSD17, SDR9C2...","rectangle",519,736,46,17,NA,NA
+"64","CYP19A1, ARO, ARO1, CPV1, CYAR, CYP19, CYPXIX, P-450AROM","rectangle",490,791,46,17,"hsa:1588",0
+"66","CYP19A1, ARO, ARO1, CPV1, CYAR, CYP19, CYPXIX, P-450AROM","rectangle",633,736,46,17,"hsa:1588",0
+"69","CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1","rectangle",788,717,46,17,NA,NA
+"70","CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX","rectangle",790,797,46,17,NA,NA
+"72","HSD17B1, 17-beta-HSD, 20-alpha-HSD, E2DH, EDH17B2, EDHB17, HSD17, SDR28C1...","rectangle",663,797,46,17,NA,NA
+"79","HSD17B1, 17-beta-HSD, 20-alpha-HSD, E2DH, EDH17B2, EDHB17, HSD17, SDR28C1...","rectangle",740,396,46,17,NA,NA
+"8","Steroid hormone biosynthesis","roundrectangle",357,497,123,34,NA,NA
+"80","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",517,245,46,17,NA,NA
+"84","ACOT2, CTE-IA, CTE1A, MTE1, PTE2, PTE2A, ZAP128...","rectangle",575,206,46,17,NA,NA
+"99","INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10, PNDM4","rectangle",131,302,46,17,"hsa:3630",0

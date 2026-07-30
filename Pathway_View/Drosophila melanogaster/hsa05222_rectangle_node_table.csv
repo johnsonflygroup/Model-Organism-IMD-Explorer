@@ -1,0 +1,59 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"10","ECM-receptor interaction","roundrectangle",146,573,102,34,NA,NA
+"11","Focal adhesion","roundrectangle",308,663,102,34,NA,NA
+"114","PI3K-Akt signaling pathway","roundrectangle",497,663,102,34,NA,NA
+"115","BAX, BCL2L4","rectangle",373,337,46,17,NA,NA
+"116","CASP3, CPP32, CPP32B, SCA-1","rectangle",638,366,46,17,NA,NA
+"119","TP53, BCC7, BMFS5, LFS1, P53, TRP53","rectangle",802,209,46,17,NA,NA
+"12","ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB","rectangle",223,621,46,17,NA,NA
+"125","CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1","rectangle",932,189,46,17,NA,NA
+"126","GADD45G, CR6, DDIT2, GADD45gamma, GRP17...","rectangle",984,189,46,17,NA,NA
+"127","BAX, BCL2L4","rectangle",932,211,46,17,NA,NA
+"128","BAK1, BAK, BAK-LIKE, BCL2L7, CDN1","rectangle",984,211,46,17,NA,NA
+"129","DDB2, DDBB, UV-DDB2, XPE","rectangle",932,233,46,17,NA,NA
+"13","ITGA6, CD49f, ITGA6A, ITGA6B, JEB6, VLA-6...","rectangle",223,604,46,17,NA,NA
+"130","POLK, DINB1, DINP, POLQ","rectangle",984,233,46,17,NA,NA
+"131",NA,"rectangle",223,612,46,34,NA,NA
+"132",NA,"rectangle",847,312,46,34,NA,NA
+"133",NA,"rectangle",908,368,46,34,NA,NA
+"134",NA,"rectangle",780,528,46,34,NA,NA
+"135",NA,"rectangle",844,120,46,34,NA,NA
+"14","ZBTB17, MIZ-1, ZNF151, ZNF60, pHZ-67","rectangle",760,438,46,17,NA,NA
+"17","CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1","rectangle",846,359,46,17,NA,NA
+"18","RXRA, NR2B1, RXR-alpha, RXRalpha...","rectangle",844,129,46,17,NA,NA
+"19","RARB, HAP, MCOPS12, NR1B2, RARbeta, RARbeta1, RRB2","rectangle",844,112,46,17,NA,NA
+"20","AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...","rectangle",473,613,46,17,"hsa:208",100
+"21","CKS1B, CKS1, PNAS-16, PNAS-18, ckshs1...","rectangle",833,443,46,17,NA,NA
+"22","CASP9, APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56","rectangle",553,366,46,17,NA,NA
+"23","APAF1, APAF-1, CED4","rectangle",439,380,46,17,NA,NA
+"24","MAX, PDMCS, bHLHd4","rectangle",780,537,46,17,NA,NA
+"25","MYC, MRTL, MYCC, bHLHe39, c-Myc","rectangle",780,520,46,17,NA,NA
+"26","PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1","rectangle",393,661,46,17,"hsa:5728",100
+"27","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",366,613,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296",100
+"28","PTK2, FADK, FADK_1, FAK, FAK1, FRNK, PPP1R71, p125FAK, pp125FAK","rectangle",295,613,46,17,NA,NA
+"29","FHIT, AP3Aase, FRA3B","rectangle",284,145,46,17,NA,NA
+"30","CYCS, CYC, HCS, THC4","rectangle",438,350,46,17,"hsa:54205",100
+"31","LAMC3, OCCM...","rectangle",145,613,46,17,NA,NA
+"32","TITLE:Small cell lung cancer","roundrectangle",153,58,225,25,NA,NA
+"33","Apoptosis","roundrectangle",1091,625,102,34,NA,NA
+"34","Cell cycle","roundrectangle",1080,346,102,34,NA,NA
+"35","BIRC2, API1, HIAP2, Hiap-2, MIHB, RNF48, c-IAP1, cIAP1...","rectangle",877,604,46,17,NA,NA
+"36","BCL2, Bcl-2, PPP1R50","rectangle",360,291,46,17,NA,NA
+"37","CCND1, BCL1, D11S287E, PRAD1, U21B31","rectangle",877,569,46,17,NA,NA
+"38","NOS2, HEP-NOS, INOS, NOS, NOS2A","rectangle",877,707,46,17,NA,NA
+"39","PTGS2, COX-2, COX2, GRIPGHS, PGG/HS, PGHS-2, PHS-2, hCox-2","rectangle",877,685,46,17,NA,NA
+"40","CHUK, BPS2, IKBKA, IKK-1, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16...","rectangle",548,613,46,17,NA,NA
+"41","NFKBIA, EDAID2, IKBA, MAD-3, NFKBI","rectangle",622,613,46,17,NA,NA
+"42","BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52","rectangle",877,626,46,17,NA,NA
+"43","TRAF1, EBI6, MGC:10353...","rectangle",877,648,46,17,NA,NA
+"44","E2F1, E2F-1, RBAP1, RBBP3, RBP3...","rectangle",986,406,46,17,NA,NA
+"45","CDK4, CMM3, PSK-J3...","rectangle",847,304,46,17,NA,NA
+"46","NFKB1, CVID12, EBP-1, KBF1, NF-kB, NF-kB1, NF-kappa-B1, NF-kappaB, NF-kappabeta, NFKB-p105, NFKB-p50, NFkappaB...","rectangle",622,646,46,17,NA,NA
+"47","RB1, OSRC, PPP1R130, RB, p105-Rb, p110-RB1, pRb, pp110","rectangle",986,369,46,17,NA,NA
+"48","SKP2, FBL1, FBXL1, FLB1, p45","rectangle",838,400,46,17,NA,NA
+"49","CDKN2B, CDK4I, INK4B, MTS2, P15, TP15, p15INK4b","rectangle",746,303,46,17,NA,NA
+"5","p53 signaling pathway","roundrectangle",626,176,102,34,NA,NA
+"6","CCNE1, CCNE, pCCNE1...","rectangle",908,377,46,17,NA,NA
+"7","CDK2, CDKN2, p33(CDK2)","rectangle",908,360,46,17,NA,NA
+"8","CCND1, BCL1, D11S287E, PRAD1, U21B31","rectangle",847,321,46,17,NA,NA
+"9","Apoptosis","roundrectangle",544,321,102,34,NA,NA

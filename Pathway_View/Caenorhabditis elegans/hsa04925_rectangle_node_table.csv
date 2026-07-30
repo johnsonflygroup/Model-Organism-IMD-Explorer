@@ -1,0 +1,51 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"101","Steroid hormone biosynthesis","roundrectangle",788,656,125,34,NA,NA
+"103","ORAI1, CRACM1, IMD9, ORAT1, TAM2, TMEM142A","rectangle",244,435,46,17,NA,NA
+"119","DAGLB, DAGLBETA, KCCR13L...","rectangle",574,338,46,17,NA,NA
+"123","Arachidonic acid metabolism","roundrectangle",667,351,125,34,NA,NA
+"124","LDLR, FH, FHC, FHCL1, LDLCQ2","rectangle",244,505,46,17,"hsa:3949",100
+"125","SCARB1, CD36L1, CLA-1, CLA1, HDLCQ6, HDLQTL6, SR-BI, SRB1","rectangle",244,539,46,17,"hsa:949",100
+"129","LIPE, AOMS4, FPLD6, HSL, LHS, REH","rectangle",577,452,46,17,"hsa:3991",100
+"132","ATF1, EWS-ATF1, FUS/ATF-1, TREB36","rectangle",800,352,46,17,NA,NA
+"136","NR4A2, HZF-3, IDLDP, NOT, NURR1, RNR1, TINUR","rectangle",996,380,46,17,NA,NA
+"137","NR4A1, GFRP1, HMR, N10, NAK-1, NGFIB, NP10, NUR77, TR3","rectangle",996,403,46,17,NA,NA
+"140","CYP11A1, CYP11A, CYPXIA1, P450SCC","rectangle",811,590,46,17,"hsa:1583",100
+"141","CYP21A2, CA21H, CAH1, CPS1, CYP21, CYP21B, P450c21B","rectangle",948,701,46,17,"hsa:1589",0
+"148","KCNJ5, CIR, GIRK4, KATP1, KIR3.4, LQT13","rectangle",244,284,46,17,NA,NA
+"149","ATP1B4...","rectangle",244,319,46,17,NA,NA
+"15","TITLE:Aldosterone synthesis and secretion","roundrectangle",212,58,343,25,NA,NA
+"150","ATP2B1, MRD66, PMCA1, PMCA1kb...","rectangle",244,465,46,17,NA,NA
+"151","POMC, ACTH, CLIP, LPH, MSH, NPP, OBAIRH, POC","rectangle",147,579,46,17,NA,NA
+"156","AGT, ANHU, SERPINA8, hFLT1","rectangle",147,161,46,17,NA,NA
+"157","NPPA, ANF, ANP, ATFB6, ATRST2, CDD, CDD-ANF, CDP, PND","rectangle",147,724,46,17,NA,NA
+"158",NA,"rectangle",800,343,46,34,NA,NA
+"19","ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29...","rectangle",601,193,46,17,"hsa:3708;hsa:3709",100
+"21","KCNK3, K2p3.1, OAT1, PPH4, TASK, TASK-1, TASK1, TBAK1...","rectangle",244,252,46,17,NA,NA
+"23","PLCB1, DEE12, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B...","rectangle",420,161,46,17,"hsa:23236;hsa:5331;hsa:5332",100
+"24","CACNA1C, CACH2, CACN2, CACNA1C-IT2, CACNL1A1, CCHL1A1, CaV1.2, LQT8, NEDHLSS, TS, TS._LQT8...","rectangle",244,390,46,17,NA,NA
+"28","GNA11, FBH, FBH2, FHH2, GNA-11, HG1K, HHC2, HYPOC2...","rectangle",330,161,46,17,NA,NA
+"30","CACNA1I, Cav3.3, NEDSIS, ca(v)3.3...","rectangle",244,366,46,17,NA,NA
+"33","Calcium signaling pathway","roundrectangle",452,359,125,34,NA,NA
+"34","CREB3, LUMAN, LZIP, sLZIP...","rectangle",800,335,46,17,NA,NA
+"35","ADCY1, AC1, DFNB44...","rectangle",244,647,46,17,NA,NA
+"40","PDE2A, CGS-PDE, IDDPADS, PDE2A1, PED2A4, cGSPDE","rectangle",434,662,46,17,NA,NA
+"42","CALML6, CAGLP...","rectangle",599,387,46,17,NA,NA
+"44","AGTR1, AG2S, AGTR1B, AT1, AT1AR, AT1B, AT1BR, AT1R, AT2R1, ATR1, HAT1R","rectangle",244,161,46,17,NA,NA
+"48","MC2R, ACTHR","rectangle",244,579,46,17,"hsa:4158",0
+"50","GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI","rectangle",341,579,46,17,NA,NA
+"57","PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA...","rectangle",594,268,46,17,NA,NA
+"58","PRKD3, EPK2, PKC-NU, PKD3, PRKCN, nPKC-NU...","rectangle",690,268,46,17,NA,NA
+"59","CAMK1D, CKLiK, CaM-K1, CaMKID...","rectangle",685,387,46,17,NA,NA
+"63","NR4A2, HZF-3, IDLDP, NOT, NURR1, RNR1, TINUR","rectangle",799,418,46,17,NA,NA
+"64","NR4A1, GFRP1, HMR, N10, NAK-1, NGFIB, NP10, NUR77, TR3","rectangle",799,441,46,17,NA,NA
+"69","CYP11B2, ALDOS, CPN2, CYP11B, CYP11BL, CYPXIB2, P-450C18, P450C18, P450aldo","rectangle",996,330,46,17,"hsa:1585",0
+"70","STAR, STARD1","rectangle",996,352,46,17,"hsa:6770",100
+"72","NPR1, ANPRA, ANPa, GUC2A, GUCY2A, NPRA","rectangle",244,724,46,17,NA,NA
+"73","STAR, STARD1","rectangle",760,558,46,17,"hsa:6770",100
+"76","HSD3B1, 3BETAHSD, HSD3B, HSDB3, HSDB3A, SDR11E1...","rectangle",948,617,46,17,"hsa:3284",0
+"77","CYP11B2, ALDOS, CPN2, CYP11B, CYP11BL, CYPXIB2, P-450C18, P450C18, P450aldo","rectangle",802,788,46,17,"hsa:1585",0
+"88","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",484,556,46,17,NA,NA
+"96","cGMP-PKG signaling pathway","roundrectangle",355,769,125,34,NA,NA
+"97","cAMP signaling pathway","roundrectangle",491,620,125,34,NA,NA
+"98","Renin-angiotensin system","roundrectangle",155,126,125,34,NA,NA
+"99","Aldosterone-regulated sodium reabsorption","roundrectangle",129,817,125,34,NA,NA

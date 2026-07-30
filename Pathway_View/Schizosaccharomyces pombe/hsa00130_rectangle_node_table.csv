@@ -1,0 +1,75 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"10","Phenylpropanoid biosynthesis","roundrectangle",65,296,101,34,NA,NA
+"110","K12502...","rectangle",653,268,46,17,NA,NA
+"111","K12502...","rectangle",649,121,46,17,NA,NA
+"112","TAT","rectangle",317,256,46,17,"hsa:6898",0
+"113","K18606","rectangle",253,189,46,17,NA,NA
+"114","K01904","rectangle",189,417,46,17,NA,NA
+"115","K03183","rectangle",800,1182,46,17,NA,NA
+"116","K09834","rectangle",653,228,46,17,NA,NA
+"117","K02548","rectangle",799,1064,46,17,NA,NA
+"118","K23094","rectangle",966,1063,46,17,NA,NA
+"125","Terpenoid backbone biosynthesis","roundrectangle",885,995,119,34,NA,NA
+"126","K05928","rectangle",768,228,46,17,NA,NA
+"127","K09834","rectangle",768,268,46,17,NA,NA
+"128","K05928","rectangle",879,268,46,17,NA,NA
+"129","Terpenoid backbone biosynthesis","roundrectangle",518,192,113,34,NA,NA
+"139","K09833","rectangle",555,268,46,17,NA,NA
+"141","Oxidative phosphorylation","roundrectangle",413,1372,149,25,NA,NA
+"146","K03185","rectangle",482,1001,46,17,NA,NA
+"147","COQ5, COQ10D9","rectangle",458,1092,46,17,"hsa:84274",100
+"148","K03184...","rectangle",482,1186,46,17,NA,NA
+"149","K12501","rectangle",555,121,46,17,NA,NA
+"150","Terpenoid backbone biosynthesis","roundrectangle",314,666,119,34,NA,NA
+"168","K13565","rectangle",178,697,46,17,NA,NA
+"169","K24441","rectangle",177,831,46,17,NA,NA
+"176","GGCX, VKCFD1","rectangle",965,1260,46,17,"hsa:2677",0
+"177","VKORC1L1...","rectangle",799,1340,46,17,"hsa:79001",0
+"178","NQO1, DHQU, DIA4, DTD, NMOR1, NMORI, QR1","rectangle",755,1306,46,17,NA,NA
+"181","NQO1, DHQU, DIA4, DTD, NMOR1, NMORI, QR1","rectangle",1010,1306,46,17,NA,NA
+"184","GGCX, VKCFD1","rectangle",799,1260,46,17,"hsa:2677",0
+"186","VKORC1L1...","rectangle",966,1340,46,17,"hsa:79001",0
+"187","Complement and coagulation cascades","roundrectangle",886,1369,119,34,NA,NA
+"200","K11783","rectangle",681,912,46,17,NA,NA
+"201","K11784","rectangle",681,1010,46,17,NA,NA
+"202","K11785","rectangle",681,1110,46,17,NA,NA
+"203","K18286...","rectangle",681,813,46,17,NA,NA
+"204","K11782","rectangle",681,587,46,17,NA,NA
+"205","K18285","rectangle",681,711,46,17,NA,NA
+"206","K18284","rectangle",629,866,46,17,NA,NA
+"211","K00487","rectangle",127,362,46,17,NA,NA
+"219","K09834","rectangle",653,393,46,17,NA,NA
+"220","K05928","rectangle",768,393,46,17,NA,NA
+"221","K09834","rectangle",768,355,46,17,NA,NA
+"222","K05928","rectangle",879,355,46,17,NA,NA
+"228","K09833","rectangle",555,355,46,17,NA,NA
+"229","K12502...","rectangle",653,355,46,17,NA,NA
+"232","Terpenoid backbone biosynthesis","roundrectangle",518,427,113,34,NA,NA
+"234","K17872","rectangle",965,1122,46,17,NA,NA
+"236","K23095","rectangle",965,1182,46,17,NA,NA
+"241","COQ6, CGI-10, CGI10, COQ10D6","rectangle",394,766,46,17,"hsa:51004",100
+"242","COQ4, CGI-92, COQ10D7, SPAX10","rectangle",394,927,46,17,"hsa:51117",100
+"243","COQ6, CGI-10, CGI10, COQ10D6","rectangle",432,1001,46,17,"hsa:51004",100
+"248","COQ7, CAT5, CLK-1, CLK1, COQ10D8, HMNR9","rectangle",366,1186,46,17,"hsa:10229",100
+"249","K24844...","rectangle",495,846,46,17,NA,NA
+"250","K24844...","rectangle",458,1020,46,17,NA,NA
+"251","K24844...","rectangle",432,1186,46,17,NA,NA
+"254","COQ3, DHHBMT, DHHBMTASE, UG0215E05, bA9819.1","rectangle",366,1262,46,17,NA,NA
+"60","K08680...","rectangle",799,625,46,17,NA,NA
+"63","Phenylalanine, tyrosine and tryptophan biosynthesis","roundrectangle",319,472,151,34,NA,NA
+"64","K01661","rectangle",799,857,46,17,NA,NA
+"65","K01911...","rectangle",800,776,46,17,NA,NA
+"66","K02549...","rectangle",799,700,46,17,NA,NA
+"67","K02551...","rectangle",799,549,46,17,NA,NA
+"68","K00568","rectangle",520,927,46,17,NA,NA
+"69","K18800","rectangle",545,846,46,17,NA,NA
+"70","K03182...","rectangle",520,766,46,17,NA,NA
+"71","COQ2, CL640, COQ10D1, MSA1, PHB:PPT","rectangle",458,697,46,17,"hsa:27235",0
+"72","K00568","rectangle",458,1262,46,17,NA,NA
+"73","COQ3, DHHBMT, DHHBMTASE, UG0215E05, bA9819.1","rectangle",394,846,46,17,NA,NA
+"74","K03181...","rectangle",540,518,46,17,NA,NA
+"75","K01851...","rectangle",732,519,46,17,NA,NA
+"9","TITLE:Ubiquinone and other terpenoid-quinone biosynthesis","roundrectangle",266,58,452,25,NA,NA
+"91","K12073...","rectangle",799,925,46,17,NA,NA
+"94","K01075","rectangle",377,519,46,17,NA,NA
+"96","HPD, 4-HPPD, 4HPPD, GLOD3, HPPD, HPPDASE, PPD","rectangle",382,189,46,17,"hsa:3242",0

@@ -1,0 +1,62 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"101","PIGO, HPMRS2","rectangle",301,491,46,17,"hsa:84720",100
+"102","PIGG, EMM, GPI7, LAS21, MRT53, NEDHSCA, PRO4405, RLGS1930","rectangle",301,577,46,17,"hsa:54872",100
+"103","PIGF, OORS","rectangle",347,577,46,17,NA,NA
+"105","PIGF, OORS","rectangle",347,491,46,17,NA,NA
+"107","PIGU, CDC91L1, GAB1, GPIBD21, NEDBSS, PIG-U","rectangle",324,663,46,17,"hsa:128869",100
+"108","PIGT, CGI-06, MCAHS3, NDAP, PIG-T, PNH2","rectangle",347,646,46,17,"hsa:51604",100
+"109","PIGS, DEE95, GPIBD18, PIG-S","rectangle",301,646,46,17,"hsa:94005",100
+"110","PIGK, GPI8, NEDHCAS","rectangle",347,629,46,17,"hsa:10026",100
+"111","GPAA1, GAA1, GPIBD15, hGAA1","rectangle",301,629,46,17,"hsa:8733",100
+"116","PGAP1, Bst1, ISPD3024, MRT42, NEDDSBA, SPG67","rectangle",324,723,46,17,"hsa:80055",100
+"120","PGAP3, AGLA546, CAB2, PERLD1, PP1498, hCOS16","rectangle",169,869,46,17,"hsa:93210",100
+"123","PGAP2, CWH43-N, FRAG1, HPMRS3, MRT17, MRT21","rectangle",169,933,46,17,"hsa:27315",100
+"125","PGAP4, C9orf125, TMEM246","rectangle",170,989,46,17,NA,NA
+"128","B3GALT4, BETA3GALT4, GALT2, GALT4","rectangle",169,1057,46,17,NA,NA
+"13","PIGY, HPMRS6, PIG-Y","rectangle",233,206,46,17,"hsa:84992",0
+"132","PGAP3, AGLA546, CAB2, PERLD1, PP1498, hCOS16","rectangle",325,869,46,17,"hsa:93210",100
+"134","K25162","rectangle",324,933,46,17,NA,NA
+"136","K27881","rectangle",376,968,46,17,NA,NA
+"139","MPPE1, Cdc1, PGAP5","rectangle",480,968,46,17,NA,NA
+"14","DPM2, CDG1U","rectangle",211,223,46,17,"hsa:8818",100
+"144","MPPE1, Cdc1, PGAP5","rectangle",594,1058,46,17,NA,NA
+"146","MPPE1, Cdc1, PGAP5","rectangle",480,1058,46,17,NA,NA
+"15","PIGQ, DEE77, EIEE77, GPI1, GPIBD19, MCAHS4, c407A10.1","rectangle",187,206,46,17,"hsa:9091",100
+"155","K27886","rectangle",705,968,46,17,NA,NA
+"16","PIGP, DCRC, DCRC-S, DEE55, DSCR5, DSRC, EIEE55, PIG-P","rectangle",233,189,46,17,"hsa:51227",100
+"166","K27880","rectangle",226,277,46,17,NA,NA
+"17","PIGH, GPI-H","rectangle",187,189,46,17,"hsa:5283",100
+"18","PIGC, GPI2, GPIBD16, MRT62","rectangle",233,172,46,17,"hsa:5279",100
+"182","MPPE1, Cdc1, PGAP5","rectangle",594,968,46,17,NA,NA
+"19","PIGX, PIG-X","rectangle",334,277,46,17,NA,NA
+"191",NA,"rectangle",334,268,46,34,NA,NA
+"192",NA,"rectangle",169,491,92,17,NA,NA
+"193",NA,"rectangle",169,646,92,51,NA,NA
+"194",NA,"rectangle",210,197,92,68,NA,NA
+"195",NA,"rectangle",169,577,92,17,NA,NA
+"196",NA,"rectangle",324,491,92,17,NA,NA
+"197",NA,"rectangle",324,577,92,17,NA,NA
+"198",NA,"rectangle",324,646,92,51,NA,NA
+"21","PIGU, CDC91L1, GAB1, GPIBD21, NEDBSS, PIG-U","rectangle",169,663,46,17,"hsa:128869",100
+"22","PIGT, CGI-06, MCAHS3, NDAP, PIG-T, PNH2","rectangle",192,646,46,17,"hsa:51604",100
+"23","PIGS, DEE95, GPIBD18, PIG-S","rectangle",146,646,46,17,"hsa:94005",100
+"25","PIGM, GPI-MT-I","rectangle",334,260,46,17,"hsa:93183",100
+"36","PIGF, OORS","rectangle",192,491,46,17,NA,NA
+"37","PIGL, CHIME","rectangle",328,190,46,17,"hsa:9487",100
+"38","PIGK, GPI8, NEDHCAS","rectangle",192,629,46,17,"hsa:10026",100
+"39","PIGB, DEE80, EIEE80, GPI-MT-III, PIG-B","rectangle",169,388,46,17,"hsa:9488",100
+"40","GPAA1, GAA1, GPIBD15, hGAA1","rectangle",146,629,46,17,"hsa:8733",100
+"41","PGAP1, Bst1, ISPD3024, MRT42, NEDDSBA, SPG67","rectangle",169,723,46,17,"hsa:80055",100
+"42","PIGN, MCAHS, MCAHS1, MCD4, MDC4, PIG-N","rectangle",169,313,46,17,"hsa:23556",100
+"43","PIGA, GPI3, MCAHS2, NEDEPH, PIG-A, PNH1","rectangle",187,172,46,17,"hsa:5277",100
+"44","GPLD1, GPIPLD, GPIPLDM, PIGPLD, PIGPLD1, PLD","rectangle",446,189,46,17,NA,NA
+"45","PIGO, HPMRS2","rectangle",146,491,46,17,"hsa:84720",100
+"46","PIGW, Gwt1, HPMRS5","rectangle",389,236,46,17,"hsa:284098",100
+"47","PIGV, GPI-MT-II, HPMRS1, PIG-V","rectangle",226,260,46,17,"hsa:55650",100
+"48","Glycerophospholipid metabolism","roundrectangle",119,119,122,34,NA,NA
+"49","TITLE:Glycosylphosphatidylinositol (GPI)-anchor biosynthesis","roundrectangle",275,58,470,25,NA,NA
+"50","N-Glycan biosynthesis","roundrectangle",490,320,76,34,NA,NA
+"77","PIGG, EMM, GPI7, LAS21, MRT53, NEDHSCA, PRO4405, RLGS1930","rectangle",146,577,46,17,"hsa:54872",100
+"78","PIGF, OORS","rectangle",192,577,46,17,NA,NA
+"81","MPPE1, Cdc1, PGAP5","rectangle",170,797,46,17,NA,NA
+"96","PIGZ, GPI-MT-IV, PIG-Z, SMP3","rectangle",270,429,46,17,NA,NA

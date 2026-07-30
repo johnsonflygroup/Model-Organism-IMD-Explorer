@@ -1,0 +1,30 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"12","PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA...","rectangle",452,521,46,17,NA,NA
+"14","CAMK4, CaMK_IV, CaMK-GR, CaMKIV, caMK","rectangle",816,547,46,17,NA,NA
+"15","CREBBP, CBP, KAT3A, MKHK1, RSTS, RSTS1...","rectangle",889,500,46,17,NA,NA
+"21","CAMK2A, CAMKA, CaMKIINalpha, CaMKIIalpha, MRD53, MRT63...","rectangle",530,371,46,17,NA,NA
+"23","PPP3CA, ACCIID, CALN, CALNA, CALNA1, CCN1, CNA1, DEE91, IECEE, IECEE1, PPP2B...","rectangle",448,371,46,17,NA,NA
+"24","CALML6, CAGLP...","rectangle",437,440,46,17,NA,NA
+"25","RPS6KA6, PP90RSK4, RSK-4, RSK4, S6K-alpha-6, p90RSK6...","rectangle",816,440,46,17,NA,NA
+"26","ATF4, CREB-2, CREB2, TAXREB67, TXREB","rectangle",884,440,46,17,NA,NA
+"27","GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1...","rectangle",317,439,46,17,"hsa:2902;hsa:2903;hsa:2904;hsa:2906",100
+"28","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",576,208,46,17,NA,NA
+"29","CACNA1C, CACH2, CACN2, CACNA1C-IT2, CACNL1A1, CCHL1A1, CaV1.2, LQT8, NEDHLSS, TS, TS._LQT8","rectangle",316,498,46,17,NA,NA
+"30","PPP1CA, PP-1A, PP1A, PP1alpha, PPP1A...","rectangle",542,332,46,17,NA,NA
+"31","ADCY1, AC1, DFNB44...","rectangle",317,306,46,17,NA,NA
+"32","GRIA1, GLUH1, GLUR1, GLURA, GluA1, HBGR1, MRD67, MRT76...","rectangle",317,175,46,17,"hsa:2891",100
+"33","RAPGEF3, CAMP-GEFI, EPAC, EPAC1, HSU79275, bcm910","rectangle",488,282,46,17,NA,NA
+"34","MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, NS13, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK...","rectangle",743,440,46,17,NA,NA
+"35","MAP2K1, CFC3, MAPKK1, MEK1, MEL, MKK1, PRKMK1...","rectangle",677,440,46,17,NA,NA
+"36","ARAF, A-RAF, ARAF1, PKS2, RAFA1...","rectangle",610,440,46,17,NA,NA
+"37","HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras...","rectangle",543,440,46,17,NA,NA
+"38","RAP1A, C21KG, G-22K, KREV-1, KREV1, RAP1, SMGP21...","rectangle",598,332,46,17,NA,NA
+"39","PPP1R1A, I1, IPP1","rectangle",558,266,46,17,NA,NA
+"40","GNAQ, CMAL, CMC1, G-ALPHA-q, GAQ, SWS","rectangle",393,590,46,17,NA,NA
+"41","GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCA44, SCAR13...","rectangle",316,590,46,17,"hsa:2911",100
+"42","PLCB1, DEE12, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B...","rectangle",464,590,46,17,"hsa:23236;hsa:5331;hsa:5332",100
+"43","ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29...","rectangle",582,529,46,17,"hsa:3708;hsa:3709",100
+"57","TITLE:Long-term potentiation","roundrectangle",149,58,217,25,NA,NA
+"58","MAPK signaling pathway","roundrectangle",707,476,111,34,NA,NA
+"59","Calcium signaling pathway","roundrectangle",665,584,112,34,NA,NA
+"60","Glutamatergic synapse","roundrectangle",244,132,92,34,NA,NA

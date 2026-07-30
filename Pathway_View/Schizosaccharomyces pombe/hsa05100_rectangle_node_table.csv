@@ -1,0 +1,74 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"105","TITLE:Bacterial invasion of epithelial cells","roundrectangle",215,58,350,25,NA,NA
+"106","ECM-receptor interaction","roundrectangle",510,79,92,34,NA,NA
+"107","Regulation of actin cytoskeleton","roundrectangle",523,514,100,34,NA,NA
+"108","Bacterial secretion system","roundrectangle",830,170,92,34,NA,NA
+"109","Endocytosis","roundrectangle",386,213,92,25,NA,NA
+"110","SEPTIN9, AF17q25, MSF, MSF1, NAPB, PNUTL4, SEPT9, SINT1, SeptD1...","rectangle",232,641,46,17,NA,NA
+"111","K13730","rectangle",175,159,46,17,NA,NA
+"112","K13731","rectangle",235,159,46,17,NA,NA
+"113","K13732","rectangle",448,159,46,17,NA,NA
+"114","K13735","rectangle",579,159,46,17,NA,NA
+"115","K13734","rectangle",513,159,46,17,NA,NA
+"116","K13284","rectangle",676,256,46,17,NA,NA
+"117","K13286","rectangle",717,225,46,17,NA,NA
+"118","CTNNB1, CTNNB, EVR7, MRD19, NEDSDV, armadillo","rectangle",151,262,46,17,NA,NA
+"119","CTNNA1, CAP102, MDBS2, MDPT2...","rectangle",151,280,45,19,NA,NA
+"120","RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1","rectangle",233,430,46,17,NA,NA
+"121","CDH1, Arc-1, BCDS1, CD324, CDHE, ECAD, LCAM, UVO","rectangle",176,209,46,17,NA,NA
+"122","ARHGAP10, GRAF2, PS-GAP, PSGAP","rectangle",151,296,46,17,NA,NA
+"123","CDC42, CDC42Hs, G25K, TKS","rectangle",180,430,46,17,NA,NA
+"124","SRC, ASV, SRC1, THC6, c-SRC, p60-Src","rectangle",453,282,46,17,NA,NA
+"125","CTTN, EMS1...","rectangle",452,250,46,17,NA,NA
+"126","ITGA5, CD49e, FNRA, VLA-5, VLA5A...","rectangle",513,209,46,17,NA,NA
+"127","ARPC5, ARC16, IMD113, dJ127C7.3, p16-Arc...","rectangle",233,527,46,17,NA,NA
+"128","ACTB, BKRNS, BNS, BRWS1, CSMH, DDS1, PS1TP5BP1, THC8...","rectangle",233,575,46,17,NA,NA
+"129","DOCK1, DOCK180, ced5","rectangle",234,364,46,17,NA,NA
+"130","PXN","rectangle",455,399,46,17,NA,NA
+"131","PTK2, FADK, FADK_1, FAK, FAK1, FRNK, PPP1R71, p125FAK, pp125FAK","rectangle",452,314,46,17,NA,NA
+"132","CRK, CRKII, p38...","rectangle",233,313,46,17,NA,NA
+"133","CD2AP, CMS","rectangle",301,276,46,17,NA,NA
+"134","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",182,335,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296",0
+"135","CBL, C-CBL, CBL2, FRA11B, NSLL, RNF55","rectangle",301,223,46,17,NA,NA
+"136","MET, AUTS9, DA11, DFNB97, HGFR, RCCP2, c-Met","rectangle",233,209,46,17,NA,NA
+"138","DNM1, DEE31, DEE31A, DEE31B, DNM, EIEE31...","rectangle",370,250,46,17,"hsa:1759;hsa:1785",0
+"139","BCAR1, CAS, CAS1, CASS1, CRKAS, P130Cas","rectangle",452,331,46,17,NA,NA
+"140","CLTA, LCA...","rectangle",352,277,46,17,"hsa:1213",100
+"141","WASF2, IMD2, SCAR2, WASF4, WAVE2, dJ393P12.2...","rectangle",232,478,46,17,NA,NA
+"142","WASL, N-WASP, NWASP, WASPB","rectangle",181,478,46,17,NA,NA
+"143","GAB1, DFNB26","rectangle",233,261,46,17,NA,NA
+"158","SHC2, SCK, SHCB, SLI...","rectangle",301,250,46,17,NA,NA
+"161","FN1, CIG, ED-B, FINC, FN, FNZ, GFND, GFND2, LETS, MSF, SMDCF","rectangle",513,180,46,17,NA,NA
+"165","CAV1, BSCL3, CGL3, LCCNS, MSTP085, PPH3, VIP21, CAV...","rectangle",403,277,46,17,NA,NA
+"172","ILK, HEL-S-28, ILK-1, ILK-2, P59, p59ILK","rectangle",517,315,46,17,NA,NA
+"175","Focal adhesion","roundrectangle",339,366,92,25,NA,NA
+"177","K13285","rectangle",767,225,46,17,NA,NA
+"178","K13741","rectangle",783,256,46,17,NA,NA
+"225","K13085","rectangle",833,256,46,17,NA,NA
+"226","RHOG, ARHG","rectangle",855,344,46,17,NA,NA
+"227","ARHGEF26, CSGEF, HMFN1864, SGEF","rectangle",855,306,46,17,NA,NA
+"228","DOCK1, DOCK180, ced5","rectangle",855,420,46,17,NA,NA
+"229","CRK, CRKII, p38...","rectangle",928,420,46,17,NA,NA
+"230","K13739","rectangle",832,225,46,17,NA,NA
+"295","RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1","rectangle",783,430,46,17,NA,NA
+"296","CDC42, CDC42Hs, G25K, TKS","rectangle",733,430,46,17,NA,NA
+"297","ARPC5, ARC16, IMD113, dJ127C7.3, p16-Arc...","rectangle",783,527,46,17,NA,NA
+"298","ACTB, BKRNS, BNS, BRWS1, CSMH, DDS1, PS1TP5BP1, THC8...","rectangle",783,575,46,17,NA,NA
+"299","WASF2, IMD2, SCAR2, WASF4, WAVE2, dJ393P12.2...","rectangle",783,478,46,17,NA,NA
+"300","WASL, N-WASP, NWASP, WASPB","rectangle",733,478,46,17,NA,NA
+"313","K13740","rectangle",733,256,46,17,NA,NA
+"324","K13286","rectangle",973,216,46,17,NA,NA
+"325","K13285","rectangle",1030,216,46,17,NA,NA
+"326","K13284","rectangle",1070,256,46,17,NA,NA
+"327","K13742","rectangle",949,256,46,17,NA,NA
+"328","K12785","rectangle",1017,256,46,17,NA,NA
+"332","K13085","rectangle",1105,297,46,17,NA,NA
+"335","MAD2L2, FANCV, MAD2B, POLZ2, REV7","rectangle",1105,217,46,17,NA,NA
+"336","Cell cycle","roundrectangle",1102,162,92,25,NA,NA
+"340","K13287","rectangle",667,225,46,17,NA,NA
+"342","VCL, CMD1W, CMH15, HEL114, MV, MVCL, VINC","rectangle",1070,568,46,17,NA,NA
+"346","RHOA, ARH12, ARHA, EDFAOB, RHO12, RHOH12","rectangle",1043,517,46,17,NA,NA
+"348","K13743","rectangle",1043,297,46,17,NA,NA
+"351","ELMO2, CED-12, CED12, Ced-12A, ELMO-2, VMPI...","rectangle",855,381,46,17,NA,NA
+"354","K13733","rectangle",448,176,46,17,NA,NA
+"355","K13925","rectangle",513,139,46,17,NA,NA

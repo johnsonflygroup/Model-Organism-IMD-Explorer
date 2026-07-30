@@ -1,0 +1,25 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"29","Glycerophospholipid metabolism","roundrectangle",229,134,179,27,NA,NA
+"30","TITLE:Ether lipid metabolism","roundrectangle",144,58,207,25,NA,NA
+"59","K06123","rectangle",395,238,46,17,NA,NA
+"60","AGPS, ADAP-S, ADAS, ADHAPS, ADPS, ALDHPSY, RCDP3","rectangle",396,168,46,17,"hsa:8540",0
+"62","PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A...","rectangle",613,383,46,17,NA,NA
+"65","CEPT1...","rectangle",180,453,46,17,NA,NA
+"66","CEPT1...","rectangle",613,453,46,17,"hsa:85465",0
+"67","CEPT1...","rectangle",314,453,46,17,NA,NA
+"69","PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH...","rectangle",159,521,46,17,NA,NA
+"70","PLA2G4B, HsT16992, cPLA2-beta...","rectangle",271,558,46,17,"hsa:5321;hsa:8398",0
+"71","LPCAT2, AGPAT11, AYTL1, LPLAT9, LysoPAFAT...","rectangle",223,576,46,17,NA,NA
+"72","LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2, LPLAT10...","rectangle",203,541,46,17,NA,NA
+"73","PLA2G4B, HsT16992, cPLA2-beta...","rectangle",541,575,46,17,"hsa:5321;hsa:8398",0
+"74","LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2, LPLAT10","rectangle",541,556,46,17,NA,NA
+"75","PEDS1, CarF, KUA, TMEM189...","rectangle",612,516,46,17,NA,NA
+"76","TMEM86A...","rectangle",485,525,46,17,NA,NA
+"77","CEPT1...","rectangle",593,656,46,17,"hsa:85465",0
+"78","PLD4, C14orf175...","rectangle",541,656,46,17,NA,NA
+"79","K01114...","rectangle",638,678,46,17,NA,NA
+"82","TMEM86A...","rectangle",505,854,46,17,NA,NA
+"83","GDPD1, GDE4...","rectangle",469,595,46,17,NA,NA
+"86","ENPP6, NPP6","rectangle",423,566,46,17,NA,NA
+"92","UGT8, CGT, UGT4","rectangle",794,453,46,17,NA,NA
+"93","GAL3ST1, CST","rectangle",794,516,46,17,NA,NA

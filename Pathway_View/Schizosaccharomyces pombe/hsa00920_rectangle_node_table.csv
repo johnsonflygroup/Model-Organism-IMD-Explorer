@@ -1,0 +1,103 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"103","K08357...","rectangle",596,170,46,17,NA,NA
+"104","K16936...","rectangle",545,130,46,17,NA,NA
+"108","K10150","rectangle",973,360,46,17,NA,NA
+"109","K01738...","rectangle",973,381,46,17,NA,NA
+"110","Cysteine and methionine metabolism","roundrectangle",1151,371,140,34,NA,NA
+"115","Other carbon fixation pathways","roundrectangle",1131,285,126,34,NA,NA
+"117","K00640...","rectangle",930,230,46,17,NA,NA
+"119","Glycine, serine and threonine metabolism","roundrectangle",1067,189,123,34,NA,NA
+"120","Methane metabolism","roundrectangle",928,133,122,25,NA,NA
+"121","Methane metabolism","roundrectangle",532,533,77,34,NA,NA
+"124","K17486","rectangle",566,847,46,17,NA,NA
+"126","K17222...","rectangle",319,85,46,17,NA,NA
+"129","K10764","rectangle",973,467,46,17,NA,NA
+"130","K01739","rectangle",973,446,46,17,NA,NA
+"134","K00651...","rectangle",929,595,46,17,NA,NA
+"135","Glycine, serine and threonine metabolism","roundrectangle",1064,639,118,34,NA,NA
+"137","K03119","rectangle",244,303,46,17,NA,NA
+"139","K04091...","rectangle",319,303,46,17,NA,NA
+"142","K02048...","rectangle",95,212,46,17,NA,NA
+"143","K15553...","rectangle",318,212,46,17,NA,NA
+"144","K15551...","rectangle",243,212,46,17,NA,NA
+"158","K00392","rectangle",849,1027,46,17,NA,NA
+"159","K00390","rectangle",529,1017,46,17,NA,NA
+"161","PAPSS2, ATPSK2, BCYM4, SK2...","rectangle",268,998,46,17,"hsa:9060",100
+"162","K00380...","rectangle",849,1006,46,17,NA,NA
+"167","K00958","rectangle",268,1017,46,17,NA,NA
+"168","K00955...","rectangle",394,1017,46,17,NA,NA
+"169","K00955...","rectangle",268,1036,46,17,NA,NA
+"173","K00958","rectangle",268,1082,46,17,NA,NA
+"178","K00394...","rectangle",463,1083,46,17,NA,NA
+"179","K11180...","rectangle",851,1083,46,17,NA,NA
+"183","K17222","rectangle",646,1142,46,17,NA,NA
+"184","K17223","rectangle",646,1159,46,17,NA,NA
+"185","K17226","rectangle",484,1116,46,17,NA,NA
+"186","K17227","rectangle",484,1133,46,17,NA,NA
+"188","K17224","rectangle",354,1151,46,17,NA,NA
+"190","K17225","rectangle",377,1194,46,17,NA,NA
+"191","K22622","rectangle",377,1211,46,17,NA,NA
+"193","K17224","rectangle",599,1203,46,17,NA,NA
+"197","K17995...","rectangle",577,408,46,17,NA,NA
+"199","K20034","rectangle",652,879,46,17,NA,NA
+"202","K20035","rectangle",741,824,46,17,NA,NA
+"204","K20036","rectangle",741,724,46,17,NA,NA
+"206","K21307...","rectangle",198,389,46,17,NA,NA
+"207","K21310","rectangle",685,633,46,17,NA,NA
+"208","Cysteine and methionine metabolism","roundrectangle",807,533,78,34,NA,NA
+"211","SQOR, CGI-44, PRO1975, SQR, SQRDL","rectangle",659,455,46,17,"hsa:58472",100
+"213","ETHE1, HSCO, YF13H12","rectangle",473,455,46,17,"hsa:23474",0
+"216","K05907","rectangle",463,984,46,17,NA,NA
+"220","K27187...","rectangle",653,371,46,17,NA,NA
+"227","K19713","rectangle",545,151,46,17,NA,NA
+"228","K27925","rectangle",635,140,46,17,NA,NA
+"234","K18367","rectangle",838,309,46,17,NA,NA
+"247","K24666","rectangle",354,854,46,17,NA,NA
+"254","K28064","rectangle",236,814,46,17,NA,NA
+"255","K28065...","rectangle",466,865,46,17,NA,NA
+"258","K28070","rectangle",457,694,46,17,NA,NA
+"261","Propanoate metabolism","roundrectangle",210,693,78,34,NA,NA
+"263","K28073","rectangle",655,794,46,17,NA,NA
+"265","Cysteine and methionine metabolism","roundrectangle",111,814,78,34,NA,NA
+"270","K28071","rectangle",363,694,46,17,NA,NA
+"272","K28072","rectangle",611,755,46,17,NA,NA
+"28","TITLE:Sulfur metabolism","roundrectangle",125,58,170,25,NA,NA
+"280","K28065","rectangle",354,875,46,17,NA,NA
+"285","K16936...","rectangle",729,1255,46,17,NA,NA
+"286","K19713","rectangle",729,1276,46,17,NA,NA
+"287","K27925","rectangle",450,1265,46,17,NA,NA
+"292","K17219...","rectangle",1002,1309,46,17,NA,NA
+"293","K18367","rectangle",1002,1330,46,17,NA,NA
+"297","K17229...","rectangle",1002,1364,46,17,NA,NA
+"302","K28483...","rectangle",405,655,46,17,NA,NA
+"32","K05301...","rectangle",198,351,46,17,NA,NA
+"33","SUOX","rectangle",198,370,46,17,"hsa:6821",0
+"35","K00392","rectangle",594,342,46,17,NA,NA
+"36","K11180...","rectangle",482,371,46,17,NA,NA
+"37","K00380...","rectangle",571,321,46,17,NA,NA
+"38","K16950...","rectangle",546,342,46,17,NA,NA
+"44","BPNT1, HEL20, HsPIP, PIP...","rectangle",171,537,46,17,"hsa:54928",0
+"45","PAPSS2, ATPSK2, BCYM4, SK2...","rectangle",95,537,46,17,"hsa:9060",100
+"46","K22966","rectangle",171,426,46,17,NA,NA
+"47","K00988...","rectangle",120,426,46,17,NA,NA
+"48","PAPSS2, ATPSK2, BCYM4, SK2...","rectangle",70,426,46,17,"hsa:9060",100
+"54","K00390","rectangle",331,437,46,17,NA,NA
+"55","K00394...","rectangle",279,437,46,17,NA,NA
+"57","K05907","rectangle",227,437,46,17,NA,NA
+"61","K17228...","rectangle",394,530,46,17,NA,NA
+"62","K16968...","rectangle",369,469,46,17,NA,NA
+"63","K04091...","rectangle",419,469,46,17,NA,NA
+"69","K17217","rectangle",880,417,46,17,NA,NA
+"73","K07306...","rectangle",482,612,46,17,NA,NA
+"75","SELENBP1, EHMTO, HEL-S-134P, LPSB, MTO, SBP56, SP56, hSBP","rectangle",739,498,46,17,"hsa:8991",0
+"76","K16967","rectangle",685,612,46,17,NA,NA
+"77","K16964...","rectangle",482,632,46,17,NA,NA
+"79","K16953...","rectangle",566,715,46,17,NA,NA
+"80","K16954...","rectangle",685,534,46,17,NA,NA
+"83","K17218","rectangle",685,408,46,17,NA,NA
+"92","K11180...","rectangle",394,236,46,17,NA,NA
+"93","K16952","rectangle",806,271,46,17,NA,NA
+"94","K17219...","rectangle",888,309,46,17,NA,NA
+"96","MPST, MST, TST2, TUM1...","rectangle",499,236,46,17,"hsa:4357",100
+"98","K08352...","rectangle",702,201,46,17,NA,NA
+"99","K17229...","rectangle",781,224,46,17,NA,NA

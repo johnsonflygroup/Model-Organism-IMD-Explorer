@@ -1,0 +1,70 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","K05714","rectangle",762,554,46,17,NA,NA
+"101","K05713","rectangle",842,491,46,17,NA,NA
+"102","K05713","rectangle",762,491,46,17,NA,NA
+"103","K10775","rectangle",736,179,46,17,NA,NA
+"104","K05712","rectangle",710,377,46,17,NA,NA
+"105","DDC, AADC","rectangle",242,230,46,17,"hsa:1644",100
+"106","K22427","rectangle",292,230,46,17,NA,NA
+"107","K13371...","rectangle",292,350,46,17,NA,NA
+"108","AOC2, DAO2, RAO, SSAO...","rectangle",242,350,46,17,NA,NA
+"109","MAOA, BRNRS, MAO-A...","rectangle",266,331,46,17,"hsa:4128",0
+"110","HPD, 4-HPPD, 4HPPD, GLOD3, HPPD, HPPDASE, PPD","rectangle",415,378,46,17,"hsa:3242",100
+"112","K18606...","rectangle",503,340,46,17,NA,NA
+"113","K23109","rectangle",453,340,46,17,NA,NA
+"114","K00832...","rectangle",390,254,46,17,NA,NA
+"115","K00817","rectangle",440,235,46,17,NA,NA
+"116","TAT","rectangle",390,235,46,17,"hsa:6898",100
+"117","GOT1L1...","rectangle",440,216,46,17,"hsa:2806",100
+"118","K00270","rectangle",390,216,46,17,NA,NA
+"119","MIF, GIF, GLIF, MMIF","rectangle",608,386,46,17,NA,NA
+"120","K00824","rectangle",625,235,46,17,NA,NA
+"121","K00285","rectangle",571,235,46,17,NA,NA
+"122","K00055","rectangle",372,416,46,17,NA,NA
+"123","K00146","rectangle",319,440,46,17,NA,NA
+"124","K01426","rectangle",206,484,46,17,NA,NA
+"126","IL4I1, FIG1, LAAO, LAO, hIL4I1","rectangle",494,235,46,17,NA,NA
+"127","K21795","rectangle",118,352,46,17,NA,NA
+"129","K03825","rectangle",334,207,46,17,NA,NA
+"130","K05708...","rectangle",762,322,46,17,NA,NA
+"131","K05711","rectangle",762,408,46,17,NA,NA
+"133","K05712","rectangle",937,388,46,17,NA,NA
+"134","K05711","rectangle",842,408,46,17,NA,NA
+"135","K05708...","rectangle",842,322,46,17,NA,NA
+"136","K10797","rectangle",842,250,46,17,NA,NA
+"140","Glycolysis / Gluconeogenesis","roundrectangle",997,712,68,26,NA,NA
+"141","Citrate cycle (TCA cycle)","roundrectangle",1002,577,77,25,NA,NA
+"157","TITLE:Phenylalanine metabolism","roundrectangle",156,58,232,25,NA,NA
+"158","Phenylalanine, tyrosine and tryptophan biosynthesis","roundrectangle",415,90,154,34,NA,NA
+"160","Citrate cycle (TCA cycle)","roundrectangle",753,810,80,25,NA,NA
+"187","PAH, PH, PKU, PKU1","rectangle",116,160,46,17,"hsa:5053",100
+"188","Tyrosine metabolism","roundrectangle",69,251,72,34,NA,NA
+"189","K12732","rectangle",380,327,46,17,NA,NA
+"190","K18361...","rectangle",340,599,46,17,NA,NA
+"192","K18355...","rectangle",538,599,46,17,NA,NA
+"194","Benzoate degradation","roundrectangle",694,599,120,25,NA,NA
+"196","K18361...","rectangle",437,599,46,17,NA,NA
+"197","K10437","rectangle",354,487,46,17,NA,NA
+"198","Styrene degradation","roundrectangle",559,487,113,25,NA,NA
+"210","K05821","rectangle",440,254,46,17,NA,NA
+"213","K15517","rectangle",198,677,46,17,NA,NA
+"214","K03782","rectangle",168,352,46,17,NA,NA
+"215","K02609...","rectangle",318,656,46,17,NA,NA
+"217","K15866","rectangle",410,656,46,17,NA,NA
+"219","K02618","rectangle",499,656,46,17,NA,NA
+"221","K02618","rectangle",595,656,46,17,NA,NA
+"223","K02615...","rectangle",645,685,46,17,NA,NA
+"225","K01692","rectangle",603,734,46,17,NA,NA
+"227","K00074","rectangle",505,734,46,17,NA,NA
+"229","K02615","rectangle",456,766,46,17,NA,NA
+"231","K02614","rectangle",313,536,46,17,NA,NA
+"234","K04073","rectangle",842,774,46,17,NA,NA
+"235","K22328","rectangle",200,207,46,17,NA,NA
+"237","K28353","rectangle",557,364,46,17,NA,NA
+"92","K01666","rectangle",842,697,46,17,NA,NA
+"93","K13064","rectangle",786,179,46,17,NA,NA
+"94","Tropane, piperidine and pyridine alkaloid biosynthesis","roundrectangle",241,122,160,34,NA,NA
+"95","ALDH3A1, ALDH3, ALDHIII...","rectangle",266,440,46,17,NA,NA
+"96","K01912","rectangle",271,557,46,17,NA,NA
+"98","K02554","rectangle",842,633,46,17,NA,NA
+"99","K05714","rectangle",842,554,46,17,NA,NA

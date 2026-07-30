@@ -1,0 +1,39 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"10","APH1A, 6530402N02Rik, APH-1, APH-1A, CGI-78...","rectangle",381,161,46,17,NA,NA
+"11","PSEN1, ACNINV3, AD3, CMD1U, FAD, PS-1, PS1, PSNL1, S182...","rectangle",381,144,46,17,NA,NA
+"12","MAPK signaling pathway","roundrectangle",394,395,109,40,NA,NA
+"13","HDAC1, GON-10, HD1, KDAC1, RPD3, RPD3L1...","rectangle",663,328,46,17,NA,NA
+"14","CIR1, CIR","rectangle",707,305,46,17,NA,NA
+"15","TLE7, chico...","rectangle",646,305,46,17,NA,NA
+"16","CTBP1, BARS, HADDTS...","rectangle",596,305,46,17,NA,NA
+"17","K06064","rectangle",623,282,46,17,NA,NA
+"18","NCOR2, CTG26, N-CoR2, SMAP270, SMRT, SMRTE, SMRTE-tau, TNRC14, TRAC, TRAC-1, TRAC1","rectangle",693,282,46,17,NA,NA
+"19","PTCRA, IMD126, PT-ALPHA, PTA","rectangle",811,231,46,17,NA,NA
+"20","HES1, HES-1, HHL, HRY, bHLHb39...","rectangle",811,187,46,17,NA,NA
+"21","RBPJL, RBPL, RBPSUHL, SUHL...","rectangle",663,220,46,17,NA,NA
+"22","SNW1, Bx42, FUN20, NCOA-62, PRPF45, Prp45, SKIIP, SKIP, SKIP1","rectangle",685,181,46,17,NA,NA
+"23","CREBBP, CBP, KAT3A, MKHK1, RSTS, RSTS1...","rectangle",608,189,46,17,NA,NA
+"24","MAML3, CAGH3, ERDA3, GDN, MAM-2, MAM2, TNRC3, mam-3...","rectangle",608,172,46,17,NA,NA
+"25","ADAM17, ADAM18, CD156B, CSVP, NISBD, NISBD1, TACE","rectangle",262,161,46,17,NA,NA
+"26","PSENEN, ACNINV2, MDS033, MSTP064, PEN-2, PEN2","rectangle",335,144,46,17,NA,NA
+"27","DTX2, RNF58...","rectangle",333,245,46,17,NA,NA
+"28","NUMB, C14orf41, S171, c14_5527...","rectangle",263,294,46,17,NA,NA
+"29","JAG1, AGS, AGS1, AHD, AWS, CD339, CMT2HH, DCHE, HJ1, JAGL1...","rectangle",83,266,46,17,NA,NA
+"30","NOTCH1, AOS5, AOVD1, TAN1, hN1...","rectangle",189,220,46,17,NA,NA
+"31","DVL1, DRS2, DVL, DVL1L1, DVL1P1...","rectangle",230,316,46,17,NA,NA
+"32","TITLE:Notch signaling pathway","roundrectangle",160,58,239,25,NA,NA
+"33","LFNG, SCDO3...","rectangle",137,144,46,17,"hsa:3955",0
+"34","DLL3, SCDO1...","rectangle",83,220,46,17,NA,NA
+"59","ATXN1L, BOAT, BOAT1...","rectangle",715,328,46,17,NA,NA
+"60","HEY1, BHLHb31, CHF2, HERP2, HESR1, HRT-1, NERP2, OAF1, hHRT1...","rectangle",811,209,46,17,NA,NA
+"67","SPEN, HIAA0929, MINT, RATARS, RBM15C, SHARP","rectangle",611,328,46,17,NA,NA
+"68","NRARP","rectangle",811,253,46,17,NA,NA
+"69","HES1, HES-1, HHL, HRY, bHLHb39","rectangle",633,352,46,17,NA,NA
+"70","NRARP","rectangle",685,352,46,17,NA,NA
+"71","ITCH, ADMFD, AIF4, AIP4, NAPP1","rectangle",314,273,46,17,NA,NA
+"72",NA,"rectangle",358,152,92,34,NA,NA
+"73",NA,"rectangle",608,180,46,34,NA,NA
+"74",NA,"rectangle",629,316,113,40,NA,NA
+"75",NA,"rectangle",654,316,63,40,NA,NA
+"76",NA,"rectangle",685,305,90,63,NA,NA
+"9","NCSTN, ATAG1874","rectangle",335,161,46,17,NA,NA

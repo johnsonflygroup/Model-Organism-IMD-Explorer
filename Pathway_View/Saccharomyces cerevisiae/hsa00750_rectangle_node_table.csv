@@ -1,0 +1,36 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"100","K03474","rectangle",757,398,46,17,NA,NA,NA,NA
+"102","K18613","rectangle",226,213,46,17,NA,NA,NA,NA
+"103","K18071","rectangle",125,213,46,17,NA,NA,NA,NA
+"104","K18614","rectangle",71,179,46,17,NA,NA,NA,NA
+"105","K18609","rectangle",541,160,46,17,NA,NA,NA,NA
+"106","K18610","rectangle",470,181,46,17,NA,NA,NA,NA
+"111","K18611","rectangle",426,213,46,17,NA,NA,NA,NA
+"112","K18612","rectangle",327,213,46,17,NA,NA,NA,NA
+"119","Thiamine metabolism","roundrectangle",966,212,123,25,NA,NA,NA,NA
+"12","TITLE:Vitamin B6 metabolism","roundrectangle",142,58,203,25,NA,NA,NA,NA
+"13","Pentose phosphate pathway","roundrectangle",184,526,116,34,NA,NA,NA,NA
+"14","Glyoxylate and dicarboxylate metabolism","roundrectangle",312,348,141,34,NA,NA,NA,NA
+"15","Butanoate metabolism","roundrectangle",222,137,126,25,NA,NA,NA,NA
+"17","K18608","rectangle",573,117,46,17,NA,NA,NA,NA
+"19","AOX1, AO, AOH1","rectangle",541,202,46,17,NA,NA,NA,NA
+"20","PNPO, HEL-S-302, PDXPO","rectangle",623,136,46,17,"hsa:55163","1.4.3.5","PNPO",100
+"7","K06215...","rectangle",878,254,46,17,NA,NA,NA,NA
+"8","Glycolysis / Gluconeogenesis","roundrectangle",923,336,74,25,NA,NA,NA,NA
+"82","PNPO, HEL-S-302, PDXPO","rectangle",757,136,46,17,"hsa:55163","1.4.3.5","PNPO",100
+"83","PHOSPHO2...","rectangle",682,86,46,17,NA,NA,NA,NA
+"84","PDXK, C21orf124, C21orf97, HEL-S-1a, HMSN6C, PKH, PNK, PRED79","rectangle",682,67,46,17,"hsa:8566","2.7.1.35","PDXK",100
+"85","PHOSPHO2...","rectangle",682,358,46,17,NA,NA,NA,NA
+"86","PDXK, C21orf124, C21orf97, HEL-S-1a, HMSN6C, PKH, PNK, PRED79","rectangle",682,339,46,17,"hsa:8566","2.7.1.35","PDXK",100
+"87","PHOSPHO2...","rectangle",682,222,46,17,NA,NA,NA,NA
+"88","PDXK, C21orf124, C21orf97, HEL-S-1a, HMSN6C, PKH, PNK, PRED79","rectangle",682,203,46,17,"hsa:8566","2.7.1.35","PDXK",100
+"89","K01733","rectangle",646,495,46,17,NA,NA,NA,NA
+"9","Pentose phosphate pathway","roundrectangle",900,373,152,25,NA,NA,NA,NA
+"90","K00097","rectangle",700,526,46,17,NA,NA,NA,NA
+"91","PSAT1, EPIP, NLS2, PSA, PSAT, PSATD","rectangle",592,527,46,17,"hsa:29968","2.6.1.52","PSAT1",100
+"92","K03473","rectangle",479,527,46,17,NA,NA,NA,NA
+"93","K03472","rectangle",366,527,46,17,NA,NA,NA,NA
+"96","PNPO, HEL-S-302, PDXPO","rectangle",757,291,46,17,"hsa:55163","1.4.3.5","PNPO",100
+"97","K18607","rectangle",573,291,46,17,NA,NA,NA,NA
+"98","K05275","rectangle",599,272,46,17,NA,NA,NA,NA
+"99","PNPO, HEL-S-302, PDXPO","rectangle",623,291,46,17,"hsa:55163","1.4.3.5","PNPO",100

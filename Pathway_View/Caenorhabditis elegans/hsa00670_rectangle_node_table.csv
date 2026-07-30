@@ -1,0 +1,65 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"101","SHMT1, CSHMT, SHMT...","rectangle",308,725,46,17,"hsa:6472",100
+"107","BHMT, BHMT1, HEL-S-61p","rectangle",636,809,46,17,NA,NA
+"108","MTR, HMAG, MS, cblG","rectangle",469,810,46,17,"hsa:4548",100
+"110","BHMT2","rectangle",550,809,46,17,NA,NA
+"112","MTHFD1L, FTHFSDC1, MTC1THFS, dJ292B18.2...","rectangle",380,754,46,17,"hsa:4522",100
+"114","MTHFD2, NMDMC...","rectangle",380,821,46,17,"hsa:4522",100
+"116","MTHFD1, CIMAH, MTHFC, MTHFD","rectangle",293,844,46,17,"hsa:4522",100
+"118","MAT2B, MAT-II, MATIIbeta, Nbla02999, SDR23E1, TGR...","rectangle",613,635,46,17,"hsa:4143;hsa:4144",100
+"120","CNPY3-GNMT...","rectangle",778,635,46,17,"hsa:27232",0
+"124","DMGDH, DMGDHD, ME2GLYDH","rectangle",743,714,46,17,"hsa:29958",100
+"125","K00309","rectangle",743,735,46,17,NA,NA
+"160","SARDH, BPR-2, DMGDHL1, SAR, SARD, SDH","rectangle",834,779,46,17,"hsa:1757",0
+"161","AHCYL1, DCAL, IRBIT, PPP1R78, PRO0233, XPVKONA...","rectangle",743,924,46,17,"hsa:191",100
+"162","CBS, CBSL...","rectangle",544,939,46,17,"hsa:875",100
+"163","CTH, CGL, CSE","rectangle",544,1001,46,17,"hsa:1491",100
+"164","MTHFR","rectangle",346,879,46,17,"hsa:4524",100
+"167","CHDH","rectangle",798,879,46,17,NA,NA
+"168","ALDH7A1, ATQ1, EPD, EPEO4, PDE","rectangle",713,879,46,17,"hsa:501",100
+"17","TITLE:One carbon pool by folate","roundrectangle",163,58,245,25,NA,NA
+"177","K00499","rectangle",846,879,46,17,NA,NA
+"178","K17755","rectangle",798,900,46,17,NA,NA
+"179","K11440","rectangle",846,900,46,17,NA,NA
+"18","Folate biosynthesis","roundrectangle",130,159,80,34,NA,NA
+"180","K17755","rectangle",713,900,46,17,NA,NA
+"182","DHFR, DHFR1, DHFRP1, DYR...","rectangle",258,569,46,17,"hsa:1719",100
+"184","MTHFD2, NMDMC...","rectangle",293,865,46,17,NA,NA
+"186","SARDH, BPR-2, DMGDHL1, SAR, SARD, SDH","rectangle",512,132,46,17,"hsa:1757",0
+"187","DMGDH, DMGDHD, ME2GLYDH","rectangle",487,153,46,17,"hsa:29958",100
+"188","K00309","rectangle",535,153,46,17,NA,NA
+"189","K00297...","rectangle",346,900,46,17,NA,NA
+"19","FTCD, LCHC1","rectangle",461,417,46,17,"hsa:10841",0
+"21","GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS","rectangle",461,360,46,17,NA,NA
+"22","FTCD, LCHC1","rectangle",615,341,46,17,"hsa:10841",0
+"23","MTHFD2, NMDMC...","rectangle",682,316,46,17,NA,NA
+"24","DHFR, DHFR1, DHFRP1, DYR...","rectangle",261,261,46,17,"hsa:1719",100
+"25","DHFR, DHFR1, DHFRP1, DYR...","rectangle",207,212,46,17,"hsa:1719",100
+"26","FTCD, LCHC1","rectangle",512,180,46,17,"hsa:10841",0
+"27","K00297...","rectangle",772,393,46,17,NA,NA
+"29","MTHFD2, NMDMC...","rectangle",552,265,46,17,"hsa:4522",100
+"30","MTHFD1, CIMAH, MTHFC, MTHFD","rectangle",682,265,46,17,"hsa:4522",100
+"42","ST20-MTHFS, MTHFS...","rectangle",662,200,46,17,"hsa:10588",100
+"43","AMT, GCE, GCE2, GCST, GCVT, NKH","rectangle",618,225,46,17,"hsa:275",100
+"48","ALDH1L1, 10-FTHFDH, 10-fTHF, FDH, FTHFD...","rectangle",412,336,46,17,"hsa:160428",100
+"49","K01433","rectangle",411,307,46,17,NA,NA
+"50","MTHFD1L, FTHFSDC1, MTC1THFS, dJ292B18.2...","rectangle",411,265,46,17,"hsa:4522",100
+"51","GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS","rectangle",411,222,46,17,NA,NA
+"52","ATIC, AICAR, AICARFT, HEL-S-70p, IMPCHASE, PURH","rectangle",411,201,46,17,"hsa:471",100
+"53","TYMS, DKCD, HST422, TMS, TS","rectangle",512,499,46,17,"hsa:7298",100
+"55","MTR, HMAG, MS, cblG","rectangle",487,446,46,17,"hsa:4548",100
+"61","K03465","rectangle",464,86,46,17,NA,NA
+"62","SHMT1, CSHMT, SHMT...","rectangle",487,107,46,17,"hsa:6472",100
+"65","AMT, GCE, GCE2, GCST, GCVT, NKH","rectangle",560,86,46,17,"hsa:275",100
+"73","DHFR, DHFR1, DHFRP1, DYR...","rectangle",256,172,46,17,"hsa:1719",100
+"75","MTHFR","rectangle",722,393,46,17,"hsa:4524",100
+"76","K25009","rectangle",772,374,46,17,NA,NA
+"78","K25221","rectangle",464,467,46,17,NA,NA
+"79","K25915","rectangle",512,467,46,17,NA,NA
+"80","K26930","rectangle",560,467,46,17,NA,NA
+"90","Glycine, serine and threonine metabolism","roundrectangle",326,961,128,34,NA,NA
+"91","Cysteine and methionine metabolism","roundrectangle",776,1000,133,34,NA,NA
+"93","DHFR, DHFR1, DHFRP1, DYR...","rectangle",149,609,46,17,"hsa:1719",100
+"94","TYMS, DKCD, HST422, TMS, TS","rectangle",149,734,46,17,"hsa:7298",100
+"96","DLD, DLDD, DLDH, E3, GCSL, LAD, OGDC-E3, PHE3...","rectangle",188,824,46,17,"hsa:1738;hsa:2653;hsa:2731;hsa:275",100
+"98","DHFR, DHFR1, DHFRP1, DYR...","rectangle",258,645,46,17,"hsa:1719",100

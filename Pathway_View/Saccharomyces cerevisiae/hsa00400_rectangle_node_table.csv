@@ -1,0 +1,81 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"11","K01626...","rectangle",282,201,46,17,NA,NA,NA,NA
+"129","K11646","rectangle",470,202,46,17,NA,NA,NA,NA
+"130","K16306","rectangle",561,202,46,17,NA,NA,NA,NA
+"141","K05821","rectangle",305,773,46,17,NA,NA,NA,NA
+"142","K05821","rectangle",499,773,46,17,NA,NA,NA,NA
+"143","K15226...","rectangle",470,823,46,17,NA,NA,NA,NA
+"145","K15849","rectangle",395,669,46,17,NA,NA,NA,NA
+"146","K15849","rectangle",445,669,46,17,NA,NA,NA,NA
+"147","K00270","rectangle",549,773,46,17,NA,NA,NA,NA
+"150","K16305","rectangle",642,243,46,17,NA,NA,NA,NA
+"153","K16305","rectangle",643,280,46,17,NA,NA,NA,NA
+"158","K17748","rectangle",206,695,46,17,NA,NA,NA,NA
+"159","K17749","rectangle",115,695,46,17,NA,NA,NA,NA
+"163","K17750","rectangle",66,723,46,17,NA,NA,NA,NA
+"165","Glucosinolate biosynthesis","roundrectangle",428,896,151,25,NA,NA,NA,NA
+"171","K18240","rectangle",608,590,46,17,NA,NA,NA,NA
+"172","K18239","rectangle",681,590,46,17,NA,NA,NA,NA
+"177","Indole diterpene alkaloid biosynthesis","roundrectangle",331,392,116,34,NA,NA,NA,NA
+"178","Staurosporine biosynthesis","roundrectangle",114,548,81,34,NA,NA,NA,NA
+"180","Biosynthesis of enediyne antibiotics","roundrectangle",804,624,117,34,NA,NA,NA,NA
+"184","Biosynthesis of siderophore group nonribosomal peptides","roundrectangle",280,299,126,45,NA,NA,NA,NA
+"187","K25901","rectangle",395,328,46,17,NA,NA,NA,NA
+"191","Benzoate degradation","roundrectangle",584,340,118,24,NA,NA,NA,NA
+"192","K09483...","rectangle",461,298,46,17,NA,NA,NA,NA
+"33","Phenylpropanoid biosynthesis","roundrectangle",161,815,97,34,NA,NA,NA,NA
+"34","Phenylpropanoid biosynthesis","roundrectangle",622,885,103,34,NA,NA,NA,NA
+"35","Biosynthesis of siderophore group nonribosomal peptides","roundrectangle",638,491,126,45,NA,NA,NA,NA
+"36","Acridone alkaloid biosynthesis","roundrectangle",124,595,168,25,NA,NA,NA,NA
+"37","Indole alkaloid biosynthesis","roundrectangle",80,510,91,34,NA,NA,NA,NA
+"38","Benzoxazinoid biosynthesis","roundrectangle",245,345,97,34,NA,NA,NA,NA
+"39","K05887","rectangle",445,348,46,17,NA,NA,NA,NA
+"40","K05887","rectangle",445,173,46,17,NA,NA,NA,NA
+"41","Tropane, piperidine and pyridine alkaloid biosynthesis","roundrectangle",196,873,136,45,NA,NA,NA,NA
+"43","TITLE:Phenylalanine, tyrosine and tryptophan biosynthesis","roundrectangle",270,58,459,25,NA,NA,NA,NA
+"44","Tryptophan metabolism","roundrectangle",72,472,76,34,NA,NA,NA,NA
+"45","Phenylalanine metabolism","roundrectangle",275,930,156,25,NA,NA,NA,NA
+"46","Tyrosine metabolism","roundrectangle",560,929,119,25,NA,NA,NA,NA
+"47","Glycolysis / Gluconeogenesis","roundrectangle",151,237,76,25,NA,NA,NA,NA
+"48","Carbon fixation by Calvin cycle","roundrectangle",167,165,95,34,NA,NA,NA,NA
+"49","Pentose phosphate pathway","roundrectangle",240,122,106,34,NA,NA,NA,NA
+"50","Folate biosynthesis","roundrectangle",844,554,79,34,NA,NA,NA,NA
+"51","K01736","rectangle",420,525,46,17,NA,NA,NA,NA
+"52","K01695...","rectangle",190,436,46,17,NA,NA,NA,NA
+"53","K01695","rectangle",190,375,46,17,NA,NA,NA,NA
+"54","K01696...","rectangle",143,399,46,17,NA,NA,NA,NA
+"55","K01656...","rectangle",236,464,46,17,NA,NA,NA,NA
+"56","K13501...","rectangle",237,531,46,17,NA,NA,NA,NA
+"57","K00766...","rectangle",278,559,46,17,NA,NA,NA,NA
+"58","K01656...","rectangle",378,560,46,17,NA,NA,NA,NA
+"59","K01850...","rectangle",420,590,46,17,NA,NA,NA,NA
+"60","K05359...","rectangle",237,650,46,17,NA,NA,NA,NA
+"61","K04518...","rectangle",330,650,46,17,NA,NA,NA,NA
+"62","TAT","rectangle",355,735,46,17,"hsa:6898","2.6.1.5","TAT",0
+"63","IL4I1, FIG1, LAAO, LAO, hIL4I1","rectangle",237,754,46,17,NA,NA,NA,NA
+"64","K00832...","rectangle",355,754,46,17,NA,NA,NA,NA
+"65","K00270","rectangle",355,773,46,17,NA,NA,NA,NA
+"66","K00832","rectangle",421,650,46,17,NA,NA,NA,NA
+"67","K05359...","rectangle",380,823,46,17,NA,NA,NA,NA
+"68","K04518...","rectangle",380,802,46,17,NA,NA,NA,NA
+"69","K00211","rectangle",549,650,46,17,NA,NA,NA,NA
+"70","K04517...","rectangle",499,650,46,17,NA,NA,NA,NA
+"71","K00220...","rectangle",470,802,46,17,NA,NA,NA,NA
+"72","PAH, PH, PKU, PKU1","rectangle",380,862,46,17,"hsa:5053","1.14.16.1","PAH",0
+"73","IL4I1, FIG1, LAAO, LAO, hIL4I1","rectangle",617,754,46,17,NA,NA,NA,NA
+"74","TAT","rectangle",549,735,46,17,"hsa:6898","2.6.1.5","TAT",0
+"75","K00800...","rectangle",420,468,46,17,NA,NA,NA,NA
+"76","K00891...","rectangle",420,402,46,17,NA,NA,NA,NA
+"77","K00014...","rectangle",445,328,46,17,NA,NA,NA,NA
+"78","K03785...","rectangle",421,248,46,17,NA,NA,NA,NA
+"79","K09484...","rectangle",421,154,46,17,NA,NA,NA,NA
+"80","K01735...","rectangle",372,202,46,17,NA,NA,NA,NA
+"81","K00832...","rectangle",549,754,46,17,NA,NA,NA,NA
+"82","Ubiquinone and other terpenoid-quinone biosynthesis","roundrectangle",720,695,167,34,NA,NA,NA,NA
+"83","GOT1L1...","rectangle",305,735,46,17,"hsa:2806","2.6.1.1","GOT2",100
+"84","GOT1L1...","rectangle",499,735,46,17,"hsa:2806","2.6.1.1","GOT2",100
+"85","K05358","rectangle",395,173,46,17,NA,NA,NA,NA
+"86","K05358","rectangle",395,348,46,17,NA,NA,NA,NA
+"88","Isoquinoline alkaloid biosynthesis","roundrectangle",767,885,117,34,NA,NA,NA,NA
+"89","K00817","rectangle",305,754,46,17,NA,NA,NA,NA
+"90","K00817","rectangle",499,754,46,17,NA,NA,NA,NA

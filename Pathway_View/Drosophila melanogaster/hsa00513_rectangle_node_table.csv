@@ -1,0 +1,58 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"104","N-Glycan biosynthesis","roundrectangle",92,1714,129,25,NA,NA
+"129","FUT8, CDGF, CDGF1","rectangle",654,1744,46,17,"hsa:2530",100
+"130","B4GALT1, B4GAL-T1, CDG2D, CLDLFIB, GGTB2, GT1, GTB, beta4Gal-T1...","rectangle",695,1783,46,17,"hsa:2683",100
+"132","ST3GAL3, DEE15, EIEE15, MRT12, SIAT6, ST3GALII, ST3Gal_III, ST3GalIII, ST3N","rectangle",787,1783,46,17,"hsa:6487",0
+"135","B4GALNT3...","rectangle",696,1827,46,17,NA,NA
+"138","CHST8, GALNAC4ST1, GalNAc4ST, PSS3...","rectangle",788,1827,46,17,NA,NA
+"14","K05538","rectangle",788,290,46,17,NA,NA
+"15","N-Glycan biosynthesis","roundrectangle",92,148,129,25,NA,NA
+"160","MAN1A2, MAN1B...","rectangle",332,1713,46,17,NA,NA
+"161","MGAT1, GLCNAC-TI, GLCT1, GLYT1, GNT-1, GNT-I, GnTI, MGAT","rectangle",421,1713,46,17,NA,NA
+"162","MAN2A2, MANA2X, alpha-MIIx...","rectangle",511,1713,46,17,NA,NA
+"163","MGAT2, CDG2A, CDGS2, GLCNACTII, GNT-II, GNT2","rectangle",602,1713,46,17,"hsa:4247",100
+"172","MAN1A2, MAN1B...","rectangle",328,1448,46,17,NA,NA
+"173","MGAT1, GLCNAC-TI, GLCT1, GLYT1, GNT-1, GNT-I, GnTI, MGAT","rectangle",417,1448,46,17,NA,NA
+"174","MAN2A2, MANA2X, alpha-MIIx...","rectangle",507,1448,46,17,NA,NA
+"177","FUT8, CDGF, CDGF1","rectangle",559,1479,46,17,"hsa:2530",100
+"179","K14434","rectangle",598,1520,46,17,NA,NA
+"182","HEXD, HEXDC","rectangle",687,1519,46,17,NA,NA
+"185","K14464","rectangle",780,1519,46,17,NA,NA
+"187","N-Glycan biosynthesis","roundrectangle",92,1449,129,25,NA,NA
+"22","K05529","rectangle",451,185,46,17,NA,NA
+"23","K05533","rectangle",473,256,46,17,NA,NA
+"232","MAN1A2, MAN1B...","rectangle",334,1210,46,17,NA,NA
+"233","MGAT1, GLCNAC-TI, GLCT1, GLYT1, GNT-1, GNT-I, GnTI, MGAT","rectangle",422,1210,46,17,NA,NA
+"234","MAN2A2, MANA2X, alpha-MIIx...","rectangle",512,1210,46,17,NA,NA
+"235","N-Glycan biosynthesis","roundrectangle",92,1210,129,25,NA,NA
+"237","FUT8, CDGF, CDGF1","rectangle",564,1239,46,17,"hsa:2530",100
+"24","K05535","rectangle",512,289,46,17,NA,NA
+"241","K00753","rectangle",603,1280,46,17,NA,NA
+"243","K20730","rectangle",692,1280,46,17,NA,NA
+"25","K05538","rectangle",603,148,46,17,NA,NA
+"255","N-Glycan biosynthesis","roundrectangle",98,616,129,25,NA,NA
+"258","K03714","rectangle",701,616,46,17,NA,NA
+"26","K05537","rectangle",696,290,46,17,NA,NA
+"261","K14413","rectangle",881,616,46,17,NA,NA
+"263","K14412","rectangle",973,616,46,17,NA,NA
+"27","K05532","rectangle",519,239,46,17,NA,NA
+"274","MAN1A2, MAN1B...","rectangle",339,616,46,17,NA,NA
+"275","MGAT1, GLCNAC-TI, GLCT1, GLYT1, GNT-1, GNT-I, GnTI, MGAT","rectangle",428,616,46,17,NA,NA
+"276","MAN2A2, MANA2X, alpha-MIIx...","rectangle",519,616,46,17,NA,NA
+"277","MGAT2, CDG2A, CDGS2, GLCNACTII, GNT-II, GNT2","rectangle",610,616,46,17,"hsa:4247",100
+"279","MAN1B1, ERMAN1, ERManI, MANA-ER, MRT15","rectangle",248,616,46,17,"hsa:11253",100
+"28","K05530","rectangle",496,185,46,17,NA,NA
+"284","HEXA, TSD...","rectangle",919,700,46,17,"hsa:3073;hsa:3074",100
+"285","HEXA, TSD...","rectangle",1022,654,46,17,"hsa:3073;hsa:3074",100
+"288","K00753","rectangle",791,616,46,17,NA,NA
+"29","MAN1A2, MAN1B...","rectangle",332,147,46,17,NA,NA
+"294","MAN1B1, ERMAN1, ERManI, MANA-ER, MRT15","rectangle",242,148,46,17,"hsa:11253",100
+"297","MAN1B1, ERMAN1, ERManI, MANA-ER, MRT15","rectangle",242,1449,46,17,"hsa:11253",100
+"30","K05529","rectangle",427,248,46,17,NA,NA
+"300","MAN1B1, ERMAN1, ERManI, MANA-ER, MRT15","rectangle",242,1211,46,17,"hsa:11253",100
+"303","MAN1B1, ERMAN1, ERManI, MANA-ER, MRT15","rectangle",242,1714,46,17,"hsa:11253",100
+"31","K05528","rectangle",422,147,46,17,NA,NA
+"32","K05536","rectangle",603,289,46,17,NA,NA
+"33","K05534","rectangle",519,256,46,17,NA,NA
+"34","K05531","rectangle",473,239,46,17,NA,NA
+"35","TITLE:Various types of N-glycan biosynthesis","roundrectangle",213,58,345,25,NA,NA

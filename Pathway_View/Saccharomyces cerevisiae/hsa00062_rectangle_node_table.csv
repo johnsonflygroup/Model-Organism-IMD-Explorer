@@ -1,0 +1,44 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"115","HSD17B12, KAR, SDR12C1","rectangle",551,843,46,17,NA,NA,NA,NA
+"116","TECR, GPSN2, MRT14, SC2, TER","rectangle",551,1001,46,17,"hsa:9524","1.3.1.93","TECR",100
+"117","HACD2, PTPLB...","rectangle",551,923,46,17,"hsa:9200","4.2.1.134","HACD1",100
+"123","ECHS1, ECHS1D, SCEH, mECH, mECH1...","rectangle",189,923,46,17,"hsa:1892;hsa:3030","1.1.1.211; 4.2.1.17; 4.2.1.17","ECHS1; HADHA",0
+"124","HADH, HAD, HADH1, HADHSC, HCDH, HHF4, MSCHAD, SCHAD","rectangle",189,843,46,17,"hsa:3033","1.1.1.35","HADH",0
+"125","ACAA2, DSAEC, T1...","rectangle",214,768,46,17,"hsa:3032","2.3.1.16","HADHB",0
+"135","MECR, CGI-63, DYTOABG, ETR1, FASN2B, NRBF1, OPA16","rectangle",189,1001,46,17,"hsa:51102","1.3.1.38","MECR",100
+"136","HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MLCL AT, MTPA, TP-ALPHA","rectangle",239,843,46,17,"hsa:3030","1.1.1.211; 4.2.1.17","HADHA",0
+"141","Fatty acid degradation","roundrectangle",136,1125,77,34,NA,NA,NA,NA
+"142","PPT1, CLN1, INCL, PPT...","rectangle",215,1081,46,17,"hsa:5538","3.1.2.22","PPT1",0
+"146","Cutin, suberine and wax biosynthesis","roundrectangle",456,1125,104,34,NA,NA,NA,NA
+"147","ACOT2, CTE-IA, CTE1A, MTE1, PTE2, PTE2A, ZAP128...","rectangle",551,1082,46,17,NA,NA,NA,NA
+"149","ELOVL2, SSC2...","rectangle",552,768,46,17,"hsa:60481;hsa:64834;hsa:6785","2.3.1.199","ELOVL1; ELOVL4; ELOVL5",100
+"29","Fatty acid degradation","roundrectangle",690,583,127,25,NA,NA,NA,NA
+"30","TITLE:Fatty acid elongation","roundrectangle",140,58,199,25,NA,NA,NA,NA
+"31","PPT1, CLN1, INCL, PPT...","rectangle",836,539,46,17,"hsa:5538","3.1.2.22","PPT1",0
+"32","MECR, CGI-63, DYTOABG, ETR1, FASN2B, NRBF1, OPA16","rectangle",810,451,46,17,"hsa:51102","1.3.1.38","MECR",100
+"33","ECHS1, ECHS1D, SCEH, mECH, mECH1...","rectangle",810,370,46,17,"hsa:1892;hsa:3030","1.1.1.211; 4.2.1.17; 4.2.1.17","ECHS1; HADHA",0
+"34","HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MLCL AT, MTPA, TP-ALPHA","rectangle",835,285,46,17,"hsa:3030","1.1.1.211; 4.2.1.17","HADHA",0
+"35","ACAA2, DSAEC, T1...","rectangle",835,204,46,17,"hsa:3032","2.3.1.16","HADHB",0
+"36","MECR, CGI-63, DYTOABG, ETR1, FASN2B, NRBF1, OPA16","rectangle",668,451,46,17,"hsa:51102","1.3.1.38","MECR",100
+"37","ECHS1, ECHS1D, SCEH, mECH, mECH1...","rectangle",668,370,46,17,"hsa:1892;hsa:3030","1.1.1.211; 4.2.1.17; 4.2.1.17","ECHS1; HADHA",0
+"38","HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MLCL AT, MTPA, TP-ALPHA","rectangle",694,285,46,17,"hsa:3030","1.1.1.211; 4.2.1.17","HADHA",0
+"39","ACAA2, DSAEC, T1...","rectangle",694,204,46,17,"hsa:3032","2.3.1.16","HADHB",0
+"40","MECR, CGI-63, DYTOABG, ETR1, FASN2B, NRBF1, OPA16","rectangle",527,451,46,17,"hsa:51102","1.3.1.38","MECR",100
+"41","ECHS1, ECHS1D, SCEH, mECH, mECH1...","rectangle",527,370,46,17,"hsa:1892;hsa:3030","1.1.1.211; 4.2.1.17; 4.2.1.17","ECHS1; HADHA",0
+"42","HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MLCL AT, MTPA, TP-ALPHA","rectangle",552,285,46,17,"hsa:3030","1.1.1.211; 4.2.1.17","HADHA",0
+"43","ACAA2, DSAEC, T1...","rectangle",553,204,46,17,"hsa:3032","2.3.1.16","HADHB",0
+"44","MECR, CGI-63, DYTOABG, ETR1, FASN2B, NRBF1, OPA16","rectangle",385,451,46,17,"hsa:51102","1.3.1.38","MECR",100
+"45","ECHS1, ECHS1D, SCEH, mECH, mECH1...","rectangle",385,370,46,17,"hsa:1892;hsa:3030","1.1.1.211; 4.2.1.17; 4.2.1.17","ECHS1; HADHA",0
+"46","HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MLCL AT, MTPA, TP-ALPHA","rectangle",435,285,46,17,"hsa:3030","1.1.1.211; 4.2.1.17","HADHA",0
+"47","HADH, HAD, HADH1, HADHSC, HCDH, HHF4, MSCHAD, SCHAD","rectangle",385,285,46,17,"hsa:3033","1.1.1.35","HADH",0
+"48","ACAA2, DSAEC, T1...","rectangle",410,204,46,17,"hsa:3032","2.3.1.16","HADHB",0
+"49","MECR, CGI-63, DYTOABG, ETR1, FASN2B, NRBF1, OPA16","rectangle",243,451,46,17,"hsa:51102","1.3.1.38","MECR",100
+"50","ECHS1, ECHS1D, SCEH, mECH, mECH1...","rectangle",243,370,46,17,"hsa:1892;hsa:3030","1.1.1.211; 4.2.1.17; 4.2.1.17","ECHS1; HADHA",0
+"51","HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MLCL AT, MTPA, TP-ALPHA","rectangle",293,285,46,17,"hsa:3030","1.1.1.211; 4.2.1.17","HADHA",0
+"52","HADH, HAD, HADH1, HADHSC, HCDH, HHF4, MSCHAD, SCHAD","rectangle",243,285,46,17,"hsa:3033","1.1.1.35","HADH",0
+"53","ACAA2, DSAEC, T1...","rectangle",268,204,46,17,"hsa:3032","2.3.1.16","HADHB",0
+"54","MECR, CGI-63, DYTOABG, ETR1, FASN2B, NRBF1, OPA16","rectangle",101,451,46,17,"hsa:51102","1.3.1.38","MECR",100
+"55","ECHS1, ECHS1D, SCEH, mECH, mECH1...","rectangle",101,370,46,17,"hsa:1892;hsa:3030","1.1.1.211; 4.2.1.17; 4.2.1.17","ECHS1; HADHA",0
+"56","HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MLCL AT, MTPA, TP-ALPHA","rectangle",151,285,46,17,"hsa:3030","1.1.1.211; 4.2.1.17","HADHA",0
+"61","HADH, HAD, HADH1, HADHSC, HCDH, HHF4, MSCHAD, SCHAD","rectangle",101,285,46,17,"hsa:3033","1.1.1.35","HADH",0
+"62","ACAA2, DSAEC, T1...","rectangle",126,204,46,17,"hsa:3032","2.3.1.16","HADHB",0

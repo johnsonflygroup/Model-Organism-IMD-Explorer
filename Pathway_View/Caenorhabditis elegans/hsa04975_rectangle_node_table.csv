@@ -1,0 +1,38 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","ABCA1, ABC-1, ABC1, CERP, HDLCQTL13, HDLDT1, HPALP1, TGD","rectangle",1063,573,46,17,"hsa:19",100
+"169","CLPS","rectangle",254,455,46,17,NA,NA
+"181","PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A...","rectangle",808,355,46,17,NA,NA
+"185","Glycerolipid metabolism","roundrectangle",837,571,98,34,NA,NA
+"19","TITLE:Fat digestion and absorption","roundrectangle",183,58,285,25,NA,NA
+"208","APOA4","rectangle",960,461,46,17,NA,NA
+"209","APOB, FCHL2, FLDB, LDLCQ4, apoB-100, apoB-48","rectangle",922,431,46,17,"hsa:338",0
+"214","SLC27A4, ACSVL4, FATP4, IPS...","rectangle",666,540,46,17,"hsa:10999",100
+"215","APOA1, HPALP2, apo(a)","rectangle",1126,550,46,17,"hsa:335",0
+"219","APOA1, HPALP2, apo(a)","rectangle",1126,637,46,17,"hsa:335",0
+"22","Tight junction","roundrectangle",600,117,115,25,NA,NA
+"221","SCARB1, CD36L1, CLA-1, CLA1, HDLCQ6, HDLQTL6, SR-BI, SRB1","rectangle",446,637,46,17,"hsa:949",100
+"228","FABP2, FABPI, I-FABP","rectangle",603,418,46,17,NA,NA
+"233","FABP1, FABPL, L-FABP","rectangle",581,465,46,17,NA,NA
+"234","GOT2, DEE82, KAT4, KATIV, KYAT4, mitAAT","rectangle",535,573,46,17,"hsa:2806",100
+"43","Pancreatic secretion","roundrectangle",131,422,115,25,NA,NA
+"46","ABCG5, STSL, STSL2","rectangle",449,757,46,17,"hsa:64240",100
+"47","ABCG8, GBD4, STSL, STSL1","rectangle",449,774,46,17,"hsa:64241",0
+"48","NPC1L1, LDLCQ7, NPC11L1, SLC65A2","rectangle",533,698,46,17,NA,NA
+"49","CD36, BDPLT10, CHDS7, FAT, GP3B, GP4, GPIV, PASIV, SCARB3","rectangle",449,510,46,17,NA,NA
+"53","APOB, FCHL2, FLDB, LDLCQ4, apoB-100, apoB-48","rectangle",858,651,46,17,"hsa:338",0
+"54","CEL, BAL, BSDL, BSSL, CELL, CEase, FAP, FAPP, LIPA, MODY8...","rectangle",195,455,46,17,NA,NA
+"57","Bile secretion","roundrectangle",129,167,115,25,NA,NA
+"61","AGPAT1, 1-AGPAT1, G15, LPAAT-alpha, LPAATA, LPLAT1...","rectangle",727,302,46,17,"hsa:10555",100
+"62","MOGAT3, DC7, DGAT2L2, MGAT3...","rectangle",743,418,46,17,NA,NA
+"63","DGAT2, ARAT, GS1999FULL, HMFN1045...","rectangle",749,570,46,17,"hsa:8694",100
+"64","ACAT1, ACAT, MAT, T2, THIL...","rectangle",730,714,46,17,"hsa:38;hsa:39",100
+"80","MTTP, ABL, MTP","rectangle",833,625,46,17,"hsa:4547",100
+"81","APOB, FCHL2, FLDB, LDLCQ4, apoB-100, apoB-48","rectangle",1064,310,46,17,"hsa:338",0
+"82","APOB, FCHL2, FLDB, LDLCQ4, apoB-100, apoB-48","rectangle",1201,308,46,17,"hsa:338",0
+"89","APOA4","rectangle",1241,342,46,17,NA,NA
+"90","APOA1, HPALP2, apo(a)","rectangle",1201,377,46,17,"hsa:335",0
+"91","APOA4","rectangle",1103,342,46,17,NA,NA
+"92","APOA1, HPALP2, apo(a)","rectangle",1065,374,46,17,"hsa:335",0
+"93","APOA4","rectangle",894,687,46,17,NA,NA
+"94","APOA1, HPALP2, apo(a)","rectangle",922,497,46,17,"hsa:335",0
+"96","APOB, FCHL2, FLDB, LDLCQ4, apoB-100, apoB-48","rectangle",948,630,46,17,"hsa:338",0

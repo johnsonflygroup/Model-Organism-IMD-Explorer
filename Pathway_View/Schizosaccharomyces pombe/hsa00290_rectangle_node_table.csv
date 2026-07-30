@@ -1,0 +1,29 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"21","K09011","rectangle",475,218,46,17,NA,NA
+"22","K01703...","rectangle",270,183,46,17,NA,NA
+"23","K00052","rectangle",179,208,46,17,NA,NA
+"24","SDS, SDH...","rectangle",129,240,46,17,NA,NA
+"30","TITLE:Valine, leucine and isoleucine biosynthesis","roundrectangle",232,58,383,25,NA,NA
+"31","Glycine, serine and threonine metabolism","roundrectangle",94,140,119,34,NA,NA
+"32","BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18...","rectangle",154,565,46,17,"hsa:587",100
+"34","BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18...","rectangle",676,704,46,17,"hsa:587",100
+"35","K00053","rectangle",179,429,46,17,NA,NA
+"36","K01702...","rectangle",533,530,46,17,NA,NA
+"37","K00052...","rectangle",702,565,46,17,NA,NA
+"38","K01702...","rectangle",645,530,46,17,NA,NA
+"39","K01649","rectangle",411,524,46,17,NA,NA
+"40","K00835...","rectangle",396,565,46,17,NA,NA
+"41","BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18...","rectangle",296,565,46,17,"hsa:587",100
+"42","K01687","rectangle",321,495,46,17,NA,NA
+"43","K00053","rectangle",154,361,46,17,NA,NA
+"45","K00053","rectangle",296,361,46,17,NA,NA
+"46","K01687","rectangle",179,495,46,17,NA,NA
+"47","K00053","rectangle",321,429,46,17,NA,NA
+"48","K01652...","rectangle",179,293,46,17,NA,NA
+"49","Valine, leucine and isoleucine degradation","roundrectangle",325,741,127,34,NA,NA
+"50","Pyruvate metabolism","roundrectangle",475,392,74,34,NA,NA
+"52","K00263","rectangle",726,704,46,17,NA,NA
+"53","K00263","rectangle",346,565,46,17,NA,NA
+"54","K00263","rectangle",204,565,46,17,NA,NA
+"85","K01703...","rectangle",411,182,46,17,NA,NA
+"86","K01652...","rectangle",321,293,46,17,NA,NA

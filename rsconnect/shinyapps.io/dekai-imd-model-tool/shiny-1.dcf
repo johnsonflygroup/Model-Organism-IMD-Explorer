@@ -1,0 +1,10 @@
+name: shiny-1
+title:
+username: dekai-imd-model-tool
+account: dekai-imd-model-tool
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17306292
+bundleId: 12301591
+url: https://dekai-imd-model-tool.shinyapps.io/shiny-1/
+version: 1

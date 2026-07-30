@@ -1,0 +1,101 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"100","PLD4, C14orf175...","rectangle",424,427,46,17,NA,NA,NA,NA
+"101","PLAAT3, AdPLA, FPLD9, H-REV107, H-REV107-1, HRASLS3, HREV107, HREV107-1, HREV107-3, HRSL3, PLA2G16, PLAAT-3...","rectangle",568,804,46,17,NA,NA,NA,NA
+"102","PLD4, C14orf175...","rectangle",424,547,46,17,NA,NA,NA,NA
+"103","K18696...","rectangle",1124,726,46,17,NA,NA,NA,NA
+"104","K17103...","rectangle",424,720,46,17,NA,NA,NA,NA
+"105","PLA2G4B, HsT16992, cPLA2-beta...","rectangle",840,681,46,17,"hsa:5321;hsa:8398","3.1.1.4","PLA2G4A; PLA2G6",100
+"106","AGPAT1, 1-AGPAT1, G15, LPAAT-alpha, LPAATA, LPLAT1...","rectangle",277,414,46,17,"hsa:10555","2.3.1.51","AGPAT2",100
+"107","CDIPT, PIS, PIS1","rectangle",278,672,46,17,NA,NA,NA,NA
+"108","Glycine, serine and threonine metabolism","roundrectangle",758,830,122,34,NA,NA,NA,NA
+"110","K01114...","rectangle",668,576,46,17,NA,NA,NA,NA
+"111","PLAAT3, AdPLA, FPLD9, H-REV107, H-REV107-1, HRASLS3, HREV107, HREV107-1, HREV107-3, HRSL3, PLA2G16, PLAAT-3...","rectangle",840,727,46,17,NA,NA,NA,NA
+"112","PHOSPHO1","rectangle",1097,582,46,17,NA,NA,NA,NA
+"114","128966744...","rectangle",251,306,46,17,NA,NA,NA,NA
+"115","GPD1L, GPD1-L...","rectangle",170,214,46,17,"hsa:2819","1.1.1.8","GPD1",100
+"116","K00057","rectangle",170,233,46,17,NA,NA,NA,NA
+"117","GPD2, GDH2, GPDM, mGDH, mGPDH","rectangle",170,273,46,17,NA,NA,NA,NA
+"118","LCAT","rectangle",840,189,46,17,"hsa:3931","2.3.1.43","LCAT",100
+"119","K03735...","rectangle",1173,544,46,17,NA,NA,NA,NA
+"120","K01094...","rectangle",346,818,46,17,NA,NA,NA,NA
+"121","GPCPD1, EDI3, GDE5, GDPD6, PREI4...","rectangle",1124,233,46,17,NA,NA,NA,NA
+"122","K05929","rectangle",1010,440,46,17,NA,NA,NA,NA
+"123","CEPT1...","rectangle",759,642,46,17,"hsa:85465","2.7.8.1","SELENOI",100
+"124","LYPLA1, APT-1, APT1, LPL-I, LPL1, hAPT1...","rectangle",983,706,46,17,"hsa:10908","3.1.1.5","PNPLA6",100
+"125","K05929","rectangle",1010,498,46,17,NA,NA,NA,NA
+"126","K05929","rectangle",1011,382,46,17,NA,NA,NA,NA
+"127","LPCAT3, C3F, LPCAT, LPLAT 5, LPLAT12, LPSAT, MBOAT5, OACT5, nessy...","rectangle",840,707,46,17,NA,NA,NA,NA
+"128","PNPLA6, BNHS, LNMS, NTE, NTEMND, OMCS, SPG39, iPLA2delta, sws...","rectangle",983,726,46,17,"hsa:10908","3.1.1.5","PNPLA6",100
+"129","CDS1, CDS 1...","rectangle",371,610,46,17,NA,NA,NA,NA
+"130","K06123","rectangle",170,352,46,17,NA,NA,NA,NA
+"131","K00980","rectangle",388,244,46,17,NA,NA,NA,NA
+"132","Pyruvate metabolism","roundrectangle",1374,505,78,34,NA,NA,NA,NA
+"133","TITLE:Glycerophospholipid metabolism","roundrectangle",182,58,283,25,NA,NA,NA,NA
+"134","PNPLA6, BNHS, LNMS, NTE, NTEMND, OMCS, SPG39, iPLA2delta, sws...","rectangle",983,254,46,17,"hsa:10908","3.1.1.5","PNPLA6",100
+"135","ADPRM, C17orf48, MDS006, NBLA03831","rectangle",388,211,46,17,NA,NA,NA,NA
+"136","PISD, DJ858B16, LIBF, PSD, PSDC, PSSC, dJ858B16.2","rectangle",588,710,46,17,"hsa:23761","4.1.1.65","PISD",100
+"137","PHOSPHO1","rectangle",1097,344,46,17,NA,NA,NA,NA
+"138","PEMT, PEAMT, PEMPT, PEMT2, PLMT, PNMT","rectangle",639,289,46,17,NA,NA,NA,NA
+"139","GPCPD1, EDI3, GDE5, GDPD6, PREI4...","rectangle",1124,705,46,17,NA,NA,NA,NA
+"140","K05939","rectangle",840,768,46,17,NA,NA,NA,NA
+"141","K18696...","rectangle",1124,254,46,17,NA,NA,NA,NA
+"142","LYPLA1, APT-1, APT1, LPL-I, LPL1, hAPT1...","rectangle",983,235,46,17,"hsa:10908","3.1.1.5","PNPLA6",100
+"143","K13508","rectangle",353,306,46,17,NA,NA,NA,NA
+"144","PEMT, PEAMT, PEMPT, PEMT2, PLMT, PNMT","rectangle",640,374,46,17,NA,NA,NA,NA
+"145","PEMT, PEAMT, PEMPT, PEMT2, PLMT, PNMT","rectangle",640,442,46,17,NA,NA,NA,NA
+"146","K01521","rectangle",326,590,46,17,NA,NA,NA,NA
+"147","PGS1","rectangle",345,754,46,17,NA,NA,NA,NA
+"148","Inositol phosphate metabolism","roundrectangle",218,747,161,25,NA,NA,NA,NA
+"149","CRLS1, C20orf155, CLS, CLS1, COSPD57, GCD10, dJ967N21.6","rectangle",277,858,46,17,NA,NA,NA,NA
+"207","LCLAT1, 1AGPAT8, AGPAT8, ALCAT1, HSRG1849, LPLAT6, LYCAT, UNQ1849...","rectangle",162,663,46,17,"hsa:79143",NA,"MBOAT7",0
+"208","LCLAT1, 1AGPAT8, AGPAT8, ALCAT1, HSRG1849, LPLAT6, LYCAT, UNQ1849...","rectangle",162,848,46,17,NA,NA,NA,NA
+"210","LCLAT1, 1AGPAT8, AGPAT8, ALCAT1, HSRG1849, LPLAT6, LYCAT, UNQ1849...","rectangle",345,906,46,17,NA,NA,NA,NA
+"213","LPCAT3, C3F, LPCAT, LPLAT 5, LPLAT12, LPSAT, MBOAT5, OACT5, nessy...","rectangle",568,769,46,17,NA,NA,NA,NA
+"217","K13535","rectangle",162,867,46,17,NA,NA,NA,NA
+"222","K13622","rectangle",804,471,46,17,NA,NA,NA,NA
+"223","K13621","rectangle",804,450,46,17,NA,NA,NA,NA
+"224","K13623","rectangle",906,471,46,17,NA,NA,NA,NA
+"225","K13621","rectangle",906,450,46,17,NA,NA,NA,NA
+"226","K16368","rectangle",424,503,46,17,NA,NA,NA,NA
+"228","K00096","rectangle",170,141,46,17,NA,NA,NA,NA
+"232","K17104","rectangle",395,142,46,17,NA,NA,NA,NA
+"235","K17105","rectangle",499,142,46,17,NA,NA,NA,NA
+"238","K19664","rectangle",598,142,46,17,NA,NA,NA,NA
+"241","K19665","rectangle",698,142,46,17,NA,NA,NA,NA
+"245","K17830","rectangle",577,172,46,17,NA,NA,NA,NA
+"246","K17830","rectangle",527,172,46,17,NA,NA,NA,NA
+"248","ETNPPL, AGXT2L1","rectangle",1097,512,46,17,NA,NA,NA,NA
+"249","K01114...","rectangle",447,847,46,17,NA,NA,NA,NA
+"252","K06132","rectangle",277,900,46,17,NA,NA,NA,NA
+"253","K06131","rectangle",277,879,46,17,NA,NA,NA,NA
+"254","K08591","rectangle",301,306,46,17,NA,NA,NA,NA
+"255","PLA1A, PS-PLA1, PSPLA1","rectangle",568,825,46,17,NA,NA,NA,NA
+"260","K07094","rectangle",395,79,46,17,NA,NA,NA,NA
+"263","K24872","rectangle",598,79,46,17,NA,NA,NA,NA
+"266","K25193","rectangle",1223,621,46,17,NA,NA,NA,NA
+"268","Glycine, serine and threonine metabolism","roundrectangle",1367,621,107,25,NA,NA,NA,NA
+"269","SAMD8, HEL-177, SMSr...","rectangle",718,576,46,17,"hsa:166929","2.7.8.27; 2.7.8.48; 3.1.4.62","SGMS2",0
+"272","Glycine, serine and threonine metabolism","roundrectangle",1174,398,126,34,NA,NA,NA,NA
+"70","Ether lipid metabolism","roundrectangle",112,415,128,25,NA,NA,NA,NA
+"71","PTDSS2, PSS2","rectangle",588,730,46,17,NA,NA,NA,NA
+"72","PTDSS1, LMHD, PSS1, PSSA","rectangle",521,368,46,17,"hsa:9791",NA,"PTDSS1",0
+"73","Glycolysis / Gluconeogenesis","roundrectangle",1174,446,69,25,NA,NA,NA,NA
+"74","K00105...","rectangle",170,254,46,17,NA,NA,NA,NA
+"75","Glycosylphosphatidylinositol (GPI)-anchor biosynthesis","roundrectangle",217,615,135,25,NA,NA,NA,NA
+"81","Glycerolipid metabolism","roundrectangle",113,106,137,25,NA,NA,NA,NA
+"82","GNPAT, DAP-AT, DAPAT, DHAPAT, RCDP2","rectangle",112,306,46,17,"hsa:8443","2.3.1.42","GNPAT",0
+"83","K01004","rectangle",424,673,46,17,NA,NA,NA,NA
+"86","LPCAT3, C3F, LPCAT, LPLAT 5, LPLAT12, LPSAT, MBOAT5, OACT5, nessy...","rectangle",840,234,46,17,NA,NA,NA,NA
+"87","CEPT1...","rectangle",758,303,46,17,NA,NA,NA,NA
+"88","PCYT1A, CCTA, CCTalpha, CGL5, CT, CTA, CTPCT, PCYT1, SMDCRD...","rectangle",934,335,46,17,"hsa:5130","2.7.7.15","PCYT1A",100
+"89","CHKA, CHK, CK, CKI, EK, NEDMIMS...","rectangle",1097,325,46,17,"hsa:1120","2.7.1.32; 2.7.1.82","CHKB",100
+"90","ACHE, ACEE, ARACHE, N-ACHE, YT","rectangle",1262,341,46,17,NA,NA,NA,NA
+"91","CHAT, CHOACTASE, CMS1A, CMS1A2, CMS6","rectangle",1262,321,46,17,"hsa:1103","2.3.1.6","CHAT",100
+"92","PCYT2, ET, SPG82","rectangle",934,573,46,17,"hsa:5833","2.7.7.14","PCYT2",100
+"93","CHKA, CHK, CK, CKI, EK, NEDMIMS...","rectangle",1097,563,46,17,"hsa:1120","2.7.1.32; 2.7.1.82","CHKB",100
+"94","K01114...","rectangle",694,317,46,17,NA,NA,NA,NA
+"95","PLAAT3, AdPLA, FPLD9, H-REV107, H-REV107-1, HRASLS3, HREV107, HREV107-1, HREV107-3, HRSL3, PLA2G16, PLAAT-3...","rectangle",840,254,46,17,NA,NA,NA,NA
+"96","PLA2G4B, HsT16992, cPLA2-beta...","rectangle",840,210,46,17,"hsa:5321;hsa:8398","3.1.1.4","PLA2G4A; PLA2G6",100
+"97","K18694","rectangle",447,868,46,17,NA,NA,NA,NA
+"98","DGKK...","rectangle",424,482,46,17,"hsa:8526","2.7.1.107","DGKE",0
+"99","PLPP4, DPPL2, PPAPDC1, PPAPDC1A...","rectangle",562,461,46,17,"hsa:23175;hsa:9663","3.1.3.4","LPIN1; LPIN2",100

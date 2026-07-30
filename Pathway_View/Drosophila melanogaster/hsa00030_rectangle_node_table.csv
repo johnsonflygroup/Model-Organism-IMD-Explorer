@@ -1,0 +1,78 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"102","K11395","rectangle",762,340,46,17,NA,NA
+"106","K01621","rectangle",268,727,46,17,NA,NA
+"108","K00090...","rectangle",499,216,46,17,NA,NA
+"110","H6PD, CORTRD1, G6PDH, GDH, H6PDH","rectangle",372,297,46,17,"hsa:9563",0
+"146","K00918","rectangle",232,525,46,17,NA,NA
+"150","K08093...","rectangle",456,406,46,17,NA,NA
+"152","K08094...","rectangle",298,406,46,17,NA,NA
+"156","K17468","rectangle",672,378,46,17,NA,NA
+"157","K17464...","rectangle",624,405,46,17,NA,NA
+"159","K18020...","rectangle",892,136,46,17,NA,NA
+"162","K00131","rectangle",892,319,46,17,NA,NA
+"163","K18127","rectangle",762,166,46,17,NA,NA
+"165","K18124","rectangle",248,220,46,17,NA,NA
+"166","K18125","rectangle",296,220,46,17,NA,NA
+"167","K18126","rectangle",697,244,46,17,NA,NA
+"168","K18128","rectangle",892,155,46,17,NA,NA
+"169","Galactose metabolism","roundrectangle",842,91,122,25,NA,NA
+"172","Galactose metabolism","roundrectangle",842,395,122,25,NA,NA
+"174","K18978","rectangle",892,340,46,17,NA,NA
+"175","PGD, 6PGD","rectangle",560,373,46,17,NA,NA
+"176","G6PD, CNSHA1, G6PD1","rectangle",261,340,46,17,"hsa:2539",100
+"177","K19243","rectangle",309,340,46,17,NA,NA
+"179","K00895...","rectangle",118,525,46,17,NA,NA
+"180","Vitamin B6 metabolism","roundrectangle",468,506,72,34,NA,NA
+"183","K21056","rectangle",673,615,46,17,NA,NA
+"184","K26208","rectangle",723,615,46,17,NA,NA
+"187","K18237","rectangle",759,658,46,17,NA,NA
+"189","Glyoxylate and dicarboxylate metabolism","roundrectangle",954,658,141,34,NA,NA
+"193","SHPK, CARKL, SHK","rectangle",356,671,46,17,"hsa:23729",0
+"194","K28747","rectangle",398,764,46,17,NA,NA
+"41","K05774","rectangle",615,658,46,17,NA,NA
+"42","GPI, AMF, CNSHA4, GNPI, NLK, PGI, PHI, SA-36, SA36","rectangle",207,365,46,17,"hsa:2821",100
+"43","K01625...","rectangle",762,319,46,17,NA,NA
+"44","Glycolysis / Gluconeogenesis","roundrectangle",1028,239,71,26,NA,NA
+"45","RBKS, RBSK, RK","rectangle",398,743,46,17,NA,NA
+"46","PGM2, MSTP006","rectangle",398,791,46,17,NA,NA
+"47","DERA, CGI-26, DEOC","rectangle",268,791,46,17,NA,NA
+"48","PRPS1L1, PRPS1, PRPS3, PRPSL, PRS-III...","rectangle",536,613,46,17,"hsa:5631",100
+"49","PGM2, MSTP006","rectangle",615,569,46,17,NA,NA
+"50","RBKS, RBSK, RK","rectangle",615,548,46,17,NA,NA
+"51","TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1...","rectangle",416,588,46,17,"hsa:7086",100
+"52","RPIA, RPI, RPIAD","rectangle",535,513,46,17,"hsa:22934",100
+"53","RPE, RPE2-1...","rectangle",476,474,46,17,NA,NA
+"54","TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1...","rectangle",311,474,46,17,"hsa:7086",100
+"55","ALDOA, ALDA, GSD12, HEL-S-87p...","rectangle",207,607,46,17,"hsa:226;hsa:229",100
+"56","PFKL, ATP-PFK, PFK-B, PFK-L...","rectangle",182,525,46,17,"hsa:5213",100
+"57","FBP1, FBP...","rectangle",146,504,46,17,"hsa:2203;hsa:8789",100
+"58","GPI, AMF, CNSHA4, GNPI, NLK, PGI, PHI, SA-36, SA36","rectangle",207,439,46,17,"hsa:2821",100
+"59","K00032","rectangle",499,277,46,17,NA,NA
+"60","K11441","rectangle",456,244,46,17,NA,NA
+"61","PGD, 6PGD","rectangle",510,373,46,17,NA,NA
+"62","PGLS, 6PGL, HEL-S-304","rectangle",456,329,46,17,NA,NA
+"63","G6PD, CNSHA1, G6PD1","rectangle",286,319,46,17,"hsa:2539",100
+"64","K22345","rectangle",672,104,46,17,NA,NA
+"65","K00874","rectangle",647,244,46,17,NA,NA
+"66","K01690","rectangle",604,330,46,17,NA,NA
+"67","IDNK, C9orf103, bA522I20.2, hGntK","rectangle",540,244,46,17,NA,NA
+"68","K05308","rectangle",604,166,46,17,NA,NA
+"69","RGN, GNL, HEL-S-41, RC, SMP30","rectangle",427,156,46,17,NA,NA
+"70","K00117","rectangle",296,241,46,17,NA,NA
+"71","K00115...","rectangle",248,241,46,17,NA,NA
+"72","K28748","rectangle",273,145,46,17,NA,NA
+"73","K00034...","rectangle",273,125,46,17,NA,NA
+"74","Glycolysis / Gluconeogenesis","roundrectangle",50,522,64,304,NA,NA
+"75","Pentose and glucuronate interconversions","roundrectangle",691,474,136,34,NA,NA
+"76","Purine metabolism","roundrectangle",641,707,73,32,NA,NA
+"77","TITLE:Pentose phosphate pathway","roundrectangle",160,58,239,25,NA,NA
+"78","Pyrimidine metabolism","roundrectangle",641,742,73,32,NA,NA
+"79","Histidine metabolism","roundrectangle",641,777,73,32,NA,NA
+"80","K21840","rectangle",273,166,46,17,NA,NA
+"81","K06151...","rectangle",456,185,46,17,NA,NA
+"82","TALDO1, TAL, TAL-H, TALDOR, TALH","rectangle",357,565,46,17,"hsa:6888",100
+"83","PGM1, CDG1T, GSD14...","rectangle",615,590,46,17,"hsa:5236",100
+"94","K11395","rectangle",762,145,46,17,NA,NA
+"96","K03738","rectangle",892,174,46,17,NA,NA
+"98","GLYCTK, HBEBP2, HBEBP4, HBeAgBP4A","rectangle",975,156,46,17,"hsa:132158",100
+"99","Pentose and glucuronate interconversions","roundrectangle",500,116,134,34,NA,NA

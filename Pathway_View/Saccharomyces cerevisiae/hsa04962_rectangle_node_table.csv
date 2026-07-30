@@ -1,0 +1,27 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"10","TITLE:Vasopressin-regulated water reabsorption","roundrectangle",237,58,393,25,NA,NA,NA,NA
+"22","Tight junction","roundrectangle",252,117,115,25,NA,NA,NA,NA
+"26","AVP, ADH, ARVP, AVP-NPII, AVRP, VP","rectangle",664,308,46,17,NA,NA,NA,NA
+"27","AVPR2, ADHR, DI1, DIR, DIR3, NDI, NDI1, V2R","rectangle",580,307,46,17,NA,NA,NA,NA
+"28","GNAS, AHO, AIMAH1, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI","rectangle",530,333,46,17,NA,NA,NA,NA
+"29","ADCY3, AC-III, AC3, BMIQ19...","rectangle",582,365,46,17,NA,NA,NA,NA
+"30","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",463,365,46,17,NA,NA,NA,NA
+"31","CREB3, LUMAN, LZIP, sLZIP...","rectangle",464,429,46,17,NA,NA,NA,NA
+"35","AQP2, AQP-CD, NDI2, WCH-CD","rectangle",370,365,46,17,NA,NA,NA,NA
+"40","AQP2, AQP-CD, NDI2, WCH-CD","rectangle",398,631,46,17,NA,NA,NA,NA
+"41","AQP2, AQP-CD, NDI2, WCH-CD","rectangle",293,444,46,17,NA,NA,NA,NA
+"42","AQP2, AQP-CD, NDI2, WCH-CD","rectangle",159,534,46,17,NA,NA,NA,NA
+"44","Endocytosis","roundrectangle",286,580,92,25,NA,NA,NA,NA
+"48","AQP2, AQP-CD, NDI2, WCH-CD","rectangle",244,628,46,17,NA,NA,NA,NA
+"49","AQP4, MIWC, MLC4, WCH4, hAQP4","rectangle",579,516,46,17,NA,NA,NA,NA
+"55","AQP3, AQP-3, GIL","rectangle",580,547,46,17,NA,NA,NA,NA
+"63","AQP2, AQP-CD, NDI2, WCH-CD","rectangle",106,631,46,17,NA,NA,NA,NA
+"64","ARHGDIA, GDIA1, HEL-S-47e, NPHS8, RHOGDI, RHOGDI-1...","rectangle",400,273,46,17,NA,NA,NA,NA
+"68","AQP3, AQP-3, GIL","rectangle",465,718,46,17,NA,NA,NA,NA
+"71","RAB11A, YL8...","rectangle",386,343,46,17,NA,NA,NA,NA
+"72","RAB5A, RAB5...","rectangle",409,606,46,17,NA,NA,NA,NA
+"74","STX4, DFNB123, STX4A, p35-2","rectangle",159,445,46,17,NA,NA,NA,NA
+"75","VAMP2, NEDHAHM, SYB2, VAMP-2","rectangle",227,445,46,17,"hsa:6844",NA,"VAMP2",100
+"76","NSF, DEE96, SEC18, SKD2","rectangle",200,462,46,17,NA,NA,NA,NA
+"78","DCTN2, DCTN50, DYNAMITIN, HEL-S-77, RBP50...","rectangle",335,331,46,17,NA,NA,NA,NA
+"79","DYNLL2, DNCL1B, Dlc2, RSPH22...","rectangle",335,314,46,17,"hsa:1778",NA,"DYNC1H1",100

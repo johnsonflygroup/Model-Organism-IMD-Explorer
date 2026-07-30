@@ -1,0 +1,88 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"163","APOA1, AMYLD3, HPALP2, apo(a)","rectangle",981,1056,46,17,"hsa:335",0
+"166","APOB, FCHL2, FLDB, LDLCQ4, apoB-100, apoB-48","rectangle",1031,1056,46,17,"hsa:338",0
+"168","APOC1, APOC1B, Apo-CI, ApoC-I, apo-CIB, apoC-IB...","rectangle",1031,1076,46,17,"hsa:344;hsa:345",0
+"169","APOE, AD2, APO-E, ApoE4, LDLCQ5, LPG","rectangle",1031,1096,46,17,"hsa:348",0
+"175","LPA, AK38, APOA, LP","rectangle",736,1056,46,17,"hsa:4018",0
+"180","APOA2, Apo-AII, ApoA-II, apoAII","rectangle",981,1076,46,17,NA,NA
+"181","APOA4, ADTKD6","rectangle",981,1096,46,17,NA,NA
+"182","APOE, AD2, APO-E, ApoE4, LDLCQ5, LPG","rectangle",919,1076,46,17,"hsa:348",0
+"183","APOB, FCHL2, FLDB, LDLCQ4, apoB-100, apoB-48","rectangle",919,1056,46,17,"hsa:338",0
+"184","APOB, FCHL2, FLDB, LDLCQ4, apoB-100, apoB-48","rectangle",857,1056,46,17,"hsa:338",0
+"185","APOC1, APOC1B, Apo-CI, ApoC-I, apo-CIB, apoC-IB...","rectangle",857,1076,46,17,"hsa:344;hsa:345",0
+"186","APOE, AD2, APO-E, ApoE4, LDLCQ5, LPG","rectangle",857,1096,46,17,"hsa:348",0
+"187","APOB, FCHL2, FLDB, LDLCQ4, apoB-100, apoB-48","rectangle",796,1056,46,17,"hsa:338",0
+"188","APOB, FCHL2, FLDB, LDLCQ4, apoB-100, apoB-48","rectangle",736,1076,46,17,"hsa:338",0
+"189","APOB, FCHL2, FLDB, LDLCQ4, apoB-100, apoB-48","rectangle",678,1056,46,17,"hsa:338",0
+"190","APOA1, AMYLD3, HPALP2, apo(a)","rectangle",620,1056,46,17,"hsa:335",0
+"191","APOA2, Apo-AII, ApoA-II, apoAII","rectangle",620,1076,46,17,NA,NA
+"192","APOC1, APOC1B, Apo-CI, ApoC-I, apo-CIB, apoC-IB...","rectangle",620,1096,46,17,"hsa:344;hsa:345",0
+"193","APOE, AD2, APO-E, ApoE4, LDLCQ5, LPG","rectangle",620,1116,46,17,"hsa:348",0
+"195","APOE, AD2, APO-E, ApoE4, LDLCQ5, LPG","rectangle",796,1076,46,17,"hsa:348",0
+"199","ANGPTL3, ANG-5, ANGPT5, ANL3, FHBL2...","rectangle",122,353,46,17,"hsa:27329",0
+"200","ANGPTL8, C19orf80, PRO1185, PVPA599, RIFL, TD26","rectangle",122,392,46,17,NA,NA
+"201","APOH, B2G1, B2GP1, BG","rectangle",70,319,46,17,NA,NA
+"203","APOC2, APO-CII, APOC-II","rectangle",70,299,46,17,"hsa:344",0
+"204","LPL, HDLCQ11, LIPD","rectangle",143,309,46,17,"hsa:4023",0
+"205","ABCA1, ABC-1, ABC1, CERP, HDLCQTL13, HDLDT1, HPALP1, TGD","rectangle",377,177,46,17,"hsa:19",100
+"206","ABCA1, ABC-1, ABC1, CERP, HDLCQTL13, HDLDT1, HPALP1, TGD","rectangle",377,434,46,17,"hsa:19",100
+"207","ABCA1, ABC-1, ABC1, CERP, HDLCQTL13, HDLDT1, HPALP1, TGD","rectangle",1111,152,46,17,"hsa:19",100
+"210","APOA1, AMYLD3, HPALP2, apo(a)","rectangle",334,214,46,17,"hsa:335",0
+"211","APOA1, AMYLD3, HPALP2, apo(a)","rectangle",1053,183,46,17,"hsa:335",0
+"212","APOA1, AMYLD3, HPALP2, apo(a)","rectangle",417,401,46,17,"hsa:335",0
+"230","Fat digestion and absorption","roundrectangle",308,136,90,30,NA,NA
+"231","NCEH1, AADACL1, NCEH","rectangle",1209,135,46,17,NA,NA
+"232","SOAT1, ACACT, ACAT, ACAT-1, ACAT1, SOAT, STAT...","rectangle",1209,167,46,17,NA,NA
+"233","LDLR, FH, FHC, FHCL1, LDLCQ2","rectangle",1260,212,46,17,"hsa:3949",100
+"234","CD36, BDPLT10, CHDS7, FAT, GP3B, GP4, GPIV, PASIV, SCARB3","rectangle",1165,212,46,17,NA,NA
+"235","APOC1, APOC1B, Apo-CI, ApoC-I, apo-CIB, apoC-IB","rectangle",483,233,46,17,NA,NA
+"236","LCAT","rectangle",483,271,46,17,"hsa:3931",100
+"237","APOA1, AMYLD3, HPALP2, apo(a)","rectangle",483,213,46,17,"hsa:335",0
+"238","PLTP, BPIFE, HDLCQ9","rectangle",703,299,46,17,NA,NA
+"239","CETP, BPIFF, HDLCQ10","rectangle",703,345,46,17,"hsa:1071",0
+"240","APOC1, APOC1B, Apo-CI, ApoC-I, apo-CIB, apoC-IB","rectangle",703,385,46,17,NA,NA
+"241","LIPG, EDL, EL, PRO719","rectangle",703,250,46,17,NA,NA
+"242","LPL, HDLCQ11, LIPD","rectangle",942,281,46,17,"hsa:4023",0
+"243","LIPC, HDLCQ12, HL, HTGL, LIPH","rectangle",1162,281,46,17,"hsa:3990",0
+"244","SCARB1, CD36L1, CLA-1, CLA1, HDLCQ6, HDLQTL6, SR-BI, SRB1","rectangle",581,434,46,17,"hsa:949",100
+"245","SORT1, Gp95, LDLCQ6, NT3, NTR3","rectangle",857,434,46,17,NA,NA
+"246","PCSK9, FH3, FHCL3, HCHOLA3, LDLCQ1, NARC-1, NARC1, PC9","rectangle",1179,448,46,17,"hsa:255738",0
+"247","LDLR, FH, FHC, FHCL1, LDLCQ2","rectangle",1152,465,46,17,"hsa:3949",100
+"248","PCSK9, FH3, FHCL3, HCHOLA3, LDLCQ1, NARC-1, NARC1, PC9","rectangle",983,550,46,17,"hsa:255738",0
+"249","LDLR, FH, FHC, FHCL1, LDLCQ2","rectangle",956,567,46,17,"hsa:3949",100
+"250","PCSK9, FH3, FHCL3, HCHOLA3, LDLCQ1, NARC-1, NARC1, PC9","rectangle",736,557,46,17,"hsa:255738",0
+"251","LDLR, FH, FHC, FHCL1, LDLCQ2","rectangle",709,574,46,17,"hsa:3949",100
+"252","SORT1, Gp95, LDLCQ6, NT3, NTR3","rectangle",891,515,46,17,NA,NA
+"253","LDLR, FH, FHC, FHCL1, LDLCQ2","rectangle",1263,434,46,17,"hsa:3949",100
+"254","LDLRAP1, ARH, ARH1, ARH2, FHCB1, FHCB2, FHCL4","rectangle",1320,434,46,17,"hsa:26119",0
+"255","MYLIP, IDOL, MIR","rectangle",1372,497,46,17,NA,NA
+"256","LPA, AK38, APOA, LP","rectangle",1359,336,46,17,"hsa:4018",0
+"257","LIPA, CESD, LAL","rectangle",572,589,46,17,"hsa:3988",100
+"258","STARD3, CAB1, MLN64, es64...","rectangle",519,696,46,17,NA,NA
+"259","NPC1, NPC, POGZ, SLC65A1","rectangle",569,696,46,17,"hsa:4864",100
+"260","VAPB, ALS8, VAMP-B, VAP-B...","rectangle",519,713,46,17,"hsa:9217",100
+"261","OSBPL5, OBPH1, ORP5","rectangle",569,713,46,17,NA,NA
+"262","NPC2, EDDM1, HE1","rectangle",614,668,46,17,"hsa:10577",100
+"263","STAR, STARD1","rectangle",963,660,46,17,"hsa:6770",0
+"264","VDAC1, PORIN, VDAC-1...","rectangle",917,672,46,17,NA,NA
+"265","STARD3, CAB1, MLN64, es64","rectangle",798,638,46,17,NA,NA
+"266","VDAC1, PORIN, VDAC-1...","rectangle",844,638,46,17,NA,NA
+"267","TSPO, BPBS, BZRP, DBI, IBP, MBR, PBR, PBS, PKBS, PTBR, TSPO1, mDRC, pk18","rectangle",879,655,46,17,NA,NA
+"268","SOAT1, ACACT, ACAT, ACAT-1, ACAT1, SOAT, STAT...","rectangle",652,782,46,17,NA,NA
+"269","SORT1, Gp95, LDLCQ6, NT3, NTR3","rectangle",869,714,46,17,NA,NA
+"270","APOB, FCHL2, FLDB, LDLCQ4, apoB-100, apoB-48","rectangle",869,731,46,17,"hsa:338",0
+"271","APOB, FCHL2, FLDB, LDLCQ4, apoB-100, apoB-48","rectangle",1122,428,46,17,"hsa:338",0
+"272","CYP27A1, CP27, CTX, CYP27","rectangle",986,626,46,17,"hsa:1593",100
+"273","CYP7A1, CP7A, CYP7, CYPVII","rectangle",919,811,46,17,"hsa:1581",0
+"281","Bile secretion","roundrectangle",1191,808,80,18,NA,NA
+"282","Steroid biosynthesis","roundrectangle",677,865,112,18,NA,NA
+"283","Terpenoid backbone biosynthesis","roundrectangle",559,863,109,29,NA,NA
+"284","Primary bile acid biosynthesis","roundrectangle",1008,793,96,28,NA,NA
+"289","ABCG5, STSL, STSL2...","rectangle",1300,854,46,17,"hsa:64240;hsa:64241",100
+"290","ABCB11, ABC16, BRIC2, BSEP, PFIC-2, PFIC2, PGY4, SPGP","rectangle",1300,824,46,17,"hsa:8647",100
+"291","SORT1, Gp95, LDLCQ6, NT3, NTR3","rectangle",1097,465,46,17,NA,NA
+"292","LRP1, A2MR, APOER, APR, CD91, DDH3, IGFBP-3R, IGFBP3R, IGFBP3R1, KPA, LRP, LRP1A, TGFBR5...","rectangle",275,555,46,17,NA,NA
+"293","LRPAP1, A2MRAP, A2RAP, HBP44, MRAP, MYP23, RAP, alpha-2-MRAP","rectangle",273,592,46,17,NA,NA
+"294","APOE, AD2, APO-E, ApoE4, LDLCQ5, LPG","rectangle",229,555,46,17,"hsa:348",0
+"297","TITLE:Cholesterol metabolism","roundrectangle",149,58,217,25,NA,NA
+"298","CIDEB","rectangle",823,731,46,17,NA,NA

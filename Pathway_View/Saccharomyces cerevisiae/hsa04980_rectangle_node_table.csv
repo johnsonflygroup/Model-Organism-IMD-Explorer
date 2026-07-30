@@ -1,0 +1,28 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"120","TCN2, D22S676, D22S750, II, TC, TC II, TC-2, TC2, TCII","rectangle",127,403,46,17,"hsa:6948",NA,"TCN2",0
+"25","TITLE:Cobalamin transport and metabolism","roundrectangle",215,58,350,25,NA,NA,NA,NA
+"304","CD320, 8D6, 8D6A, TCBLR, TCII-R, TCN2R, sCD320","rectangle",201,403,46,17,"hsa:51293",NA,"CD320",0
+"309","TCN2, D22S676, D22S750, II, TC, TC II, TC-2, TC2, TCII","rectangle",320,403,46,17,"hsa:6948",NA,"TCN2",0
+"312","LMBRD1, C6orf209, LMBD1, MAHCF, NESI","rectangle",490,417,46,17,"hsa:55788",NA,"LMBRD1",0
+"313","TCN2, D22S676, D22S750, II, TC, TC II, TC-2, TC2, TCII","rectangle",434,403,46,17,"hsa:6948",NA,"TCN2",0
+"319","ABCD4, ABC41, EST352188, MAHCJ, P70R, P79R, PMP69, PXMP1L","rectangle",490,434,46,17,"hsa:5826","7.6.2.8","ABCD4",0
+"323","ZNF76, D6S229E, ZNF523, Zfp523...","rectangle",307,198,46,17,"hsa:7702",NA,"ZNF143",0
+"330","MMACHC, cblC","rectangle",595,414,46,17,"hsa:25974","1.16.1.6; 2.5.1.151","MMACHC",0
+"334","MMUT, MCM, MUT","rectangle",654,208,46,17,"hsa:4594","5.4.99.2","MMUT",0
+"335","Valine, leucine and isoleucine degradation","roundrectangle",662,168,157,34,NA,NA,NA,NA
+"336","Cysteine and methionine metabolism","roundrectangle",828,432,133,34,NA,NA,NA,NA
+"339","MTRR, MSR, cblE","rectangle",707,534,46,17,"hsa:4552","1.16.1.8","MTRR",0
+"349","MTR, HMAG, MS, cblG","rectangle",830,540,46,17,"hsa:4548","2.1.1.13","MTR",0
+"350","One carbon pool by folate","roundrectangle",833,618,85,34,NA,NA,NA,NA
+"351","MMAB, ATR, CFAP23, cblB, cob","rectangle",626,287,46,17,"hsa:326625","2.5.1.17","MMAB",0
+"357","HCFC1, CFF, HCF, HCF-1, HCF1, HFC1, MAHCX, MRX3, PPP1R89, VCAF, XLID3","rectangle",353,198,46,17,"hsa:3054",NA,"HCFC1",0
+"358","PRDX1, MSP23, NKEF-A, NKEFA, PAG, PAGA, PAGB, PRX1, PRXI, TDPX2","rectangle",299,242,46,17,NA,NA,NA,NA
+"359","THAP11, CTG-B43a, CTG-B45d, HRIHFB2206, MAHCL, RONIN, SCA51","rectangle",399,198,46,17,"hsa:57215",NA,"THAP11",0
+"361","MMADHC, C2orf25, CL25022, HMAD, MACD, MAHCD, cblD","rectangle",626,388,46,17,"hsa:27249",NA,"MMADHC",0
+"363","MMAA, cblA","rectangle",601,226,46,17,"hsa:166785",NA,"MMAA",0
+"365","MMADHC, C2orf25, CL25022, HMAD, MACD, MAHCD, cblD","rectangle",626,467,46,17,"hsa:27249",NA,"MMADHC",0
+"366","CBLIF, GIF, IF, IFMH, INF, TCN3","rectangle",127,303,46,17,"hsa:2694",NA,"CBLIF",0
+"368","TCN1, HC, TC-1, TC1, TCI","rectangle",127,203,46,17,"hsa:6947",NA,"TCN1",0
+"372","Vitamin digestion and absorption","roundrectangle",58,341,95,34,NA,NA,NA,NA
+"375","Endocytosis","roundrectangle",298,516,72,25,NA,NA,NA,NA
+"384","CD320, 8D6, 8D6A, TCBLR, TCII-R, TCN2R, sCD320","rectangle",274,403,46,17,"hsa:51293",NA,"CD320",0

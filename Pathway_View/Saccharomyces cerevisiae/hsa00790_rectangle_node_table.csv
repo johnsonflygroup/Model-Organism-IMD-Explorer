@@ -1,0 +1,76 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"100","MOCS1, MIG11, MOCOD, MOCS1A, MOCS1B","rectangle",188,309,46,17,"hsa:4337","4.1.99.22; 4.6.1.17","MOCS1",0
+"101","MOCS2, MCBPE, MOCO1, MOCODB, MPTS","rectangle",188,447,46,17,"hsa:4338","2.8.1.12","MOCS2",0
+"103","PTS, PTPS","rectangle",604,80,46,17,"hsa:5805","4.1.2.50; 4.2.3.12","PTS",0
+"109","K10026","rectangle",700,80,46,17,NA,NA,NA,NA
+"11","TITLE:Folate biosynthesis","roundrectangle",133,58,185,25,NA,NA,NA,NA
+"110","K06920","rectangle",794,80,46,17,NA,NA,NA,NA
+"111","K06879...","rectangle",888,80,46,17,NA,NA,NA,NA
+"112","K17364","rectangle",868,694,46,17,NA,NA,NA,NA
+"115","K15740","rectangle",894,781,46,17,NA,NA,NA,NA
+"118","K00310","rectangle",1197,200,46,17,NA,NA,NA,NA
+"119","K18853","rectangle",918,694,46,17,NA,NA,NA,NA
+"12","One carbon pool by folate","roundrectangle",701,648,98,34,NA,NA,NA,NA
+"124","MOCS1, MIG11, MOCOD, MOCS1A, MOCS1B","rectangle",188,379,46,17,"hsa:4337","4.1.99.22; 4.6.1.17","MOCS1",0
+"125","GPHN, GEPH, GPH, GPHRYN, HKPX1, MOCODC","rectangle",188,516,46,17,"hsa:10243","2.10.1.1; 2.7.7.75","GPHN",0
+"126","Phenylalanine, tyrosine and tryptophan biosynthesis","roundrectangle",372,669,93,34,NA,NA,NA,NA
+"129","GPHN, GEPH, GPH, GPHRYN, HKPX1, MOCODC","rectangle",188,583,46,17,"hsa:10243","2.10.1.1; 2.7.7.75","GPHN",0
+"13","Purine metabolism","roundrectangle",98,282,75,34,NA,NA,NA,NA
+"133","K03752...","rectangle",190,672,46,17,NA,NA,NA,NA
+"134","K07141","rectangle",128,672,46,17,NA,NA,NA,NA
+"135","MOCOS, HMCS, MCS, MOS","rectangle",232,622,46,17,"hsa:55034","2.8.1.9","MOCOS",0
+"137","K07589","rectangle",604,155,46,17,NA,NA,NA,NA
+"141","K17745","rectangle",873,279,46,17,NA,NA,NA,NA
+"143","PCBD1, DCOH, PCBD, PCD, PHS...","rectangle",1136,487,46,17,"hsa:5092","4.2.1.96","PCBD1",100
+"146","K17488","rectangle",258,279,46,17,NA,NA,NA,NA
+"150","K17487","rectangle",322,250,46,17,NA,NA,NA,NA
+"152","K17487","rectangle",376,279,46,17,NA,NA,NA,NA
+"155","K01633","rectangle",604,279,46,17,NA,NA,NA,NA
+"160","K06897","rectangle",703,466,46,17,NA,NA,NA,NA
+"167","Benzoate degradation","roundrectangle",789,613,73,34,NA,NA,NA,NA
+"169","PAH, PH, PKU, PKU1","rectangle",1234,410,46,17,"hsa:5053","1.14.16.1","PAH",0
+"170","TH, DYT14, DYT5b, TYH","rectangle",1284,410,46,17,"hsa:7054","1.14.16.2","TH",0
+"171","TPH2, ADHD7, NTPH...","rectangle",1260,429,46,17,NA,NA,NA,NA
+"172","SPR, SDR38C1","rectangle",1136,284,46,17,"hsa:6697","1.1.1.153","SPR",0
+"176","K13938","rectangle",716,220,46,17,NA,NA,NA,NA
+"179","K01633","rectangle",604,220,46,17,NA,NA,NA,NA
+"181","K22102","rectangle",475,362,46,17,NA,NA,NA,NA
+"183","K22101","rectangle",706,362,46,17,NA,NA,NA,NA
+"186","K22100","rectangle",350,208,46,17,NA,NA,NA,NA
+"188","GCH1, DYT14, DYT5, DYT5a, GCH, GTP-CH-1, GTPCH1, HPABH4B","rectangle",157,252,46,17,"hsa:2643","3.5.4.16","GCH1",100
+"189","K01497...","rectangle",231,213,46,17,NA,NA,NA,NA
+"191","SPR, SDR38C1","rectangle",1074,315,46,17,"hsa:6697","1.1.1.153","SPR",0
+"195","SPR, SDR38C1","rectangle",990,315,46,17,"hsa:6697","1.1.1.153","SPR",0
+"197","DHFR, DHFR1, DHFRP1, DYR...","rectangle",1022,348,46,17,"hsa:1719","1.5.1.3","DHFR",100
+"199","AKR1B1, ADR, ALDR1, ALR2, AR...","rectangle",1098,242,46,17,NA,NA,NA,NA
+"200","CBR1, CBR, PG-9-KR, SDR21C1, hCBR1","rectangle",1048,242,46,17,NA,NA,NA,NA
+"201","AKR1C8, AKR1C8P, AKR1CL1...","rectangle",1197,242,46,17,NA,NA,NA,NA
+"203","AKR1B1, ADR, ALDR1, ALR2, AR...","rectangle",1197,315,46,17,NA,NA,NA,NA
+"206","CBR1, CBR, PG-9-KR, SDR21C1, hCBR1","rectangle",940,315,46,17,NA,NA,NA,NA
+"209","K06984","rectangle",727,562,46,17,NA,NA,NA,NA
+"212","K03793","rectangle",1074,389,46,17,NA,NA,NA,NA
+"214","K03793","rectangle",1022,410,46,17,NA,NA,NA,NA
+"215","K03793","rectangle",1022,369,46,17,NA,NA,NA,NA
+"216","K25575...","rectangle",396,591,46,17,NA,NA,NA,NA
+"69","K13950...","rectangle",346,591,46,17,NA,NA,NA,NA
+"70","K02619...","rectangle",371,527,46,17,NA,NA,NA,NA
+"71","FPGS","rectangle",547,867,46,17,NA,NA,NA,NA
+"72","FPGS","rectangle",547,781,46,17,NA,NA,NA,NA
+"73","DHFR, DHFR1, DHFRP1, DYR...","rectangle",547,694,46,17,"hsa:1719","1.5.1.3","DHFR",100
+"74","DHFR, DHFR1, DHFRP1, DYR...","rectangle",501,649,46,17,"hsa:1719","1.5.1.3","DHFR",100
+"75","K11754...","rectangle",572,609,46,17,NA,NA,NA,NA
+"76","K13939...","rectangle",548,527,46,17,NA,NA,NA,NA
+"77","K13939...","rectangle",500,527,46,17,NA,NA,NA,NA
+"78","K13939...","rectangle",548,419,46,17,NA,NA,NA,NA
+"79","K13939...","rectangle",547,322,46,17,NA,NA,NA,NA
+"81","K08310...","rectangle",412,181,46,17,NA,NA,NA,NA
+"82","QDPR, DHPR, HDHPR, PKU2, SDR33C1","rectangle",1136,404,46,17,"hsa:5860","1.5.1.34","QDPR",0
+"83","GCH1, DYT14, DYT5, DYT5a, GCH, GTP-CH-1, GTPCH1, HPABH4B","rectangle",376,143,46,17,"hsa:2643","3.5.4.16","GCH1",100
+"84","GCH1, DYT14, DYT5, DYT5a, GCH, GTP-CH-1, GTPCH1, HPABH4B","rectangle",231,143,46,17,"hsa:2643","3.5.4.16","GCH1",100
+"85","GCH1, DYT14, DYT5, DYT5a, GCH, GTP-CH-1, GTPCH1, HPABH4B","rectangle",156,181,46,17,"hsa:2643","3.5.4.16","GCH1",100
+"86","DHFR, DHFR1, DHFRP1, DYR...","rectangle",501,736,46,17,"hsa:1719","1.5.1.3","DHFR",100
+"87","FPGS","rectangle",522,609,46,17,NA,NA,NA,NA
+"88","GGH, GATD10, GH","rectangle",605,817,46,17,NA,NA,NA,NA
+"89","ALPI, IAP...","rectangle",548,189,46,17,"hsa:248;hsa:249","3.1.3.1","ALPI; ALPL",100
+"90","PTS, PTPS","rectangle",1136,167,46,17,"hsa:5805","4.1.2.50; 4.2.3.12","PTS",0
+"96","Methane metabolism","roundrectangle",804,736,76,34,NA,NA,NA,NA

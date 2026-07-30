@@ -1,0 +1,64 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","MCEE, GLOD2, MCE, MMCE","rectangle",531,916,46,17,"hsa:84693",100
+"101","PCCA...","rectangle",622,830,46,17,"hsa:5095;hsa:5096",100
+"102","AOX1, AO, AOH1","rectangle",469,815,46,17,NA,NA
+"103","ALDH2, ALDH-E2, ALDHI, ALDM...","rectangle",419,815,46,17,"hsa:219;hsa:224;hsa:501",100
+"104","ALDH6A1, MMSADHA, MMSDH","rectangle",531,757,46,17,"hsa:4329",100
+"105","ABAT, GABA-AT, GABAT, NPD009","rectangle",389,767,46,17,"hsa:18",100
+"106","EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, MFE1, PBFE...","rectangle",597,636,46,17,"hsa:1962;hsa:3028;hsa:3033",100
+"107","HIBADH, NS5ATP1","rectangle",445,703,46,17,"hsa:11112",100
+"108","HIBCH, HIBYLCOAH","rectangle",444,636,46,17,"hsa:26275",100
+"109","HSD17B10, 17b-HSD10, ABAD, CAMR, DUPXp11.22, ERAB, HADH2, HCD2, HSD10MD, MHBD, MRPP2, MRX17, MRX31, MRXS10, SCHAD, SDR5C1","rectangle",647,636,46,17,"hsa:3028",100
+"110","ECHS1, ECHS1D, SCEH, mECH, mECH1...","rectangle",444,564,46,17,"hsa:1892;hsa:1962;hsa:3030",100
+"111","ACADM, ACAD1, MCAD, MCADH","rectangle",369,477,46,17,"hsa:34",100
+"112","ACADSB, 2-MEBCAD, ACAD7, SBCAD","rectangle",647,477,46,17,"hsa:36",100
+"113","DBT, BCATE2, BCKAD-E2, BCKADE2, BCKDH-E2, BCOADC-E2, E2, E2B","rectangle",444,399,46,17,"hsa:1629",100
+"114","BCKDHA, BCKDE1A, MSU, MSUD1, MSUD1A, OVD1A...","rectangle",167,261,46,17,"hsa:593;hsa:594",100
+"115","DBT, BCATE2, BCKAD-E2, BCKADE2, BCKDH-E2, BCOADC-E2, E2, E2B","rectangle",167,399,46,17,"hsa:1629",100
+"116","BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18...","rectangle",142,194,46,17,"hsa:587",100
+"117","Pyrimidine metabolism","roundrectangle",330,848,72,34,NA,NA
+"118","Propanoate metabolism","roundrectangle",543,796,73,34,NA,NA
+"119","K00822","rectangle",389,746,46,17,NA,NA
+"120","Valine, leucine and isoleucine biosynthesis","roundrectangle",363,105,127,34,NA,NA
+"121","ACADM, ACAD1, MCAD, MCADH","rectangle",217,477,46,17,"hsa:34",100
+"122","ACADM, ACAD1, MCAD, MCADH","rectangle",697,477,46,17,"hsa:34",100
+"123","K00186...","rectangle",54,283,46,17,NA,NA
+"124","K00186...","rectangle",329,283,46,17,NA,NA
+"125","K00186...","rectangle",733,283,46,17,NA,NA
+"126","ACADS, ACAD3, SCAD","rectangle",419,477,46,17,"hsa:35",0
+"127","ACADS, ACAD3, SCAD","rectangle",597,477,46,17,"hsa:35",0
+"174","ACAD8, ACAD-8, ARC42, IBDH","rectangle",444,496,46,17,"hsa:27034",100
+"176","K00271","rectangle",394,194,46,17,NA,NA
+"185","ACSF3","rectangle",444,881,46,17,"hsa:197322",100
+"188","AACS, ACSF1, SUR-5","rectangle",151,718,46,17,NA,NA
+"191","Terpenoid backbone biosynthesis","roundrectangle",302,649,114,34,NA,NA
+"194","AGXT2, AGT2, BAIBA, DAIBAT","rectangle",389,793,46,17,"hsa:64902",100
+"58","BCKDHA, BCKDE1A, MSU, MSUD1, MSUD1A, OVD1A...","rectangle",622,325,46,17,"hsa:593;hsa:594",100
+"59","DLD, DLDD, DLDH, E3, GCSL, LAD, OGDC-E3, PHE3","rectangle",585,362,46,17,"hsa:1738",100
+"67","DLD, DLDD, DLDH, E3, GCSL, LAD, OGDC-E3, PHE3","rectangle",407,362,46,17,"hsa:1738",100
+"68","BCKDHA, BCKDE1A, MSU, MSUD1, MSUD1A, OVD1A...","rectangle",444,325,46,17,"hsa:593;hsa:594",100
+"73","DLD, DLDD, DLDH, E3, GCSL, LAD, OGDC-E3, PHE3","rectangle",130,362,46,17,"hsa:1738",100
+"74","BCKDHA, BCKDE1A, MSU, MSUD1, MSUD1A, OVD1A...","rectangle",167,325,46,17,"hsa:593;hsa:594",100
+"75","Biosynthesis of 12-, 14- and 16-membered macrolides","roundrectangle",746,914,151,34,NA,NA
+"76","Biosynthesis of type II polyketide backbone","roundrectangle",758,952,127,34,NA,NA
+"77","ACAT1, ACAT, MAT, T2, THIL...","rectangle",180,751,46,17,"hsa:38;hsa:39",100
+"78","TITLE:Valine, leucine and isoleucine degradation","roundrectangle",392,48,387,25,NA,NA
+"79","Citrate cycle (TCA cycle)","roundrectangle",247,853,76,25,NA,NA
+"80","HMGCS1, HMGCS...","rectangle",50,712,46,17,"hsa:3157;hsa:3158",100
+"81","OXCT1, OXCT, SCOT...","rectangle",101,718,46,17,"hsa:5019",100
+"82","HMGCL, HL, HMGCL1...","rectangle",167,669,46,17,"hsa:3155",100
+"83","AUH","rectangle",167,617,46,17,"hsa:549",100
+"84","MCCC1, MCC-B, MCCA, MCCCalpha...","rectangle",167,554,46,17,"hsa:56922;hsa:64087",100
+"85","ECHS1, ECHS1D, SCEH, mECH, mECH1...","rectangle",122,528,46,17,"hsa:1892;hsa:1962;hsa:3030",100
+"86","IVD, ACAD2, IVDH","rectangle",167,477,46,17,"hsa:3712",100
+"87","BCKDHA, BCKDE1A, MSU, MSUD1, MSUD1A, OVD1A...","rectangle",622,261,46,17,"hsa:593;hsa:594",100
+"88","K00263","rectangle",92,194,46,17,NA,NA
+"90","BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18...","rectangle",444,194,46,17,"hsa:587",100
+"91","ACAA2, DSAEC...","rectangle",622,703,46,17,"hsa:3032",100
+"93","ECHS1, ECHS1D, SCEH, mECH, mECH1...","rectangle",622,564,46,17,"hsa:1892;hsa:1962;hsa:3030",100
+"94","ACADSB, 2-MEBCAD, ACAD7, SBCAD","rectangle",469,477,46,17,"hsa:36",100
+"95","DBT, BCATE2, BCKAD-E2, BCKADE2, BCKDH-E2, BCOADC-E2, E2, E2B","rectangle",622,399,46,17,"hsa:1629",100
+"96","BCKDHA, BCKDE1A, MSU, MSUD1, MSUD1A, OVD1A...","rectangle",444,261,46,17,"hsa:593;hsa:594",100
+"97","BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18...","rectangle",621,194,46,17,"hsa:587",100
+"98","IL4I1, FIG1, LAAO, LAO, hIL4I1","rectangle",571,194,46,17,NA,NA
+"99","MMUT, MCM, MUT","rectangle",350,916,46,17,"hsa:4594",100

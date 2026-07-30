@@ -1,0 +1,35 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","CFTR, ABC35, ABCC7, CF, CFTR/MRP, MRP7, TNR-CFTR, dJ760C5.1","rectangle",736,594,46,17,NA,NA
+"105","KCNK2, K2p2.1, TPKC1, TREK, TREK-1, TREK1, hTREK-1c, hTREK-1e...","rectangle",224,642,46,17,NA,NA
+"106","ATP1B4...","rectangle",224,681,46,17,NA,NA
+"107","SLC9A4, NHE4...","rectangle",224,720,46,17,NA,NA
+"108","SLC26A7, SUT2...","rectangle",224,765,46,17,NA,NA
+"116","KCNQ1, ATFB1, ATFB3, JLNS1, KCNA8, KCNA9, KVLQT1, Kv1.9, Kv7.1, LQT, LQT1, RWS, SQT2, WRS...","rectangle",736,468,46,17,NA,NA
+"119","EZR, CVIL, CVL, HEL-S-105, VIL2","rectangle",483,543,46,17,NA,NA
+"124","CA2, CA-II, CAC, CAII, Car2, HEL-76, HEL-S-282","rectangle",562,735,46,17,NA,NA
+"134","GNAI1, Gi, HG1B, NEDHISB...","rectangle",298,573,46,17,NA,NA
+"135","SSTR2, SST2","rectangle",224,594,46,17,NA,NA
+"137","SST, SMST, SST1","rectangle",144,594,46,17,NA,NA
+"140","ATP4A, ATP6A...","rectangle",581,544,46,17,NA,NA
+"144","Calcium signaling pathway","roundrectangle",321,444,114,34,NA,NA
+"153","KCNJ1, KIR1.1, ROMK, ROMK1...","rectangle",736,507,46,17,NA,NA
+"155","Tight junction","roundrectangle",731,173,108,25,NA,NA
+"158","EZR, CVIL, CVL, HEL-S-105, VIL2","rectangle",630,355,46,17,NA,NA
+"159","ACTB, BKRNS, BNS, BRWS1, CSMH, DDS1, PS1TP5BP1, THC8...","rectangle",698,323,46,17,NA,NA
+"166","CALML6, CAGLP...","rectangle",423,427,46,17,NA,NA
+"167","MYLK4, SgK085...","rectangle",479,462,46,17,NA,NA
+"168","CAMK2A, CAMKA, CaMKIINalpha, CaMKIIalpha, MRD53, MRT63...","rectangle",423,462,46,17,NA,NA
+"174","Protein digestion and absorption","roundrectangle",864,639,114,34,NA,NA
+"60","TITLE:Gastric acid secretion","roundrectangle",151,58,221,25,NA,NA
+"64","CCKBR, CCK-2R, CCK-B, CCK2R, GASR","rectangle",224,376,46,17,NA,NA
+"65","CHRM3, EGBRS, HM3, PBS, m3AChR","rectangle",224,288,46,17,NA,NA
+"66","ADCY1, AC1, DFNB44...","rectangle",224,538,46,17,NA,NA
+"69","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",401,542,46,17,NA,NA
+"71","GNAQ, CMAL, CMC1, G-ALPHA-q, GAQ, SWS","rectangle",302,327,46,17,NA,NA
+"72","PLCB1, DEE12, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B...","rectangle",382,327,46,17,"hsa:23236;hsa:5331;hsa:5332",0
+"73","ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29...","rectangle",499,392,46,17,"hsa:3708;hsa:3709",0
+"79","HRH2, H2R, HH2R","rectangle",224,484,46,17,NA,NA
+"82","PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA...","rectangle",539,297,46,17,NA,NA
+"84","ATP4A, ATP6A...","rectangle",736,548,46,17,NA,NA
+"88","GAST, GAS","rectangle",143,376,46,17,NA,NA
+"96","GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI","rectangle",297,515,46,17,NA,NA

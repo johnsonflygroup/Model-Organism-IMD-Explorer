@@ -1,0 +1,74 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"10","DGLUCY, C14orf159","rectangle",321,454,46,17,NA,NA
+"100","K19744","rectangle",766,273,46,17,NA,NA
+"101","K25316...","rectangle",742,339,46,17,NA,NA
+"107","K01780","rectangle",742,793,46,17,NA,NA
+"109","K23120","rectangle",856,793,46,17,NA,NA
+"111","K23122","rectangle",986,792,46,17,NA,NA
+"112","Histidine metabolism","roundrectangle",636,745,118,25,NA,NA
+"12","K01776","rectangle",199,418,46,17,NA,NA
+"121","K01779","rectangle",199,556,46,17,NA,NA
+"123","DDO, DASOX, DASPO, DDO-1, DDO-2","rectangle",321,545,46,17,NA,NA
+"13","K05597","rectangle",282,345,46,17,NA,NA
+"131","K25316...","rectangle",201,882,46,17,NA,NA
+"134","K05396","rectangle",315,882,46,17,NA,NA
+"135","Cysteine and methionine metabolism","roundrectangle",95,828,129,34,NA,NA
+"138","Glycolysis / Gluconeogenesis","roundrectangle",540,618,70,26,NA,NA
+"143","Lysine biosynthesis","roundrectangle",639,211,111,25,NA,NA
+"148","K01844...","rectangle",856,191,46,17,NA,NA
+"15","GLS2, GA, GLS, LGA, hLGA...","rectangle",258,326,46,17,"hsa:2744",100
+"150","K21672","rectangle",986,192,46,17,NA,NA
+"153","K00824","rectangle",856,156,46,17,NA,NA
+"156","K23385","rectangle",798,212,46,17,NA,NA
+"170","K18852","rectangle",856,950,46,17,NA,NA
+"173","K00824","rectangle",856,914,46,17,NA,NA
+"175","K00285","rectangle",856,883,46,17,NA,NA
+"177","Phenylalanine metabolism","roundrectangle",635,861,90,34,NA,NA
+"183","K21672","rectangle",862,605,46,17,NA,NA
+"184","K01777","rectangle",742,572,46,17,NA,NA
+"188","K10793...","rectangle",862,626,46,17,NA,NA
+"189","DAO, DAAO, DAMOX, OXDA","rectangle",862,561,46,17,NA,NA
+"190","K17851","rectangle",862,582,46,17,NA,NA
+"199","SRR, ILV1, ISO1","rectangle",199,608,46,17,NA,NA
+"202","K20498...","rectangle",321,619,46,17,NA,NA
+"206","K25316...","rectangle",199,629,46,17,NA,NA
+"213","K25364","rectangle",321,670,46,17,NA,NA
+"219","K19967","rectangle",321,734,46,17,NA,NA
+"227","Pyruvate metabolism","roundrectangle",479,733,73,34,NA,NA
+"230","K12658","rectangle",742,677,46,17,NA,NA
+"235","DAO, DAAO, DAMOX, OXDA","rectangle",862,666,46,17,NA,NA
+"237","K21060...","rectangle",862,687,46,17,NA,NA
+"239","K21062","rectangle",975,677,46,17,NA,NA
+"242","Citrate cycle (TCA cycle)","roundrectangle",1145,737,80,25,NA,NA
+"25","K25316...","rectangle",199,294,46,17,NA,NA
+"252","Glycine, serine and threonine metabolism","roundrectangle",96,677,122,34,NA,NA
+"253","Lysine degradation","roundrectangle",1159,244,111,25,NA,NA
+"256","Arginine and proline metabolism","roundrectangle",998,536,120,34,NA,NA
+"259","K01778","rectangle",742,83,46,17,NA,NA
+"26","Arginine and proline metabolism","roundrectangle",636,385,120,34,NA,NA
+"260","K01586...","rectangle",798,105,46,17,NA,NA
+"264","K25316...","rectangle",742,166,46,17,NA,NA
+"267","K13877...","rectangle",1087,677,46,17,NA,NA
+"270","K26272","rectangle",256,470,46,17,NA,NA
+"273","K19802","rectangle",199,503,46,17,NA,NA
+"34","K01921","rectangle",373,157,46,17,NA,NA
+"36","K00824","rectangle",321,119,46,17,NA,NA
+"37","K01775...","rectangle",199,119,46,17,NA,NA
+"38","K03367...","rectangle",309,192,46,17,NA,NA
+"54","K21672","rectangle",991,465,46,17,NA,NA
+"55","K17898...","rectangle",862,476,46,17,NA,NA
+"56","DAO, DAAO, DAMOX, OXDA","rectangle",862,429,46,17,NA,NA
+"57","K25316...","rectangle",742,428,46,17,NA,NA
+"59","K21898","rectangle",742,447,46,17,NA,NA
+"60","DAO, DAAO, DAMOX, OXDA","rectangle",862,318,46,17,NA,NA
+"61","K25365","rectangle",799,371,46,17,NA,NA
+"62","K00824","rectangle",862,290,46,17,NA,NA
+"76","K19746","rectangle",862,339,46,17,NA,NA
+"77","K21672","rectangle",991,486,46,17,NA,NA
+"8","TITLE:D-Amino acid metabolism","roundrectangle",148,58,215,25,NA,NA
+"80","K23385","rectangle",798,503,46,17,NA,NA
+"87","K00824","rectangle",862,386,46,17,NA,NA
+"91","Alanine, aspartate and glutamate metabolism","roundrectangle",95,214,128,34,NA,NA
+"92","Peptidoglycan biosynthesis","roundrectangle",472,261,87,34,NA,NA
+"95","K01925","rectangle",373,364,46,17,NA,NA
+"97","Citrate cycle (TCA cycle)","roundrectangle",475,418,80,25,NA,NA

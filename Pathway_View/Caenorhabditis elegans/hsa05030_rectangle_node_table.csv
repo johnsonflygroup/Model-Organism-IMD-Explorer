@@ -1,0 +1,53 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"101","GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI","rectangle",723,330,46,17,NA,NA
+"102","ADCY5, AC5, DSKOD, FDFM","rectangle",803,330,46,17,NA,NA
+"141","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",909,331,46,17,NA,NA
+"142","GNAI1, Gi, HG1B, NEDHISB...","rectangle",723,288,46,17,NA,NA
+"143","GNAI1, Gi, HG1B, NEDHISB...","rectangle",723,371,46,17,NA,NA
+"15","TITLE:Cocaine addiction","roundrectangle",131,58,182,25,NA,NA
+"168","GNAI1, Gi, HG1B, NEDHISB...","rectangle",727,582,46,17,NA,NA
+"169","GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI","rectangle",727,697,46,17,NA,NA
+"170","GNAI1, Gi, HG1B, NEDHISB...","rectangle",727,754,46,17,NA,NA
+"171","GPSM1, AGS3","rectangle",800,553,46,17,NA,NA
+"172","ADCY5, AC5, DSKOD, FDFM","rectangle",807,697,46,17,NA,NA
+"173","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",913,697,46,17,NA,NA
+"189","RGS9, PERRS, PERRS1, RGS9L","rectangle",800,783,46,17,NA,NA
+"19","SLC18A1, CGAT, VAT1, VMAT1...","rectangle",343,311,46,17,"hsa:6571",100
+"219","TH, DYT14, DYT5b, TYH","rectangle",157,979,46,17,"hsa:7054",100
+"220","DDC, AADC","rectangle",226,979,46,17,"hsa:1644",100
+"221","SLC18A1, CGAT, VAT1, VMAT1...","rectangle",343,1030,46,17,"hsa:6571",100
+"222","MAOA, BRNRS, MAO-A...","rectangle",436,926,46,17,"hsa:4128",100
+"223","SLC6A3, DAT, DAT1, PKDYS, PKDYS1","rectangle",526,995,46,17,"hsa:6531",100
+"250","DRD1, D1R, DADR, DRD1A","rectangle",642,1067,46,17,NA,NA
+"251","GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI","rectangle",725,1067,46,17,NA,NA
+"252","ADCY5, AC5, DSKOD, FDFM","rectangle",805,1067,46,17,NA,NA
+"253","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",913,1067,46,17,NA,NA
+"254","JUN, AP-1, AP1, c-Jun, cJUN, p39","rectangle",1038,997,46,17,NA,NA
+"255","FOSB, AP-1, G0S3, GOS3, GOSB","rectangle",1038,1014,46,17,NA,NA
+"256","CDK5, LIS7, PSSALRE","rectangle",890,939,46,17,NA,NA
+"257","NFKB1, CVID12, EBP-1, KBF1, NF-kB, NF-kB1, NF-kappa-B1, NF-kappaB, NF-kappabeta, NFKB-p105, NFKB-p50, NFkappaB...","rectangle",890,916,46,17,NA,NA
+"270","CREB3, LUMAN, LZIP, sLZIP...","rectangle",1001,697,46,17,NA,NA
+"275","PDYN, ADCA, PENKB, SCA23","rectangle",1108,684,46,17,NA,NA
+"276","BDNF, ANON2, BULN2","rectangle",1108,711,46,17,NA,NA
+"280","GRIA2, GLUR2, GLURB, GluA2, GluR-K2, HBGR2, NEDLIB, gluR-2, gluR-B","rectangle",642,889,46,17,"hsa:2891",100
+"282","PPP1R1B, DARPP-32, DARPP32","rectangle",912,1006,46,17,NA,NA
+"286","GRIN3A, GluN3A, NMDAR-L, NMDAR3A, NR3A...","rectangle",642,921,46,17,"hsa:2902;hsa:2903;hsa:2904;hsa:2906",100
+"287","DLG4, MRD62, PSD95, SAP-90, SAP90","rectangle",682,938,46,17,NA,NA
+"292","CDK5R1, CDK5P35, CDK5R, NCK5A, p23, p25, p35, p35nck5a","rectangle",848,969,46,17,NA,NA
+"293",NA,"rectangle",1038,1005,46,34,NA,NA
+"30","Dopaminergic synapse","roundrectangle",581,77,106,34,NA,NA
+"34","SLC18A1, CGAT, VAT1, VMAT1...","rectangle",336,675,46,17,"hsa:6571",100
+"43","GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2...","rectangle",642,288,46,17,NA,NA
+"44","DRD2, D2DR, D2R","rectangle",642,371,46,17,NA,NA
+"45","DRD1, D1R, DADR, DRD1A","rectangle",642,330,46,17,NA,NA
+"46","SLC6A3, DAT, DAT1, PKDYS, PKDYS1","rectangle",527,260,46,17,"hsa:6531",100
+"47","GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2...","rectangle",642,582,46,17,NA,NA
+"48","DRD2, D2DR, D2R","rectangle",642,754,46,17,NA,NA
+"49","DRD1, D1R, DADR, DRD1A","rectangle",642,697,46,17,NA,NA
+"56","MAOA, BRNRS, MAO-A...","rectangle",434,565,46,17,"hsa:4128",100
+"58","SLC6A3, DAT, DAT1, PKDYS, PKDYS1","rectangle",529,626,46,17,"hsa:6531",100
+"72","TH, DYT14, DYT5b, TYH","rectangle",157,622,46,17,"hsa:7054",100
+"73","DDC, AADC","rectangle",227,622,46,17,"hsa:1644",100
+"85","TH, DYT14, DYT5b, TYH","rectangle",157,259,46,17,"hsa:7054",100
+"86","DDC, AADC","rectangle",227,259,46,17,"hsa:1644",100
+"89","MAOA, BRNRS, MAO-A...","rectangle",434,220,46,17,"hsa:4128",100

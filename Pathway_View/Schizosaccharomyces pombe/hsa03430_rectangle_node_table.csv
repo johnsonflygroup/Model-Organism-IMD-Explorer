@@ -1,0 +1,33 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"13","K06223","rectangle",278,775,46,17,NA,NA
+"14","K03555...","rectangle",146,216,46,17,NA,NA
+"15","MSH2, COCA1, FCC1, HNPCC, HNPCC1, LCFS2, LYNCH1, MMRCS2, MSH-2, hMSH2","rectangle",578,363,46,17,NA,NA
+"16","MLH3, HNPCC7","rectangle",624,346,46,17,NA,NA
+"17","MLH1, COCA2, FCC2, HNPCC, HNPCC2, LYNCH2, MLH-1, MMRCS1, hMLH1","rectangle",578,346,46,17,NA,NA
+"18","Colorectal cancer","roundrectangle",770,353,98,24,NA,NA
+"19","K03573","rectangle",146,357,46,17,NA,NA
+"20","K03572","rectangle",146,233,46,17,NA,NA
+"21","K01972","rectangle",146,775,46,17,NA,NA
+"22","K03657","rectangle",146,494,46,17,NA,NA
+"23","MLH1, COCA2, FCC2, HNPCC, HNPCC2, LYNCH2, MLH-1, MMRCS1, hMLH1","rectangle",624,233,46,17,NA,NA
+"24","LIG1, IMD96, LIGI, hLig1","rectangle",624,775,46,17,NA,NA
+"25","PCNA, ATLD2","rectangle",755,261,46,17,NA,NA
+"26","K02337...","rectangle",278,643,46,17,NA,NA
+"27","K01141","rectangle",278,494,46,17,NA,NA
+"28","POLD3, P66, P68, PPP1R128...","rectangle",755,643,46,17,NA,NA
+"29","RPA4, HSU24186...","rectangle",624,643,46,17,NA,NA
+"30","K10857","rectangle",278,515,46,17,NA,NA
+"31","K07462","rectangle",330,515,46,17,NA,NA
+"32","MSH6, GTBP, GTMBP, HNPCC5, HSAP, LYNCH5, MMRCS3, MSH-6, p160","rectangle",578,250,46,17,NA,NA
+"33","EXO1, HEX1, hExoI","rectangle",755,499,46,17,NA,NA
+"34","MSH2, COCA1, FCC1, HNPCC, HNPCC1, LCFS2, LYNCH1, MMRCS2, MSH-2, hMSH2","rectangle",578,306,46,17,NA,NA
+"35","MSH3, DUP, FAP4, MRP1","rectangle",624,306,46,17,NA,NA
+"36","PMS2, HNPCC4, LYNCH4, MLH4, MMRCS4, PMS-2, PMS2CL, PMSL2","rectangle",624,289,46,17,NA,NA
+"37","PMS2, HNPCC4, LYNCH4, MLH4, MMRCS4, PMS-2, PMS2CL, PMSL2","rectangle",578,233,46,17,NA,NA
+"38","RFC1, A1, CANVAS, MHCBFB, PO-GA, RECC1, RFC, RFC140...","rectangle",755,233,46,17,NA,NA
+"39","K03601...","rectangle",330,494,46,17,NA,NA
+"40","MSH3, DUP, FAP4, MRP1","rectangle",624,363,46,17,NA,NA
+"41","MSH2, COCA1, FCC1, HNPCC, HNPCC1, LCFS2, LYNCH1, MMRCS2, MSH-2, hMSH2","rectangle",624,250,46,17,NA,NA
+"42","MLH1, COCA2, FCC2, HNPCC, HNPCC2, LYNCH2, MLH-1, MMRCS1, hMLH1","rectangle",578,289,46,17,NA,NA
+"43","SSBP1, Mt-SSB, OPA13, SOSS-B1, SSBP, mtSSB","rectangle",146,643,46,17,"hsa:6742",0
+"44","TITLE:Mismatch repair","roundrectangle",116,57,151,25,NA,NA

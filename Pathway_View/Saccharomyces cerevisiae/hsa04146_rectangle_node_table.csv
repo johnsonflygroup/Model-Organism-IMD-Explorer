@@ -1,0 +1,75 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"100","ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2...","rectangle",133,849,46,17,"hsa:2182","6.2.1.3","ACSL4",100
+"101","SLC27A2, ACSVL1, FACVL1, FATP2, HsT17226, VLACS, VLCS, hFACVL1","rectangle",183,829,46,17,NA,NA,NA,NA
+"102","IDH1, HEL-216, HEL-S-26, IDCD, IDH, IDP, IDPC, PICD...","rectangle",523,894,46,17,"hsa:3417;hsa:3418","1.1.1.42","IDH1; IDH2",100
+"103","HAO2, GIG16, HAOX2...","rectangle",523,914,46,17,"hsa:54363","1.1.3.15","HAO1",100
+"104","Purine metabolism","roundrectangle",730,825,110,34,NA,NA,NA,NA
+"105","XDH, XAN1, XO, XOR","rectangle",633,822,46,17,"hsa:7498","1.17.1.4; 1.17.3.2","XDH",0
+"106","FAR2, HEL-S-81, MLSTD1, SDR10E2...","rectangle",373,694,46,17,"hsa:84188","1.2.1.84","FAR1",0
+"107","Retinol metabolism","roundrectangle",730,899,110,34,NA,NA,NA,NA
+"108","PRDX5, ACR1, AOEB166, B166, HEL-S-55, PLP, PMP20, PRDX6, PRXV, SBBI10, prx-V","rectangle",633,629,46,17,NA,NA,NA,NA
+"109","SOD1, ALS, ALS1, HEL-S-44, IPOA, SOD, STAHP, hSod1, homodimer...","rectangle",684,609,46,17,NA,NA,NA,NA
+"110","GSTK1, GST, GST 13-13, GST13, GST13-13, GSTK1-1, hGSTK1","rectangle",633,764,46,17,NA,NA,NA,NA
+"111","EPHX2, ABHD20, CEH, SEH","rectangle",633,694,46,17,NA,NA,NA,NA
+"112","NOS2, HEP-NOS, INOS, NOS, NOS2A","rectangle",734,609,46,17,NA,NA,NA,NA
+"113","PRDX1, MSP23, NKEF-A, NKEFA, PAG, PAGA, PAGB, PRX1, PRXI, TDPX2","rectangle",684,629,46,17,NA,NA,NA,NA
+"115","PXMP2, MPV17L3, PMP22","rectangle",293,435,46,17,NA,NA,NA,NA
+"116","MPV17L, M-LPH, M-LPH1, M-LPH2, MLPH1, MLPH2, MPV17L1...","rectangle",366,435,46,17,"hsa:4358",NA,"MPV17",100
+"117","PXMP4, PMP24","rectangle",438,435,46,17,NA,NA,NA,NA
+"118","SLC25A17, PMP34","rectangle",701,312,46,17,NA,NA,NA,NA
+"120","NUDT7","rectangle",173,894,46,17,NA,NA,NA,NA
+"19","TITLE:Peroxisome","roundrectangle",100,58,120,25,NA,NA,NA,NA
+"20","PEX14, NAPP2, PBD13A, Pex14p, dJ734G22.2","rectangle",617,221,46,17,"hsa:5195",NA,"PEX14",100
+"21","PEX2, PAF1, PBD5A, PBD5B, PMP3, PMP35, PXMP3, RNF72, ZWS3","rectangle",386,221,46,17,"hsa:5828","2.3.2.27; 2.3.2.36","PEX2",100
+"22","PEX1, HMLR1, PBD1A, PBD1B, ZWS, ZWS1","rectangle",221,193,46,17,"hsa:5189",NA,"PEX1",100
+"23","PEX6, HMLR2, PAF-2, PAF2, PBD4A, PDB4B, PXAAA1","rectangle",267,193,46,17,"hsa:5190",NA,"PEX6",100
+"24","PEX26, PBD7A, PBD7B, PEX26M1T, Pex26pM1T","rectangle",267,221,46,17,"hsa:55670",NA,"PEX26",0
+"25","PEX13, NALD, PBD11A, PBD11B, ZWS","rectangle",571,221,46,17,"hsa:5194",NA,"PEX13",100
+"30","PEX10, NALD, PBD6A, PBD6B, RNF69","rectangle",431,221,46,17,"hsa:5192","2.3.2.27","PEX10",100
+"31","PEX12, PAF-3, PBD3A","rectangle",476,221,46,17,"hsa:5193",NA,"PEX12",100
+"32","PEX5L, PEX5R, PEX5RP, PXR2, PXR2B, TRIP8b...","rectangle",619,150,46,17,"hsa:5830",NA,"PEX5",100
+"33","PEX7, PBD9B, PTS2R, RCDP1, RD","rectangle",550,150,46,17,"hsa:5191",NA,"PEX7",100
+"34","PEX19, D1S2223E, HK33, PBD12A, PMP1, PMPI, PXF, PXMP1","rectangle",175,302,46,17,"hsa:5824",NA,"PEX19",100
+"35","PEX11B, PEX11-BETA, PEX11beta, PEX14B...","rectangle",626,436,46,17,"hsa:8799",NA,"PEX11B",100
+"47","PEX16, PBD8A, PBD8B","rectangle",151,222,46,17,"hsa:9409",NA,"PEX16",0
+"48","PEX3, PBD10A, PBD10B, TRG18","rectangle",151,239,46,17,"hsa:8504",NA,"PEX3",100
+"49","ABCD3, ABC43, CBAS5, PMP70, PXMP1, ZWS2","rectangle",232,302,46,17,"hsa:5825","7.6.2.4","ABCD3",100
+"52","PEX5L, PEX5R, PEX5RP, PXR2, PXR2B, TRIP8b...","rectangle",267,170,46,17,"hsa:5830",NA,"PEX5",100
+"60","GNPAT, DAP-AT, DAPAT, DHAPAT, RCDP2","rectangle",373,609,46,17,"hsa:8443","2.3.1.42","GNPAT",0
+"61","AGPS, ADAP-S, ADAS, ADHAPS, ADPS, ALDHPSY, RCDP3","rectangle",372,649,46,17,"hsa:8540","2.5.1.26","AGPS",0
+"62","PHYH, LN1, LNAP1, PAHX, PHYH1, RD","rectangle",133,609,46,17,"hsa:5264","1.14.11.18","PHYH",0
+"63","ACAA1, ACAA, Lnc-Myd88, PTHIO, THIO","rectangle",133,769,46,17,NA,NA,NA,NA
+"64","ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...","rectangle",73,674,46,17,"hsa:51;hsa:8309","1.17.99.3; 1.3.3.6","ACOX1; ACOX2",100
+"65","HSD17B4, DBP, MFE-2, MFP-2, MPF-2, PRLTS1, SDR8C1","rectangle",73,694,46,17,"hsa:3295","4.2.1.107; 4.2.1.119","HSD17B4",100
+"66","CAT","rectangle",633,609,46,17,"hsa:847","1.11.1.6","CAT",100
+"67","SCP2, NLTP, NSL-TP, SCOX, SCP-2, SCP-CHI, SCP-X, SCPX","rectangle",73,714,46,17,"hsa:6342","2.3.1.176","SCP2",0
+"68","PIPOX, LPIPOX","rectangle",423,914,46,17,NA,NA,NA,NA
+"69","AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, Ser-PyrAT, TLH6","rectangle",373,894,46,17,"hsa:189","2.6.1.44; 2.6.1.45; 2.6.1.51","AGXT",100
+"70","AMACR, AMACRD, CBAS4, P504S, RACE, RM","rectangle",73,654,46,17,"hsa:23600","5.1.99.4","AMACR",0
+"71","MVK, LRBP, MK, MVLK, POROK3","rectangle",373,771,46,17,"hsa:4598","2.7.1.36","MVK",100
+"73","ECH1, HPXEL","rectangle",73,849,46,17,NA,NA,NA,NA
+"74","PAOX, PAO","rectangle",373,914,46,17,NA,NA,NA,NA
+"75","Terpenoid backbone biosynthesis","roundrectangle",468,774,105,34,NA,NA,NA,NA
+"76","PMVK, HUMPMKI, PMK, PMKA, PMKASE, POROK1","rectangle",373,791,46,17,"hsa:10654","2.7.4.2","PMVK",0
+"77","CROT, COT","rectangle",173,914,46,17,NA,NA,NA,NA
+"78","Primary bile acid biosynthesis","roundrectangle",214,685,120,34,NA,NA,NA,NA
+"79","BAAT, BACAT, BACD1, BAT, FHCA3, HCHO","rectangle",73,734,46,17,"hsa:570","2.3.1.65; 3.1.2.2; 3.1.2.27","BAAT",0
+"80","Ether lipid metabolism","roundrectangle",470,642,110,34,NA,NA,NA,NA
+"81","Fatty acid degradation","roundrectangle",225,597,95,34,NA,NA,NA,NA
+"82","HMGCL, HL, HMGCL1...","rectangle",473,914,46,17,"hsa:3155","4.1.3.4","HMGCL",0
+"83","Glycerophospholipid metabolism","roundrectangle",470,597,110,34,NA,NA,NA,NA
+"84","PPAR signaling pathway","roundrectangle",227,642,95,34,NA,NA,NA,NA
+"85","CRAT, CAT, CAT1, NBIA8","rectangle",123,914,46,17,"hsa:1384","2.3.1.7","CRAT",100
+"86","DAO, DAAO, DAMOX, OXDA","rectangle",423,894,46,17,NA,NA,NA,NA
+"87","DDO, DASOX, DASPO, DDO-1, DDO-2","rectangle",473,894,46,17,NA,NA,NA,NA
+"88","DHRS4, CR, NRDR, PHCR, PSCD, SCAD-SRL, SDR-SRL, SDR25C1, SDR25C2","rectangle",633,892,46,17,NA,NA,NA,NA
+"89","MLYCD, MCD","rectangle",223,914,46,17,"hsa:23417","4.1.1.9","MLYCD",0
+"90","HACL1, 2-HPCL, HPCL, HPCL2, PHYH2","rectangle",73,609,46,17,NA,NA,NA,NA
+"91","EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, MFE1, PBFE","rectangle",73,769,46,17,"hsa:1962","1.1.1.35; 4.2.1.17; 5.3.3.8","EHHADH",0
+"92","PECR, DCRRP, HPDHASE, HSA250303, PVIARL, SDR29C1, TERP","rectangle",73,894,46,17,NA,NA,NA,NA
+"93","ECI2, ACBD2, DRS-1, DRS1, HCA88, PECI, dJ1013A10.3","rectangle",123,894,46,17,NA,NA,NA,NA
+"95","NUDT13...","rectangle",223,894,46,17,NA,NA,NA,NA
+"96","ACOT8, HNAACTE, NAP1, PTE-1, PTE-2, PTE1, PTE2, hACTE-III, hTE","rectangle",73,914,46,17,NA,NA,NA,NA
+"97","NUDT19, RP2","rectangle",273,894,46,17,NA,NA,NA,NA
+"98","DECR2, PDCR, SDR17C1","rectangle",73,829,46,17,NA,NA,NA,NA
+"99","ABCD1, ABC42, ALD, ALDP, AMN...","rectangle",133,829,46,17,"hsa:215;hsa:5825;hsa:5826","7.6.2.4; 7.6.2.8","ABCD1; ABCD3; ABCD4",100

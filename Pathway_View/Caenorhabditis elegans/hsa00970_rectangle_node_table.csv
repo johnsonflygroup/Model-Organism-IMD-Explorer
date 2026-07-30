@@ -1,0 +1,67 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","Alanine, aspartate and glutamate metabolism","roundrectangle",107,323,127,34,NA,NA
+"101","Histidine metabolism","roundrectangle",686,789,77,34,NA,NA
+"102","Phenylalanine, tyrosine and tryptophan biosynthesis","roundrectangle",691,925,154,34,NA,NA
+"147","GATC, 15E1.2, COXPD42...","rectangle",338,245,46,17,"hsa:283459;hsa:5188;hsa:55278",100
+"148","K09698","rectangle",271,217,46,17,NA,NA
+"150","GATC, 15E1.2, COXPD42...","rectangle",337,548,46,17,"hsa:283459;hsa:5188;hsa:55278",100
+"151","K09759","rectangle",271,518,46,17,NA,NA
+"152","K06868","rectangle",337,1037,46,17,NA,NA
+"153","K07587","rectangle",271,1011,46,17,NA,NA
+"155","Glycine, serine and threonine metabolism","roundrectangle",106,826,126,34,NA,NA
+"156","SARS2, SARS, SARSM, SERS, SYS, SerRS, SerRSmt, mtSerRS...","rectangle",271,930,46,17,"hsa:54938;hsa:6301",100
+"160","PSTK, C10orf89","rectangle",383,929,46,17,NA,NA
+"163","SEPSECS, LP, PCH2D, SLA, SLA-p35, SLA/LP, SecS","rectangle",480,930,46,17,"hsa:51091",100
+"164","K01042","rectangle",435,893,46,17,NA,NA
+"165","K11627","rectangle",875,523,46,17,NA,NA
+"168","K09698","rectangle",271,167,46,17,NA,NA
+"170","K09759","rectangle",271,469,46,17,NA,NA
+"175","Lysine biosynthesis","roundrectangle",691,471,77,34,NA,NA
+"179","TRE-CTC1-5, TRNAE5...","rectangle",228,120,46,17,NA,NA
+"180","TRQ-CTG7-1, TRNAQ3...","rectangle",228,246,46,17,NA,NA
+"181","TRA-AGC11-1, TRNAA2...","rectangle",228,333,46,17,NA,NA
+"182","TRD-GTC2-5, TRNAD5...","rectangle",228,422,46,17,NA,NA
+"183","TRS-CGA1-1, TRNAS6...","rectangle",228,814,46,17,NA,NA
+"184","TRT-AGT1-3, TRNAT4...","rectangle",228,725,46,17,NA,NA
+"185","TRN-GTT2-1, RNN, TRN, TRN1, TRNAN1...","rectangle",228,549,46,17,NA,NA
+"186","TRG-GCC2-4, TRNAG6, TRG-GCC2-2...","rectangle",228,635,46,17,NA,NA
+"187","TRC-GCA11-1, TRNAC2...","rectangle",228,1041,46,17,NA,NA
+"188","TRU-TCA1-1, TRSP, TRNAU1...","rectangle",228,892,46,17,NA,NA
+"189","TRX-CAT1-1, TRNAM3...","rectangle",228,1128,46,17,NA,NA
+"190","TRV-CAC1-5, TRV6, TRNAV6...","rectangle",833,120,46,17,NA,NA
+"191","TRL-CAA6-1, TRNAL3...","rectangle",833,210,46,17,NA,NA
+"192","TRI-TAT2-2, TRNAI2...","rectangle",833,298,46,17,NA,NA
+"193","TRK-TTT3-4, TRNAK3, TRK-TTT3-3...","rectangle",833,388,46,17,NA,NA
+"194","K14239","rectangle",833,489,46,17,NA,NA
+"195","TRR-TCT5-1, TRNAR5...","rectangle",833,577,46,17,NA,NA
+"196","TRP-AGG2-1, TRNAP4...","rectangle",833,664,46,17,NA,NA
+"197","TRH-GTG1-6, TRNAH5, TRH-GTG1-9...","rectangle",833,753,46,17,NA,NA
+"198","TRF-GAA2-1, TRNAF1...","rectangle",833,843,46,17,NA,NA
+"199","TRY-GTA7-1, TRNAY1...","rectangle",833,932,46,17,NA,NA
+"200","TRW-CCA3-2, TRNAW2, TRW-CCA3-3...","rectangle",833,1021,46,17,NA,NA
+"39","IARS1, GRIDHH, IARS, ILERS, ILRS, IRS, PRO0785...","rectangle",875,335,46,17,"hsa:3376;hsa:55699",100
+"75","TITLE:Aminoacyl-tRNA biosynthesis","roundrectangle",168,58,256,25,NA,NA
+"76","NARS1, ASNRS, NARS, NEDMILEG, NEDMILG...","rectangle",271,583,46,17,"hsa:4677;hsa:79731",100
+"77","HARS2, HARSL, HARSR, HO3, HisRS, PRLTS2...","rectangle",875,790,46,17,"hsa:23438;hsa:3035",100
+"78","FARSB, FARSLB, FRSB, HSPC173, NEDBLLA, PheHB, PheRS, RILDBC, RILDBC1, RJBS...","rectangle",875,879,46,17,"hsa:10056;hsa:10667;hsa:2193",100
+"79","RARS2, ArgRS, DALRD2, PCH6, PRO1992, RARSL...","rectangle",875,611,46,17,"hsa:57038;hsa:5917",100
+"80","QARS1, GLNRS, MSCCA, PRO2195, QARS","rectangle",271,281,46,17,"hsa:5859",100
+"81","CARS2, COXPD27, cysRS...","rectangle",271,1076,46,17,"hsa:79587;hsa:833",100
+"82","GARS1, CMT2D, DSMAV, GARS, GlyRS, HMN5, HMN5A, HMND5, SMAD1, SMAJI","rectangle",271,672,46,17,"hsa:2617",100
+"83","DARS1, DARS, HBSL, aspRS...","rectangle",271,448,46,17,"hsa:1615;hsa:55157",100
+"84","SARS2, SARS, SARSM, SERS, SYS, SerRS, SerRSmt, mtSerRS...","rectangle",271,850,46,17,"hsa:54938;hsa:6301",100
+"85","MARS1, CMT2U, ILFS2, ILLD, MARS, METRS, MRS, MTRNS, SPG70, TTD9...","rectangle",271,1165,46,17,"hsa:4141;hsa:92935",100
+"86","VARS2, COXPD20, VALRS, VARS2L, VARSL...","rectangle",875,157,46,17,"hsa:57176;hsa:7407",100
+"87","AARS1, AARS, CMT2N, DEE29, EIEE29, HDLS2, TTD8...","rectangle",271,371,46,17,"hsa:16;hsa:57505",100
+"88","KARS1, CMTRIB, DEAPLE, DFNB89, KARS, KARS2, KRS, LEPID","rectangle",875,424,46,17,"hsa:3735",100
+"89","LARS2, HLASA, LEURS, PRLTS4, mtLeuRS...","rectangle",875,246,46,17,"hsa:23395;hsa:51520",100
+"90","TARS3, TARSL2, ThrRS-L...","rectangle",271,761,46,17,"hsa:6897;hsa:80222",100
+"91","WARS2, NEMMLAS, PKDYS3, TrpRS, mtTrpRS...","rectangle",875,1057,46,17,"hsa:10352;hsa:7453",100
+"92","MTFMT, COXPD15, FMT1, MC1DN27","rectangle",409,1165,46,17,"hsa:123263",0
+"93","YARS2, CGI-04, MLASA2, MT-TYRRS, TYRRS...","rectangle",875,968,46,17,"hsa:51067;hsa:8565",100
+"94","EPRS1, EARS, EPRS, GLUPRORS, HLD15, PARS, PIG32, QARS, QPRS...","rectangle",875,701,46,17,"hsa:2058;hsa:25973",100
+"95","EARS2, COXPD12, MSE1, gluRS, mtGlnRS, mtGluRS...","rectangle",271,146,46,17,"hsa:124454;hsa:2058",100
+"96","Valine, leucine and isoleucine biosynthesis","roundrectangle",690,246,128,34,NA,NA
+"97","Cysteine and methionine metabolism","roundrectangle",110,1120,133,34,NA,NA
+"98","Arginine and proline metabolism","roundrectangle",690,654,116,34,NA,NA
+"99","Tryptophan metabolism","roundrectangle",684,1056,74,34,NA,NA

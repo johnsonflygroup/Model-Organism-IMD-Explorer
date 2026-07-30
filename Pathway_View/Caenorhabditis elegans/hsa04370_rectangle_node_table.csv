@@ -1,0 +1,35 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"10","Focal adhesion","roundrectangle",613,279,110,25,NA,NA
+"11","MAPK signaling pathway","roundrectangle",613,156,110,34,NA,NA
+"12","KDR, CD309, FLK1, VEGFR, VEGFR2","rectangle",143,310,46,17,NA,NA
+"13","PLCG1, IDAA, NCKAP3, PLC-II, PLC1, PLC148, PLCgamma1...","rectangle",270,230,46,17,"hsa:5336",100
+"14","SPHK2, SK_2, SK-2, SPK_2, SPK-2...","rectangle",506,117,46,17,NA,NA
+"17","PTGS2, COX-2, COX2, GRIPGHS, PGG/HS, PGHS-2, PHS-2, hCox-2","rectangle",749,231,46,17,NA,NA
+"18","PLA2G4B, HsT16992, cPLA2-beta...","rectangle",817,177,46,17,"hsa:5321",0
+"19","HSPB1, CMT2F, HEL-S-102, HMN2B, HMND3, HS.76067, HSP27, HSP28, Hsp25, SRP27","rectangle",628,366,46,17,NA,NA
+"20","MAPKAPK3, 3PK, MAPKAP-K3, MAPKAP3, MAPKAPK-3, MDPT3, MK-3, MK3...","rectangle",519,366,46,17,NA,NA
+"21","PPP3CA, ACCIID, CALN, CALNA, CALNA1, CCN1, CNA1, DEE91, IECEE, IECEE1, PPP2B...","rectangle",520,231,46,17,NA,NA
+"22","AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...","rectangle",373,498,46,17,"hsa:208",100
+"23","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",270,419,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296",100
+"24","NFATC2, JCOSL, NFAT1, NFATP","rectangle",603,231,46,17,NA,NA
+"25","PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA...","rectangle",456,156,46,17,NA,NA
+"26","PTK2, FADK, FADK_1, FAK, FAK1, FRNK, PPP1R71, p125FAK, pp125FAK","rectangle",518,299,46,17,NA,NA
+"27","MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA...","rectangle",398,366,46,17,NA,NA
+"28","PXN","rectangle",518,321,46,17,NA,NA
+"29","SH2D2A, F2771, SCAP, TSAD, VRAP","rectangle",270,183,46,17,NA,NA
+"30","SRC, ASV, SRC1, THC6, c-SRC, p60-Src","rectangle",199,386,46,17,NA,NA
+"31","SHC2, SCK, SHCB, SLI","rectangle",270,264,46,17,NA,NA
+"32","VEGFA, L-VEGF, MVCD1, VEGF, VPF","rectangle",72,310,46,17,NA,NA
+"33","TITLE:VEGF signaling pathway","roundrectangle",151,58,222,25,NA,NA
+"34","Arachidonic acid metabolism","roundrectangle",908,187,110,34,NA,NA
+"35","MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, NS13, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK...","rectangle",779,135,46,17,NA,NA
+"36","MAP2K1, CFC3, MAPKK1, MEK1, MEL, MKK1, PRKMK1...","rectangle",703,135,46,17,NA,NA
+"37","RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf","rectangle",653,109,46,17,NA,NA
+"38","HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras...","rectangle",576,98,46,17,NA,NA
+"39","NOS3, ECNOS, eNOS","rectangle",491,472,46,17,NA,NA
+"4","CDC42, CDC42Hs, G25K, TKS","rectangle",301,349,46,17,NA,NA
+"40","CASP9, APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56","rectangle",491,511,46,17,NA,NA
+"41","BAD, BBC2, BCL2L8","rectangle",491,550,46,17,NA,NA
+"42","RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1...","rectangle",554,420,46,17,NA,NA
+"9","Calcium signaling pathway","roundrectangle",349,128,110,34,NA,NA
+"97","PI3K-Akt signaling pathway","roundrectangle",323,543,110,34,NA,NA

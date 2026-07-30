@@ -1,0 +1,45 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","K19412...","rectangle",233,418,46,17,NA,NA
+"101","K05828","rectangle",333,419,46,17,NA,NA
+"102","K05829","rectangle",431,418,46,17,NA,NA
+"103","K05830","rectangle",531,419,46,17,NA,NA
+"104","K05831","rectangle",636,419,46,17,NA,NA
+"106","Arginine and proline metabolism","roundrectangle",1078,198,121,34,NA,NA
+"112","K27542...","rectangle",945,296,46,17,NA,NA
+"115","CAD, CDG1Z, DEE50, EIEE50, GATD4","rectangle",401,203,46,17,"hsa:790",100
+"120","Nitrogen metabolism","roundrectangle",60,264,72,34,NA,NA
+"45","GLS2, GA, GLS, LGA, hLGA...","rectangle",160,203,46,17,"hsa:2744",100
+"46","GLUL, DEE116, GLNS, GS, PIG43, PIG59","rectangle",107,203,46,17,"hsa:2752",100
+"47","K00926","rectangle",284,221,46,17,NA,NA
+"48","CPS1, CPSASE1, GATD6, PHN","rectangle",285,265,46,17,"hsa:1373",0
+"49","OTC, OCTD, OTC1, OTCD, OTCase","rectangle",695,238,46,17,"hsa:5009",0
+"50","ASS1, ASS, CTLN1","rectangle",729,111,46,17,"hsa:445",0
+"51","Alanine, aspartate and glutamate metabolism","roundrectangle",539,133,125,34,NA,NA
+"52","ASL, ASAL","rectangle",899,109,46,17,"hsa:435",0
+"53","ARG1...","rectangle",897,296,46,17,"hsa:383",100
+"54","NAGS, AGAS, ARGA","rectangle",233,363,46,17,"hsa:162417",0
+"55","K00930...","rectangle",333,364,46,17,NA,NA
+"56","K00145...","rectangle",432,364,46,17,NA,NA
+"57","K00818...","rectangle",531,364,46,17,NA,NA
+"58","ABHD14A-ACY1...","rectangle",636,353,46,17,"hsa:95",100
+"59","K01438","rectangle",636,374,46,17,NA,NA
+"60","K00620","rectangle",664,309,46,17,NA,NA
+"61","K01941...","rectangle",943,343,46,17,NA,NA
+"62","K01457...","rectangle",1040,343,46,17,NA,NA
+"63","K01427...","rectangle",990,383,46,17,NA,NA
+"64","K01478","rectangle",809,186,46,17,NA,NA
+"65","NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS...","rectangle",785,207,46,17,NA,NA
+"66","K00260...","rectangle",184,305,46,17,NA,NA
+"67","GLUD1, GDH, GDH1, GLUD, hGDH1...","rectangle",160,324,46,17,"hsa:2746",100
+"68","K00262","rectangle",210,324,46,17,NA,NA
+"69","Citrate cycle (TCA cycle)","roundrectangle",1026,132,77,25,NA,NA
+"70","D-Amino acid metabolism","roundrectangle",839,258,89,34,NA,NA
+"74","Pyrimidine metabolism","roundrectangle",497,226,72,34,NA,NA
+"80","K09065","rectangle",585,238,46,17,NA,NA
+"82","K01438","rectangle",636,200,46,17,NA,NA
+"83","K05597","rectangle",210,203,46,17,NA,NA
+"84","K00491","rectangle",833,207,46,17,NA,NA
+"87","Citrate cycle (TCA cycle)","roundrectangle",72,310,76,25,NA,NA
+"88","GOT1L1...","rectangle",129,353,46,17,"hsa:2806",100
+"89","GPT, AAT1, ALT, ALT1, GPT1, SGPT...","rectangle",129,374,46,17,"hsa:84706",100
+"91","TITLE:Arginine biosynthesis","roundrectangle",137,58,193,25,NA,NA

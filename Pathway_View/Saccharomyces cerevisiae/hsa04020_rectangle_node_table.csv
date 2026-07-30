@@ -1,0 +1,65 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"147","STIM2...","rectangle",508,266,46,17,NA,NA,NA,NA
+"157","CASQ1, CASQ, CSQ1, PDIB1, VMCQA...","rectangle",559,473,46,17,NA,NA,NA,NA
+"158","TRDN, CARDAR, CPVT5, TDN, TRISK","rectangle",649,441,46,17,NA,NA,NA,NA
+"159","ASPH, AAH, BAH, CASQ2BP1, FDLAB, HAAH, JCTN, junctin","rectangle",649,505,46,17,NA,NA,NA,NA
+"164","HRC","rectangle",580,351,46,17,NA,NA,NA,NA
+"166","HRC","rectangle",580,425,46,17,NA,NA,NA,NA
+"170","MCOLN2, TRP-ML2, TRPML2...","rectangle",649,711,46,17,"hsa:57192",NA,"MCOLN1",0
+"174","EGF, HOMG4, URG...","rectangle",85,506,46,17,NA,NA,NA,NA
+"175","ERLN, C17orf110, ELN, SMIM6...","rectangle",649,242,46,17,NA,NA,NA,NA
+"181","NFATC1, NF-ATC, NF-ATc1.2, NFAT2, NFATc...","rectangle",964,394,46,17,NA,NA,NA,NA
+"183","TFEB, ALPHATFEB, BHLHE35, TCFEB","rectangle",964,373,46,17,NA,NA,NA,NA
+"184",NA,"rectangle",824,192,92,34,NA,NA,NA,NA
+"185",NA,"rectangle",649,473,46,81,NA,NA,NA,NA
+"23","Long-term depression","roundrectangle",1086,501,141,25,NA,NA,NA,NA
+"24","Long-term potentiation","roundrectangle",1086,470,141,25,NA,NA,NA,NA
+"25","Phosphatidylinositol signaling system","roundrectangle",1086,571,127,34,NA,NA,NA,NA
+"26","Apoptosis","roundrectangle",1085,365,78,25,NA,NA,NA,NA
+"27","MAPK signaling pathway","roundrectangle",1086,434,108,34,NA,NA,NA,NA
+"28","ITPKA, IP3-3KA, IP3KA...","rectangle",888,603,46,17,NA,NA,NA,NA
+"29","ADCY1, AC1, DFNB44...","rectangle",888,483,46,17,NA,NA,NA,NA
+"30","PDE1A, CAM-PDE 1A, CAM-PDE-1A, HCAM-1, HCAM1, HSPDE1A...","rectangle",888,508,46,17,NA,NA,NA,NA
+"31","NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS...","rectangle",888,449,46,17,NA,NA,NA,NA
+"32","VDAC1, PORIN, VDAC-1...","rectangle",847,193,46,17,NA,NA,NA,NA
+"33","PPIF, CYP3, CyP-M, Cyp-D, CypD","rectangle",801,201,46,17,NA,NA,NA,NA
+"42","SLC8A2, NCX2...","rectangle",182,137,46,17,NA,NA,NA,NA
+"46","SLC8A2, NCX2...","rectangle",801,162,46,17,NA,NA,NA,NA
+"47","CAMK1D, CKLiK, CaM-K1, CaMKID...","rectangle",888,410,46,17,NA,NA,NA,NA
+"48","PPP3CA, ACCIID, CALN, CALNA, CALNA1, CCN1, CNA1, DEE91, IECEE, IECEE1, PPP2B...","rectangle",888,385,46,17,NA,NA,NA,NA
+"49","PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA...","rectangle",888,632,46,17,NA,NA,NA,NA
+"50","PTK2B, CADTK, CAKB, FADK2, FAK2, PKB, PTK, PYK2, RAFTK","rectangle",888,573,46,17,NA,NA,NA,NA
+"51","TPCN2, SHEP10, TPC2...","rectangle",649,661,46,17,NA,NA,NA,NA
+"52","CD38, ADPRC 1, ADPRC1, cADPR1","rectangle",182,654,46,17,NA,NA,NA,NA
+"54","PLCE1, NPHS3, PLCE, PPLC","rectangle",354,564,46,17,"hsa:51196","3.1.4.11","PLCE1",16.6666666666667
+"55","102723407","rectangle",182,572,46,17,NA,NA,NA,NA
+"56","EGFR, ERBB, ERBB1, ERRP, HER1, NISBD2, NNCIS, PIG61, mENA...","rectangle",182,506,46,17,NA,NA,NA,NA
+"57","GNA11, FBH, FBH2, FHH2, GNA-11, HG1K, HHC2, HYPOC2...","rectangle",268,461,46,17,NA,NA,NA,NA
+"58","CHRNA7, CHRNA7-2, NACHRA7, nAChR7...","rectangle",182,412,46,17,"hsa:2902;hsa:2903;hsa:2904;hsa:2906",NA,"GRIN1; GRIN2A; GRIN2B; GRIN2D",0
+"59","PLCG1, IDAA, NCKAP3, PLC-II, PLC1, PLC148, PLCgamma1...","rectangle",354,540,46,17,"hsa:5336","3.1.4.11","PLCG2",16.6666666666667
+"61","SPHK2, SK 2, SK-2, SPK 2, SPK-2...","rectangle",354,748,46,17,NA,NA,NA,NA
+"62","PLCZ1, Czeta, NYD-SP27, PLC-zeta-1, PLCzeta, SPGF17","rectangle",354,588,46,17,NA,NA,NA,NA
+"63","K10784...","rectangle",182,551,46,17,NA,NA,NA,NA
+"64","MYLK4, SgK085...","rectangle",888,311,46,17,NA,NA,NA,NA
+"65","PLCD3, PLC-delta-3...","rectangle",354,493,46,17,"hsa:5333","3.1.4.11","PLCD1",100
+"66","ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29...","rectangle",649,536,46,17,"hsa:3708;hsa:3709",NA,"ITPR1; ITPR2",0
+"67","PHKA1, PHKA...","rectangle",888,336,46,17,"hsa:5255;hsa:5256;hsa:5257;hsa:5261","2.7.11.19","PHKA1; PHKA2; PHKB; PHKG2",0
+"68","RYR1, CCO, CMYO1A, CMYO1B, CMYP1A, CMYP1B, KDS, MHS, MHS1, PPP1R137, RYDR, RYR, RYR-1, SKRR...","rectangle",649,473,46,17,NA,NA,NA,NA
+"69","PLCB1, DEE12, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B...","rectangle",354,516,46,17,"hsa:23236;hsa:5331;hsa:5332","3.1.4.11","PLCB1; PLCB3; PLCB4",16.6666666666667
+"70","ORAI2, C7orf19, CBCIP2, MEM142B, TMEM142B...","rectangle",182,272,46,17,NA,NA,NA,NA
+"71","CACNA1C, CACH2, CACN2, CACNA1C-IT2, CACNL1A1, CCHL1A1, CaV1.2, LQT8, NEDHLSS, TS, TS. LQT8...","rectangle",182,321,46,17,NA,NA,NA,NA
+"72","CACNA1A, APCA, BI, CACNL1A4, CAV2.1, DEE42, EA2, EIEE42, FHM, HPCA, MHP, MHP1, SCA6...","rectangle",182,340,46,17,NA,NA,NA,NA
+"73","CYSLTR1, CYSLT1, CYSLT1R, CYSLTR, HMTMF81...","rectangle",182,461,46,17,"hsa:2911",NA,"GRM1",0
+"74","CALML6, CAGLP...","rectangle",803,398,46,17,NA,NA,NA,NA
+"75","TNNC2, CFAP85, CMYO15, CMYP15, FAP85, MYONRI...","rectangle",888,280,46,17,NA,NA,NA,NA
+"76","SLC25A4, AAC1, ANT, ANT 1, ANT1, MTDPS12, MTDPS12A, PEO2, PEO3, PEOA2, T1...","rectangle",801,184,46,17,"hsa:291",NA,"SLC25A4",100
+"77","MCU, C10orf42, CCDC109A, HsMCU","rectangle",801,134,46,17,NA,NA,NA,NA
+"78","ADCY1, AC1, DFNB44...","rectangle",354,222,46,17,NA,NA,NA,NA
+"79","ATP2A1, ATP2A, SERCA1...","rectangle",649,324,46,17,NA,NA,NA,NA
+"80","CHRM1, HM1, M1, M1R...","rectangle",182,222,46,17,NA,NA,NA,NA
+"81","PLN, CMD1P, CMH18, PLB","rectangle",649,222,46,17,NA,NA,NA,NA
+"82","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",473,222,46,17,NA,NA,NA,NA
+"83","GNAL, DYT25, HG1O...","rectangle",268,222,46,17,NA,NA,NA,NA
+"84","CACNA1I, Cav3.3, NEDSIS, ca(v)3.3...","rectangle",182,359,46,17,NA,NA,NA,NA
+"86","ATP2B1, MRD66, PMCA1, PMCA1kb...","rectangle",182,178,46,17,NA,NA,NA,NA
+"87","TITLE:Calcium signaling pathway","roundrectangle",165,58,250,25,NA,NA,NA,NA

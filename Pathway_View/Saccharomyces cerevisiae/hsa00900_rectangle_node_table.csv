@@ -1,0 +1,69 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"110","K12742","rectangle",743,681,46,17,NA,NA,NA,NA
+"111","K03527","rectangle",672,642,46,17,NA,NA,NA,NA
+"112","IDI1, IPP1, IPPI1...","rectangle",613,682,46,17,NA,NA,NA,NA
+"113","K03527","rectangle",608,601,46,17,NA,NA,NA,NA
+"114","MVD, FP17780, MDDase, MPD, POROK7","rectangle",435,562,46,17,"hsa:4597","4.1.1.33","MVD",100
+"115","PMVK, HUMPMKI, PMK, PMKA, PMKASE, POROK1","rectangle",434,491,46,17,"hsa:10654","2.7.4.2","PMVK",0
+"117","FDPS, FPPS, FPS, POROK9...","rectangle",673,741,46,17,"hsa:2224;hsa:9453","2.5.1.1; 2.5.1.10; 2.5.1.1; 2.5.1.10; 2.5.1.29","FDPS; GGPS1",100
+"118","K12503","rectangle",493,848,46,17,NA,NA,NA,NA
+"119","FDPS, FPPS, FPS, POROK9...","rectangle",493,929,46,17,"hsa:2224;hsa:9453","2.5.1.1; 2.5.1.10; 2.5.1.1; 2.5.1.10; 2.5.1.29","FDPS; GGPS1",100
+"120","K00806","rectangle",379,1249,46,17,NA,NA,NA,NA
+"121","Monoterpenoid biosynthesis","roundrectangle",896,769,155,25,NA,NA,NA,NA
+"125","Sesquiterpenoid and triterpenoid biosynthesis","roundrectangle",186,767,141,34,NA,NA,NA,NA
+"126","Carotenoid biosynthesis","roundrectangle",275,1128,130,25,NA,NA,NA,NA
+"127","Diterpenoid biosynthesis","roundrectangle",846,898,134,25,NA,NA,NA,NA
+"128","Carotenoid biosynthesis","roundrectangle",846,928,134,25,NA,NA,NA,NA
+"129","Ubiquinone and other terpenoid-quinone biosynthesis","roundrectangle",887,1246,173,34,NA,NA,NA,NA
+"130","GGPS1, GGPPS, GGPPS1, MDHLO, MUDHLOV","rectangle",552,996,46,17,"hsa:9453","2.5.1.1; 2.5.1.10; 2.5.1.29","GGPS1",100
+"131","K10960","rectangle",862,1027,46,17,NA,NA,NA,NA
+"132","K00805...","rectangle",553,1126,46,17,NA,NA,NA,NA
+"133","NUS1, C6orf68, CDG1AA, MGC:7199, MRD55, NgBR, TANGO14...","rectangle",379,1187,46,17,"hsa:116150;hsa:79947","2.5.1.87","DHDDS; NUS1",100
+"134","PDSS1, COQ1, COQ10D2, COQ1A, DPS, SPS, TPRT, TPT, TPT 1, hDPS1...","rectangle",553,1248,46,17,"hsa:23590;hsa:57107","2.5.1.91","PDSS1; PDSS2",100
+"136","N-Glycan biosynthesis","roundrectangle",139,1186,82,34,NA,NA,NA,NA
+"138","K02523","rectangle",553,1186,46,17,NA,NA,NA,NA
+"140","Zeatin biosynthesis","roundrectangle",874,721,112,25,NA,NA,NA,NA
+"141","K05355...","rectangle",553,1064,46,17,NA,NA,NA,NA
+"142","K05355...","rectangle",672,1027,46,17,NA,NA,NA,NA
+"143","K05356","rectangle",973,1027,46,17,NA,NA,NA,NA
+"144","K05356","rectangle",923,1027,46,17,NA,NA,NA,NA
+"145","K14215","rectangle",390,797,46,17,NA,NA,NA,NA
+"147","K21273","rectangle",390,822,46,17,NA,NA,NA,NA
+"148","K15887","rectangle",493,769,46,17,NA,NA,NA,NA
+"149","K15888","rectangle",811,1027,46,17,NA,NA,NA,NA
+"150","CHURC1-FNTB, FNTB, FTase-beta...","rectangle",379,1066,46,17,NA,NA,NA,NA
+"151","RCE1, FACE2, RCE1A, RCE1B","rectangle",259,1076,46,17,NA,NA,NA,NA
+"152","ICMT, HSTE14, MST098, MSTP098, PCCMT, PCMT, PPMT","rectangle",147,1066,46,17,NA,NA,NA,NA
+"153","K15889","rectangle",147,1030,46,17,NA,NA,NA,NA
+"154","PCYOX1, PCL1","rectangle",116,984,46,17,NA,NA,NA,NA
+"155","K15890","rectangle",147,918,46,17,NA,NA,NA,NA
+"156","K15892","rectangle",259,929,46,17,NA,NA,NA,NA
+"157","K15793","rectangle",312,959,46,17,NA,NA,NA,NA
+"167","PCYOX1, PCL1","rectangle",66,984,46,17,NA,NA,NA,NA
+"170","ZMPSTE24, FACE-1, FACE1, HGPS, PRO1, RSDM1, STE24, Ste24p","rectangle",259,1055,46,17,NA,NA,NA,NA
+"173","Steroid biosynthesis","roundrectangle",281,1004,111,25,NA,NA,NA,NA
+"175","K17942","rectangle",370,562,46,17,NA,NA,NA,NA
+"178","K06981","rectangle",434,627,46,17,NA,NA,NA,NA
+"180","Indole diterpene alkaloid biosynthesis","roundrectangle",836,962,113,34,NA,NA,NA,NA
+"182","K18689","rectangle",256,422,46,17,NA,NA,NA,NA
+"184","K18690","rectangle",256,491,46,17,NA,NA,NA,NA
+"186","K03526","rectangle",697,562,46,17,NA,NA,NA,NA
+"187","K15891","rectangle",147,939,46,17,NA,NA,NA,NA
+"189","K22813","rectangle",256,562,46,17,NA,NA,NA,NA
+"195","K25518...","rectangle",314,562,46,17,NA,NA,NA,NA
+"203","K25517...","rectangle",315,491,46,17,NA,NA,NA,NA
+"205","Cysteine and methionine metabolism","roundrectangle",889,255,141,34,NA,NA,NA,NA
+"207","K28131","rectangle",756,1027,46,17,NA,NA,NA,NA
+"67","Glycolysis / Gluconeogenesis","roundrectangle",553,117,70,25,NA,NA,NA,NA
+"68","TITLE:Terpenoid backbone biosynthesis","roundrectangle",183,58,286,25,NA,NA,NA,NA
+"78","K01662","rectangle",672,204,46,17,NA,NA,NA,NA
+"79","K00099","rectangle",672,284,46,17,NA,NA,NA,NA
+"80","K00991...","rectangle",672,353,46,17,NA,NA,NA,NA
+"81","K00919","rectangle",672,422,46,17,NA,NA,NA,NA
+"82","K01770...","rectangle",673,491,46,17,NA,NA,NA,NA
+"83","K03526","rectangle",647,562,46,17,NA,NA,NA,NA
+"84","MVK, LRBP, MK, MVLK, POROK3","rectangle",434,422,46,17,"hsa:4598","2.7.1.36","MVK",100
+"85","ACAT1, ACAT, MAT, T2, THIL...","rectangle",499,204,46,17,"hsa:38;hsa:39","2.3.1.9","ACAT1; ACAT2",100
+"86","HMGCS1, HMGCS...","rectangle",434,284,46,17,"hsa:3157;hsa:3158","2.3.3.10","HMGCS1; HMGCS2",100
+"88","K00054","rectangle",459,353,46,17,NA,NA,NA,NA
+"89","HMGCR, LDLCQ3, LGMDR28, MYPLG","rectangle",409,353,46,17,"hsa:3156","1.1.1.34","HMGCR",100

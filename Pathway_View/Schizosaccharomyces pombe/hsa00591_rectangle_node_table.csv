@@ -1,0 +1,25 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"19","CYP1A2, CP12, CYPIA2, P3-450, P450(PA)","rectangle",378,356,46,17,NA,NA
+"32","Arachidonic acid metabolism","roundrectangle",120,138,162,25,NA,NA
+"33","CYP1A2, CP12, CYPIA2, P3-450, P450(PA)","rectangle",273,356,46,17,NA,NA
+"36","K00454","rectangle",680,311,46,17,NA,NA
+"37","TITLE:Linoleic acid metabolism","roundrectangle",155,58,229,25,NA,NA
+"38","ALOX15, 12-LOX, 15-LOX, 15-LOX-1, LOG15","rectangle",730,311,46,17,NA,NA
+"40","PLA2G4B, HsT16992, cPLA2-beta...","rectangle",378,204,46,17,"hsa:5321;hsa:8398",0
+"41","K21794","rectangle",635,259,46,17,NA,NA
+"42","K17863...","rectangle",459,259,46,17,NA,NA
+"43","K17864","rectangle",514,204,46,17,NA,NA
+"44","K08262","rectangle",288,275,46,17,NA,NA
+"45","K00508","rectangle",288,227,46,17,NA,NA
+"78","K15718","rectangle",705,259,46,17,NA,NA
+"79","CYP2C19, CPCJ, CYP2C, CYPIIC17, CYPIIC19, P450C2C, P450IIC19...","rectangle",248,375,46,17,NA,NA
+"80","CYP2J2, CPJ2, CYPIIJ2","rectangle",298,375,46,17,NA,NA
+"81","CYP2E1, CPE1, CYP2E, P450-J, P450C2E","rectangle",248,394,46,17,NA,NA
+"82","CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1, VDDR3","rectangle",298,394,46,17,NA,NA
+"83","CYP2C19, CPCJ, CYP2C, CYPIIC17, CYPIIC19, P450C2C, P450IIC19...","rectangle",352,375,46,17,NA,NA
+"84","CYP2J2, CPJ2, CYPIIJ2","rectangle",402,375,46,17,NA,NA
+"85","CYP2E1, CPE1, CYP2E, P450-J, P450C2E","rectangle",352,394,46,17,NA,NA
+"86","CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1, VDDR3","rectangle",402,394,46,17,NA,NA
+"88","K17863","rectangle",459,204,46,17,NA,NA
+"91","K17862","rectangle",566,258,46,17,NA,NA
+"94","K27599...","rectangle",758,392,46,17,NA,NA

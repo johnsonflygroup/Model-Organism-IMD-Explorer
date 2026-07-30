@@ -1,0 +1,96 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","UGP2, DEE83, EIEE83, SVUGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379","rectangle",117,576,46,17,"hsa:7360",100
+"101","UGT2B11...","rectangle",361,621,46,17,"hsa:54658",0
+"102","UGDH, DEE84, EIEE84, GDH, UDP-GlcDH, UDPGDH, UGD","rectangle",241,576,46,17,"hsa:7358",0
+"104","K16190","rectangle",486,577,46,17,NA,NA
+"105","K12447","rectangle",361,586,46,17,NA,NA
+"106","K01812","rectangle",544,529,46,17,NA,NA
+"107","K00040","rectangle",459,490,46,17,NA,NA
+"108","K01686...","rectangle",286,490,46,17,NA,NA
+"109","K01685...","rectangle",286,425,46,17,NA,NA
+"110","K01812","rectangle",545,376,46,17,NA,NA
+"111","K00041","rectangle",459,424,46,17,NA,NA
+"112","Glycolysis / Gluconeogenesis","roundrectangle",60,515,73,25,NA,NA
+"113","Inositol phosphate metabolism","roundrectangle",552,678,107,34,NA,NA
+"114","Ascorbate and aldarate metabolism","roundrectangle",886,325,122,34,NA,NA
+"115","TITLE:Pentose and glucuronate interconversions","roundrectangle",225,58,370,25,NA,NA
+"116","Pentose phosphate pathway","roundrectangle",821,1116,111,34,NA,NA
+"117","Galactose metabolism","roundrectangle",181,646,76,34,NA,NA
+"118","Amino sugar and nucleotide sugar metabolism","roundrectangle",766,545,154,35,NA,NA
+"119","Amino sugar and nucleotide sugar metabolism","roundrectangle",331,745,158,34,NA,NA
+"120","Riboflavin metabolism","roundrectangle",294,1147,78,34,NA,NA
+"123","K08092","rectangle",712,643,46,17,NA,NA
+"124","K01213...","rectangle",544,274,46,17,NA,NA
+"125","K01184","rectangle",545,186,46,17,NA,NA
+"126","K01051","rectangle",544,121,46,17,NA,NA
+"127","K22539...","rectangle",468,150,46,17,NA,NA
+"128","K01730","rectangle",291,160,46,17,NA,NA
+"129","K01815","rectangle",193,274,46,17,NA,NA
+"130","K00065","rectangle",194,384,46,17,NA,NA
+"131","K00848","rectangle",611,772,46,17,NA,NA
+"132","K01629","rectangle",509,772,46,17,NA,NA
+"191","K01731...","rectangle",468,171,46,17,NA,NA
+"193","DHDH, 2DD, HUM2DD","rectangle",247,840,46,17,NA,NA
+"196","Pentose phosphate pathway","roundrectangle",361,521,110,34,NA,NA
+"198","K17738","rectangle",405,1029,46,17,NA,NA
+"199","K17818","rectangle",455,958,46,17,NA,NA
+"200","K17818","rectangle",455,1029,46,17,NA,NA
+"201","K18107","rectangle",337,391,46,17,NA,NA
+"202","K18102","rectangle",372,325,46,17,NA,NA
+"203","K18103","rectangle",295,353,46,17,NA,NA
+"204","Glycerolipid metabolism","roundrectangle",471,391,79,34,NA,NA
+"208","K18106","rectangle",488,314,46,17,NA,NA
+"214","K17743...","rectangle",381,800,46,17,NA,NA
+"215","SORD, HEL-S-95n, HMNR8, RDH, SDH, SORD1, SORDD, XDH","rectangle",455,885,46,17,"hsa:6652",100
+"216","AKR1A1, ALDR1, ALR, ARM, DD3, HEL-S-6","rectangle",597,566,46,17,NA,NA
+"219","K08322","rectangle",601,492,46,17,NA,NA
+"222","K14259","rectangle",143,1019,46,17,NA,NA
+"224","K13877...","rectangle",54,1054,46,17,NA,NA
+"226","Citrate cycle (TCA cycle)","roundrectangle",80,1141,76,25,NA,NA
+"228","K19634","rectangle",488,335,46,17,NA,NA
+"230","K00594","rectangle",381,862,46,17,NA,NA
+"232","K21619","rectangle",544,457,46,17,NA,NA
+"233","K05352...","rectangle",599,1079,46,17,NA,NA
+"234","K22187","rectangle",104,1054,46,17,NA,NA
+"238","K24442","rectangle",247,794,46,17,NA,NA
+"239","K24443","rectangle",124,885,46,17,NA,NA
+"246","K01818","rectangle",430,1148,46,17,NA,NA
+"250","K00879","rectangle",484,1134,46,17,NA,NA
+"254","K01628","rectangle",603,1134,46,17,NA,NA
+"256","K25881...","rectangle",827,840,46,17,NA,NA
+"260","K01730","rectangle",468,220,46,17,NA,NA
+"261","K26933","rectangle",291,219,46,17,NA,NA
+"263","K28749","rectangle",248,325,46,17,NA,NA
+"266","K20548","rectangle",349,245,46,17,NA,NA
+"269","K20549","rectangle",295,278,46,17,NA,NA
+"277","Ascorbate and aldarate metabolism","roundrectangle",553,1187,119,34,NA,NA
+"66","K01184","rectangle",600,186,46,17,NA,NA
+"68","K03078","rectangle",739,772,46,17,NA,NA
+"69","K00880","rectangle",695,717,46,17,NA,NA
+"71","GUSB, BG, MPS7...","rectangle",486,621,46,17,"hsa:2990",0
+"72","K01804","rectangle",883,915,46,17,NA,NA
+"74","K00853...","rectangle",730,1000,46,17,NA,NA
+"75","K00039","rectangle",363,1069,46,17,NA,NA
+"76","FGGY","rectangle",490,1079,46,17,NA,NA
+"77","K00853...","rectangle",490,1058,46,17,NA,NA
+"78","RPE, RPE2-1...","rectangle",546,1020,46,17,NA,NA
+"79","K03077","rectangle",600,999,46,17,NA,NA
+"80","K21680","rectangle",599,1058,46,17,NA,NA
+"81","CRPPA, ISPD, LGMDR20, MDDGA7, MDDGC7, Nip, hISPD","rectangle",703,1070,46,17,"hsa:729920",0
+"82","K03079","rectangle",650,959,46,17,NA,NA
+"83","K00007","rectangle",405,958,46,17,NA,NA
+"84","XYLB","rectangle",490,917,46,17,NA,NA
+"85","K09988","rectangle",330,954,46,17,NA,NA
+"86","K22397","rectangle",198,1061,46,17,NA,NA
+"87","K14275...","rectangle",198,977,46,17,NA,NA
+"88","K00880","rectangle",650,879,46,17,NA,NA
+"89","K01820","rectangle",594,879,46,17,NA,NA
+"90","K05351","rectangle",405,885,46,17,NA,NA
+"91","K01805","rectangle",329,886,46,17,NA,NA
+"92","K14274","rectangle",198,885,46,17,NA,NA
+"93","AKR1B1, ADR, ALDR1, ALR2, AR...","rectangle",827,819,46,17,NA,NA
+"94","K25880","rectangle",703,830,46,17,NA,NA
+"95","DCXR, DCR, HCR2, HCRII, KIDCR, P34H, PNTSU, SDR20C1, XR","rectangle",513,836,46,17,"hsa:51181",0
+"96","AKR1B1, ADR, ALDR1, ALR2, AR...","rectangle",381,829,46,17,NA,NA
+"97","K22185","rectangle",247,819,46,17,NA,NA
+"99","CRYL1, GDH, HEL30, gul3DH, lambda-CRY","rectangle",652,610,46,17,NA,NA

@@ -1,0 +1,39 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"101","K06982","rectangle",387,306,46,17,NA,NA
+"103","AASDHPPT, AASD-PPT, ACPS, CGI-80, LYS2, LYS5","rectangle",826,540,46,17,NA,NA
+"107","PPCS, CMD2C","rectangle",651,385,46,17,"hsa:79717",100
+"109","K09735","rectangle",706,600,46,17,NA,NA
+"114","ALDH2, ALDH-E2, ALDHI, ALDM...","rectangle",374,538,46,17,"hsa:219;hsa:224",100
+"115","K17839...","rectangle",462,538,46,17,NA,NA
+"117","Arginine and proline metabolism","roundrectangle",505,603,119,34,NA,NA
+"119","Pyrimidine metabolism","roundrectangle",56,430,74,34,NA,NA
+"12","TITLE:Pantothenate and CoA biosynthesis","roundrectangle",190,58,300,25,NA,NA
+"13","Alanine, aspartate and glutamate metabolism","roundrectangle",202,587,127,34,NA,NA
+"14","Propanoate metabolism","roundrectangle",420,502,73,34,NA,NA
+"15","Glycolysis / Gluconeogenesis","roundrectangle",89,129,74,25,NA,NA
+"16","Cysteine and methionine metabolism","roundrectangle",821,358,138,34,NA,NA
+"17","beta-Alanine metabolism","roundrectangle",529,369,74,34,NA,NA
+"67","COASY, DPCK, NBIA6, NBP, PCH12, PPAT, UKR1, pOV-2","rectangle",706,579,46,17,"hsa:80347",100
+"68","K00997...","rectangle",776,540,46,17,NA,NA
+"69","ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1...","rectangle",651,540,46,17,"hsa:5167",100
+"70","K08682...","rectangle",730,482,46,17,NA,NA
+"71","PANK1, PANK...","rectangle",566,471,46,17,"hsa:80025",100
+"72","PPCDC, MDS018, PPC-DC, coaC","rectangle",627,445,46,17,NA,NA
+"74","PANK1, PANK...","rectangle",565,417,46,17,"hsa:80025",100
+"75","K21977...","rectangle",601,385,46,17,NA,NA
+"76","PANK1, PANK...","rectangle",524,339,46,17,"hsa:80025",100
+"77","UPB1, BUP1","rectangle",278,503,46,17,"hsa:51733",100
+"78","DPYS, DHP, DHPase","rectangle",191,502,46,17,"hsa:1807",100
+"79","DPYD, DHP, DHPDHASE, DPD, DYPD","rectangle",105,513,46,17,"hsa:1806",100
+"80","K17722...","rectangle",105,492,46,17,NA,NA
+"81","K01918...","rectangle",387,328,46,17,NA,NA
+"82","K00077...","rectangle",303,241,46,17,NA,NA
+"83","K00606","rectangle",397,196,46,17,NA,NA
+"85","K01687","rectangle",483,159,46,17,NA,NA
+"86","K00053","rectangle",386,130,46,17,NA,NA
+"87","K01652...","rectangle",237,130,46,17,NA,NA
+"89","VNN2, FOAP-4, GPI-80...","rectangle",450,432,46,17,NA,NA
+"90","BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18...","rectangle",596,206,46,17,"hsa:587",100
+"92","COASY, DPCK, NBIA6, NBP, PCH12, PPAT, UKR1, pOV-2","rectangle",601,540,46,17,"hsa:80347",100
+"98","GADL1, ADC, CSADC, HuADC, HuCSADC...","rectangle",323,560,46,17,NA,NA
+"99","K09722","rectangle",524,306,46,17,NA,NA

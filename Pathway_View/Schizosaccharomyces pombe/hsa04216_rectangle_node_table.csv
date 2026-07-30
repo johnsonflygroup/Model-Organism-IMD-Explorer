@@ -1,0 +1,39 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"10","TITLE:Ferroptosis","roundrectangle",93,58,105,25,NA,NA
+"103","HMOX1, HMOX1D, HO-1, HSP32, bK286B10","rectangle",318,622,46,17,"hsa:3162",0
+"105","CYBB, AMCBX2, CGD, CGDX, GP91-1, GP91-PHOX, GP91PHOX, IMD34, NOX2, p91-PHOX","rectangle",627,503,46,17,NA,NA
+"11","SLC7A11, CCBR1, xCT","rectangle",206,169,46,17,NA,NA
+"143","Glutathione metabolism","roundrectangle",457,164,126,22,NA,NA
+"144","Terpenoid backbone biosynthesis","roundrectangle",627,357,108,29,NA,NA
+"145","FTMT, MTF","rectangle",726,516,46,17,NA,NA
+"15","TP53, BCC7, BMFS5, LFS1, P53, TRP53","rectangle",264,206,46,17,NA,NA
+"157","SAT2, SSAT-2, SSAT2...","rectangle",527,215,46,17,"hsa:6303",100
+"162","ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2...","rectangle",348,249,46,17,"hsa:2182",100
+"163","LPCAT3, C3F, LPCAT, LPLAT_5, LPLAT12, LPSAT, MBOAT5, OACT5, nessy","rectangle",457,249,46,17,NA,NA
+"164","ALOX15, 12-LOX, 15-LOX, 15-LOX-1, LOG15","rectangle",587,249,46,17,NA,NA
+"17","GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx","rectangle",694,178,46,17,"hsa:2879",100
+"176",NA,"rectangle",206,160,46,34,NA,NA
+"22","VDAC2, POR...","rectangle",627,479,46,17,NA,NA
+"29","GCLC, GCL, GCS, GLCL, GLCLC...","rectangle",453,118,46,17,"hsa:2729",100
+"31","SLC3A2, 4F2, 4F2HC, 4T2HC, CD98, CD98HC, MDU1, NACAE","rectangle",206,152,46,17,NA,NA
+"37","TFRC, CD71, IMD46, T9, TFR, TFR1, TR, TRFR, p90","rectangle",207,370,46,17,"hsa:7037",0
+"39","TF, HEL-S-71p, PRO1557, PRO2086, TFQTL1","rectangle",161,370,46,17,"hsa:7018",0
+"42","CP, AB073614, CP-2","rectangle",127,456,46,17,"hsa:1356",0
+"51","TFRC, CD71, IMD46, T9, TFR, TFR1, TR, TRFR, p90","rectangle",448,342,46,17,"hsa:7037",0
+"52","TF, HEL-S-71p, PRO1557, PRO2086, TFQTL1","rectangle",448,359,46,17,"hsa:7018",0
+"57","STEAP3, AHMIO2, STMP3, TSAP6, dudlin-2, dudulin-2, pHyde","rectangle",394,411,46,17,"hsa:55240",0
+"58","TFRC, CD71, IMD46, T9, TFR, TFR1, TR, TRFR, p90","rectangle",265,412,46,17,"hsa:7037",0
+"59","TF, HEL-S-71p, PRO1557, PRO2086, TFQTL1","rectangle",265,429,46,17,"hsa:7018",0
+"64","GSS, GSHS, HEL-S-64p, HEL-S-88n","rectangle",585,118,46,17,"hsa:2937",100
+"66","PCBP1, HEL-S-85, HNRPE1, HNRPX, hnRNP-E1, hnRNP-X...","rectangle",474,592,46,17,NA,NA
+"68","SLC40A1, FPN, FPN1, HFE4, IREG1, MST079, MSTP079, MTP1, SLC11A3","rectangle",206,556,46,17,"hsa:30061",0
+"71","PCBP2, HNRNPE2, HNRPE2, hnRNP-E2","rectangle",343,531,46,17,NA,NA
+"73","FTH1, FHC, FTH, FTHL6, HFE5, NBIA9, PIG15, PLIF...","rectangle",447,656,46,17,"hsa:2495;hsa:2512",0
+"78","ATG7, APG7-LIKE, APG7L, GSA7, SCAR31...","rectangle",537,645,46,17,"hsa:9474",100
+"80","FTH1, FHC, FTH, FTHL6, HFE5, NBIA9, PIG15, PLIF...","rectangle",686,633,46,17,"hsa:2495;hsa:2512",0
+"85","SLC39A14, HCIN, HMNDYT2, LZT-Hs4, NET34, ZIP14, cig19...","rectangle",486,475,46,17,"hsa:23516;hsa:64116",0
+"87","SLC11A2, AHMIO1, DCT1, DMT1, NRAMP2","rectangle",406,475,46,17,"hsa:4891",100
+"89","MAP1LC3BP1...","rectangle",537,622,46,17,NA,NA
+"90","NCOA4, ARA70, ELE1, PTC3, RFG","rectangle",640,633,46,17,NA,NA
+"92","SLC39A14, HCIN, HMNDYT2, LZT-Hs4, NET34, ZIP14, cig19...","rectangle",206,585,46,17,"hsa:23516;hsa:64116",0
+"95","PRNP, ASCR, AltPrP, CD230, CJD, GSS, KURU, PRIP, PrP, PrP27-30, PrP33-35C, PrPc, p27-30","rectangle",206,622,46,17,NA,NA

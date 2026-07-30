@@ -1,0 +1,56 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"102","Tyrosine metabolism","roundrectangle",1047,692,127,25,NA,NA,NA,NA
+"103","Lysosome biogenesis","roundrectangle",558,813,84,25,NA,NA,NA,NA
+"112","DUOXA2, SIMNIPHOM, TDH5","rectangle",771,697,46,17,NA,NA,NA,NA
+"120","TPO, MSA, TDH2A, TPX","rectangle",903,593,46,17,NA,NA,NA,NA
+"125","ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29...","rectangle",502,467,46,17,"hsa:3708;hsa:3709",NA,"ITPR1; ITPR2",0
+"130","TPO, MSA, TDH2A, TPX","rectangle",905,737,46,17,NA,NA,NA,NA
+"133","Calcium signaling pathway","roundrectangle",383,464,112,34,NA,NA,NA,NA
+"135","TG, AITD3, TGN","rectangle",674,506,46,17,NA,NA,NA,NA
+"136","TG, AITD3, TGN","rectangle",674,523,46,17,NA,NA,NA,NA
+"139","HSPA5, BIP, GRP78, HEL-S-89n","rectangle",643,456,46,17,NA,NA,NA,NA
+"140","HSP90B1, ECGP, GP96, GRP94, HEL-S-125m, HEL35, TRA1","rectangle",643,478,46,17,NA,NA,NA,NA
+"141","CANX, CNX, IP90, P90","rectangle",708,456,46,17,NA,NA,NA,NA
+"142","PDIA4, ERP70, ERP72, ERp-72","rectangle",708,478,46,17,NA,NA,NA,NA
+"144","Peroxisome","roundrectangle",530,575,84,25,NA,NA,NA,NA
+"146","TG, AITD3, TGN","rectangle",540,614,46,17,NA,NA,NA,NA
+"147","TG, AITD3, TGN","rectangle",549,637,46,17,NA,NA,NA,NA
+"15","TITLE:Thyroid hormone synthesis","roundrectangle",171,58,261,25,NA,NA,NA,NA
+"151","LRP2, DBS, GP330, LRP-2","rectangle",768,818,46,17,NA,NA,NA,NA
+"152","TG, AITD3, TGN","rectangle",935,844,46,17,NA,NA,NA,NA
+"153","LRP2, DBS, GP330, LRP-2","rectangle",683,818,46,17,NA,NA,NA,NA
+"154","TG, AITD3, TGN","rectangle",683,845,46,17,NA,NA,NA,NA
+"155","TG, AITD3, TGN","rectangle",168,896,46,17,NA,NA,NA,NA
+"16","Tight junction","roundrectangle",667,157,115,25,NA,NA,NA,NA
+"160","Glutathione metabolism","roundrectangle",578,679,134,25,NA,NA,NA,NA
+"177","GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N24.1...","rectangle",703,738,46,17,NA,NA,NA,NA
+"178","ASGR1, ASGPR, ASGPR1, CLEC4H1, HL-1...","rectangle",628,528,46,17,NA,NA,NA,NA
+"19","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",505,331,46,17,NA,NA,NA,NA
+"214","GSR, CNSHA10, GR, GSRD, HEL-75, HEL-S-122m","rectangle",652,738,46,17,"hsa:2936","1.8.1.7","GSR",100
+"221","ALB, FDAHT, HSA, PRO0883, PRO0903, PRO1341","rectangle",74,731,46,17,NA,NA,NA,NA
+"222","TTR, ATTR, CTS, CTS1, HEL111, HsT2651, PALB, TBPA, TTN","rectangle",74,756,46,17,NA,NA,NA,NA
+"223","SERPINA7, TBG, TBGQTL","rectangle",74,781,46,17,NA,NA,NA,NA
+"224","ALB, FDAHT, HSA, PRO0883, PRO0903, PRO1341","rectangle",74,828,46,17,NA,NA,NA,NA
+"225","TTR, ATTR, CTS, CTS1, HEL111, HsT2651, PALB, TBPA, TTN","rectangle",74,853,46,17,NA,NA,NA,NA
+"226","SERPINA7, TBG, TBGQTL","rectangle",74,878,46,17,NA,NA,NA,NA
+"29","CGA, CG-ALPHA, FSHA, GPA1, GPHA1, GPHa, HCG, LHA, TSHA...","rectangle",161,356,46,17,NA,NA,NA,NA
+"30","TSHR, CHNG1, LGR3, hTSHR-I","rectangle",244,357,46,17,NA,NA,NA,NA
+"31","GNAQ, CMAL, CMC1, G-ALPHA-q, GAQ, SWS","rectangle",312,386,46,17,NA,NA,NA,NA
+"32","PLCB1, DEE12, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B...","rectangle",387,386,46,17,"hsa:23236;hsa:5331;hsa:5332","3.1.4.11","PLCB1; PLCB3; PLCB4",0
+"33","GNAS, AHO, AIMAH1, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI","rectangle",312,331,46,17,NA,NA,NA,NA
+"34","ADCY1, AC1, DFNB44...","rectangle",388,331,46,17,NA,NA,NA,NA
+"35","TG, AITD3, TGN","rectangle",676,430,46,17,NA,NA,NA,NA
+"36","SLC5A5, NIS, TDH1","rectangle",244,556,46,17,NA,NA,NA,NA
+"37","ATP1B4...","rectangle",245,654,46,17,NA,NA,NA,NA
+"38","SLC26A4, DFNB4, EVA, PDS, TDH2B","rectangle",770,556,46,17,NA,NA,NA,NA
+"39","DUOX2, LNOX2, NOXEF2, P138-TOX, TDH6, THOX2...","rectangle",770,645,46,17,NA,NA,NA,NA
+"40","TPO, MSA, TDH2A, TPX","rectangle",770,592,46,17,NA,NA,NA,NA
+"41","IYD, C6orf71, DEHAL1, IYD-1, TDH4","rectangle",409,627,46,17,NA,NA,NA,NA
+"45","PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA...","rectangle",505,386,46,17,NA,NA,NA,NA
+"47","TTF1, TTF-1, TTF-I","rectangle",602,326,46,17,NA,NA,NA,NA
+"48","TTF2, F2, HuF2, ZGRF6","rectangle",602,349,46,17,NA,NA,NA,NA
+"49","PAX8, PAX-8","rectangle",602,373,46,17,NA,NA,NA,NA
+"50","CREB3, LUMAN, LZIP, sLZIP...","rectangle",602,396,46,17,NA,NA,NA,NA
+"68","TG, AITD3, TGN","rectangle",935,698,46,17,NA,NA,NA,NA
+"73","TG, AITD3, TGN","rectangle",935,782,46,17,NA,NA,NA,NA
+"82","TG, AITD3, TGN","rectangle",453,786,46,17,NA,NA,NA,NA

@@ -1,0 +1,45 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"10","MITF, CMM8, COMMAD, MI, MITF-A, WS2, WS2A, bHLHe32","rectangle",532,328,46,17,NA,NA
+"11","DCT, OCA8, TRP-2, TYRP2","rectangle",802,425,46,17,NA,NA
+"12","TYRP1, CAS2, CATB, GP75, OCA3, TRP, TRP1, TYRP, b-PROTEIN","rectangle",802,403,46,17,NA,NA
+"13","TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3","rectangle",802,380,46,17,"hsa:7299",100
+"14","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",489,477,46,17,NA,NA
+"15","CAMK2A, CAMKA, CaMKIINalpha, CaMKIIalpha, MRD53, MRT63...","rectangle",571,430,46,17,NA,NA
+"16","CALML6, CAGLP...","rectangle",498,430,46,17,NA,NA
+"17","GNAI1, Gi, HG1B, NEDHISB...","rectangle",213,452,46,17,NA,NA
+"18","EDNRB, ABCDS, ET-B, ET-BR, ETB, ETB1, ETBR, ETRB, HSCR, HSCR2, WS4A","rectangle",139,452,46,17,NA,NA
+"19","KIT, C-Kit, CD117, MASTC, PBT, SCFR","rectangle",139,363,46,17,NA,NA
+"20","MITF, CMM8, COMMAD, MI, MITF-A, WS2, WS2A, bHLHe32","rectangle",802,235,46,17,NA,NA
+"23","KITLG, DCUA, DFNA69, FPH2, FPHH, KL-1, Kitl, MGF, SCF, SF, SHEP7, SLF, WS2F","rectangle",66,363,46,17,NA,NA
+"27","FZD10, CD350, FZ-10, Fz10, FzE7, hFz10...","rectangle",139,275,46,17,NA,NA
+"28","PLCB1, DEE12, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B...","rectangle",285,452,46,17,"hsa:23236;hsa:5331;hsa:5332",100
+"29","ASIP, AGSW, AGTI, AGTIL, ASP, SHEP9","rectangle",66,167,46,17,NA,NA
+"30","CREBBP, CBP, KAT3A, MKHK1, RSTS, RSTS1...","rectangle",681,207,46,17,NA,NA
+"31","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",290,189,46,17,NA,NA
+"32","LEF1, LEF-1, TCF10, TCF1ALPHA, TCF7L3...","rectangle",681,274,46,17,NA,NA
+"33","GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI","rectangle",221,133,46,17,NA,NA
+"34","PRKCB, PKC-beta, PKCB, PKCI(2), PKCbeta, PRKCB1, PRKCB2","rectangle",325,546,46,17,NA,NA
+"35","CREB3, LUMAN, LZIP, sLZIP...","rectangle",681,190,46,17,NA,NA
+"36","ADCY1, AC1, DFNB44...","rectangle",139,188,46,17,NA,NA
+"37","PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA...","rectangle",407,477,46,17,NA,NA
+"38","GSK3B","rectangle",436,275,46,17,NA,NA
+"39","CTNNB1, CTNNB, EVR7, MRD19, NEDSDV, armadillo","rectangle",535,275,46,17,NA,NA
+"40","POMC, ACTH, CLIP, LPH, MSH, NPP, OBAIRH, POC","rectangle",66,133,46,17,NA,NA
+"41","GNAO1, DEE17, EIEE17, G-ALPHA-o, GNAO, HG1G, HLA-DQB1, NEDIM...","rectangle",238,275,46,17,NA,NA
+"42","MC1R, CMM5, MSH-R, SHEP2","rectangle",139,133,46,17,NA,NA
+"43","WNT16...","rectangle",66,275,46,17,NA,NA
+"44","MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, NS13, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK...","rectangle",456,363,46,17,NA,NA
+"45","MAP2K1, CFC3, MAPKK1, MEK1, MEL, MKK1, PRKMK1...","rectangle",376,363,46,17,NA,NA
+"46","RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf","rectangle",297,363,46,17,NA,NA
+"47","HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras...","rectangle",217,363,46,17,NA,NA
+"48","EDN1, ARCND3, ET1, HDLCQ7, PPET1, QME","rectangle",66,452,46,17,NA,NA
+"49","TITLE:Melanogenesis","roundrectangle",111,58,141,25,NA,NA
+"50","Wnt signaling pathway","roundrectangle",321,239,109,34,NA,NA
+"51","Tyrosine metabolism","roundrectangle",453,657,109,34,NA,NA
+"52","Melanoma","roundrectangle",686,366,92,25,NA,NA
+"53","MAPK signaling pathway","roundrectangle",319,329,110,34,NA,NA
+"55",NA,"rectangle",681,198,46,34,NA,NA
+"6","DVL1, DRS2, DVL, DVL1L1, DVL1P1...","rectangle",337,275,46,17,NA,NA
+"7","DCT, OCA8, TRP-2, TYRP2","rectangle",510,591,46,17,NA,NA
+"8","TYRP1, CAS2, CATB, GP75, OCA3, TRP, TRP1, TYRP, b-PROTEIN","rectangle",452,591,46,17,NA,NA
+"9","TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3","rectangle",395,591,46,17,"hsa:7299",100

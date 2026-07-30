@@ -1,0 +1,29 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"38","CYP1A2, CP12, CYPIA2, P3-450, P450(PA)","rectangle",651,627,46,17,NA,NA
+"40","XDH, XAN1, XO, XOR","rectangle",396,641,46,17,"hsa:7498",0
+"41","K21722","rectangle",320,613,46,17,NA,NA
+"42","K21723","rectangle",476,605,46,17,NA,NA
+"43","K00365...","rectangle",729,464,46,17,NA,NA
+"45","K21722","rectangle",476,485,46,17,NA,NA
+"46","K21723","rectangle",320,479,46,17,NA,NA
+"47","XDH, XAN1, XO, XOR","rectangle",551,408,46,17,"hsa:7498",0
+"49","K21723","rectangle",476,338,46,17,NA,NA
+"50","K21673...","rectangle",729,380,46,17,NA,NA
+"51","K21722","rectangle",651,352,46,17,NA,NA
+"52","K12730","rectangle",476,281,46,17,NA,NA
+"53","K12731","rectangle",601,338,46,17,NA,NA
+"54","CYP1A2, CP12, CYPIA2, P3-450, P450(PA)","rectangle",451,158,46,17,NA,NA
+"55","NAT2, AAC2, NAT-2, PNAT...","rectangle",551,148,46,17,NA,NA
+"56","K12731","rectangle",476,302,46,17,NA,NA
+"58","K12729","rectangle",163,211,46,17,NA,NA
+"59","XDH, XAN1, XO, XOR","rectangle",393,359,46,17,"hsa:7498",0
+"60","K21724","rectangle",320,341,46,17,NA,NA
+"61","K21722","rectangle",476,219,46,17,NA,NA
+"63","CYP1A2, CP12, CYPIA2, P3-450, P450(PA)","rectangle",634,268,46,17,NA,NA
+"64","K21723","rectangle",634,247,46,17,NA,NA
+"65","XDH, XAN1, XO, XOR","rectangle",476,179,46,17,"hsa:7498",0
+"67","Purine metabolism","roundrectangle",89,454,109,25,NA,NA
+"68","TITLE:Caffeine metabolism","roundrectangle",129,58,177,25,NA,NA
+"69","Glyoxylate and dicarboxylate metabolism","roundrectangle",597,544,78,34,NA,NA
+"85","CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB...","rectangle",499,158,46,17,NA,NA
+"87","K00492","rectangle",776,431,46,17,NA,NA

@@ -1,0 +1,42 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"10","CCNB1, CCNB","rectangle",565,484,46,17,NA,NA
+"106","STK10, LOK, PRO2729","rectangle",407,372,46,17,NA,NA
+"107","KIF22, A-328A3.2, KID, KNSL4, OBP, OBP-1, OBP-2, SEMDJL2","rectangle",565,523,46,17,NA,NA
+"11","CDK1, CDC2, CDC28A, P34CDC2","rectangle",565,447,46,17,NA,NA
+"12","KRAS, 'C-K-RAS, C-K-RAS, CFC2, K-RAS2A, K-RAS2B, K-RAS4A, K-RAS4B, K-Ras, K-Ras 2, KI-RAS, KRAS1, KRAS2, NS, NS3, OES, RALD, RASK2, c-Ki-ras, c-Ki-ras2","rectangle",272,525,46,17,NA,NA
+"13","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",228,476,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296",100
+"14","CDK1, CDC2, CDC28A, P34CDC2","rectangle",880,302,46,17,NA,NA
+"16","AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...","rectangle",300,438,46,17,"hsa:208",100
+"17","PDE3B, HcGIP1, cGIPDE1","rectangle",262,404,46,17,NA,NA
+"18","ANAPC10, APC10, DOC1...","rectangle",882,519,46,17,NA,NA
+"19","FZR1, CDC20C, CDH1, DEE109, FZR, FZR2, HCDH, HCDH1","rectangle",810,518,46,17,NA,NA
+"20","MAD2L2, FANCV, MAD2B, POLZ2, REV7...","rectangle",790,475,46,17,NA,NA
+"21","BUB1, BUB1A, BUB1L, MCPH30, hBUB1","rectangle",755,399,46,17,NA,NA
+"22","CDC25A, CDC25A2...","rectangle",682,371,46,17,NA,NA
+"23","PLK1, PLK, STPK13","rectangle",565,371,46,17,NA,NA
+"24","CCNB3, CYCB3...","rectangle",880,286,46,17,NA,NA
+"25","HSP90AA1, EL52, HEL-S-65p, HSP86, HSP89A, HSP90A, HSP90N, HSPC1, HSPCA, HSPCAL1, HSPCAL4, HSPN, Hsp103, Hsp89, Hsp90, LAP-2, LAP2...","rectangle",468,301,46,17,NA,NA
+"26","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",292,371,46,17,NA,NA
+"27","PKMYT1, MYT1, PPP1R126","rectangle",800,266,46,17,NA,NA
+"28","RPS6KA6, PP90RSK4, RSK-4, RSK4, S6K-alpha-6, p90RSK6...","rectangle",729,266,46,17,NA,NA
+"29","MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, NS13, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK...","rectangle",663,266,46,17,NA,NA
+"30","MAP2K1, CFC3, MAPKK1, MEK1, MEL, MKK1, PRKMK1","rectangle",597,267,46,17,NA,NA
+"31","GNAI1, Gi, HG1B, NEDHISB...","rectangle",237,263,46,17,NA,NA
+"32","CDK2, CDKN2, p33(CDK2)","rectangle",649,165,46,17,NA,NA
+"33","CDK1, CDC2, CDC28A, P34CDC2","rectangle",649,130,46,17,NA,NA
+"34","CCNA2, CCN1, CCNA...","rectangle",531,181,46,17,NA,NA
+"35","SPDYE12, SPDYE12P...","rectangle",531,148,46,17,NA,NA
+"36","AURKA, AIK, ARK1, AURA, BTAK, PPP1R47, STK15, STK6, STK7","rectangle",310,214,46,17,NA,NA
+"37","MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA...","rectangle",354,163,46,17,NA,NA
+"38","MAPK signaling pathway","roundrectangle",666,217,111,34,NA,NA
+"4","IGF1R, CD221, IGFIR, IGFR, JTK13","rectangle",145,477,46,17,NA,NA
+"41","PGR, NR3C3, PR","rectangle",237,146,46,17,NA,NA
+"42","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",354,130,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296",100
+"43","TITLE:Progesterone-mediated oocyte maturation","roundrectangle",230,58,379,25,NA,NA
+"44","Cell cycle","roundrectangle",903,213,111,25,NA,NA
+"45","ARAF, A-RAF, ARAF1, PKS2, RAFA1...","rectangle",371,525,46,17,NA,NA
+"5","IGF1, IGF, IGF-I, IGFI, MGF","rectangle",78,491,46,17,NA,NA
+"6","INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10, PNDM4","rectangle",78,463,46,17,"hsa:3630",100
+"7","MOS, MSV, OZEMA20","rectangle",527,267,46,17,NA,NA
+"8","CPEB2, CPE-BP2, CPEB-2, hCPEB-2...","rectangle",392,214,46,17,NA,NA
+"9","ADCY1, AC1, DFNB44...","rectangle",144,371,46,17,NA,NA

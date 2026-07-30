@@ -1,0 +1,47 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"10","CRY1, DSPD, PHLL1...","rectangle",506,648,46,17,NA,NA
+"11","PER2, FASPS, FASPS1","rectangle",460,648,46,17,NA,NA
+"12","TPTEP2-CSNK1E, LOC400927-CSNK1E...","rectangle",483,631,46,17,NA,NA
+"15","CRY1, DSPD, PHLL1...","rectangle",911,609,46,17,NA,NA
+"16","PER1, PER, RIGUI, hPER...","rectangle",911,663,46,17,NA,NA
+"17","DBP, DABP, taxREB302","rectangle",911,478,46,17,NA,NA
+"18","NR1D1, EAR1, REVERBA, REVERBalpha, THRA1, THRAL, ear-1, hRev...","rectangle",911,447,46,17,NA,NA
+"21","CRY1, DSPD, PHLL1...","rectangle",315,801,46,17,NA,NA
+"22","PER1, PER, RIGUI, hPER...","rectangle",267,801,46,17,NA,NA
+"25","SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A...","rectangle",224,832,46,17,NA,NA
+"26","FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos, NEDJED...","rectangle",224,849,46,17,NA,NA
+"27","SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A...","rectangle",357,832,46,17,NA,NA
+"28","K10287","rectangle",357,849,46,17,NA,NA
+"3","TITLE:Circadian rhythm","roundrectangle",125,58,169,25,NA,NA
+"32","RORA, IDDECA, NR1F1, ROR1, ROR2, ROR3, RORa1, RORalpha, RZR-ALPHA, RZRA...","rectangle",911,422,46,17,NA,NA
+"33","DBP, DABP, taxREB302","rectangle",640,451,46,17,NA,NA
+"34","NFIL3, E4BP4, IL3BP1, NF-IL3A, NFIL3A","rectangle",640,417,46,17,NA,NA
+"36","RORA, IDDECA, NR1F1, ROR1, ROR2, ROR3, RORa1, RORalpha, RZR-ALPHA, RZRA...","rectangle",640,273,46,17,NA,NA
+"37","NR1D1, EAR1, REVERBA, REVERBalpha, THRA1, THRAL, ear-1, hRev...","rectangle",640,307,46,17,NA,NA
+"39","NFIL3, E4BP4, IL3BP1, NF-IL3A, NFIL3A","rectangle",911,275,46,17,NA,NA
+"4","CRY1, DSPD, PHLL1...","rectangle",314,648,46,17,NA,NA
+"40","BMAL1, ARNTL, ARNTL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5","rectangle",911,305,46,17,NA,NA
+"47","CRY1, DSPD, PHLL1...","rectangle",507,801,46,17,NA,NA
+"49","SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A...","rectangle",464,832,46,17,NA,NA
+"5","PER1, PER, RIGUI, hPER...","rectangle",268,648,46,17,NA,NA
+"50","FBXL3, FBL3, FBL3A, FBXL3A, IDDSFAS","rectangle",464,849,46,17,NA,NA
+"52","PRKAG2, AAKG, AAKG2, CMH6, H91620p, WPWS...","rectangle",601,768,46,17,"hsa:51422",0
+"55","TPTEP2-CSNK1E, LOC400927-CSNK1E...","rectangle",601,690,46,17,NA,NA
+"58","Ubiquitin mediated proteolysis","roundrectangle",634,917,120,34,NA,NA
+"6","TPTEP2-CSNK1E, LOC400927-CSNK1E...","rectangle",291,631,46,17,NA,NA
+"60","CREB1, CREB, CREB-1","rectangle",640,180,46,17,NA,NA
+"61","Circadian entrainment","roundrectangle",387,132,130,34,NA,NA
+"66","MAPK signaling pathway","roundrectangle",518,132,113,34,NA,NA
+"67","BHLHE41, BHLHB3, DEC2, FNSS1, SHARP1, hDEC2...","rectangle",911,504,46,17,NA,NA
+"7","BMAL1, ARNTL, ARNTL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5","rectangle",640,631,46,17,NA,NA
+"73","BHLHE41, BHLHB3, DEC2, FNSS1, SHARP1, hDEC2...","rectangle",483,577,46,17,NA,NA
+"77","RORA, IDDECA, NR1F1, ROR1, ROR2, ROR3, RORa1, RORalpha, RZR-ALPHA, RZRA...","rectangle",291,273,46,17,NA,NA
+"78","NR1D1, EAR1, REVERBA, REVERBalpha, THRA1, THRAL, ear-1, hRev...","rectangle",291,307,46,17,NA,NA
+"8","NPAS2, MOP4, PASD4, bHLHe9...","rectangle",640,648,46,17,NA,NA
+"80","DBP, DABP, taxREB302","rectangle",291,451,46,17,NA,NA
+"81","NFIL3, E4BP4, IL3BP1, NF-IL3A, NFIL3A","rectangle",291,417,46,17,NA,NA
+"85","BHLHE41, BHLHB3, DEC2, FNSS1, SHARP1, hDEC2...","rectangle",291,577,46,17,NA,NA
+"86",NA,"rectangle",640,639,46,34,NA,NA
+"87",NA,"rectangle",483,639,92,34,NA,NA
+"88",NA,"rectangle",224,840,46,34,NA,NA
+"89",NA,"rectangle",464,840,46,34,NA,NA

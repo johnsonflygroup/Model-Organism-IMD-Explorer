@@ -1,0 +1,50 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","K27801","rectangle",960,156,46,17,NA,NA
+"106","K27798","rectangle",989,361,46,17,NA,NA
+"111","K25922","rectangle",988,502,46,17,NA,NA
+"112","K27800","rectangle",988,751,46,17,NA,NA
+"116","K27799","rectangle",988,656,46,17,NA,NA
+"124","CD9, BTCC-1, DRAP-27, MIC3, MRP-1, TSPAN-29, TSPAN29","rectangle",1141,361,46,17,NA,NA
+"125","LAMP1, CD107a, LAMPA, LGP120...","rectangle",1141,386,46,17,"hsa:3920",100
+"126","DPP4, ADABP, ADCP2, CD26, DPPIV, TP103","rectangle",1141,410,46,17,NA,NA
+"127","PDCD6IP, AIP1, ALIX, DRIP4, HP95, MCPH29","rectangle",1142,455,46,17,NA,NA
+"128","IST1, CHMP8, OLC1, KIAA0174","rectangle",1142,479,46,17,NA,NA
+"129","CHMP4B, C20orf178, CHMP4A, CTPP3, CTRCT31, SNF7, SNF7-2, Shax1, VPS32B, Vps32-2, dJ553F4.4...","rectangle",1141,505,46,17,NA,NA
+"130","VPS4A, CIMDAG, SKD1, SKD1A, SKD2, VPS4, VPS4-1...","rectangle",1141,529,46,17,"hsa:27183",100
+"133","CD9, BTCC-1, DRAP-27, MIC3, MRP-1, TSPAN-29, TSPAN29","rectangle",1142,654,46,17,NA,NA
+"134","CD63, AD1, HOP-26, ME491, MLA1, OMA81H, Pltgp40, TSPAN30","rectangle",1142,680,46,17,NA,NA
+"135","CD81, CVID6, S5.7, TAPA1, TSPAN28","rectangle",1143,704,46,17,NA,NA
+"136","EPCAM, Ber-Ep4, BerEp4, DIAR5, EGP-2, EGP314, EGP40, ESA, HNPCC8, KS1/4, KSA, LYNCH8, M4S1, MIC18, MK-1, MOC-31, TACSTD1, TROP1","rectangle",1143,729,46,17,NA,NA
+"137","TGOLN2, TGN38, TGN46, TGN48, TGN51, TTGN2, hTGN46, hTGN48, hTGN51","rectangle",1143,755,46,17,NA,NA
+"138","PDCD6IP, AIP1, ALIX, DRIP4, HP95, MCPH29","rectangle",1144,800,46,17,NA,NA
+"139","TSG101, TSG10, VPS23","rectangle",1144,825,46,17,NA,NA
+"140","VPS4A, CIMDAG, SKD1, SKD1A, SKD2, VPS4, VPS4-1...","rectangle",1144,851,46,17,"hsa:27183",100
+"41","TITLE:Virion - Hepatitis viruses","roundrectangle",149,58,218,25,NA,NA
+"49","K23129","rectangle",412,198,46,17,NA,NA
+"50","K23128","rectangle",412,292,46,17,NA,NA
+"51","K21854","rectangle",412,246,46,17,NA,NA
+"53","K21037","rectangle",411,144,46,17,NA,NA
+"54","K19358","rectangle",316,731,46,17,NA,NA
+"56","K22271","rectangle",412,545,46,17,NA,NA
+"57","K22272","rectangle",411,600,46,17,NA,NA
+"59","K24861","rectangle",411,579,46,17,NA,NA
+"61","K22273","rectangle",411,723,46,17,NA,NA
+"63","K22497","rectangle",411,698,46,17,NA,NA
+"64","K22274","rectangle",411,740,46,17,NA,NA
+"65","K22498","rectangle",411,765,46,17,NA,NA
+"66","K22275","rectangle",411,789,46,17,NA,NA
+"67","K22472","rectangle",411,806,46,17,NA,NA
+"73","HSPG2, HSPG, PLC, PRCAN, SJA, SJS, SJS1","rectangle",552,335,46,17,NA,NA
+"74","SLC10A1, FHCA2, NTCP","rectangle",552,366,46,17,"hsa:6554",100
+"75","EGFR, ERBB, ERBB1, ERRP, HER1, NISBD2, PIG61, mENA","rectangle",552,383,46,17,NA,NA
+"79","K23128","rectangle",434,333,46,17,NA,NA
+"80","K23128","rectangle",434,364,46,17,NA,NA
+"81","K23128","rectangle",433,395,46,17,NA,NA
+"85","SCARB1, CD36L1, CLA-1, CLA1, HDLCQ6, HDLQTL6, SR-BI, SRB1","rectangle",551,569,46,17,"hsa:949",100
+"86","CD81, CVID6, S5.7, TAPA1, TSPAN28","rectangle",551,594,46,17,NA,NA
+"87","CLDN24, CLDN21...","rectangle",551,611,46,17,NA,NA
+"88","OCLN, BLCPMG, PPP1R115, PTORCH1","rectangle",551,635,46,17,NA,NA
+"89","LDLR, FH, FHC, FHCL1, LDLCQ2","rectangle",551,545,46,17,"hsa:3949",100
+"91","Hepatitis C","roundrectangle",297,801,85,25,NA,NA
+"92","Hepatitis B","roundrectangle",297,429,85,25,NA,NA
+"99","K27801","rectangle",961,120,46,17,NA,NA

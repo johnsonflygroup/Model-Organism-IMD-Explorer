@@ -1,0 +1,74 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"10","NFKB1, CVID12, EBP-1, KBF1, NF-kB, NF-kB1, NF-kappa-B1, NF-kappaB, NF-kappabeta, NFKB-p105, NFKB-p50, NFkappaB...","rectangle",720,725,46,17,NA,NA
+"11","NFKBIA, EDAID2, IKBA, MAD-3, NFKBI","rectangle",720,693,46,17,NA,NA
+"12","CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1","rectangle",649,572,46,17,NA,NA
+"13","PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, PTENgama, TEP1","rectangle",415,417,46,17,"hsa:5728",100
+"14","NKX3-1, BAPX2, NKX3, NKX3.1, NKX3A","rectangle",499,358,46,17,NA,NA
+"15","KLK3, APS, KLK2A1, PSA, hK3","rectangle",1059,888,46,17,NA,NA
+"16","BCL2, Bcl-2, PPP1R50","rectangle",1059,726,46,17,NA,NA
+"162","PI3K-Akt signaling pathway","roundrectangle",589,417,104,34,NA,NA
+"163","TMPRSS2, PRSS10","rectangle",941,415,46,17,NA,NA
+"164","ERG, LMPHM14, erg-3, p55","rectangle",996,415,46,17,NA,NA
+"165","TMPRSS2, PRSS10","rectangle",941,524,46,17,NA,NA
+"166","ETV5, ERM","rectangle",996,524,46,17,NA,NA
+"169","PLAU, ATF, BDPLT5, QPD, UPA, URK, u-PA","rectangle",1138,403,46,17,NA,NA
+"17","CCND1, BCL1, D11S287E, PRAD1, U21B31","rectangle",1059,663,46,17,NA,NA
+"170","MMP3, CHDS6, MMP-3, SL-1, STMY, STMY1, STR1...","rectangle",1138,425,46,17,NA,NA
+"172","ZEB1, AREB6, BZP, DELTAEF1, FECD6, NIL2A, PPCD3, TCF8, ZFHEP, ZFHX1A","rectangle",1189,425,46,17,NA,NA
+"173","IL1R2, CD121b, CDw121b, IL-1R-2, IL-1RT-2, IL-1RT2, IL1R2c, IL1RB","rectangle",1138,447,46,17,NA,NA
+"174","SPINT1, HAI, HAI1, MANSC2","rectangle",1138,478,46,17,NA,NA
+"179","PLAU, ATF, BDPLT5, QPD, UPA, URK, u-PA","rectangle",1138,516,46,17,NA,NA
+"18","LEF1, LEF-1, TCF10, TCF1ALPHA, TCF7L3...","rectangle",922,662,46,17,NA,NA
+"180","MMP9, CLG4B, GELB, MANDP2, MMP-9","rectangle",1138,538,46,17,NA,NA
+"186","PLAT, T-PA, TPA","rectangle",1189,403,46,17,NA,NA
+"19","CREBBP, CBP, KAT3A, MKHK1, RSTS, RSTS1...","rectangle",874,629,46,17,NA,NA
+"192","Transcriptional misregulation in cancer","roundrectangle",962,467,141,34,NA,NA
+"194","GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCA44, SCAR13...","rectangle",327,714,46,17,"hsa:2911",100
+"195","SLC46A1, G21, HCP1, HsPCFT, PCFT, hPCFT","rectangle",327,787,46,17,"hsa:113235",100
+"196","SLC19A1, CHMD, FOLT, IFC-1, IFC1, IMD114, MEGAF, REFC, RFC, RFC1, RFT-1, hRFC, hSLC19A1","rectangle",327,809,46,17,"hsa:6573",100
+"197","FOLR1, FBP, FOLR, FRalpha, NCFTD...","rectangle",327,764,46,17,"hsa:2348",100
+"202","Folate transport and metabolism","roundrectangle",451,787,104,34,NA,NA
+"206","FOLH1, FGCP, FOLH, GCP2, GCPII, NAALAD1, PSM, PSMA, mGCP","rectangle",327,663,46,17,NA,NA
+"208",NA,"rectangle",927,322,46,34,NA,NA
+"209",NA,"rectangle",623,905,46,34,NA,NA
+"210",NA,"rectangle",486,913,46,34,NA,NA
+"23","AR, AIS, AR8, DHTR, HUMARA, HYSP1, KD, NR3C4, SBMA, SMAX1, TFM","rectangle",486,905,46,17,"hsa:367",100
+"25","MDM2, ACTFS, HDMX, LSKB, hdm2","rectangle",649,603,46,17,NA,NA
+"26","CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1","rectangle",649,542,46,17,NA,NA
+"27","FOXO1, FKH1, FKHR, FOXO1A","rectangle",649,511,46,17,NA,NA
+"28","CDK2, CDKN2, p33(CDK2)","rectangle",927,314,46,17,NA,NA
+"29","CTNNB1, CTNNB, EVR7, MRD19, NEDSDV, armadillo","rectangle",765,662,46,17,NA,NA
+"30","E2F1, E2F-1, RBAP1, RBBP3, RBP3...","rectangle",1010,361,46,17,NA,NA
+"31","HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras...","rectangle",401,714,46,17,NA,NA
+"32","TP53, BCC7, BMFS5, LFS1, P53, TRP53","rectangle",956,601,46,17,NA,NA
+"33","EGFR, ERBB, ERBB1, ERRP, HER1, NISBD2, NNCIS, PIG61, mENA...","rectangle",327,590,46,17,NA,NA
+"34","Apoptosis","roundrectangle",715,417,104,34,NA,NA
+"35","CHUK, BPS2, IKBKA, IKK-1, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16...","rectangle",649,692,46,17,NA,NA
+"36","BAD, BBC2, BCL2L8","rectangle",649,480,46,17,NA,NA
+"37","CASP9, APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56","rectangle",649,451,46,17,NA,NA
+"38","CREB3, LUMAN, LZIP, sLZIP...","rectangle",764,626,46,17,NA,NA
+"39","CCNE1, CCNE, pCCNE1...","rectangle",927,331,46,17,NA,NA
+"4","p53 signaling pathway","roundrectangle",909,566,104,34,NA,NA
+"40","EGF, HOMG4, URG...","rectangle",250,590,46,17,"hsa:3630",100
+"41","RB1, OSRC, PPP1R130, RB, p105-Rb, p110-RB1, pRb, pp110","rectangle",1010,324,46,17,NA,NA
+"42","PDPK1, PDK1, PDPK2, PDPK2P, PRO0461","rectangle",490,557,46,17,NA,NA
+"43","SOS1, GF1, GGF1, GINGF, HGF, NS4, SOS-1...","rectangle",401,675,46,17,NA,NA
+"44","GRB2, ASH, EGFRBP-GRB2, Grb3-3, MST084, MSTP084, NCKAP2","rectangle",401,637,46,17,NA,NA
+"46","GSK3B","rectangle",650,643,46,17,NA,NA
+"47","HSP90AA1, EL52, HEL-S-65p, HSP86, HSP89A, HSP90A, HSP90N, HSPC1, HSPCA, HSPCAL1, HSPCAL4, HSPN, Hsp103, Hsp89, Hsp90, LAP-2, LAP2...","rectangle",486,922,46,17,NA,NA
+"48","MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS","rectangle",649,756,46,17,NA,NA
+"49","CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1","rectangle",863,287,46,17,NA,NA
+"5","Cytokine-cytokine receptor interaction","roundrectangle",244,537,104,34,NA,NA
+"50","MAPK signaling pathway","roundrectangle",497,658,104,34,NA,NA
+"51","AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...","rectangle",550,589,46,17,"hsa:208",100
+"52","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",401,589,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296",100
+"53","GSTP1, DFN7, FAEES3, GST3, GSTP, HEL-S-22, PI","rectangle",708,198,46,17,NA,NA
+"54","TITLE:Prostate cancer","roundrectangle",116,58,152,25,NA,NA
+"55","Cell cycle","roundrectangle",1101,309,104,34,NA,NA
+"56","MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, NS13, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK...","rectangle",554,755,46,17,NA,NA
+"57","MAP2K1, CFC3, MAPKK1, MEK1, MEL, MKK1, PRKMK1...","rectangle",553,714,46,17,NA,NA
+"58","ARAF, A-RAF, ARAF1, PKS2, RAFA1...","rectangle",479,714,46,17,NA,NA
+"6","Steroid hormone biosynthesis","roundrectangle",94,832,126,34,NA,NA
+"7","SRD5A2","rectangle",225,868,46,17,"hsa:6716",100
+"8","AR, AIS, AR8, DHTR, HUMARA, HYSP1, KD, NR3C4, SBMA, SMAX1, TFM","rectangle",623,914,46,17,"hsa:367",100
+"9","AR, AIS, AR8, DHTR, HUMARA, HYSP1, KD, NR3C4, SBMA, SMAX1, TFM","rectangle",623,897,46,17,"hsa:367",100

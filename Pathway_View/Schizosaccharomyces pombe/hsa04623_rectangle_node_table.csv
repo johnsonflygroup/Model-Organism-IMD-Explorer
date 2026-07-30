@@ -1,0 +1,63 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","SAMHD1, CHBL2, DCIP, HDDC1, MOP-5, SBBI88, hSAMHD1","rectangle",259,251,46,17,"hsa:25939",0
+"104","ZBP1, C20orf183, DAI, DLM-1, DLM1","rectangle",496,586,46,17,NA,NA
+"105","RIPK3, RIP3","rectangle",626,562,46,17,NA,NA
+"106","RIPK1, AIEFL, IMD57, RIP, RIP-1, RIP1","rectangle",626,604,46,17,NA,NA
+"107","FADD, GIG3, IMD90, MORT1","rectangle",672,604,46,17,NA,NA
+"108","CASP3, CPP32, CPP32B, SCA-1...","rectangle",796,604,46,17,NA,NA
+"109","PYCARD, ASC, CARD5, TMS, TMS-1, TMS1","rectangle",718,646,46,17,NA,NA
+"110","CASP1, ICE, IL1BC, P45","rectangle",718,688,46,17,NA,NA
+"111","NLRP3, AGTAVPRL, AII, AVP, C1orf7, CIAS1, CLR1.1, DFNA34, FCAS, FCAS1, FCU, KEFH, MWS, NALP3, PYPAF1","rectangle",496,635,46,17,NA,NA
+"116","MLKL, hMLKL","rectangle",874,562,46,17,NA,NA
+"118","GSDMD, DF5L, DFNA5L, FKSG10, GSDMDC1","rectangle",874,676,46,17,NA,NA
+"119","GSDME, DFNA5, ICERE-1","rectangle",874,604,46,17,NA,NA
+"122","AIM2, PYHIN4","rectangle",496,606,46,17,NA,NA
+"123","MEFV, FMF, MEF, PAAND, TRIM20","rectangle",496,657,46,17,NA,NA
+"130","Apoptosis","roundrectangle",1085,604,92,25,NA,NA
+"131","Necroptosis","roundrectangle",1086,559,92,25,NA,NA
+"132","NOD-like receptor signaling pathway","roundrectangle",1092,690,118,34,NA,NA
+"133","CASP8, ALPS2B, CAP4, Casp-8, FLICE, MACH, MCH5","rectangle",718,604,46,17,NA,NA
+"136","ZDHHC1, C16orf1, DHHC-1, HSU90653, ZNF377...","rectangle",728,271,46,17,NA,NA
+"137","DDX41, ABS, MPLPF","rectangle",495,280,46,17,NA,NA
+"138","IFI16, IFNGIP1, PYHIN2","rectangle",495,301,46,17,NA,NA
+"139","ZCCHC3, C20orf99","rectangle",430,239,46,17,NA,NA
+"140","PCBP1, HEL-S-85, HNRPE1, HNRPX, hnRNP-E1, hnRNP-X","rectangle",405,219,46,17,NA,NA
+"141","G3BP1, G3BP, HDH-VIII","rectangle",454,219,46,17,NA,NA
+"142",NA,"rectangle",728,262,46,34,NA,NA
+"143",NA,"rectangle",672,625,138,143,NA,NA
+"15","IL1B, IL-1, IL1-BETA, IL1F2, IL1beta","rectangle",874,699,46,17,NA,NA
+"16","IL18, IGIF, IL-18, IL-1g, IL1F4","rectangle",874,719,46,17,NA,NA
+"17","K12971","rectangle",568,520,46,17,NA,NA
+"21","ZBP1, C20orf183, DAI, DLM-1, DLM1","rectangle",623,358,46,17,NA,NA
+"22","TBK1, AIARV, FTDALS4, IIAE8, NAK, T2K","rectangle",806,315,46,17,"hsa:29110",0
+"23","IKBKE, IKK-E, IKK-i, IKKE, IKKI","rectangle",806,336,46,17,NA,NA
+"24","IRF3, IIAE7","rectangle",906,345,46,17,NA,NA
+"30","IFNB1, IFB, IFF, IFN-beta, IFNB","rectangle",1074,367,46,17,NA,NA
+"31","IRF7, IMD39, IRF-7, IRF-7H, IRF7A, IRF7B, IRF7C, IRF7H","rectangle",906,368,46,17,NA,NA
+"32","IFNA1, IFL, IFN, IFN-ALPHA, IFN-alphaD, IFNA13, IFNA@, leIF_D...","rectangle",1074,347,46,17,NA,NA
+"33","CXCL10, C7, IFI10, INP10, IP-10, SCYB10, crg-2, gIP-10, mob-1","rectangle",1074,484,46,17,NA,NA
+"34","MAVS, CARDIF, IPS-1, IPS1, VISA","rectangle",679,192,46,17,NA,NA
+"35","STING1, ERIS, MITA, MPYS, NET23, SAVI, STING, STING-beta, TMEM173, hMITA, hSTING","rectangle",728,254,46,17,NA,NA
+"39","NFKB1, CVID12, EBP-1, KBF1, NF-kB, NF-kB1, NF-kappa-B1, NF-kappaB, NF-kappabeta, NFKB-p105, NFKB-p50, NFkappaB...","rectangle",906,415,46,17,NA,NA
+"40","RIPK1, AIEFL, IMD57, RIP, RIP-1, RIP1","rectangle",702,458,46,17,NA,NA
+"41","RIPK3, RIP3","rectangle",702,475,46,17,NA,NA
+"44","ADAR, ADAR1, AGS6, DRADA, DSH, DSRAD, G1P1, IFI-4, IFI4, K88DSRBP, P136","rectangle",259,230,46,17,"hsa:103",0
+"46","K12969","rectangle",498,401,46,17,NA,NA
+"47","IL6, BSF-2, BSF2, CDF, HGF, HSF, IFN-beta-2, IFNB2, IL-6","rectangle",1074,424,46,17,NA,NA
+"49","CHUK, BPS2, IKBKA, IKK-1, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16...","rectangle",807,458,46,17,NA,NA
+"50","RIGI, DDX58, RIG-I, RIG1, RLR-1, SGMRT2","rectangle",596,192,46,17,NA,NA
+"53","NFKB1, CVID12, EBP-1, KBF1, NF-kB, NF-kB1, NF-kappa-B1, NF-kappaB, NF-kappabeta, NFKB-p105, NFKB-p50, NFkappaB...","rectangle",906,193,46,17,NA,NA
+"55","IL33, C9orf26, DVS27, IL1F11, NF-HEV, NFEHEV","rectangle",874,739,46,17,NA,NA
+"60","NFKBIA, EDAID2, IKBA, MAD-3, NFKBI...","rectangle",906,458,46,17,NA,NA
+"65","IL6, BSF-2, BSF2, CDF, HGF, HSF, IFN-beta-2, IFNB2, IL-6","rectangle",1074,207,46,17,NA,NA
+"68","POLR3F, C34, IMD101, RPC39, RPC6...","rectangle",423,180,46,17,"hsa:11128;hsa:171568;hsa:51082;hsa:55703;hsa:9533",100
+"69","RIG-I-like receptor signaling pathway","roundrectangle",613,156,121,34,NA,NA
+"70","K12970","rectangle",577,426,46,17,NA,NA
+"75","CCL4L1, AT744.2, CCL4L, LAG-1, LAG1, MIP-1-beta, SCYA4L, SCYA4L1, SCYA4L2...","rectangle",1074,444,46,17,NA,NA
+"76","CCL5, D17S136E, RANTES, SCYA5, SIS-delta, SISd, TCP228, eoCP","rectangle",1074,464,46,17,NA,NA
+"79","TREX1, AGS1, CRV, DRN3, HERNS, RVCLS","rectangle",259,272,46,17,"hsa:11277",0
+"88","Ubiquitin mediated proteolysis","roundrectangle",907,509,117,34,NA,NA
+"90","TITLE:Cytosolic DNA-sensing pathway","roundrectangle",186,58,292,25,NA,NA
+"91","NF-kappa B signaling pathway","roundrectangle",807,418,121,34,NA,NA
+"95","CGAS, C6orf150, D4, MB21D1, h-cGAS","rectangle",496,253,46,17,NA,NA
+"99","DNASE2, AIPCS, DNASE2A, DNL, DNL2...","rectangle",259,293,46,17,NA,NA

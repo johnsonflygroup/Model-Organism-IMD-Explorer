@@ -1,0 +1,72 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"10","IKBKB, IKK-2, IKK-beta, IKK2, IKKB, IMD15, IMD15A, IMD15B, NFKBIKB","rectangle",334,343,46,17,NA,NA
+"11","MAPK8, JNK, JNK-46, JNK1, JNK1A2, JNK21B1/2, PRKM8, SAPK1, SAPK1c...","rectangle",334,322,46,17,NA,NA
+"12","PTPRF, BNAH2, LAR","rectangle",135,551,46,17,NA,NA
+"13","PTPN1, PTP1B","rectangle",334,295,46,17,NA,NA
+"14","SOCS4, SOCS7...","rectangle",334,268,46,17,NA,NA
+"15","ELK1","rectangle",714,705,46,17,NA,NA
+"16","MKNK2, GPRK7, MNK2...","rectangle",714,680,46,17,NA,NA
+"17","MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, NS13, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK...","rectangle",642,693,46,17,NA,NA
+"18","FASN, FAS, OA-519, SDR27X1","rectangle",956,230,46,17,NA,NA
+"19","PRKAG2, AAKG, AAKG2, CMH6, H91620p, WPWS...","rectangle",875,222,46,17,"hsa:51422",0
+"22","INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10, PNDM4","rectangle",64,408,46,17,"hsa:3630",0
+"24","LIPE, AOMS4, FPLD6, HSL, LHS, REH","rectangle",956,509,46,17,"hsa:3991",0
+"25","PPP1CA, PP-1A, PP1A, PP1alpha, PPP1A...","rectangle",770,453,46,17,NA,NA
+"26","PKLR, PK1, PKL, PKRL, RPK","rectangle",956,252,46,17,"hsa:5313",100
+"27","GYS1, GSY, GYS...","rectangle",870,408,46,17,"hsa:2997;hsa:2998",0
+"28","CALML6, CAGLP...","rectangle",870,453,46,17,"hsa:5255;hsa:5256;hsa:5257;hsa:5261",0
+"29","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",884,509,46,17,NA,NA
+"30","ACACA, ACAC, ACACAD, ACACalpha, ACC, ACC1, ACCA, ACCalpha, Acac1, hACC1...","rectangle",956,211,46,17,"hsa:31;hsa:32",100
+"31","EIF4EBP1, 4E-BP1, 4EBP1, BP-1, PHAS-I","rectangle",616,645,46,17,NA,NA
+"32","RPS6, S6, eS6","rectangle",770,609,46,17,NA,NA
+"33","PYGB, GPBB...","rectangle",956,453,46,17,"hsa:5836;hsa:5837",0
+"34","FOXO1, FKH1, FKHR, FOXO1A","rectangle",770,320,46,17,NA,NA
+"35","RPTOR, KOG1, Mip1","rectangle",511,626,46,17,NA,NA
+"36","SOS1, GF1, GGF1, GINGF, HGF, NS4, SOS-1...","rectangle",354,693,46,17,NA,NA
+"37","HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras...","rectangle",426,693,46,17,NA,NA
+"38","EIF4E, AUTS19, CBP, EIF4E1, EIF4EL1, EIF4F, eIF-4E...","rectangle",770,645,46,17,NA,NA
+"39","MAP2K1, CFC3, MAPKK1, MEK1, MEL, MKK1, PRKMK1...","rectangle",570,693,46,17,NA,NA
+"40","SHC2, SCK, SHCB, SLI...","rectangle",210,693,46,17,NA,NA
+"41","TRIP10, CIP4, HSTP, STOT, STP, TRIP-10","rectangle",582,146,46,17,NA,NA
+"42","INSR, CD220, HHF5","rectangle",135,408,46,17,"hsa:3643",0
+"43","RPS6KB1, PS6K, S6K, S6K-beta-1, S6K1, STK14A, p70_S6KA, p70(S6K)-alpha, p70-S6K, p70-alpha...","rectangle",616,609,46,17,NA,NA
+"44","GRB2, ASH, EGFRBP-GRB2, Grb3-3, MST084, MSTP084, NCKAP2","rectangle",282,693,46,17,NA,NA
+"45","BAD, BBC2, BCL2L8","rectangle",770,562,46,17,NA,NA
+"46","TSC2, LAM, PPP1R160, TSC4","rectangle",616,475,46,17,NA,NA
+"47","ARAF, A-RAF, ARAF1, PKS2, RAFA1...","rectangle",498,693,46,17,NA,NA
+"48","PCK1, PCKDC, PEPCK-C, PEPCK1, PEPCKC...","rectangle",956,339,46,17,"hsa:5105;hsa:5106",0
+"49","G6PC1, G6PC, G6PT, G6Pase, GSD1, GSD1a...","rectangle",956,301,46,17,"hsa:92579",0
+"50","MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS","rectangle",511,609,46,17,NA,NA
+"51","PDE3B, HcGIP1, cGIPDE1","rectangle",770,509,46,17,NA,NA
+"52","FBP1, FBP...","rectangle",956,320,46,17,"hsa:2203;hsa:8789",100
+"53","EXOC7, 2-5-3p, BLOM4, EX070, EXO70, EXOC1, Exo70p, NEDSEBA, YJL085W","rectangle",582,125,46,17,NA,NA
+"54","PPARGC1A, LEM6, PGC-1(alpha), PGC-1alpha, PGC-1v, PGC1, PGC1A, PPARGC1","rectangle",844,286,46,17,NA,NA
+"55","SORBS1, CAP, FLAF2, R85FL, SH3D5, SH3P12, SORB1","rectangle",282,127,46,17,NA,NA
+"56","RHEB, RHEB2","rectangle",616,542,46,17,NA,NA
+"57","AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...","rectangle",616,408,46,17,"hsa:208",0
+"58","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",334,408,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296",0
+"59","RHOQ, ARHQ, HEL-S-42, RASL7A, TC10, TC10A","rectangle",482,135,46,17,NA,NA
+"60","GSK3B","rectangle",770,408,46,17,NA,NA
+"61","SREBF1, HMD, IFAP2, SREBP1, bHLHd1","rectangle",770,241,46,17,NA,NA
+"62","RAPGEF1, C3G, GRF2","rectangle",382,144,46,17,NA,NA
+"63","GCK, FGQTL3, GK, GLK, HHF3, HK4, HKIV, HXKP, LGLK, MODY2, PNDM1...","rectangle",956,271,46,17,"hsa:2645;hsa:3098",100
+"64","CRK, CRKII, p38...","rectangle",382,127,46,17,NA,NA
+"65","PRKCI, DXS1179E, PKCI, nPKC-iota...","rectangle",616,241,46,17,NA,NA
+"66","SH2B2, APS","rectangle",210,144,46,17,NA,NA
+"67","SLC2A4, GLUT4","rectangle",925,145,46,17,NA,NA
+"68","PDPK1, PDK1, PDPK2, PDPK2P, PRO0461","rectangle",516,408,46,17,NA,NA
+"69","CBL, C-CBL, CBL2, FRA11B, NSLL, RNF55...","rectangle",282,144,46,17,NA,NA
+"7","TSC1, LAM, TSC","rectangle",616,492,46,17,NA,NA
+"70","IRS1, HIRS-1...","rectangle",234,408,46,17,NA,NA
+"72","FLOT1...","rectangle",135,127,46,17,NA,NA
+"73","TITLE:Insulin signaling pathway","roundrectangle",160,58,239,25,NA,NA
+"74","Fatty acid biosynthesis","roundrectangle",1080,249,107,34,NA,NA
+"75","Glycolysis / Gluconeogenesis","roundrectangle",1082,317,95,34,NA,NA
+"76","Starch and sucrose metabolism","roundrectangle",1082,440,98,34,NA,NA
+"77","Apoptosis","roundrectangle",1005,590,92,25,NA,NA
+"78","MAPK signaling pathway","roundrectangle",365,625,112,34,NA,NA
+"79","Phosphatidylinositol signaling system","roundrectangle",349,476,112,34,NA,NA
+"8","INPP5A, 5PTASE","rectangle",334,241,46,17,NA,NA
+"80",NA,"rectangle",511,617,46,34,NA,NA
+"81",NA,"rectangle",616,483,46,34,NA,NA
+"9","INPPL1, OPSMD, SHIP2","rectangle",334,220,46,17,"hsa:3636",0

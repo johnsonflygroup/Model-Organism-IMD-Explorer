@@ -1,0 +1,16 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"15","Glycosaminoglycan biosynthesis - keratan sulfate","roundrectangle",604,271,92,34,NA,NA
+"29","GCNT3, C2/4GnT, C24GNT, C2GNT2, C2GNTM, GNTM","rectangle",402,328,46,17,NA,NA
+"30","GCNT1, C2GNT, C2GNT-L, C2GNT1, C2GlcNAcT, G6NT, NACGT2, NAGCT2","rectangle",267,444,46,17,NA,NA
+"31","B4GALT5, B4Gal-T5, BETA4-GALT-IV, beta4Gal-T5, beta4GalT-V, gt-V","rectangle",402,456,46,17,NA,NA
+"32","ST6GALNAC2, SAITL1, SIAT7, SIAT7B, SIATL1, ST6GalNAII, STHM...","rectangle",535,106,46,17,NA,NA
+"33","ST6GALNAC1, HSY11339, SIAT7A, ST6GalNAcI, STYI","rectangle",205,190,46,17,NA,NA
+"34","ST3GAL1, Gal-NAc6S, SIAT4A, SIATFL, ST3GalA, ST3GalA.1, ST3GalIA, ST3GalIA,1, ST3O...","rectangle",402,117,46,17,NA,NA
+"35","B3GNT6, B3Gn-T6, BGnT-6, beta-1,3-Gn-T6, beta3Gn-T6","rectangle",267,328,46,17,NA,NA
+"36","POC1B-GALNT4, GALNT4, GalNAc-T4...","rectangle",149,328,46,17,"hsa:2591;hsa:79623",0
+"37","C1GALT1C1, AHUS8, C1GALT2, C38H2-L1, COSMC, HSPC067, MST143, TNPS...","rectangle",267,271,46,17,"hsa:29071",0
+"38","GCNT1, C2GNT, C2GNT-L, C2GNT1, C2GlcNAcT, G6NT, NACGT2, NAGCT2...","rectangle",402,271,46,17,NA,NA
+"39","TITLE:Mucin type O-glycan biosynthesis","roundrectangle",190,58,299,25,NA,NA
+"70","B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3","rectangle",402,230,46,17,NA,NA
+"73","ST6GALNAC2, SAITL1, SIAT7, SIAT7B, SIATL1, ST6GalNAII, STHM...","rectangle",402,182,46,17,NA,NA
+"80","ST6GALNAC3, PRO7177, SIAT7C, ST6GALNACIII, STY...","rectangle",535,127,46,17,NA,NA

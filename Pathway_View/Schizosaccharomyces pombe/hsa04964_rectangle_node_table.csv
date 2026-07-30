@@ -1,0 +1,18 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"103","PCK1, PCKDC, PEPCK-C, PEPCK1, PEPCKC...","rectangle",416,784,46,17,"hsa:5105;hsa:5106",0
+"17","TITLE:Proximal tubule bicarbonate reclamation","roundrectangle",237,58,393,25,NA,NA
+"26","Tight junction","roundrectangle",252,117,115,25,NA,NA
+"33","SLC9A3, DIAR8, NHE-3, NHE3","rectangle",155,311,46,17,NA,NA
+"34","SLC4A4, HNBC1, KNBC, NBC1, NBC2, NBCe1, NBCe1-A, SLC4A5, hhNMC, kNBC1, pNBC","rectangle",613,312,46,17,NA,NA
+"35","SLC9A3, DIAR8, NHE-3, NHE3","rectangle",155,606,46,17,NA,NA
+"42","CA4, CAIV, Car4, RP17","rectangle",98,394,46,17,NA,NA
+"48","CA2, CA-II, CAC, CAII, Car2, HEL-76, HEL-S-282","rectangle",394,402,46,17,NA,NA
+"68","GLS2, GA, GLS, LGA, hLGA...","rectangle",346,540,46,17,"hsa:2744",0
+"69","GLUD1, GDH, GDH1, GLUD, hGDH1...","rectangle",346,597,46,17,"hsa:2746",0
+"81","ATP1B4...","rectangle",614,432,46,17,NA,NA
+"86","AQP1, AQP-CHIP, CHIP28, CO","rectangle",155,486,46,17,NA,NA
+"89","SLC38A3, DEE102, G17, NAT1, SN1, SNAT3","rectangle",614,518,46,17,NA,NA
+"92","Glycolysis / Gluconeogenesis","roundrectangle",510,764,92,34,NA,NA
+"93","Citrate cycle (TCA cycle)","roundrectangle",320,662,92,34,NA,NA
+"95","SLC25A10, DIC, MTDPS19","rectangle",375,721,46,17,"hsa:1468",0
+"99","MDH1, DEE88, EIEE88, HEL-S-32, KAR, MDH-s, MDHA, MGC:1375, MOR2","rectangle",345,770,46,17,"hsa:4190",0

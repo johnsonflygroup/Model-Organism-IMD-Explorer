@@ -1,0 +1,81 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"101","ACAT1, ACAT, MAT, T2, THIL...","rectangle",113,1044,46,17,"hsa:38;hsa:39",100
+"102","ECHS1, ECHS1D, SCEH, mECH, mECH1...","rectangle",306,1043,46,17,"hsa:1892;hsa:1962;hsa:3030",0
+"103","GCDH, ACAD5, GCD","rectangle",396,1044,46,17,"hsa:2639",0
+"104","DLD, DLDD, DLDH, E3, GCSL, LAD, OGDC-E3, PHE3...","rectangle",494,1044,46,17,"hsa:1738;hsa:1743;hsa:55526",100
+"105","ALDH8A1, ALDH12, DJ352A20.2","rectangle",674,1011,46,17,NA,NA
+"106","ACMSD","rectangle",674,955,46,17,NA,NA
+"107","HAAO, 3-HAO, HAO, VCRL1, h3HAO","rectangle",674,902,46,17,"hsa:23498",0
+"108","KYNU, KYNUU, VCRL2","rectangle",582,684,46,17,"hsa:8942",0
+"109","KMO, dJ317G22.1","rectangle",504,799,46,17,"hsa:8564",0
+"110","KYNU, KYNUU, VCRL2","rectangle",582,749,46,17,"hsa:8942",0
+"111","AFMID, FKF, KF, KFA","rectangle",674,712,46,17,NA,NA
+"112","KYNU, KYNUU, VCRL2","rectangle",582,848,46,17,"hsa:8942",0
+"113","TDO2, HYPTRP, TDO, TO, TPH2, TRPO","rectangle",480,652,46,17,"hsa:6999",0
+"114","K01667","rectangle",456,455,46,17,NA,NA
+"115","TPH2, ADHD7, NTPH...","rectangle",505,290,46,17,NA,NA
+"117","AADAT, KAT2, KATII, KYAT2...","rectangle",456,849,46,17,NA,NA
+"118","AADAT, KAT2, KATII, KYAT2...","rectangle",456,750,46,17,NA,NA
+"119","K20219...","rectangle",831,849,46,17,NA,NA
+"120","MAOA, BRNRS, MAO-A...","rectangle",456,920,46,17,"hsa:4128",0
+"126","K00466","rectangle",682,635,46,17,NA,NA
+"127","DDC, AADC","rectangle",576,444,46,17,"hsa:1644",0
+"128","MAOA, BRNRS, MAO-A...","rectangle",631,117,46,17,"hsa:4128",0
+"130","K11817...","rectangle",991,502,46,17,NA,NA
+"131","ALDH2, ALDH-E2, ALDHI, ALDM...","rectangle",941,502,46,17,"hsa:219;hsa:224;hsa:501",100
+"133","K23109","rectangle",904,294,46,17,NA,NA
+"134","Phenylalanine, tyrosine and tryptophan biosynthesis","roundrectangle",394,590,79,34,NA,NA
+"135","TITLE:Tryptophan metabolism","roundrectangle",143,61,205,25,NA,NA
+"136","Glycolysis / Gluconeogenesis","roundrectangle",62,973,70,25,NA,NA
+"137","AFMID, FKF, KF, KFA","rectangle",362,227,46,17,NA,NA
+"138","ALDH2, ALDH-E2, ALDHI, ALDM...","rectangle",682,71,46,17,"hsa:219;hsa:224;hsa:501",100
+"139","AOX1, AO, AOH1","rectangle",682,92,46,17,NA,NA
+"145","MAOA, BRNRS, MAO-A...","rectangle",806,413,46,17,"hsa:4128",0
+"146","K01721...","rectangle",875,601,46,17,NA,NA
+"147","K01426","rectangle",920,624,46,17,NA,NA
+"148","K01501","rectangle",920,579,46,17,NA,NA
+"149","K01237","rectangle",812,580,46,17,NA,NA
+"152","AOC1, ABP, ABP1, DAO, DAO1, KAO, KDAO","rectangle",806,392,46,17,NA,NA
+"153","Aminobenzoate degradation","roundrectangle",913,728,150,25,NA,NA
+"154","INMT, TEMT","rectangle",682,198,46,17,NA,NA
+"155","INMT, TEMT","rectangle",591,412,46,17,NA,NA
+"156","K15067","rectangle",726,1044,46,17,NA,NA
+"19","CAT","rectangle",771,804,46,17,"hsa:847",100
+"256","K11818","rectangle",812,517,46,17,NA,NA
+"257","K11819","rectangle",682,517,46,17,NA,NA
+"258","K11868","rectangle",875,535,46,17,NA,NA
+"262","Phenylalanine, tyrosine and tryptophan biosynthesis","roundrectangle",796,679,79,34,NA,NA
+"263","K11812...","rectangle",702,486,46,17,NA,NA
+"266","K11821","rectangle",682,580,46,17,NA,NA
+"267","K11820","rectangle",587,546,46,17,NA,NA
+"272","K03782","rectangle",771,825,46,17,NA,NA
+"273","K11816","rectangle",1124,467,46,17,NA,NA
+"274","K16903","rectangle",549,350,46,17,NA,NA
+"275","K16901...","rectangle",674,799,46,17,NA,NA
+"278","Benzoate degradation","roundrectangle",907,1044,122,25,NA,NA
+"281","K21801","rectangle",920,645,46,17,NA,NA
+"282","DDC, AADC","rectangle",576,465,46,17,"hsa:1644",0
+"284","K00837","rectangle",684,372,46,17,NA,NA
+"287","K23384","rectangle",1124,609,46,17,NA,NA
+"290","K23947","rectangle",1045,653,46,17,NA,NA
+"293","K24541","rectangle",631,290,46,17,NA,NA
+"296","K28345","rectangle",767,270,46,17,NA,NA
+"297","K28781","rectangle",597,350,46,17,NA,NA
+"35","EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, MFE1, PBFE...","rectangle",211,1043,46,17,"hsa:1962;hsa:3033",0
+"77","IDO2, INDOL1...","rectangle",530,652,46,17,NA,NA
+"78","K04103","rectangle",886,329,46,17,NA,NA
+"79","Nicotinate and nicotinamide metabolism","roundrectangle",949,932,146,25,NA,NA
+"80","K14265...","rectangle",505,170,46,17,NA,NA
+"81","IL4I1, FIG1, LAAO, LAO, hIL4I1","rectangle",549,329,46,17,NA,NA
+"82","IDO2, INDOL1...","rectangle",924,195,46,17,NA,NA
+"83","CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX...","rectangle",924,227,46,17,NA,NA
+"84","ASMT, ASMTY, HIOMT, HIOMTY","rectangle",812,227,46,17,NA,NA
+"86","AANAT, DSPS, SNAT","rectangle",682,227,46,17,NA,NA
+"87","IDO2, INDOL1...","rectangle",682,170,46,17,NA,NA
+"88","ASMT, ASMTY, HIOMT, HIOMTY","rectangle",812,82,46,17,NA,NA
+"89","MAOA, BRNRS, MAO-A...","rectangle",263,150,46,17,"hsa:4128",0
+"90","DDC, AADC","rectangle",311,186,46,17,"hsa:1644",0
+"92","DDC, AADC","rectangle",576,227,46,17,"hsa:1644",0
+"93","IDO2, INDOL1...","rectangle",456,227,46,17,NA,NA
+"94","K14265...","rectangle",597,329,46,17,NA,NA
+"98","AFMID, FKF, KF, KFA","rectangle",505,712,46,17,NA,NA

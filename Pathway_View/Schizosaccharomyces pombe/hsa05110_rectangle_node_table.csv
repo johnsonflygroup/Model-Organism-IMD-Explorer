@@ -1,0 +1,44 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"167","K21712","rectangle",151,709,46,17,NA,NA
+"29","K10935","rectangle",199,666,46,17,NA,NA
+"30","K10934","rectangle",151,666,46,17,NA,NA
+"31","K10933","rectangle",199,646,46,17,NA,NA
+"32","K10932","rectangle",151,646,46,17,NA,NA
+"33","K10931","rectangle",199,626,46,17,NA,NA
+"34","K10930","rectangle",151,626,46,17,NA,NA
+"35","K08604","rectangle",151,756,46,17,NA,NA
+"36","K10952","rectangle",151,483,46,17,NA,NA
+"37","K23550","rectangle",151,368,46,17,NA,NA
+"46","Tight junction","roundrectangle",633,680,98,25,NA,NA
+"47","K10954","rectangle",404,574,46,17,NA,NA
+"48","K10953","rectangle",404,527,46,17,NA,NA
+"49","K10928","rectangle",519,287,46,17,NA,NA
+"50","K10928","rectangle",444,287,46,17,NA,NA
+"51","K10929","rectangle",444,324,46,17,NA,NA
+"52","K10948","rectangle",444,152,46,17,NA,NA
+"53","Biofilm formation - Vibrio cholerae","roundrectangle",96,116,119,34,NA,NA
+"56","ARF1, PVNH8","rectangle",598,245,46,17,NA,NA
+"57","Bacterial secretion system","roundrectangle",247,248,149,25,NA,NA
+"58","ATP6V1FP2...","rectangle",524,116,46,17,"hsa:23545;hsa:523;hsa:529;hsa:537",100
+"59","K10948","rectangle",151,152,46,17,NA,NA
+"60","ERO1A, ERO1-L, ERO1-L-alpha, ERO1-alpha, ERO1L, ERO1LA, Ero1alpha","rectangle",542,223,46,17,NA,NA
+"61","K10929","rectangle",151,324,46,17,NA,NA
+"62","CFTR, ABC35, ABCC7, CF, CFTR/MRP, MRP7, TNR-CFTR, dJ760C5.1","rectangle",307,441,46,17,NA,NA
+"63","K10928","rectangle",151,307,46,17,NA,NA
+"64","K10954","rectangle",151,574,46,17,NA,NA
+"65","TJP2, C9DUPq21.11, DFNA51, DUP9q21.11, FHCA1, PFIC4, X104, ZO2","rectangle",659,648,46,17,NA,NA
+"66","TJP1, ZO-1","rectangle",610,648,46,17,NA,NA
+"68","Oxidative phosphorylation","roundrectangle",633,115,153,25,NA,NA
+"69","GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI","rectangle",668,287,46,17,NA,NA
+"70","KCNQ1, ATFB1, ATFB3, JLNS1, KCNA8, KCNA9, KVLQT1, Kv1.9, Kv7.1, LQT, LQT1, RWS, SQT2, WRS","rectangle",746,353,46,17,NA,NA
+"71","PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA","rectangle",525,621,46,17,NA,NA
+"72","SLC12A2, BSC, BSC-2, BSC2, CCC1, KILQS, NKCC1, PPP1R141","rectangle",746,403,46,17,NA,NA
+"73","PLCG1, IDAA, NCKAP3, PLC-II, PLC1, PLC148, PLCgamma1...","rectangle",404,621,46,17,"hsa:5336",0
+"74","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",517,395,46,17,NA,NA
+"75","K10953","rectangle",151,527,46,17,NA,NA
+"76","SEC61B...","rectangle",585,287,46,17,NA,NA
+"77","ACTB, BKRNS, BNS, BRWS1, CSMH, DDS1, PS1TP5BP1, THC8...","rectangle",642,574,46,17,NA,NA
+"78","PDIA4, ERP70, ERP72, ERp-72","rectangle",482,245,46,17,NA,NA
+"79","ADCY3, AC-III, AC3, BMIQ19...","rectangle",746,287,46,17,NA,NA
+"81","KDELR1, ERD2, ERD2.1, HDEL, PM23...","rectangle",382,245,46,17,NA,NA
+"82","TITLE:Vibrio cholerae infection","roundrectangle",158,43,235,25,NA,NA

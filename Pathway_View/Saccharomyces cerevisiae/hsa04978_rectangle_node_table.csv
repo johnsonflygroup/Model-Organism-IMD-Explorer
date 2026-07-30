@@ -1,0 +1,40 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"101","VDR, NR1I1, PPP1R163","rectangle",668,291,46,17,NA,NA,NA,NA
+"102","TRPV6, ABP/ZF, CAT1, CATL, ECAC2, HRPTTN, HSA277909, LP6728, ZFAB","rectangle",497,314,46,17,NA,NA,NA,NA
+"103","TRPV6, ABP/ZF, CAT1, CATL, ECAC2, HRPTTN, HSA277909, LP6728, ZFAB","rectangle",308,329,46,17,NA,NA,NA,NA
+"108","SLC46A1, G21, HCP1, HsPCFT, PCFT, hPCFT","rectangle",313,575,46,17,"hsa:113235",NA,"SLC46A1",0
+"109","CYBRD1, CYB561A2, DCYTB, FRRS3","rectangle",222,624,46,17,NA,NA,NA,NA
+"110","SLC11A2, AHMIO1, DCT1, DMT1, NRAMP2","rectangle",222,648,46,17,"hsa:4891",NA,"SLC11A2",100
+"111","SLC40A1, FPN, FPN1, HFE4, IREG1, MST079, MSTP079, MTP1, SLC11A3","rectangle",821,601,46,17,"hsa:30061",NA,"SLC40A1",0
+"117","FTH1, FHC, FTH, FTHL6, HFE5, NBIA9, PIG15, PLIF...","rectangle",643,653,46,17,"hsa:2495;hsa:2512","1.16.3.1","FTH1; FTL",0
+"124","HMOX1, HMOX1D, HO-1, HSP32, bK286B10...","rectangle",393,592,46,17,"hsa:3162","1.14.14.18","HMOX1",100
+"126","HEPHL1, HJDD, ZP...","rectangle",821,634,46,17,"hsa:341208","1.16.3.1","HEPHL1",0
+"130","TF, HEL-S-71p, PRO1557, PRO2086, TFQTL1","rectangle",940,659,46,17,"hsa:7018",NA,"TF",0
+"132","SLC39A4, AEZ, AWMS2, ZIP4","rectangle",306,690,46,17,"hsa:55630",NA,"SLC39A4",0
+"133","SLC31A1, COPT1, CTR1, NSCT","rectangle",222,759,46,17,NA,NA,NA,NA
+"134","SLC30A1, ZNT1, ZRC1","rectangle",821,689,46,17,NA,NA,NA,NA
+"139","ATP7A, DSMAX, HMNX, MK, MNK, SMAX3...","rectangle",643,733,46,17,"hsa:538;hsa:540","7.2.2.8","ATP7A; ATP7B",100
+"140","107984936...","rectangle",458,724,46,17,NA,NA,NA,NA
+"150","STEAP2, IPCA1, PCANAP1, PUMPCn, STAMP1, STMP...","rectangle",222,783,46,17,NA,NA,NA,NA
+"158","ATOX1, ATX1, HAH1","rectangle",440,774,46,17,NA,NA,NA,NA
+"163","SLC26A6","rectangle",222,392,46,17,NA,NA,NA,NA
+"164","SLC9A3, DIAR8, NHE-3, NHE3","rectangle",308,454,46,17,NA,NA,NA,NA
+"165","ATP1B4...","rectangle",821,516,46,17,NA,NA,NA,NA
+"170","SLC26A3, CLD, DRA","rectangle",222,370,46,17,NA,NA,NA,NA
+"180","SLC5A1, D22S675, NAGT, SGLT-1, SGLT1","rectangle",222,498,46,17,"hsa:6523",NA,"SLC5A1",0
+"181","SLC6A19, B0AT1, HND","rectangle",222,519,46,17,"hsa:340024",NA,"SLC6A19",0
+"188","Carbohydrate digestion and absorption","roundrectangle",538,542,130,34,NA,NA,NA,NA
+"189","Protein digestion and absorption","roundrectangle",675,542,130,34,NA,NA,NA,NA
+"190","Porphyrin metabolism","roundrectangle",498,651,127,25,NA,NA,NA,NA
+"194","TRPM6, CHAK2, HMGX, HOMG, HOMG1, HSH...","rectangle",308,307,46,17,NA,NA,NA,NA
+"200","SLC34A2, NAPI-3B, NAPI-IIb, NPTIIb, NaPi2b, PULAM...","rectangle",222,246,46,17,NA,NA,NA,NA
+"204","SLC26A9","rectangle",308,433,46,17,NA,NA,NA,NA
+"206","CLCN2, CIC-2, CLC2, ECA2, ECA3, EGI11, EGI3, EGMA, EJM6, EJM8, FHA2, FHII, HALD2, LKPAT, clC-2","rectangle",821,484,46,17,"hsa:1181",NA,"CLCN2",0
+"213","S100G, CABP, CABP1, CABP9K, CALB3","rectangle",552,447,46,17,NA,NA,NA,NA
+"50","TITLE:Mineral absorption","roundrectangle",132,58,184,25,NA,NA,NA,NA
+"53","Tight junction","roundrectangle",375,118,115,25,NA,NA,NA,NA
+"86","S100G, CABP, CABP1, CABP9K, CALB3","rectangle",609,426,46,17,NA,NA,NA,NA
+"87","S100G, CABP, CABP1, CABP9K, CALB3","rectangle",499,424,46,17,NA,NA,NA,NA
+"88","S100G, CABP, CABP1, CABP9K, CALB3","rectangle",552,384,46,17,NA,NA,NA,NA
+"94","ATP2B1, MRD66, PMCA1, PMCA1kb...","rectangle",821,454,46,17,NA,NA,NA,NA
+"95","SLC8A2, NCX2...","rectangle",821,401,46,17,NA,NA,NA,NA

@@ -1,0 +1,66 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"10","RNASEH2C, AGS3, AYP1","rectangle",1159,1174,46,17,"hsa:84153",0
+"100","LIG1, IMD96, LIGI, hLig1","rectangle",1158,753,46,17,NA,NA
+"101","FEN1, FEN-1, MF1, RAD2","rectangle",1081,753,46,18,NA,NA
+"102","K04800","rectangle",1081,696,46,17,NA,NA
+"103","DNA2, DNA2L, hDNA2","rectangle",1003,753,46,17,"hsa:1763",100
+"105","RNASEH1, H1RNA, PEOB2, RNH1","rectangle",1003,1174,46,17,"hsa:246243",100
+"106","K03470","rectangle",1158,700,46,17,NA,NA
+"107","K03470","rectangle",1003,389,46,17,NA,NA
+"108","K03471","rectangle",1004,411,46,17,NA,NA
+"11","RFC3, RFC38...","rectangle",1159,1116,46,17,NA,NA
+"12","PCNA, ATLD2","rectangle",1003,1116,46,17,NA,NA
+"13","RPA3, REPA3, RP-A_p14","rectangle",1159,1065,46,17,NA,NA
+"14","MCM5, CDC46, MGORS8, P1-CDC46","rectangle",1068,1048,46,17,NA,NA
+"15","POLD4, POLDS, p12","rectangle",1159,918,46,17,NA,NA
+"16","POLD3, P66, P68, PPP1R128","rectangle",1113,918,46,17,NA,NA
+"17","POLE4, YHHQ1, p12","rectangle",1159,976,46,17,NA,NA
+"18","POLE3, CHARAC17, CHRAC17, CHRAC2, YBL1, p17","rectangle",1113,976,46,17,NA,NA
+"19","SSBP1, Mt-SSB, OPA13, SOSS-B1, SSBP, mtSSB","rectangle",1158,309,46,17,"hsa:6742",0
+"20","K02316","rectangle",1081,309,46,17,NA,NA
+"21","TITLE:DNA replication","roundrectangle",116,58,151,25,NA,NA
+"22","K02337...","rectangle",1095,201,46,17,NA,NA
+"23","K02342...","rectangle",1095,184,46,17,NA,NA
+"24","K02345","rectangle",1095,167,46,17,NA,NA
+"25","K02343","rectangle",1095,218,46,17,NA,NA
+"26","K02341","rectangle",1095,235,46,17,NA,NA
+"27","K02340","rectangle",1095,252,46,17,NA,NA
+"28","K02339","rectangle",1049,252,46,17,NA,NA
+"29","K02344","rectangle",1049,235,46,17,NA,NA
+"30","K02338","rectangle",1003,252,46,17,NA,NA
+"31","RNASEH1, H1RNA, PEOB2, RNH1","rectangle",1003,366,46,17,"hsa:246243",100
+"32","K01972","rectangle",1158,366,46,17,NA,NA
+"33","MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19","rectangle",1022,1031,46,17,NA,NA
+"34","MCM3, HCC5, P1-MCM3, P1.h, RLFB","rectangle",1068,1031,46,17,NA,NA
+"35","MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21","rectangle",1022,1048,46,17,NA,NA
+"36","POLA1, NSX, PDR, POLA, VEODS, p180","rectangle",1021,862,46,17,NA,NA
+"37","POLA2","rectangle",1067,862,46,17,NA,NA
+"38","PRIM1, PDIL, p49","rectangle",1113,862,46,17,NA,NA
+"39","PRIM2, PRIM2A, p58","rectangle",1159,862,46,17,NA,NA
+"4","LIG1, IMD96, LIGI, hLig1","rectangle",1158,1231,46,17,NA,NA
+"40","POLD1, CDC2, CRCS10, MDPL, POLD","rectangle",1021,918,46,17,NA,NA
+"41","POLD2","rectangle",1067,918,46,17,NA,NA
+"42","POLE, CRCS12, FILS, IMAGEI, POLE1","rectangle",1021,976,46,17,NA,NA
+"43","POLE2, DPE2","rectangle",1067,976,46,17,NA,NA
+"44","MCM6, MCG40308, Mis5, P105MCM","rectangle",1022,1065,46,17,NA,NA
+"45","MCM7, CDC47, MCM2, P1.1-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104","rectangle",1068,1065,46,17,NA,NA
+"46","RPA1, HSSB, MST075, PFBMFT6, REPA1, RF-A, RP-A, RPA70","rectangle",1159,1031,46,17,NA,NA
+"47","RPA4, HSU24186...","rectangle",1159,1048,46,17,NA,NA
+"48","RFC1, A1, CANVAS, MHCBFB, PO-GA, RECC1, RFC, RFC140","rectangle",1067,1116,46,17,NA,NA
+"49","K02335","rectangle",1081,366,46,17,NA,NA
+"5","FEN1, FEN-1, MF1, RAD2","rectangle",1081,1231,46,17,NA,NA
+"50","K02314","rectangle",1003,309,46,17,NA,NA
+"6","DNA2, DNA2L, hDNA2","rectangle",1003,1230,46,17,"hsa:1763",100
+"7","RNASEH2A, AGS4, JUNB, RNASEHI, RNHIA, RNHL, THSD8","rectangle",1067,1174,46,17,"hsa:10535",100
+"8","RNASEH2B, AGS2, DLEU8","rectangle",1113,1174,46,17,"hsa:79621",0
+"9","RFC2, RFC40...","rectangle",1113,1116,46,17,NA,NA
+"90","K02319","rectangle",1003,536,46,17,NA,NA
+"91","K02323","rectangle",1081,536,46,17,NA,NA
+"92","K02322","rectangle",1081,553,46,17,NA,NA
+"93","K10726","rectangle",1003,609,46,17,NA,NA
+"94","K18882","rectangle",1081,626,46,17,NA,NA
+"95","K02683","rectangle",1081,609,46,17,NA,NA
+"96","RPA1, HSSB, MST075, PFBMFT6, REPA1, RF-A, RP-A, RPA70","rectangle",1158,609,46,17,NA,NA
+"97","PCNA, ATLD2","rectangle",1003,679,46,17,NA,NA
+"98","K04801","rectangle",1081,679,46,17,NA,NA
+"99","RNASEH1, H1RNA, PEOB2, RNH1","rectangle",1158,679,46,17,"hsa:246243",100

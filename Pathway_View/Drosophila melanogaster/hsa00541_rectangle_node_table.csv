@@ -1,0 +1,132 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"10","K02472","rectangle",304,942,46,17,NA,NA
+"102","K13017","rectangle",552,221,46,17,NA,NA
+"107","K13018","rectangle",664,221,46,17,NA,NA
+"110","K13019","rectangle",775,221,46,17,NA,NA
+"113","K24326","rectangle",887,221,46,17,NA,NA
+"115","K02473","rectangle",224,185,46,17,NA,NA
+"117","K02474","rectangle",311,146,46,17,NA,NA
+"122","K24327","rectangle",444,146,46,17,NA,NA
+"123","K22925...","rectangle",390,185,46,17,NA,NA
+"126","K01791","rectangle",224,879,46,17,NA,NA
+"133","TGDS, CATMANS, SDR2E1, TDPGD","rectangle",276,1541,46,17,"hsa:23483",0
+"134","K00973...","rectangle",158,1542,46,17,NA,NA
+"138","K00067...","rectangle",478,1440,46,17,NA,NA
+"14","K15894...","rectangle",276,373,46,17,NA,NA
+"140","K01790...","rectangle",379,1481,46,17,NA,NA
+"143","K19180","rectangle",478,1470,46,17,NA,NA
+"145","K19652","rectangle",478,1491,46,17,NA,NA
+"148","K20679","rectangle",382,1540,46,17,NA,NA
+"151","K20680","rectangle",493,1541,46,17,NA,NA
+"154","K20681","rectangle",606,1541,46,17,NA,NA
+"159","K24249","rectangle",382,1602,46,17,NA,NA
+"16","K19068","rectangle",534,311,46,17,NA,NA
+"160","K24250","rectangle",493,1602,46,17,NA,NA
+"161","K24251","rectangle",606,1602,46,17,NA,NA
+"163","K02805","rectangle",493,1656,46,17,NA,NA
+"166","K16704","rectangle",606,1656,46,17,NA,NA
+"169","K20429","rectangle",493,1710,46,17,NA,NA
+"173","K21379","rectangle",606,1711,46,17,NA,NA
+"176","K13306","rectangle",382,1768,46,17,NA,NA
+"179","K20678","rectangle",493,1768,46,17,NA,NA
+"18","K24258","rectangle",645,311,46,17,NA,NA
+"182","UGP2, DEE83, EIEE83, SVUGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379","rectangle",158,1203,46,17,"hsa:7360",100
+"190","UGDH, DEE84, EIEE84, GDH, UDP-GlcDH, UDPGDH, UGD","rectangle",304,1214,46,17,"hsa:7358",100
+"196","K00978","rectangle",158,1325,46,17,NA,NA
+"199","K01709","rectangle",276,1325,46,17,NA,NA
+"201","K12452...","rectangle",383,1325,46,17,NA,NA
+"206","K12454","rectangle",608,1283,46,17,NA,NA
+"207","K12453","rectangle",495,1283,46,17,NA,NA
+"210","K15857","rectangle",495,1371,46,17,NA,NA
+"212","K15858","rectangle",608,1372,46,17,NA,NA
+"217","K12455...","rectangle",495,1325,46,17,NA,NA
+"232","GMPPB, LGMDR19, MDDGA14, MDDGB14, MDDGC14...","rectangle",158,1863,46,17,"hsa:29925;hsa:29926",100
+"234","GMDS, GMD, SDR3E1","rectangle",276,1863,46,17,NA,NA
+"238","K15856","rectangle",382,1997,46,17,NA,NA
+"240","GFUS, FX, P35B, SDR4E1, TSTA3","rectangle",382,1900,46,17,"hsa:7264",100
+"243","K21131","rectangle",382,1937,46,17,NA,NA
+"247","K21130","rectangle",493,1936,46,17,NA,NA
+"249","K13010","rectangle",382,1863,46,17,NA,NA
+"25","K15912...","rectangle",276,679,46,17,NA,NA
+"252","K17939","rectangle",493,1863,46,17,NA,NA
+"255","K22252","rectangle",382,2033,46,17,NA,NA
+"259","K19068","rectangle",416,311,46,17,NA,NA
+"261","K24259","rectangle",756,311,46,17,NA,NA
+"265","K24280","rectangle",392,434,46,17,NA,NA
+"269","K00607","rectangle",493,1819,46,17,NA,NA
+"271","K24310","rectangle",534,495,46,17,NA,NA
+"274","K26217","rectangle",406,566,46,17,NA,NA
+"276","K26218","rectangle",444,100,46,17,NA,NA
+"28","K24312","rectangle",534,542,46,17,NA,NA
+"286","K15913","rectangle",509,620,46,17,NA,NA
+"287","K18429","rectangle",673,620,46,17,NA,NA
+"288","K18430","rectangle",839,620,46,17,NA,NA
+"289","K18431","rectangle",983,619,46,17,NA,NA
+"290","K25626","rectangle",406,587,46,17,NA,NA
+"293","K27969","rectangle",526,576,46,17,NA,NA
+"295","K27853","rectangle",444,266,46,17,NA,NA
+"298","GNE, DMRV, GLCNE, IBM2, NM, THC12, Uae1","rectangle",482,854,46,17,"hsa:10020",0
+"3","TITLE:Biosynthesis of various nucleotide sugars","roundrectangle",228,58,375,25,NA,NA
+"300","NANS, HEL-S-100, SAS, SEMDCG, SEMDG","rectangle",658,854,46,17,"hsa:54187",100
+"302","NANP, C20orf147, HDHD4, dJ694B14.3","rectangle",819,852,46,17,NA,NA
+"305","NPL, C112, C1orf13, NAL, NPL1","rectangle",658,885,46,17,"hsa:80896",0
+"31","K24311","rectangle",534,516,46,17,NA,NA
+"312","CMAS, CSS","rectangle",983,853,46,17,NA,NA
+"315","K08080","rectangle",1062,914,46,17,NA,NA
+"316","K08080","rectangle",900,914,46,17,NA,NA
+"317","RIPPLY2-CYB5R4...","rectangle",983,918,46,17,"hsa:1727",100
+"319","CMAS, CSS","rectangle",983,977,46,17,NA,NA
+"326","Amino sugar and nucleotide sugar metabolism","roundrectangle",97,277,161,34,NA,NA
+"330","K07806","rectangle",569,1214,46,17,NA,NA
+"332","K10011","rectangle",699,1214,46,17,NA,NA
+"334","K10012","rectangle",769,1246,46,17,NA,NA
+"336","K10011","rectangle",439,1214,46,17,NA,NA
+"342","K13014","rectangle",769,1327,46,17,NA,NA
+"345","K12451","rectangle",477,1140,46,17,NA,NA
+"347","K12451","rectangle",379,1140,46,17,NA,NA
+"349","K12450","rectangle",276,1140,46,17,NA,NA
+"359","NANS, HEL-S-100, SAS, SEMDCG, SEMDG","rectangle",658,744,46,17,"hsa:54187",100
+"362","K21055","rectangle",819,744,46,17,NA,NA
+"365","CMAS, CSS","rectangle",983,744,46,17,NA,NA
+"371","Amino sugar and nucleotide sugar metabolism","roundrectangle",97,1126,161,34,NA,NA
+"373","Fructose and mannose metabolism","roundrectangle",448,742,133,34,NA,NA
+"374","Amino sugar and nucleotide sugar metabolism","roundrectangle",97,1773,161,34,NA,NA
+"378","Lipopolysaccharide biosynthesis","roundrectangle",770,1457,111,34,NA,NA
+"388","K00979","rectangle",983,786,46,17,NA,NA
+"389","K03270","rectangle",819,786,46,17,NA,NA
+"39","K15895","rectangle",392,373,46,17,NA,NA
+"390","K01627","rectangle",658,787,46,17,NA,NA
+"392","K06041","rectangle",486,785,46,17,NA,NA
+"393","Pentose phosphate pathway","roundrectangle",298,784,110,34,NA,NA
+"395","Lipopolysaccharide biosynthesis","roundrectangle",1171,785,111,34,NA,NA
+"410","K03271","rectangle",486,1061,46,17,NA,NA
+"411","K03273","rectangle",819,1061,46,17,NA,NA
+"412","K03272...","rectangle",658,1061,46,17,NA,NA
+"413","K03272...","rectangle",983,1061,46,17,NA,NA
+"414","K03274","rectangle",1115,1061,46,17,NA,NA
+"415","K07031","rectangle",658,1015,46,17,NA,NA
+"418","K03273","rectangle",819,1014,46,17,NA,NA
+"42","K15896","rectangle",509,373,46,17,NA,NA
+"422","K15669","rectangle",983,1013,46,17,NA,NA
+"424","K03271","rectangle",486,1013,46,17,NA,NA
+"425","Pentose phosphate pathway","roundrectangle",298,1012,110,34,NA,NA
+"427","K12447","rectangle",158,1224,46,17,NA,NA
+"45","K15897","rectangle",728,373,46,17,NA,NA
+"48","K15898","rectangle",839,372,46,17,NA,NA
+"52","K15899","rectangle",983,373,46,17,NA,NA
+"54","NANS, HEL-S-100, SAS, SEMDCG, SEMDG","rectangle",658,821,46,17,"hsa:54187",100
+"60","GNE, DMRV, GLCNE, IBM2, NM, THC12, Uae1","rectangle",318,854,46,17,"hsa:10020",0
+"65","K24303","rectangle",509,679,46,17,NA,NA
+"68","K24304","rectangle",622,679,46,17,NA,NA
+"7","UAP1, AGX, AGX1, AGX2, SPAG2...","rectangle",150,373,46,17,NA,NA
+"70","K24283","rectangle",728,679,46,17,NA,NA
+"73","K24306","rectangle",839,679,46,17,NA,NA
+"77","K24307","rectangle",983,679,46,17,NA,NA
+"79","K15910...","rectangle",392,679,46,17,NA,NA
+"81","K24281","rectangle",509,434,46,17,NA,NA
+"85","K24282","rectangle",622,434,46,17,NA,NA
+"88","K24283","rectangle",728,434,46,17,NA,NA
+"91","K24284","rectangle",839,434,46,17,NA,NA
+"93","K24285","rectangle",983,433,46,17,NA,NA
+"96","K13015...","rectangle",314,221,46,17,NA,NA
+"99","K13016...","rectangle",444,221,46,17,NA,NA

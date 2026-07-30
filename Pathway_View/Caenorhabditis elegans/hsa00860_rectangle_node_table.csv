@@ -1,0 +1,147 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"238","GUSB, BG, MPS7","rectangle",1135,600,46,17,"hsa:2990",100
+"239","UGT2B11...","rectangle",1033,600,46,17,"hsa:54658",100
+"240","K08100","rectangle",991,566,46,17,NA,NA
+"241","BLVRA, BLVR, BVR, BVRA, BVRalpha...","rectangle",913,538,46,17,"hsa:644",0
+"242","K05370","rectangle",1132,516,46,17,NA,NA
+"243","K05369","rectangle",1036,516,46,17,NA,NA
+"244","K04040","rectangle",765,1230,46,17,NA,NA
+"245","K08099","rectangle",722,1211,46,17,NA,NA
+"246","K05371","rectangle",1086,454,46,17,NA,NA
+"247","K08101","rectangle",1086,422,46,17,NA,NA
+"262","HCCS, CCHL, LSDMCA1, MCOPS7, MLS","rectangle",855,494,46,17,"hsa:3052",100
+"263","K19073","rectangle",700,1116,46,17,NA,NA
+"264","K04037...","rectangle",768,918,46,17,NA,NA
+"265","K00218","rectangle",668,918,46,17,NA,NA
+"266","K00218","rectangle",718,918,46,17,NA,NA
+"267","COX10, MC4DN3","rectangle",886,326,46,17,"hsa:1352",100
+"268","FECH, EPP, EPP1, FCE","rectangle",745,357,46,17,"hsa:2235",0
+"27","K13544","rectangle",1050,1168,46,17,NA,NA
+"270","CP, AB073614, CP-2...","rectangle",599,150,46,17,"hsa:1356;hsa:2395;hsa:2495;hsa:2512;hsa:341208",100
+"271","K03428","rectangle",669,518,46,17,NA,NA
+"272","K03403...","rectangle",668,438,46,17,NA,NA
+"273","PPOX, PPO, V290M, VP, VPCO","rectangle",626,337,46,17,"hsa:5498",0
+"274","UROD, PCT, UPD","rectangle",474,355,46,17,"hsa:7389",0
+"275","UROS, Mgu, UROIIIS","rectangle",392,355,46,17,"hsa:7390",0
+"276","K00589...","rectangle",438,409,46,17,NA,NA
+"277","UROD, PCT, UPD","rectangle",474,259,46,17,"hsa:7389",0
+"278","HMBS, ENCEP, LENCEP, PBG-D, PBGD, PORC, UPS","rectangle",302,356,46,17,"hsa:3145",0
+"279","ALAD, ALADH, PBGS","rectangle",219,356,46,17,"hsa:210",0
+"281","K01845","rectangle",135,427,46,17,NA,NA
+"282","ALAS1, ALAS, ALAS-H, ALAS3, ALASH, MIG4...","rectangle",80,458,46,17,"hsa:212",0
+"283","K02492","rectangle",135,533,46,17,NA,NA
+"284","EARS2, COXPD12, MSE1, gluRS, mtGlnRS, mtGluRS...","rectangle",135,604,46,17,"hsa:124454;hsa:2058",100
+"285","K02302...","rectangle",253,454,46,17,NA,NA
+"286","K02302...","rectangle",398,454,46,17,NA,NA
+"287","K02190...","rectangle",337,473,46,17,NA,NA
+"288","K03394...","rectangle",337,519,46,17,NA,NA
+"290","K05936","rectangle",337,653,46,17,NA,NA
+"291","K05895","rectangle",337,796,46,17,NA,NA
+"292","K03399...","rectangle",337,894,46,17,NA,NA
+"293","K02191...","rectangle",337,844,46,17,NA,NA
+"294","K03394...","rectangle",495,519,46,17,NA,NA
+"295","K02229","rectangle",495,564,46,17,NA,NA
+"296","K05934...","rectangle",495,607,46,17,NA,NA
+"297","K05936","rectangle",495,653,46,17,NA,NA
+"298","K02228","rectangle",495,723,46,17,NA,NA
+"299","K05895","rectangle",495,796,46,17,NA,NA
+"300","K06042","rectangle",495,942,46,17,NA,NA
+"301","K02224","rectangle",495,990,46,17,NA,NA
+"302","K02230...","rectangle",495,1041,46,17,NA,NA
+"303","K06042","rectangle",337,942,46,17,NA,NA
+"304","K02224","rectangle",337,990,46,17,NA,NA
+"305","K13786","rectangle",413,1086,46,17,NA,NA
+"306","MMAB, ATR, CFAP23, cblB, cob","rectangle",413,1135,46,17,"hsa:326625",100
+"307","K02232","rectangle",413,1183,46,17,NA,NA
+"308","K08260","rectangle",508,1239,46,17,NA,NA
+"309","MMAB, ATR, CFAP23, cblB, cob","rectangle",532,1266,46,17,"hsa:326625",100
+"310","K02231","rectangle",413,1284,46,17,NA,NA
+"312","MMAB, ATR, CFAP23, cblB, cob","rectangle",325,1432,46,17,"hsa:326625",100
+"313","K02231...","rectangle",412,1344,46,17,NA,NA
+"314","K04720","rectangle",255,1314,46,17,NA,NA
+"315","K02233","rectangle",413,1412,46,17,NA,NA
+"316","K02226...","rectangle",541,1394,46,17,NA,NA
+"317","K00768","rectangle",634,1395,46,17,NA,NA
+"319","COX15, CEMCOX2, HAS, MC4DN6","rectangle",1037,326,46,17,"hsa:1355",100
+"320","K02225...","rectangle",413,1238,46,17,NA,NA
+"321","K02225...","rectangle",368,1313,46,17,NA,NA
+"322","K00595","rectangle",495,871,46,17,NA,NA
+"323","K02189...","rectangle",337,700,46,17,NA,NA
+"324","K02188","rectangle",337,748,46,17,NA,NA
+"330","HMOX1, HMOX1D, HO-1, HSP32, bK286B10...","rectangle",874,443,46,17,"hsa:3162",0
+"338","K13071","rectangle",1091,1116,46,17,NA,NA
+"341","K13545","rectangle",1141,1168,46,17,NA,NA
+"344","K13600","rectangle",905,1139,46,17,NA,NA
+"346","K04040","rectangle",983,1230,46,17,NA,NA
+"348","K08099","rectangle",939,1211,46,17,NA,NA
+"350","K13606","rectangle",906,1270,46,17,NA,NA
+"354","K13606","rectangle",906,1173,46,17,NA,NA
+"356","K11333...","rectangle",784,1085,46,17,NA,NA
+"358","K11336","rectangle",783,1024,46,17,NA,NA
+"363","K11333...","rectangle",872,1024,46,17,NA,NA
+"364","K11336","rectangle",874,1085,46,17,NA,NA
+"366","K11337","rectangle",975,1054,46,17,NA,NA
+"372","Riboflavin metabolism","roundrectangle",674,1449,74,34,NA,NA
+"373","K00230","rectangle",626,356,46,17,NA,NA
+"374","K16651","rectangle",137,1314,46,17,NA,NA
+"376","K13600","rectangle",804,1138,46,17,NA,NA
+"377","K18010","rectangle",804,1270,46,17,NA,NA
+"384","K04040","rectangle",1106,1055,46,17,NA,NA
+"387","K13605","rectangle",1166,938,46,17,NA,NA
+"389","K13604","rectangle",1052,915,46,17,NA,NA
+"390","K13605","rectangle",1165,876,46,17,NA,NA
+"394","K04040","rectangle",1106,1010,46,17,NA,NA
+"399","K10960","rectangle",1220,1055,46,17,NA,NA
+"400","K10960","rectangle",1220,1010,46,17,NA,NA
+"401","K21058","rectangle",818,940,46,17,NA,NA
+"402","K13602","rectangle",887,914,46,17,NA,NA
+"403","K13603","rectangle",955,939,46,17,NA,NA
+"408","K13601","rectangle",888,853,46,17,NA,NA
+"409","K13601","rectangle",888,793,46,17,NA,NA
+"410","K13603","rectangle",955,879,46,17,NA,NA
+"411","K13603","rectangle",955,819,46,17,NA,NA
+"412","K13603","rectangle",955,758,46,17,NA,NA
+"413","K21231","rectangle",701,782,46,17,NA,NA
+"414","PPOX, PPO, V290M, VP, VPCO","rectangle",578,278,46,17,"hsa:5498",0
+"418","FECH, EPP, EPP1, FCE","rectangle",745,278,46,17,"hsa:2235",0
+"420","K00435...","rectangle",781,303,46,17,NA,NA
+"421","K05934...","rectangle",337,607,46,17,NA,NA
+"422","K21480","rectangle",874,464,46,17,NA,NA
+"423","K07145","rectangle",874,401,46,17,NA,NA
+"427","K22011","rectangle",283,503,46,17,NA,NA
+"43","K19073","rectangle",701,763,46,17,NA,NA
+"430","K22012","rectangle",284,591,46,17,NA,NA
+"433","K21610...","rectangle",284,680,46,17,NA,NA
+"436","K21612","rectangle",284,770,46,17,NA,NA
+"438","K21796","rectangle",1086,484,46,17,NA,NA
+"44","K02495","rectangle",551,366,46,17,NA,NA
+"440","K21312","rectangle",1052,850,46,17,NA,NA
+"442","K22013","rectangle",745,1304,46,17,NA,NA
+"443","K22013","rectangle",888,1116,46,17,NA,NA
+"448","K07215...","rectangle",874,356,46,17,NA,NA
+"449","K07215...","rectangle",874,379,46,17,NA,NA
+"450","K22227","rectangle",831,303,46,17,NA,NA
+"453","K22226","rectangle",329,228,46,17,NA,NA
+"454","K22225","rectangle",188,290,46,17,NA,NA
+"458","K23825","rectangle",963,538,46,17,NA,NA
+"460","MMAB, ATR, CFAP23, cblB, cob","rectangle",351,1107,46,17,"hsa:326625",100
+"461","K08973","rectangle",626,375,46,17,NA,NA
+"466","K24867","rectangle",658,194,46,17,NA,NA
+"473","K25499","rectangle",725,1395,46,17,NA,NA
+"476","K25498","rectangle",817,1395,46,17,NA,NA
+"479","K25497","rectangle",909,1395,46,17,NA,NA
+"48","K04036","rectangle",701,801,46,17,NA,NA
+"482","K22465...","rectangle",1001,1395,46,17,NA,NA
+"485","Purine metabolism","roundrectangle",1152,1395,108,25,NA,NA
+"487","K25496","rectangle",353,1380,46,17,NA,NA
+"488","K04032","rectangle",325,1453,46,17,NA,NA
+"49","K04034","rectangle",643,738,46,17,NA,NA
+"50","K04034","rectangle",643,672,46,17,NA,NA
+"51","K04034","rectangle",643,607,46,17,NA,NA
+"52","K04035","rectangle",693,738,46,17,NA,NA
+"53","K04035","rectangle",693,672,46,17,NA,NA
+"54","K04035","rectangle",693,607,46,17,NA,NA
+"73","TITLE:Porphyrin metabolism","roundrectangle",138,58,196,25,NA,NA
+"74","Glycine, serine and threonine metabolism","roundrectangle",81,978,105,34,NA,NA
+"75","CPOX, COX, CPO, CPX, HARPO, HCP","rectangle",551,345,46,17,"hsa:1371",0
+"9","Alanine, aspartate and glutamate metabolism","roundrectangle",137,686,96,34,NA,NA

@@ -1,0 +1,39 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"101","K00647","rectangle",153,229,46,17,NA,NA,NA,NA
+"102","OXSM, CEM1, FASN2D, KASI, KS","rectangle",203,229,46,17,NA,NA,NA,NA
+"103","K19563","rectangle",439,573,46,17,NA,NA,NA,NA
+"106","K01935","rectangle",464,674,46,17,NA,NA,NA,NA
+"108","K25570","rectangle",514,604,46,17,NA,NA,NA,NA
+"109","K19562","rectangle",414,554,46,17,NA,NA,NA,NA
+"2","Tropane, piperidine and pyridine alkaloid biosynthesis","roundrectangle",95,800,136,45,NA,NA,NA,NA
+"27","HLCS, HCS","rectangle",341,778,46,17,"hsa:3141","6.3.4.10; 6.3.4.11; 6.3.4.15; 6.3.4.9","HLCS",100
+"28","HLCS, HCS","rectangle",330,889,46,17,"hsa:3141","6.3.4.10; 6.3.4.11; 6.3.4.15; 6.3.4.9","HLCS",100
+"29","HLCS, HCS","rectangle",378,889,46,17,"hsa:3141","6.3.4.10; 6.3.4.11; 6.3.4.15; 6.3.4.9","HLCS",100
+"3","TITLE:Biotin metabolism","roundrectangle",128,58,176,25,NA,NA,NA,NA
+"30","HLCS, HCS","rectangle",330,868,46,17,"hsa:3141","6.3.4.10; 6.3.4.11; 6.3.4.15; 6.3.4.9","HLCS",100
+"31","HLCS, HCS","rectangle",389,797,46,17,"hsa:3141","6.3.4.10; 6.3.4.11; 6.3.4.15; 6.3.4.9","HLCS",100
+"32","HLCS, HCS","rectangle",341,797,46,17,"hsa:3141","6.3.4.10; 6.3.4.11; 6.3.4.15; 6.3.4.9","HLCS",100
+"33","K01012","rectangle",414,700,46,17,NA,NA,NA,NA
+"34","K01935...","rectangle",414,636,46,17,NA,NA,NA,NA
+"35","K00833","rectangle",389,573,46,17,NA,NA,NA,NA
+"37","K00652","rectangle",583,493,46,17,NA,NA,NA,NA
+"38","K01906","rectangle",583,405,46,17,NA,NA,NA,NA
+"39","HLCS, HCS","rectangle",378,868,46,17,"hsa:3141","6.3.4.10; 6.3.4.11; 6.3.4.15; 6.3.4.9","HLCS",100
+"4","Lysine degradation","roundrectangle",105,761,116,25,NA,NA,NA,NA
+"42","HLCS, HCS","rectangle",389,778,46,17,"hsa:3141","6.3.4.10; 6.3.4.11; 6.3.4.15; 6.3.4.9","HLCS",100
+"45","K02170...","rectangle",352,463,46,17,NA,NA,NA,NA
+"48","K00652","rectangle",415,493,46,17,NA,NA,NA,NA
+"52","K02169","rectangle",118,172,46,17,NA,NA,NA,NA
+"56","K00059","rectangle",179,295,46,17,NA,NA,NA,NA
+"59","K02372","rectangle",179,361,46,17,NA,NA,NA,NA
+"62","K00208","rectangle",179,427,46,17,NA,NA,NA,NA
+"67","K00647","rectangle",268,229,46,17,NA,NA,NA,NA
+"70","K00059","rectangle",294,295,46,17,NA,NA,NA,NA
+"73","K02372","rectangle",294,361,46,17,NA,NA,NA,NA
+"76","K00208","rectangle",294,427,46,17,NA,NA,NA,NA
+"77","OXSM, CEM1, FASN2D, KASI, KS","rectangle",318,229,46,17,NA,NA,NA,NA
+"79","K16593","rectangle",415,405,46,17,NA,NA,NA,NA
+"83","BTD","rectangle",281,780,46,17,"hsa:686","3.5.1.12","BTD",0
+"89","Fatty acid biosynthesis","roundrectangle",119,879,123,25,NA,NA,NA,NA
+"90","Fatty acid biosynthesis","roundrectangle",413,111,123,25,NA,NA,NA,NA
+"98","K08351","rectangle",464,749,46,17,NA,NA,NA,NA

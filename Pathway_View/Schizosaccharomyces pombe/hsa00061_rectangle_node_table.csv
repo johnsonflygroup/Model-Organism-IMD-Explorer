@@ -1,0 +1,258 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","K00208","rectangle",754,590,46,17,NA,NA
+"101","K00668","rectangle",704,619,46,17,NA,NA
+"102","FASN, FAS, OA-519, SDR27X1","rectangle",704,600,46,17,NA,NA
+"103","K00668","rectangle",704,517,46,17,NA,NA
+"104","FASN, FAS, OA-519, SDR27X1","rectangle",704,498,46,17,NA,NA
+"105","K00059","rectangle",754,405,46,17,NA,NA
+"106","K00667","rectangle",704,424,46,17,NA,NA
+"107","FASN, FAS, OA-519, SDR27X1","rectangle",704,405,46,17,NA,NA
+"108","K00647","rectangle",754,320,46,17,NA,NA
+"109","K00667","rectangle",704,329,46,17,NA,NA
+"110","FASN, FAS, OA-519, SDR27X1","rectangle",704,310,46,17,NA,NA
+"111","K00208","rectangle",612,590,46,17,NA,NA
+"112","K00668","rectangle",562,619,46,17,NA,NA
+"113","FASN, FAS, OA-519, SDR27X1","rectangle",562,600,46,17,NA,NA
+"114","K00668","rectangle",562,517,46,17,NA,NA
+"115","FASN, FAS, OA-519, SDR27X1","rectangle",562,498,46,17,NA,NA
+"116","K00059","rectangle",612,405,46,17,NA,NA
+"117","K00667","rectangle",562,424,46,17,NA,NA
+"118","FASN, FAS, OA-519, SDR27X1","rectangle",562,405,46,17,NA,NA
+"119","K00647","rectangle",612,320,46,17,NA,NA
+"120","K00667","rectangle",562,329,46,17,NA,NA
+"121","FASN, FAS, OA-519, SDR27X1","rectangle",562,310,46,17,NA,NA
+"122","K00208","rectangle",470,590,46,17,NA,NA
+"123","K00668","rectangle",420,619,46,17,NA,NA
+"124","FASN, FAS, OA-519, SDR27X1","rectangle",420,600,46,17,NA,NA
+"125","K00668","rectangle",420,517,46,17,NA,NA
+"126","FASN, FAS, OA-519, SDR27X1","rectangle",420,498,46,17,NA,NA
+"127","K00059","rectangle",470,405,46,17,NA,NA
+"128","K00667","rectangle",420,424,46,17,NA,NA
+"129","FASN, FAS, OA-519, SDR27X1","rectangle",420,405,46,17,NA,NA
+"130","K00647","rectangle",470,320,46,17,NA,NA
+"131","K00667","rectangle",420,329,46,17,NA,NA
+"132","FASN, FAS, OA-519, SDR27X1","rectangle",420,310,46,17,NA,NA
+"133","K00208","rectangle",328,590,46,17,NA,NA
+"134","K00668","rectangle",278,619,46,17,NA,NA
+"135","FASN, FAS, OA-519, SDR27X1","rectangle",278,600,46,17,NA,NA
+"136","K00668","rectangle",278,517,46,17,NA,NA
+"137","FASN, FAS, OA-519, SDR27X1","rectangle",278,498,46,17,NA,NA
+"138","K00059","rectangle",328,405,46,17,NA,NA
+"139","K00667","rectangle",278,424,46,17,NA,NA
+"140","FASN, FAS, OA-519, SDR27X1","rectangle",278,405,46,17,NA,NA
+"141","K00647","rectangle",328,320,46,17,NA,NA
+"142","FASN, FAS, OA-519, SDR27X1","rectangle",278,310,46,17,NA,NA
+"143","K00667","rectangle",278,329,46,17,NA,NA
+"144","K00208","rectangle",187,590,46,17,NA,NA
+"145","K00668","rectangle",137,619,46,17,NA,NA
+"146","FASN, FAS, OA-519, SDR27X1","rectangle",137,600,46,17,NA,NA
+"147","K01716","rectangle",187,498,46,17,NA,NA
+"148","K00668","rectangle",137,517,46,17,NA,NA
+"149","FASN, FAS, OA-519, SDR27X1","rectangle",137,498,46,17,NA,NA
+"150","K00059","rectangle",187,405,46,17,NA,NA
+"151","K00667","rectangle",137,424,46,17,NA,NA
+"152","FASN, FAS, OA-519, SDR27X1","rectangle",137,405,46,17,NA,NA
+"153","K00667","rectangle",137,329,46,17,NA,NA
+"154","FASN, FAS, OA-519, SDR27X1","rectangle",137,310,46,17,NA,NA
+"155","MCAT, FASN2C, MCT, MCT1, MT, NET62, OPA15, fabD","rectangle",300,227,46,17,"hsa:27349",100
+"156","K00668","rectangle",250,227,46,17,NA,NA
+"157","FASN, FAS, OA-519, SDR27X1","rectangle",250,208,46,17,NA,NA
+"158","K11533","rectangle",187,190,46,17,NA,NA
+"159","K00668","rectangle",137,197,46,17,NA,NA
+"160","FASN, FAS, OA-519, SDR27X1","rectangle",137,178,46,17,NA,NA
+"161","ACACA, ACAC, ACACAD, ACACalpha, ACC, ACC1, ACCA, ACCalpha, Acac1, hACC1...","rectangle",275,147,46,17,"hsa:31;hsa:32",100
+"162","beta-Alanine metabolism","roundrectangle",482,183,130,25,NA,NA
+"232","K11533","rectangle",137,348,46,17,NA,NA
+"233","K11533","rectangle",278,348,46,17,NA,NA
+"234","K11533","rectangle",420,348,46,17,NA,NA
+"235","K11533","rectangle",562,348,46,17,NA,NA
+"236","K11533","rectangle",704,348,46,17,NA,NA
+"237","K11533","rectangle",845,348,46,17,NA,NA
+"238","K11533","rectangle",987,348,46,17,NA,NA
+"239","K11533","rectangle",137,443,46,17,NA,NA
+"240","K11533","rectangle",278,443,46,17,NA,NA
+"241","K11533","rectangle",420,443,46,17,NA,NA
+"242","K11533","rectangle",562,443,46,17,NA,NA
+"243","K11533","rectangle",845,443,46,17,NA,NA
+"244","K11533","rectangle",987,443,46,17,NA,NA
+"245","K11533","rectangle",704,443,46,17,NA,NA
+"246","K11533","rectangle",137,536,46,17,NA,NA
+"247","K11533","rectangle",278,536,46,17,NA,NA
+"248","K11533","rectangle",420,536,46,17,NA,NA
+"249","K11533","rectangle",562,536,46,17,NA,NA
+"250","K11533","rectangle",704,536,46,17,NA,NA
+"251","K11533","rectangle",845,536,46,17,NA,NA
+"252","K11533","rectangle",987,536,46,17,NA,NA
+"253","K11533","rectangle",137,638,46,17,NA,NA
+"254","K11533","rectangle",278,638,46,17,NA,NA
+"255","K11533","rectangle",420,638,46,17,NA,NA
+"256","K11533","rectangle",562,638,46,17,NA,NA
+"257","K11533","rectangle",704,638,46,17,NA,NA
+"258","K11533","rectangle",845,638,46,17,NA,NA
+"259","K11533","rectangle",987,638,46,17,NA,NA
+"26","K02371","rectangle",1037,609,46,17,NA,NA
+"260","K11533","rectangle",1214,329,46,17,NA,NA
+"261","K11533","rectangle",1214,424,46,17,NA,NA
+"262","K11533","rectangle",1214,517,46,17,NA,NA
+"263","K11533","rectangle",1214,619,46,17,NA,NA
+"264","K00668","rectangle",928,787,46,17,NA,NA
+"265","K11533","rectangle",978,787,46,17,NA,NA
+"266","K00647","rectangle",1264,320,46,17,NA,NA
+"267","K02371","rectangle",1264,629,46,17,NA,NA
+"268","K00647","rectangle",187,320,46,17,NA,NA
+"269","OXSM, CEM1, FASN2D, KASI, KS","rectangle",187,339,46,17,NA,NA
+"27","K02371","rectangle",895,609,46,17,NA,NA
+"271","K11533","rectangle",250,246,46,17,NA,NA
+"273","K00648","rectangle",34,329,46,17,NA,NA
+"274","K00209","rectangle",187,647,46,17,NA,NA
+"275","K00209","rectangle",328,647,46,17,NA,NA
+"276","K00209","rectangle",470,647,46,17,NA,NA
+"277","K02372...","rectangle",187,517,46,17,NA,NA
+"278","K01716","rectangle",328,498,46,17,NA,NA
+"279","K02372...","rectangle",328,517,46,17,NA,NA
+"28","K02371","rectangle",754,609,46,17,NA,NA
+"280","K00209","rectangle",612,647,46,17,NA,NA
+"281","K01716","rectangle",470,498,46,17,NA,NA
+"282","K02372...","rectangle",470,517,46,17,NA,NA
+"283","K01716","rectangle",612,498,46,17,NA,NA
+"284","K02372...","rectangle",612,517,46,17,NA,NA
+"285","K01716","rectangle",754,498,46,17,NA,NA
+"286","K02372...","rectangle",754,517,46,17,NA,NA
+"287","K00209","rectangle",754,647,46,17,NA,NA
+"288","K01716","rectangle",895,498,46,17,NA,NA
+"289","K02372...","rectangle",895,517,46,17,NA,NA
+"29","K02371","rectangle",612,609,46,17,NA,NA
+"290","K00209","rectangle",895,647,46,17,NA,NA
+"291","K01716","rectangle",1037,498,46,17,NA,NA
+"292","K02372...","rectangle",1037,517,46,17,NA,NA
+"293","K00209","rectangle",1037,647,46,17,NA,NA
+"294","Lipoic acid metabolism","roundrectangle",396,847,130,25,NA,NA
+"30","K02371","rectangle",470,609,46,17,NA,NA
+"300","K01716...","rectangle",536,723,46,17,NA,NA
+"302","Glycerophospholipid metabolism","roundrectangle",1228,901,174,25,NA,NA
+"303","Glycerolipid metabolism","roundrectangle",1245,871,139,25,NA,NA
+"305","Fatty acid elongation","roundrectangle",1255,931,119,25,NA,NA
+"308","K03921...","rectangle",1093,695,46,17,NA,NA
+"309","ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2...","rectangle",1012,829,46,17,"hsa:2182",100
+"31","K02371","rectangle",328,609,46,17,NA,NA
+"310","K18473","rectangle",84,329,46,17,NA,NA
+"317","ACSF3","rectangle",342,147,46,17,"hsa:197322",0
+"318","MECR, CGI-63, DYTOABG, ETR1, FASN2B, NRBF1, OPA16","rectangle",187,666,46,17,"hsa:51102",100
+"32","K10780","rectangle",187,628,46,17,NA,NA
+"324","MECR, CGI-63, DYTOABG, ETR1, FASN2B, NRBF1, OPA16","rectangle",328,666,46,17,"hsa:51102",100
+"325","MECR, CGI-63, DYTOABG, ETR1, FASN2B, NRBF1, OPA16","rectangle",470,666,46,17,"hsa:51102",100
+"326","MECR, CGI-63, DYTOABG, ETR1, FASN2B, NRBF1, OPA16","rectangle",612,666,46,17,"hsa:51102",100
+"327","MECR, CGI-63, DYTOABG, ETR1, FASN2B, NRBF1, OPA16","rectangle",754,666,46,17,"hsa:51102",100
+"328","MECR, CGI-63, DYTOABG, ETR1, FASN2B, NRBF1, OPA16","rectangle",895,666,46,17,"hsa:51102",100
+"329","MECR, CGI-63, DYTOABG, ETR1, FASN2B, NRBF1, OPA16","rectangle",1037,666,46,17,"hsa:51102",100
+"330","CBR4, SDR45C1","rectangle",187,425,46,17,NA,NA
+"331","HSD17B8, D6S2245E, FABG, FABGL, H2-KE6, HKE6, KE6, RING2, SDR30C1, dJ1033B10.9","rectangle",187,442,46,17,NA,NA
+"332","CBR4, SDR45C1","rectangle",328,425,46,17,NA,NA
+"333","HSD17B8, D6S2245E, FABG, FABGL, H2-KE6, HKE6, KE6, RING2, SDR30C1, dJ1033B10.9","rectangle",328,442,46,17,NA,NA
+"334","CBR4, SDR45C1","rectangle",470,425,46,17,NA,NA
+"335","HSD17B8, D6S2245E, FABG, FABGL, H2-KE6, HKE6, KE6, RING2, SDR30C1, dJ1033B10.9","rectangle",470,442,46,17,NA,NA
+"336","CBR4, SDR45C1","rectangle",612,425,46,17,NA,NA
+"337","HSD17B8, D6S2245E, FABG, FABGL, H2-KE6, HKE6, KE6, RING2, SDR30C1, dJ1033B10.9","rectangle",612,442,46,17,NA,NA
+"338","CBR4, SDR45C1","rectangle",754,425,46,17,NA,NA
+"339","HSD17B8, D6S2245E, FABG, FABGL, H2-KE6, HKE6, KE6, RING2, SDR30C1, dJ1033B10.9","rectangle",754,442,46,17,NA,NA
+"340","CBR4, SDR45C1","rectangle",895,425,46,17,NA,NA
+"341","HSD17B8, D6S2245E, FABG, FABGL, H2-KE6, HKE6, KE6, RING2, SDR30C1, dJ1033B10.9","rectangle",895,442,46,17,NA,NA
+"342","CBR4, SDR45C1","rectangle",1037,425,46,17,NA,NA
+"343","HSD17B8, D6S2245E, FABG, FABGL, H2-KE6, HKE6, KE6, RING2, SDR30C1, dJ1033B10.9","rectangle",1037,442,46,17,NA,NA
+"344","HTD2","rectangle",187,536,46,17,NA,NA
+"345","HTD2","rectangle",328,536,46,17,NA,NA
+"346","HTD2","rectangle",470,536,46,17,NA,NA
+"347","HTD2","rectangle",612,536,46,17,NA,NA
+"348","HTD2","rectangle",754,536,46,17,NA,NA
+"349","HTD2","rectangle",895,536,46,17,NA,NA
+"350","HTD2","rectangle",1037,536,46,17,NA,NA
+"360","CBR4, SDR45C1","rectangle",981,1260,46,17,NA,NA
+"361","HSD17B8, D6S2245E, FABG, FABGL, H2-KE6, HKE6, KE6, RING2, SDR30C1, dJ1033B10.9","rectangle",981,1277,46,17,NA,NA
+"363","K00059","rectangle",931,1269,46,17,NA,NA
+"377","MECR, CGI-63, DYTOABG, ETR1, FASN2B, NRBF1, OPA16","rectangle",957,1415,46,17,"hsa:51102",100
+"378","HTD2","rectangle",957,1342,46,17,NA,NA
+"380","ACSF3","rectangle",1018,1086,46,17,"hsa:197322",0
+"383","K10780","rectangle",651,1415,46,17,NA,NA
+"384","K00208...","rectangle",701,1406,46,17,NA,NA
+"398","K00647","rectangle",651,1193,46,17,NA,NA
+"399","OXSM, CEM1, FASN2D, KASI, KS","rectangle",701,1193,46,17,NA,NA
+"403","ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2...","rectangle",308,1540,46,17,"hsa:2182",100
+"405","FASN, FAS, OA-519, SDR27X1","rectangle",307,1244,46,17,NA,NA
+"411","ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2...","rectangle",677,1540,46,17,"hsa:2182",100
+"412","K10781...","rectangle",701,1479,46,17,NA,NA
+"414","K00668...","rectangle",405,1244,46,17,NA,NA
+"415","K11533","rectangle",455,1244,46,17,NA,NA
+"417","K00648...","rectangle",574,1175,46,17,NA,NA
+"418","MCAT, FASN2C, MCT, MCT1, MT, NET62, OPA15, fabD","rectangle",677,1124,46,17,"hsa:27349",100
+"419","K00059","rectangle",677,1269,46,17,NA,NA
+"420","K01716...","rectangle",677,1342,46,17,NA,NA
+"421","MCAT, FASN2C, MCT, MCT1, MT, NET62, OPA15, fabD","rectangle",957,1124,46,17,"hsa:27349",100
+"422","OXSM, CEM1, FASN2D, KASI, KS","rectangle",957,1193,46,17,NA,NA
+"426","OXSM, CEM1, FASN2D, KASI, KS","rectangle",855,1193,46,17,NA,NA
+"428","ACACA, ACAC, ACACAD, ACACalpha, ACC, ACC1, ACCA, ACCalpha, Acac1, hACC1","rectangle",370,1054,46,17,"hsa:31",100
+"429","ACACA, ACAC, ACACAD, ACACalpha, ACC, ACC1, ACCA, ACCalpha, Acac1, hACC1","rectangle",677,1054,46,17,"hsa:31",100
+"430","ACACA, ACAC, ACACAD, ACACalpha, ACC, ACC1, ACCA, ACCalpha, Acac1, hACC1","rectangle",957,1054,46,17,"hsa:31",100
+"431","K00208","rectangle",701,1425,46,17,NA,NA
+"432","K10781","rectangle",651,1479,46,17,NA,NA
+"434","Mycolic acid biosynthesis","roundrectangle",307,1623,141,25,NA,NA
+"435",NA,"rectangle",187,433,46,34,NA,NA
+"436",NA,"rectangle",328,433,46,34,NA,NA
+"437",NA,"rectangle",470,433,46,34,NA,NA
+"438",NA,"rectangle",612,433,46,34,NA,NA
+"439",NA,"rectangle",754,433,46,34,NA,NA
+"440",NA,"rectangle",895,433,46,34,NA,NA
+"441",NA,"rectangle",1037,433,46,34,NA,NA
+"46","FASN, FAS, OA-519, SDR27X1","rectangle",845,740,46,17,NA,NA
+"47","OLAH, AURA1, SAST, TE2, THEDC1","rectangle",729,740,46,17,NA,NA
+"48","K10782","rectangle",1139,740,46,17,NA,NA
+"49","OLAH, AURA1, SAST, TE2, THEDC1","rectangle",588,740,46,17,NA,NA
+"50","OLAH, AURA1, SAST, TE2, THEDC1","rectangle",445,740,46,17,NA,NA
+"51","K03921...","rectangle",1292,695,46,17,NA,NA
+"52","K00208","rectangle",1264,610,46,17,NA,NA
+"53","K10780","rectangle",1037,628,46,17,NA,NA
+"54","K10780","rectangle",895,628,46,17,NA,NA
+"55","K10780","rectangle",754,628,46,17,NA,NA
+"56","K10780","rectangle",612,628,46,17,NA,NA
+"57","K10780","rectangle",470,628,46,17,NA,NA
+"58","K10780","rectangle",328,628,46,17,NA,NA
+"59","K02371","rectangle",187,609,46,17,NA,NA
+"60","K02372","rectangle",1264,517,46,17,NA,NA
+"61","OXSM, CEM1, FASN2D, KASI, KS","rectangle",1264,339,46,17,NA,NA
+"62","K00059","rectangle",1264,424,46,17,NA,NA
+"63","K10782","rectangle",1239,740,46,17,NA,NA
+"64","K10782","rectangle",1354,740,46,17,NA,NA
+"65","K10781","rectangle",895,740,46,17,NA,NA
+"66","OXSM, CEM1, FASN2D, KASI, KS","rectangle",1037,339,46,17,NA,NA
+"67","OXSM, CEM1, FASN2D, KASI, KS","rectangle",895,339,46,17,NA,NA
+"68","OXSM, CEM1, FASN2D, KASI, KS","rectangle",754,339,46,17,NA,NA
+"69","OXSM, CEM1, FASN2D, KASI, KS","rectangle",612,339,46,17,NA,NA
+"70","OXSM, CEM1, FASN2D, KASI, KS","rectangle",470,339,46,17,NA,NA
+"71","OXSM, CEM1, FASN2D, KASI, KS","rectangle",328,339,46,17,NA,NA
+"72","Fatty acid degradation","roundrectangle",838,877,127,25,NA,NA
+"73","TITLE:Fatty acid biosynthesis","roundrectangle",135,58,210,25,NA,NA
+"74","Pyruvate metabolism","roundrectangle",476,152,118,25,NA,NA
+"75","Citrate cycle (TCA cycle)","roundrectangle",224,96,75,25,NA,NA
+"76","K10781","rectangle",1037,740,46,17,NA,NA
+"77","FASN, FAS, OA-519, SDR27X1","rectangle",987,740,46,17,NA,NA
+"78","K00208","rectangle",1037,590,46,17,NA,NA
+"79","K00668","rectangle",987,619,46,17,NA,NA
+"80","FASN, FAS, OA-519, SDR27X1","rectangle",987,600,46,17,NA,NA
+"81","K00668","rectangle",987,517,46,17,NA,NA
+"82","FASN, FAS, OA-519, SDR27X1","rectangle",987,498,46,17,NA,NA
+"83","K00059","rectangle",1037,405,46,17,NA,NA
+"84","K00667","rectangle",987,424,46,17,NA,NA
+"85","FASN, FAS, OA-519, SDR27X1","rectangle",987,405,46,17,NA,NA
+"86","K00647","rectangle",1037,320,46,17,NA,NA
+"87","K00667","rectangle",987,329,46,17,NA,NA
+"88","FASN, FAS, OA-519, SDR27X1","rectangle",987,310,46,17,NA,NA
+"89","K00208","rectangle",895,590,46,17,NA,NA
+"90","K00668","rectangle",845,619,46,17,NA,NA
+"91","FASN, FAS, OA-519, SDR27X1","rectangle",845,600,46,17,NA,NA
+"92","K00668","rectangle",845,517,46,17,NA,NA
+"93","FASN, FAS, OA-519, SDR27X1","rectangle",845,498,46,17,NA,NA
+"94","K00059","rectangle",895,405,46,17,NA,NA
+"95","K00667","rectangle",845,424,46,17,NA,NA
+"96","FASN, FAS, OA-519, SDR27X1","rectangle",845,405,46,17,NA,NA
+"97","K00647","rectangle",895,320,46,17,NA,NA
+"98","K00667","rectangle",845,329,46,17,NA,NA
+"99","FASN, FAS, OA-519, SDR27X1","rectangle",845,310,46,17,NA,NA

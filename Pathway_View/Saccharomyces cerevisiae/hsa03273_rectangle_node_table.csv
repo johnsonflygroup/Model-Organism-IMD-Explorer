@@ -1,0 +1,19 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"102","MYH9, BDPLT6, DFNA17, EPSTS, FTNS, MATINS, MHA, NMHC-II-A, NMMHC-IIA, NMMHCA...","rectangle",576,717,46,17,NA,NA,NA,NA
+"24","TITLE:Virion - Lassa virus and SFTS virus","roundrectangle",195,58,310,25,NA,NA,NA,NA
+"65","K25303","rectangle",473,166,46,17,NA,NA,NA,NA
+"66","K25301","rectangle",474,263,46,17,NA,NA,NA,NA
+"67","K25302","rectangle",473,204,46,17,NA,NA,NA,NA
+"68","K24320...","rectangle",474,305,46,17,NA,NA,NA,NA
+"69","K25125...","rectangle",488,335,46,17,NA,NA,NA,NA
+"70","K25319","rectangle",489,361,46,17,NA,NA,NA,NA
+"71","LAMP1, CD107a, LAMPA, LGP120...","rectangle",612,330,46,17,"hsa:3920",NA,"LAMP2",0
+"72","DAG1, 156DAG, A3a, AGRNR, DAG, LGMDR16, MDDGA9, MDDGC7, MDDGC9","rectangle",612,355,46,17,NA,NA,NA,NA
+"73","NRP2, NP2, NPN2, PRO2714, VEGF165R2","rectangle",612,381,46,17,NA,NA,NA,NA
+"74","TFRC, CD71, IMD46, T9, TFR, TFR1, TR, TRFR, p90","rectangle",613,426,46,17,"hsa:7037",NA,"TFRC",100
+"79","K26694...","rectangle",472,540,46,17,NA,NA,NA,NA
+"80","K26695...","rectangle",473,645,46,17,NA,NA,NA,NA
+"81","K27943...","rectangle",473,610,46,17,NA,NA,NA,NA
+"82","K24859...","rectangle",473,716,46,17,NA,NA,NA,NA
+"84","PCDH11X, PCDH-X, PCDH-Y, PCDH11, PCDH11Y, PCDH22, PCDHX, PPP1R119...","rectangle",576,776,46,17,NA,NA,NA,NA
+"95","CLEC4M, CD209L, CD299, DC-SIGN2, DC-SIGNR, DCSIGNR, HP10347, L-SIGN, LSIGN...","rectangle",576,746,46,17,NA,NA,NA,NA

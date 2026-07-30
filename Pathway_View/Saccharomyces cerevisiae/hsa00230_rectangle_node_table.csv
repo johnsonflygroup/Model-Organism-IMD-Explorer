@@ -1,0 +1,176 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"141","RRM2B, MTDPS8A, MTDPS8B, P53R2, RCDFRD...","rectangle",466,491,46,17,"hsa:50484;hsa:6240","1.17.4.1","RRM1; RRM2B",100
+"144","XDH, XAN1, XO, XOR","rectangle",848,750,46,17,"hsa:7498","1.17.1.4; 1.17.3.2","XDH",0
+"145","K14977","rectangle",1180,859,46,17,NA,NA,NA,NA
+"146","K02083","rectangle",1002,859,46,17,NA,NA,NA,NA
+"153","K02381...","rectangle",1351,903,46,17,NA,NA,NA,NA
+"154","TITLE:Purine metabolism","roundrectangle",125,58,169,25,NA,NA,NA,NA
+"155","Alanine, aspartate and glutamate metabolism","roundrectangle",370,119,130,34,NA,NA,NA,NA
+"156","Pentose phosphate pathway","roundrectangle",220,115,152,25,NA,NA,NA,NA
+"157","Glyoxylate and dicarboxylate metabolism","roundrectangle",1310,982,79,34,NA,NA,NA,NA
+"158","Thiamine metabolism","roundrectangle",697,139,122,25,NA,NA,NA,NA
+"159","Histidine metabolism","roundrectangle",983,115,126,26,NA,NA,NA,NA
+"160","Glycine, serine and threonine metabolism","roundrectangle",1502,799,124,34,NA,NA,NA,NA
+"161","PRPS1L1, PRPS1, PRPS3, PRPSL, PRS-III...","rectangle",193,188,46,17,"hsa:5631","2.7.6.1","PRPS1",100
+"162","PPAT, ATASE, GPAT, PRAT","rectangle",297,188,46,17,NA,NA,NA,NA
+"164","GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS","rectangle",383,188,46,17,NA,NA,NA,NA
+"165","GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS","rectangle",471,177,46,17,NA,NA,NA,NA
+"166","GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS","rectangle",650,188,46,17,NA,NA,NA,NA
+"167","ATIC, AICAR, AICARFT, HEL-S-70p, IMPCHASE, PURH","rectangle",957,213,46,17,"hsa:471","2.1.2.3; 3.5.4.10","ATIC",100
+"168","ADSL, AMPS, ASASE, ASL","rectangle",934,188,46,17,"hsa:158","4.3.2.2","ADSL",100
+"169","PAICS, ADE2, ADE2H1, AIRC, PAICSD, PAIS","rectangle",839,188,46,17,"hsa:10606","4.1.1.21; 6.3.2.6","PAICS",100
+"170","PAICS, ADE2, ADE2H1, AIRC, PAICSD, PAIS","rectangle",745,188,46,17,"hsa:10606","4.1.1.21; 6.3.2.6","PAICS",100
+"171","ATIC, AICAR, AICARFT, HEL-S-70p, IMPCHASE, PURH","rectangle",982,283,46,17,"hsa:471","2.1.2.3; 3.5.4.10","ATIC",100
+"172","PDE10A, ADSD2, HSPDE10A, IOLOD, LINC00473, PDE10A19...","rectangle",1353,326,46,17,NA,NA,NA,NA
+"173","ADCY1, AC1, DFNB44...","rectangle",1620,462,46,17,NA,NA,NA,NA
+"174","K00527...","rectangle",1517,508,46,17,NA,NA,NA,NA
+"175","ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492...","rectangle",1444,422,46,17,"hsa:953","3.6.1.5","ENTPD1",0
+"176","ENTPD2, CD39L1, NTPDase-2","rectangle",1470,401,46,17,NA,NA,NA,NA
+"177","NME6, IPIA-ALPHA, NDK 6, NM23-H6...","rectangle",1470,462,46,17,"hsa:4832","2.7.4.6","NME3",100
+"178","NME6, IPIA-ALPHA, NDK 6, NM23-H6...","rectangle",1470,540,46,17,"hsa:4832","2.7.4.6","NME3",100
+"179","RRM2B, MTDPS8A, MTDPS8B, P53R2, RCDFRD...","rectangle",1381,508,46,17,"hsa:50484;hsa:6240","1.17.4.1","RRM1; RRM2B",100
+"180","ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492...","rectangle",1297,427,46,17,"hsa:953","3.6.1.5","ENTPD1",0
+"181","AK6, AD-004, CGI-137, CINAP, CIP, hCINAP...","rectangle",1331,452,46,17,"hsa:122481;hsa:203;hsa:204","2.7.4.3","AK1; AK2; AK7",100
+"182","ADSL, AMPS, ASASE, ASL","rectangle",1140,342,46,17,"hsa:158","4.3.2.2","ADSL",100
+"183","ADSS1, ADSSL1, MPD5...","rectangle",1033,342,46,17,"hsa:122622","6.3.4.4","ADSS1",100
+"184","AMPD1, MAD, MADA, MMDD...","rectangle",1091,460,46,17,"hsa:270;hsa:271;hsa:272","3.5.4.6","AMPD1; AMPD2; AMPD3",100
+"185","NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B...","rectangle",1192,510,46,17,"hsa:4907","3.1.3.5","NT5E",0
+"186","ADK, AK","rectangle",1121,510,46,17,"hsa:132","2.7.1.20","ADK",100
+"187","APRT, AMP, APRTD","rectangle",1300,552,46,17,"hsa:353","2.4.2.7","APRT",100
+"189","NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B...","rectangle",1470,613,46,17,"hsa:4907","3.1.3.5","NT5E",0
+"190","ADA, ADA1...","rectangle",1566,718,46,17,"hsa:100;hsa:51816","3.5.4.4","ADA; ADA2",100
+"191","PNP, NP, PRO1837, PUNP","rectangle",1395,757,46,17,"hsa:4860","2.4.2.1","PNP",100
+"192","K01241...","rectangle",1221,638,46,17,NA,NA,NA,NA
+"193","PNP, NP, PRO1837, PUNP","rectangle",824,638,46,17,"hsa:4860","2.4.2.1","PNP",100
+"194","K00892...","rectangle",1061,510,46,17,NA,NA,NA,NA
+"195","NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B...","rectangle",1010,510,46,17,"hsa:4907","3.1.3.5","NT5E",0
+"196","ADA, ADA1...","rectangle",1091,563,46,17,"hsa:100;hsa:144811;hsa:51816","2.4.2.1; 2.4.2.28; 3.5.4.4; 3.5.4.4","ADA; ADA2; LACC1",100
+"197","K25589","rectangle",1023,609,46,17,NA,NA,NA,NA
+"198","K01239","rectangle",1103,638,46,17,NA,NA,NA,NA
+"199","K01486...","rectangle",1091,692,46,17,NA,NA,NA,NA
+"200","ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492...","rectangle",894,369,46,17,"hsa:953","3.6.1.5","ENTPD1",0
+"201","NME6, IPIA-ALPHA, NDK 6, NM23-H6...","rectangle",805,328,46,17,"hsa:4832","2.7.4.6","NME3",100
+"202","ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492...","rectangle",805,352,46,17,"hsa:953","3.6.1.5","ENTPD1",0
+"203","GMPR, GMPR 1, GMPR1...","rectangle",806,397,46,17,NA,NA,NA,NA
+"204","IMPDH1, IMPD, IMPD1, IMPDH-I, LCA11, RP10, sWSS2608...","rectangle",903,453,46,17,"hsa:3614;hsa:3615","1.1.1.205","IMPDH1; IMPDH2",100
+"205","GMPS, GATD7","rectangle",733,453,46,17,NA,NA,NA,NA
+"206","ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492...","rectangle",539,405,46,17,"hsa:953","3.6.1.5","ENTPD1",0
+"207","CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY...","rectangle",539,426,46,17,"hsa:124583","3.6.1.6","CANT1",0
+"208","HPRT1, HGPRT, HPRT","rectangle",932,552,46,17,"hsa:3251","2.4.2.8","HPRT1",0
+"210","LACC1, C13orf31, FAMIN, JUVAR...","rectangle",1192,606,46,17,"hsa:144811;hsa:4860","2.4.2.1; 2.4.2.1; 2.4.2.28; 3.5.4.4","LACC1; PNP",100
+"211","XDH, XAN1, XO, XOR","rectangle",904,680,46,17,"hsa:7498","1.17.1.4; 1.17.3.2","XDH",0
+"212","NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B...","rectangle",624,529,46,17,"hsa:4907","3.1.3.5","NT5E",0
+"213","LACC1, C13orf31, FAMIN, JUVAR...","rectangle",986,638,46,17,"hsa:144811;hsa:4860","2.4.2.1; 2.4.2.1; 2.4.2.28; 3.5.4.4","LACC1; PNP",100
+"214","K01239","rectangle",1073,609,46,17,NA,NA,NA,NA
+"215","HPRT1, HGPRT, HPRT","rectangle",851,613,46,17,"hsa:3251","2.4.2.8","HPRT1",0
+"216","K00892...","rectangle",594,485,46,17,NA,NA,NA,NA
+"217","NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B...","rectangle",824,510,46,17,"hsa:4907","3.1.3.5","NT5E",0
+"218","HPRT1, HGPRT, HPRT","rectangle",541,630,46,17,"hsa:3251","2.4.2.8","HPRT1",0
+"219","GUK1, GMK, MTDPS21","rectangle",539,449,46,17,"hsa:2987","2.7.4.8","GUK1",100
+"220","PNP, NP, PRO1837, PUNP","rectangle",539,692,46,17,"hsa:4860","2.4.2.1","PNP",100
+"221","GDA, CYPIN, GAH, GUANASE, NEDASIN","rectangle",734,690,46,17,NA,NA,NA,NA
+"222","K01483","rectangle",1180,933,46,17,NA,NA,NA,NA
+"223","ALLC, ALC","rectangle",1063,905,46,17,NA,NA,NA,NA
+"224","K01466...","rectangle",954,904,46,17,NA,NA,NA,NA
+"225","K00365...","rectangle",848,814,46,17,NA,NA,NA,NA
+"227","K01427...","rectangle",1101,984,46,17,NA,NA,NA,NA
+"228","K16841","rectangle",904,942,46,17,NA,NA,NA,NA
+"229","K00988...","rectangle",1465,211,46,17,NA,NA,NA,NA
+"230","K18151","rectangle",1223,954,46,17,NA,NA,NA,NA
+"231","K07127...","rectangle",823,870,46,17,NA,NA,NA,NA
+"232","HDDC3, (ppGpp)ase, MESH1, MYNRL15","rectangle",406,334,46,17,NA,NA,NA,NA
+"233","PRUNE1, DRES-17, DRES17, H-PRUNE, HTCD37, NMIHBA, PRUNE","rectangle",267,323,46,17,"hsa:58497","3.6.1.11","PRUNE1",100
+"234","K01524","rectangle",267,344,46,17,NA,NA,NA,NA
+"235","ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492...","rectangle",404,416,46,17,"hsa:953","3.6.1.5","ENTPD1",0
+"236","NME6, IPIA-ALPHA, NDK 6, NM23-H6...","rectangle",404,449,46,17,"hsa:4832","2.7.4.6","NME3",100
+"237","GUK1, GMK, MTDPS21","rectangle",467,572,46,17,"hsa:2987","2.7.4.8","GUK1",100
+"238","NME6, IPIA-ALPHA, NDK 6, NM23-H6...","rectangle",404,541,46,17,"hsa:4832","2.7.4.6","NME3",100
+"239","K00527...","rectangle",314,491,46,17,NA,NA,NA,NA
+"240","NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B...","rectangle",404,613,46,17,"hsa:4907","3.1.3.5","NT5E",0
+"241","LACC1, C13orf31, FAMIN, JUVAR...","rectangle",624,608,46,17,"hsa:144811;hsa:4860","2.4.2.1; 2.4.2.1; 2.4.2.28; 3.5.4.4","LACC1; PNP",100
+"242","K00951...","rectangle",195,378,46,17,NA,NA,NA,NA
+"243","GUCY1A2, GC-SA2, GUC1A2...","rectangle",165,409,46,17,NA,NA,NA,NA
+"244","PDE10A, ADSD2, HSPDE10A, IOLOD, LINC00473, PDE10A19...","rectangle",267,286,46,17,NA,NA,NA,NA
+"247","K01525...","rectangle",1418,249,46,17,NA,NA,NA,NA
+"248","PAPSS2, ATPSK2, BCYM4, SK2...","rectangle",1553,211,46,17,"hsa:9060","2.7.1.25; 2.7.7.4","PAPSS2",100
+"249","PAPSS2, ATPSK2, BCYM4, SK2...","rectangle",1505,249,46,17,"hsa:9060","2.7.1.25; 2.7.7.4","PAPSS2",100
+"251","Riboflavin metabolism","roundrectangle",79,452,73,34,NA,NA,NA,NA
+"252","Folate biosynthesis","roundrectangle",139,499,112,25,NA,NA,NA,NA
+"253","Arginine biosynthesis","roundrectangle",1040,377,77,34,NA,NA,NA,NA
+"254","XDH, XAN1, XO, XOR","rectangle",904,701,46,17,"hsa:7498","1.17.1.4; 1.17.3.2","XDH",0
+"255","XDH, XAN1, XO, XOR","rectangle",798,750,46,17,"hsa:7498","1.17.1.4; 1.17.3.2","XDH",0
+"256","PFAS, FGAMS, FGAR-AT, FGARAT, GATD8, PURL","rectangle",558,188,46,17,"hsa:5198","6.3.5.3","PFAS",100
+"258","ITPA, C20orf37, DEE35, HLC14-06-P, ITPase, My049, NTPase, dJ794I6.3","rectangle",863,299,46,17,"hsa:3704","3.6.1.66","ITPA",100
+"262","ITPA, C20orf37, DEE35, HLC14-06-P, ITPase, My049, NTPase, dJ794I6.3","rectangle",775,485,46,17,"hsa:3704","3.6.1.66","ITPA",100
+"263","K00769...","rectangle",901,613,46,17,NA,NA,NA,NA
+"266","K01119...","rectangle",1154,487,46,17,NA,NA,NA,NA
+"267","K01119...","rectangle",505,731,46,17,NA,NA,NA,NA
+"268","K01119...","rectangle",505,792,46,17,NA,NA,NA,NA
+"269","NUDT2, APAH1, IDDPN","rectangle",1340,200,46,17,NA,NA,NA,NA
+"270","NUDT2, APAH1, IDDPN","rectangle",224,481,46,17,NA,NA,NA,NA
+"271","K01129","rectangle",337,596,46,17,NA,NA,NA,NA
+"272","DCK...","rectangle",404,655,46,17,"hsa:1716","2.7.1.113","DGUOK",0
+"273","K25500","rectangle",404,584,46,17,NA,NA,NA,NA
+"274","NUDT2, APAH1, IDDPN","rectangle",728,510,46,17,NA,NA,NA,NA
+"275","K01119...","rectangle",1154,405,46,17,NA,NA,NA,NA
+"277","PGM2, MSTP006","rectangle",112,178,46,17,NA,NA,NA,NA
+"278","NUDT5, YSA1, YSA1H, YSAH1, hNUDT5...","rectangle",112,253,46,17,NA,NA,NA,NA
+"279","K18447","rectangle",70,228,46,17,NA,NA,NA,NA
+"280","DCK","rectangle",1470,654,46,17,NA,NA,NA,NA
+"281","K00769...","rectangle",591,630,46,17,NA,NA,NA,NA
+"282","PNP, NP, PRO1837, PUNP","rectangle",1395,695,46,17,"hsa:4860","2.4.2.1","PNP",100
+"283","AK6, AD-004, CGI-137, CINAP, CIP, hCINAP...","rectangle",1405,581,46,17,"hsa:122481;hsa:203;hsa:204","2.7.4.3","AK1; AK2; AK7",100
+"289","K01239","rectangle",707,640,46,17,NA,NA,NA,NA
+"290","K26211...","rectangle",674,608,46,17,NA,NA,NA,NA
+"291","NME6, IPIA-ALPHA, NDK 6, NM23-H6...","rectangle",464,263,46,17,"hsa:4832","2.7.4.6","NME3",100
+"293","K00988...","rectangle",1370,249,46,17,NA,NA,NA,NA
+"294","FHIT, AP3Aase, FRA3B...","rectangle",1343,294,46,17,NA,NA,NA,NA
+"295","ADCY1, AC1, DFNB44...","rectangle",115,409,46,17,NA,NA,NA,NA
+"300","APRT, AMP, APRTD","rectangle",1035,188,46,17,"hsa:353","2.4.2.7","APRT",100
+"301","CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY...","rectangle",942,369,46,17,"hsa:124583","3.6.1.6","CANT1",0
+"310","NTPCR, C1orf57, HCR-NTPase, THEP1","rectangle",1492,422,46,17,NA,NA,NA,NA
+"416","K06863","rectangle",1007,213,46,17,NA,NA,NA,NA
+"421","K01239","rectangle",765,609,46,17,NA,NA,NA,NA
+"422","K00926","rectangle",1454,903,46,17,NA,NA,NA,NA
+"424","K08312","rectangle",112,274,46,17,NA,NA,NA,NA
+"429","K01589","rectangle",696,221,46,17,NA,NA,NA,NA
+"430","K01588","rectangle",791,221,46,17,NA,NA,NA,NA
+"431","URAD, PRHOXNB","rectangle",857,904,46,17,NA,NA,NA,NA
+"432","PDE7B, bA472E5.1...","rectangle",1353,347,46,17,NA,NA,NA,NA
+"433","PGM1, CDG1T, GSD14...","rectangle",112,199,46,17,"hsa:5236","5.4.2.2","PGM1",100
+"434","K16839...","rectangle",798,814,46,17,NA,NA,NA,NA
+"435","NUDT16","rectangle",921,348,46,17,NA,NA,NA,NA
+"437","NUDT16","rectangle",520,219,46,17,NA,NA,NA,NA
+"438","K00073","rectangle",1251,913,46,17,NA,NA,NA,NA
+"440","ITPA, C20orf37, DEE35, HLC14-06-P, ITPase, My049, NTPase, dJ794I6.3","rectangle",552,264,46,17,"hsa:3704","3.6.1.66","ITPA",100
+"441","K18445","rectangle",1340,221,46,17,NA,NA,NA,NA
+"442","AK3, AK3L1, AK6, AKL3L, AKL3L1, FIX","rectangle",1331,473,46,17,NA,NA,NA,NA
+"443","K00839","rectangle",1262,837,46,17,NA,NA,NA,NA
+"444","ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1...","rectangle",1297,379,46,17,"hsa:5167","3.1.4.1; 3.6.1.9","ENPP1",100
+"445","ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1...","rectangle",539,362,46,17,"hsa:5167","3.1.4.1; 3.6.1.9","ENPP1",100
+"446","K18550","rectangle",960,510,46,17,NA,NA,NA,NA
+"447","K21636","rectangle",1567,508,46,17,NA,NA,NA,NA
+"448","K21636","rectangle",364,491,46,17,NA,NA,NA,NA
+"451","K22602","rectangle",1383,959,46,17,NA,NA,NA,NA
+"453","K01529","rectangle",805,373,46,17,NA,NA,NA,NA
+"456","K24871","rectangle",1057,877,46,17,NA,NA,NA,NA
+"457","K08289","rectangle",471,198,46,17,NA,NA,NA,NA
+"459","HDDC2, C6orf74, CGI-130, NS5ATP2, dJ167O5.2","rectangle",1470,634,46,17,NA,NA,NA,NA
+"460","HDDC2, C6orf74, CGI-130, NS5ATP2, dJ167O5.2","rectangle",404,634,46,17,NA,NA,NA,NA
+"461","K05961","rectangle",404,676,46,17,NA,NA,NA,NA
+"462","K05961","rectangle",1470,675,46,17,NA,NA,NA,NA
+"464","K24972","rectangle",464,707,46,17,NA,NA,NA,NA
+"467","ADSL, AMPS, ASASE, ASL","rectangle",422,744,46,17,"hsa:158","4.3.2.2","ADSL",100
+"470","GUK1, GMK, MTDPS21","rectangle",328,744,46,17,"hsa:2987","2.7.4.8","GUK1",100
+"473","NME6, IPIA-ALPHA, NDK 6, NM23-H6...","rectangle",232,744,46,17,"hsa:4832","2.7.4.6","NME3",100
+"476","K20881","rectangle",674,529,46,17,NA,NA,NA,NA
+"477","K20881","rectangle",985,529,46,17,NA,NA,NA,NA
+"480","XDH, XAN1, XO, XOR","rectangle",1230,733,46,17,"hsa:7498","1.17.1.4; 1.17.3.2","XDH",0
+"481","XDH, XAN1, XO, XOR","rectangle",1230,712,46,17,"hsa:7498","1.17.1.4; 1.17.3.2","XDH",0
+"484","XDH, XAN1, XO, XOR","rectangle",1343,733,46,17,"hsa:7498","1.17.1.4; 1.17.3.2","XDH",0
+"485","XDH, XAN1, XO, XOR","rectangle",1343,712,46,17,"hsa:7498","1.17.1.4; 1.17.3.2","XDH",0
+"510","APRT, AMP, APRTD","rectangle",1300,552,46,17,"hsa:353","2.4.2.7","APRT",100
+"511","HPRT1, HGPRT, HPRT","rectangle",932,552,46,17,"hsa:3251","2.4.2.8","HPRT1",0
+"512","HPRT1, HGPRT, HPRT","rectangle",541,630,46,17,"hsa:3251","2.4.2.8","HPRT1",0
+"513","K18931","rectangle",1271,638,46,17,NA,NA,NA,NA
+"519","K28932","rectangle",734,566,46,17,NA,NA,NA,NA

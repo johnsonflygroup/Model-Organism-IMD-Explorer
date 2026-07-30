@@ -1,0 +1,42 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"12","NFKB1, CVID12, EBP-1, KBF1, NF-kB, NF-kB1, NF-kappa-B1, NF-kappaB, NF-kappabeta, NFKB-p105, NFKB-p50, NFkappaB...","rectangle",391,247,46,17,NA,NA,NA,NA
+"13","NFKBIA, EDAID2, IKBA, MAD-3, NFKBI...","rectangle",474,247,46,17,NA,NA,NA,NA
+"137","APPL1, APPL, DIP13alpha, MODY14","rectangle",226,816,46,17,"hsa:26060",NA,"APPL1",0
+"14","PTPN11, BPTP3, CFC, JMML, METCDS, NS1, PTP-1D, PTP2C, SH-PTP2, SH-PTP3, SHP2","rectangle",225,534,46,17,NA,NA,NA,NA
+"141","CAMKK2, CAMKK, CAMKKB","rectangle",310,855,46,17,NA,NA,NA,NA
+"15","SOCS3, ATOD4, CIS3, Cish3, SOCS-3, SSI-3, SSI3","rectangle",391,351,46,17,NA,NA,NA,NA
+"16","CPT1C, CATL1, CPT I-C, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73...","rectangle",711,829,46,17,"hsa:126129;hsa:1374","2.3.1.21","CPT1A; CPT1C",0
+"17","G6PC1, G6PC, G6PT, G6Pase, GSD1, GSD1a...","rectangle",473,690,46,17,"hsa:92579","3.1.3.9","G6PC3",0
+"18","PCK1, PCKDC, PEPCK-C, PEPCK1, PEPCKC...","rectangle",424,690,46,17,"hsa:5105;hsa:5106","4.1.1.32","PCK1; PCK2",0
+"19","ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2...","rectangle",796,213,46,17,"hsa:2182","6.2.1.3","ACSL4",100
+"22","LEP, LEPD, OB, OBS","rectangle",59,482,46,17,NA,NA,NA,NA
+"24","POMC, ACTH, CLIP, LPH, MSH, NPP, OBAIRH, POC","rectangle",557,482,46,17,NA,NA,NA,NA
+"26","PRKAG2, AAKG, AAKG2, CMH6, H91620p, WPWS...","rectangle",394,832,46,17,"hsa:51422",NA,"PRKAG2",100
+"27","ADIPOQ, ACDC, ACRP30, ADIPQTL1, ADPN, APM-1, APM1, GBP28","rectangle",59,832,46,17,NA,NA,NA,NA
+"28","ACACB, ACACbeta, ACC-beta, ACC2, ACCB, ACCbeta, HACC275","rectangle",483,832,46,17,"hsa:32","2.1.3.15; 6.3.4.14; 6.4.1.2","ACACB",100
+"29","PPARA, NR1C1, PPAR, PPAR-alpha, PPARalpha, hPPAR","rectangle",326,742,46,17,NA,NA,NA,NA
+"30","ADIPOR1, ACDCR1, CGI-45, CGI45, PAQR1, TESBP1A...","rectangle",142,832,46,17,NA,NA,NA,NA
+"31","PRKCQ, PRKCT, nPKC-theta","rectangle",557,161,46,17,NA,NA,NA,NA
+"32","LEPR, CD295, LEP-R, LEPRD, OB-R, OBR","rectangle",142,482,46,17,NA,NA,NA,NA
+"33","STK11, LKB1, PJS, hLKB1","rectangle",310,816,46,17,NA,NA,NA,NA
+"34","NPY, PYY4","rectangle",557,550,46,17,NA,NA,NA,NA
+"35","RXRA, NR2B1, RXR-alpha, RXRalpha...","rectangle",326,759,46,17,NA,NA,NA,NA
+"36","SLC2A1, CSE, DYT17, DYT18, DYT9, EIG12, GLUT, GLUT-1, GLUT1, GLUT1DS, HTLVR, PED, SDCHCN...","rectangle",482,863,46,17,"hsa:6513",NA,"SLC2A1",100
+"37","CHUK, BPS2, IKBKA, IKK-1, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16...","rectangle",474,195,46,17,NA,NA,NA,NA
+"38","TNFRSF1B, CD120b, TBPII, TNF-R-II, TNF-R75, TNFBR, TNFR1B, TNFR2, TNFR80, p75, p75TNFR","rectangle",142,178,46,17,NA,NA,NA,NA
+"39","AGRP, AGRT, ART, ASIP2","rectangle",557,516,46,17,NA,NA,NA,NA
+"40","STAT3, ADMIO, ADMIO1, APRF, HIES","rectangle",308,482,46,17,NA,NA,NA,NA
+"41","MAPK8, JNK, JNK-46, JNK1, JNK1A2, JNK21B1/2, PRKM8, SAPK1, SAPK1c...","rectangle",474,161,46,17,NA,NA,NA,NA
+"42","AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...","rectangle",557,247,46,17,"hsa:208","2.7.11.1","AKT2",0
+"43","MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS","rectangle",474,127,46,17,NA,NA,NA,NA
+"44","TRAF2, MGC:45012, RNF117, TRAP, TRAP3","rectangle",308,161,46,17,NA,NA,NA,NA
+"45","IRS1, HIRS-1...","rectangle",555,222,46,17,NA,NA,NA,NA
+"46","TNFRSF1A, CD120a, FPF, TBP1, TNF-R, TNF-R-I, TNF-R55, TNFAR, TNFR1, TNFR55, TNFR60, p55, p55-R, p60","rectangle",142,144,46,17,NA,NA,NA,NA
+"47","CD36, BDPLT10, CHDS7, FAT, GP3B, GP4, GPIV, PASIV, SCARB3","rectangle",796,161,46,17,NA,NA,NA,NA
+"48","PPARGC1A, LEM6, PGC-1(alpha), PGC-1alpha, PGC-1v, PGC1, PGC1A, PPARGC1","rectangle",391,534,46,17,NA,NA,NA,NA
+"49","TRADD, Hs.89862","rectangle",225,144,46,17,NA,NA,NA,NA
+"50","JAK2, JTK10","rectangle",225,482,46,17,NA,NA,NA,NA
+"52","TNF, DIF, IMD127, TNF-alpha, TNFA, TNFSF2, TNLG1F","rectangle",59,161,46,17,NA,NA,NA,NA
+"53","TITLE:Adipocytokine signaling pathway","roundrectangle",185,58,290,25,NA,NA,NA,NA
+"54","Insulin signaling pathway","roundrectangle",624,322,141,25,NA,NA,NA,NA
+"55","MAPK signaling pathway","roundrectangle",234,630,105,34,NA,NA,NA,NA

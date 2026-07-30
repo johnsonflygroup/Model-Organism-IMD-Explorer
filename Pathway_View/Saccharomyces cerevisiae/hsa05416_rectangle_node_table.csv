@@ -1,0 +1,53 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"103","CASP8, ALPS2B, CAP4, Casp-8, FLICE, MACH, MCH5","rectangle",530,648,46,17,NA,NA,NA,NA
+"104","BID, FP497","rectangle",605,648,46,17,NA,NA,NA,NA
+"105","CYCS, CYC, HCS, THC4","rectangle",814,647,46,17,"hsa:54205",NA,"CYCS",100
+"106","CASP9, APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56","rectangle",895,647,46,17,NA,NA,NA,NA
+"107","CASP3, CPP32, CPP32B, SCA-1","rectangle",976,647,46,17,NA,NA,NA,NA
+"117","PRF1, HPLH2, P1, PFP","rectangle",293,607,46,17,NA,NA,NA,NA
+"121","102723407","rectangle",291,762,46,17,NA,NA,NA,NA
+"122","102723407","rectangle",293,822,46,17,NA,NA,NA,NA
+"123","ITGAL, CD11A, LFA-1, LFA1A...","rectangle",239,637,46,17,NA,NA,NA,NA
+"124","ICAM1, BB2, CD54, P3.58","rectangle",353,638,46,17,NA,NA,NA,NA
+"128","Apoptosis","roundrectangle",896,677,118,25,NA,NA,NA,NA
+"130","Cell cycle","roundrectangle",974,591,118,25,NA,NA,NA,NA
+"138","ACTB, BKRNS, BNS, BRWS1, CSMH, DDS1, PS1TP5BP1, THC8...","rectangle",763,351,46,17,NA,NA,NA,NA
+"139","MYH6, ASD3, CMD1EE, CMH14, MYHC, MYHCA, SSS3, alpha-MHC...","rectangle",1171,281,46,17,NA,NA,NA,NA
+"165","Dilated cardiomyopathy","roundrectangle",1255,568,118,34,NA,NA,NA,NA
+"166","FYN, SLK, SYN, p59-FYN","rectangle",513,283,46,17,NA,NA,NA,NA
+"167","ABL1, ABL, BCR-ABL, CHDSKM, JTK7, bcr/abl, c-ABL, c-ABL1, p150, v-abl...","rectangle",570,283,46,17,NA,NA,NA,NA
+"172","CAV1, BSCL3, CGL3, LCCNS, MSTP085, PPH3, VIP21, CAV","rectangle",512,323,46,17,NA,NA,NA,NA
+"173","RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1...","rectangle",591,324,46,17,NA,NA,NA,NA
+"186","SSPN, DAGA5, KRAG, NSPN, SPN1, SPN2","rectangle",612,224,46,17,NA,NA,NA,NA
+"188","SNTA1, LQT12, SNT1, TACIP1, dJ1187J4.5...","rectangle",822,286,46,17,NA,NA,NA,NA
+"189","DTNA, D18S892E, DRP3, DTN, DTN-A, LVNC1, MMCKR2","rectangle",822,302,46,17,NA,NA,NA,NA
+"190","NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS","rectangle",868,294,46,17,NA,NA,NA,NA
+"192","CAV3, LGMD1C, LQT9, MPDT, RMD2, VIP-21, VIP21","rectangle",868,224,46,17,NA,NA,NA,NA
+"193",NA,"rectangle",701,223,92,34,NA,NA,NA,NA
+"194",NA,"rectangle",799,294,92,33,NA,NA,NA,NA
+"29","SGCD, 35DAG, CMD1L, DAGD, LGMDR6, SG-delta, SGCDP, SGD","rectangle",724,215,46,17,NA,NA,NA,NA
+"30","TITLE:Viral myocarditis","roundrectangle",132,60,180,25,NA,NA,NA,NA
+"31","Cardiac muscle contraction","roundrectangle",1052,429,118,34,NA,NA,NA,NA
+"33","SGCZ, ZSG1...","rectangle",724,232,46,17,NA,NA,NA,NA
+"34","SGCB, A3b, LGMD2E, LGMDR4, SGC","rectangle",678,232,46,17,NA,NA,NA,NA
+"35","SGCA, 50DAG, ADL, DAG2, DMDA2, LGMD2D, LGMDR3, SCARMD1, adhalin...","rectangle",678,215,46,17,NA,NA,NA,NA
+"36","DAG1, 156DAG, A3a, AGRNR, DAG, LGMDR16, MDDGA9, MDDGC7, MDDGC9","rectangle",790,178,46,17,NA,NA,NA,NA
+"37","DAG1, 156DAG, A3a, AGRNR, DAG, LGMDR16, MDDGA9, MDDGC7, MDDGC9","rectangle",791,224,46,17,NA,NA,NA,NA
+"39","LAMA1, LAMA, PTBHS, S-LAM-alpha...","rectangle",791,139,46,17,NA,NA,NA,NA
+"40","ECM-receptor interaction","roundrectangle",687,157,118,34,NA,NA,NA,NA
+"42","DMD, BMD, CMD3B, DXS142, DXS164, DXS206, DXS230, DXS239, DXS268, DXS269, DXS270, DXS272, MRX85","rectangle",776,294,46,17,NA,NA,NA,NA
+"49","EIF4G1, EIF-4G1, EIF4F, EIF4G, EIF4GI, P220, PARK18...","rectangle",771,506,46,17,NA,NA,NA,NA
+"51","CXADR, CAR, CAR4/6, HCAR","rectangle",413,224,46,17,NA,NA,NA,NA
+"52","CD55, CHAPLE, CR, CROM, DAF, TC","rectangle",503,224,46,17,NA,NA,NA,NA
+"67","Proteasome","roundrectangle",704,592,118,25,NA,NA,NA,NA
+"68","CCND1, BCL1, D11S287E, PRAD1, U21B31","rectangle",588,556,46,17,NA,NA,NA,NA
+"85","Antigen processing and presentation","roundrectangle",157,143,118,34,NA,NA,NA,NA
+"86","CD40, Bp50, CDW40, TNFRSF5, p50","rectangle",174,253,46,17,NA,NA,NA,NA
+"87","HLA-DMA, D6S222E, DMA, HLADM, RING6...","rectangle",228,253,46,17,NA,NA,NA,NA
+"88","CD40LG, CD154, CD40L, HIGM1, IGM, IMD3, T-BAM, TNFSF5, TRAP, gp39, hCD40L","rectangle",175,316,46,17,NA,NA,NA,NA
+"89","K10784...","rectangle",231,316,46,17,NA,NA,NA,NA
+"90","T cell receptor signaling pathway","roundrectangle",179,380,118,34,NA,NA,NA,NA
+"95","K10784...","rectangle",241,546,46,17,NA,NA,NA,NA
+"96","HLA-A, HLAA...","rectangle",353,547,46,17,NA,NA,NA,NA
+"97","CD28, IMD123, Tp44","rectangle",241,573,46,17,NA,NA,NA,NA
+"98","CD80, B7, B7-1, B7.1, BB1, CD28LG, CD28LG1, LAB7...","rectangle",354,574,46,17,NA,NA,NA,NA

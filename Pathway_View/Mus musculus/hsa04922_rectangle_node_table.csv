@@ -1,0 +1,64 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"10","SLC2A1, CSE, DYT17, DYT18, DYT9, EIG12, GLUT, GLUT-1, GLUT1, GLUT1DS, HTLVR, PED, SDCHCN...","rectangle",178,607,46,17,"hsa:6513;hsa:6514",100
+"101","PPARGC1A, LEM6, PGC-1(alpha), PGC-1alpha, PGC-1v, PGC1, PGC1A, PPARGC1","rectangle",1021,286,46,17,NA,NA
+"107","SIK, SIK-1, SIK1, SIK1B, SNF1LK...","rectangle",1173,152,46,17,NA,NA
+"110","Insulin signaling pathway","roundrectangle",284,126,112,34,NA,NA
+"111","AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...","rectangle",405,128,46,17,"hsa:208",100
+"112","PDE3B, HcGIP1, cGIPDE1","rectangle",493,128,46,17,NA,NA
+"119","CPT1C, CATL1, CPT_I-C, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73...","rectangle",1172,305,46,17,"hsa:126129;hsa:1374",100
+"120","CPT1C, CATL1, CPT_I-C, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73...","rectangle",944,466,46,17,"hsa:126129;hsa:1374",100
+"131","PHKA1, PHKA...","rectangle",522,452,46,17,"hsa:5255;hsa:5256;hsa:5257;hsa:5261",100
+"132","CALML6, CAGLP...","rectangle",522,469,46,17,NA,NA
+"136","G6PC1, G6PC, G6PT, G6Pase, GSD1, GSD1a...","rectangle",265,585,46,17,"hsa:92579",100
+"138","cAMP signaling pathway","roundrectangle",365,214,112,34,NA,NA
+"139","PPP3CA, ACCIID, CALN, CALNA, CALNA1, CCN1, CNA1, DEE91, IECEE, IECEE1, PPP2B...","rectangle",719,259,46,17,NA,NA
+"142","FBP1, FBP...","rectangle",430,586,46,17,"hsa:2203;hsa:8789",100
+"149","PFKFB1, F6PK, HL2K, PFRX","rectangle",613,429,46,17,NA,NA
+"158","PCK1, PCKDC, PEPCK-C, PEPCK1, PEPCKC...","rectangle",765,740,46,17,"hsa:5105;hsa:5106",100
+"159","Calcium signaling pathway","roundrectangle",365,302,112,34,NA,NA
+"168","ACACA, ACAC, ACACAD, ACACalpha, ACC, ACC1, ACCA, ACCalpha, Acac1, hACC1...","rectangle",799,457,46,17,"hsa:31;hsa:32",100
+"171","PRKAG2, AAKG, AAKG2, CMH6, H91620p, WPWS...","rectangle",693,393,46,17,"hsa:51422",100
+"178","CAMK2A, CAMKA, CaMKIINalpha, CaMKIIalpha, MRD53, MRT63...","rectangle",723,330,46,17,NA,NA
+"179","FOXO1, FKH1, FKHR, FOXO1A","rectangle",834,330,46,17,NA,NA
+"18","Citrate cycle (TCA cycle)","roundrectangle",1084,596,112,34,NA,NA
+"185","ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29...","rectangle",489,289,46,17,"hsa:3708;hsa:3709",100
+"188","FoxO signaling pathway","roundrectangle",840,296,112,34,NA,NA
+"189","LDHAL6A, LDH6A...","rectangle",841,646,46,17,"hsa:3939;hsa:3945",100
+"190","SIRT1, SIR2, SIR2L1, SIR2alpha","rectangle",1135,221,46,17,NA,NA
+"191","SIRT1, SIR2, SIR2L1, SIR2alpha","rectangle",941,317,46,17,NA,NA
+"192","PPARGC1A, LEM6, PGC-1(alpha), PGC-1alpha, PGC-1v, PGC1, PGC1A, PPARGC1","rectangle",1021,234,46,17,NA,NA
+"193","PPARA, NR1C1, PPAR, PPAR-alpha, PPARalpha, hPPAR","rectangle",1021,251,46,17,NA,NA
+"199","Fatty acid biosynthesis","roundrectangle",801,394,93,34,NA,NA
+"200",NA,"rectangle",522,460,46,34,NA,NA
+"201",NA,"rectangle",1021,142,46,51,NA,NA
+"202",NA,"rectangle",1021,242,46,34,NA,NA
+"203",NA,"rectangle",1021,294,46,34,NA,NA
+"33","PDHA1, E1alpha, PDHA, PDHAD, PDHCE1A, PHE1A...","rectangle",903,624,46,17,"hsa:5160;hsa:5161;hsa:5162",100
+"34","Glycolysis / Gluconeogenesis","roundrectangle",288,680,112,34,NA,NA
+"35","PKM, CTHBP, HEL-S-30, OIP3, PK3, PKM2, TCB, THBP1, p58","rectangle",743,633,46,17,NA,NA
+"36","GCK, FGQTL3, GK, GLK, HHF3, HK4, HKIV, HXKP, LGLK, MODY2, PNDM1","rectangle",265,635,46,17,"hsa:2645",100
+"47","PFKL, ATP-PFK, PFK-B, PFK-L...","rectangle",427,633,46,17,"hsa:5213",100
+"48","PGAM4, PGAM-B, PGAM1, PGAM3, dJ1000K24.1...","rectangle",580,636,46,17,"hsa:5224",100
+"49","Oxidative phosphorylation","roundrectangle",966,697,112,34,NA,NA
+"53","GCG, GLP-1, GLP1, GLP2, GRPP","rectangle",83,182,46,17,NA,NA
+"54","GCGR, GGR, GL-R, MVAH","rectangle",176,182,46,17,NA,NA
+"55","GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI","rectangle",270,182,46,17,NA,NA
+"56","ADCY2, AC2, HBAC2","rectangle",363,182,46,17,NA,NA
+"57","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",590,182,46,17,NA,NA
+"68","GYS1, GSY, GYS...","rectangle",437,385,46,17,"hsa:2997;hsa:2998",100
+"69","PYGB, GPBB...","rectangle",437,428,46,17,"hsa:5836;hsa:5837",100
+"72","GNAQ, CMAL, CMC1, G-ALPHA-q, GAQ, SWS","rectangle",270,260,46,17,NA,NA
+"73","PLCB1, DEE12, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B...","rectangle",359,260,46,17,"hsa:23236;hsa:5331;hsa:5332",100
+"78","CREB3, LUMAN, LZIP, sLZIP...","rectangle",719,124,46,17,NA,NA
+"79","PPP4R3C, FLFL3P, PPP4R3CP, SMEK3P, smk1...","rectangle",719,185,46,17,NA,NA
+"80","CRTC2, TORC-2, TORC2","rectangle",834,185,46,17,NA,NA
+"81","SIK2, LOH11CR1I, QIK, SIK-2, SNF1LK2","rectangle",719,235,46,17,NA,NA
+"87","CREB3, LUMAN, LZIP, sLZIP...","rectangle",1021,125,46,17,NA,NA
+"88","CRTC2, TORC-2, TORC2","rectangle",1021,142,46,17,NA,NA
+"89","CREBBP, CBP, KAT3A, MKHK1, RSTS, RSTS1...","rectangle",1021,159,46,17,NA,NA
+"9","TITLE:Glucagon signaling pathway","roundrectangle",183,58,285,25,NA,NA
+"90","PPARGC1A, LEM6, PGC-1(alpha), PGC-1alpha, PGC-1v, PGC1, PGC1A, PPARGC1","rectangle",1173,129,46,17,NA,NA
+"91","PCK1, PCKDC, PEPCK-C, PEPCK1, PEPCKC...","rectangle",1172,279,46,17,"hsa:5105;hsa:5106",100
+"92","G6PC1, G6PC, G6PT, G6Pase, GSD1, GSD1a...","rectangle",1172,253,46,17,"hsa:92579",100
+"93","FOXO1, FKH1, FKHR, FOXO1A","rectangle",1021,303,46,17,NA,NA
+"94","PRMT1, ANM1, HCP1, HRMT1L2, IR1B4","rectangle",1004,343,46,17,NA,NA

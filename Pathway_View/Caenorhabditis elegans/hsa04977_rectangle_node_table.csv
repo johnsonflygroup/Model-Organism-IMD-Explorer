@@ -1,0 +1,56 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"104","CUBN, IFCR, IGS, IGS1, MGA1, gp280","rectangle",607,201,46,17,"hsa:8029",100
+"105","CUBN, IFCR, IGS, IGS1, MGA1, gp280","rectangle",722,180,46,17,"hsa:8029",100
+"109","CBLIF, GIF, IF, IFMH, INF, TCN3","rectangle",780,174,46,17,"hsa:2694",0
+"110","CBLIF, GIF, IF, IFMH, INF, TCN3","rectangle",486,211,46,17,"hsa:2694",0
+"114","LMBRD1, C6orf209, LMBD1, MAHCF, NESI","rectangle",964,187,46,17,"hsa:55788",0
+"115","CBLIF, GIF, IF, IFMH, INF, TCN3","rectangle",895,175,46,17,"hsa:2694",0
+"119","ABCC1, ABC29, ABCC, DFNA77, GS-X, MRP, MRP1","rectangle",1120,196,46,17,NA,NA
+"120","TCN2, D22S676, D22S750, II, TC, TC_II, TC-2, TC2, TCII","rectangle",1291,259,46,17,"hsa:6948",0
+"122","TCN2, D22S676, D22S750, II, TC, TC_II, TC-2, TC2, TCII","rectangle",1038,259,46,17,"hsa:6948",0
+"123","CBLIF, GIF, IF, IFMH, INF, TCN3","rectangle",659,240,46,17,"hsa:2694",0
+"124","CUBN, IFCR, IGS, IGS1, MGA1, gp280","rectangle",705,240,46,17,"hsa:8029",100
+"142","MMACHC, cblC","rectangle",1053,166,46,17,"hsa:25974",100
+"144","Endocytosis","roundrectangle",782,266,72,25,NA,NA
+"145","Lysosome","roundrectangle",910,266,70,25,NA,NA
+"146","RBP2, CRABP-II, CRBP2, CRBPII, RBPC2","rectangle",754,747,46,17,NA,NA
+"147","LRAT, LCA14","rectangle",801,721,46,17,NA,NA
+"149","SLC5A6, COMNB, NERIB, SMVT, SMVTD, hSMVT","rectangle",607,370,46,17,"hsa:8884",100
+"150","SLC23A1, SLC23A2, SVCT1, YSPL3","rectangle",522,432,46,17,NA,NA
+"151","SLC19A1, CHMD, FOLT, IFC-1, IFC1, IMD114, MEGAF, REFC, RFC, RFC1, RFT-1, hRFC, hSLC19A1","rectangle",604,518,46,17,"hsa:6573",100
+"156","SLC19A2, TC1, THMD1, THT1, THTR1, TRMA...","rectangle",522,280,46,17,"hsa:10560;hsa:80704",100
+"157","Fat digestion and absorption","roundrectangle",766,565,155,25,NA,NA
+"172","BTD","rectangle",344,349,46,17,"hsa:686",0
+"188","FOLH1, FGCP, FOLH, GCP2, GCPII, NAALAD1, PSM, PSMA, mGCP","rectangle",344,495,46,17,NA,NA
+"207","SCARB1, CD36L1, CLA-1, CLA1, HDLCQ6, HDLQTL6, SR-BI, SRB1","rectangle",522,699,46,17,"hsa:949",100
+"248","SLC52A3, BVVLS, BVVLS1, C20orf54, RFT2, RFVT3, bA371L19.1, hRFT2","rectangle",522,314,46,17,"hsa:113278",100
+"25","TITLE:Vitamin digestion and absorption","roundrectangle",198,58,316,25,NA,NA
+"254","Pantothenate and CoA biosynthesis","roundrectangle",150,394,187,25,NA,NA
+"255","Riboflavin metabolism","roundrectangle",155,312,125,25,NA,NA
+"256","Thiamine metabolism","roundrectangle",154,277,116,25,NA,NA
+"257","Biotin metabolism","roundrectangle",154,359,110,25,NA,NA
+"258","Folate biosynthesis","roundrectangle",155,505,110,25,NA,NA
+"259","Nicotinate and nicotinamide metabolism","roundrectangle",142,448,210,25,NA,NA
+"267","Vitamin B6 metabolism","roundrectangle",154,177,134,25,NA,NA
+"268","AWAT2, ARAT, DC4, DGAT2L4, MFAT, WS","rectangle",748,693,46,17,NA,NA
+"283","SLC46A1, G21, HCP1, HsPCFT, PCFT, hPCFT","rectangle",604,490,46,17,"hsa:113235",100
+"287","PNLIP, PL, PNLIPD, PTL","rectangle",218,734,46,17,NA,NA
+"288","PLB1, PLB, PLB/LIP","rectangle",218,759,46,17,NA,NA
+"297","CBLIF, GIF, IF, IFMH, INF, TCN3","rectangle",344,235,46,17,"hsa:2694",0
+"301","AMN, IGS2, PRO1028, amnionless","rectangle",607,218,46,17,"hsa:81693",0
+"302","AMN, IGS2, PRO1028, amnionless","rectangle",705,257,46,17,"hsa:81693",0
+"303","AMN, IGS2, PRO1028, amnionless","rectangle",722,197,46,17,"hsa:81693",0
+"304","ABCD4, ABC41, EST352188, MAHCJ, P70R, P79R, PMP69, PXMP1L","rectangle",964,204,46,17,"hsa:5826",100
+"305","Cobalamin transport and metabolism","roundrectangle",1252,162,210,25,NA,NA
+"306",NA,"rectangle",682,240,92,17,NA,NA
+"49","Retinol metabolism","roundrectangle",408,767,160,25,NA,NA
+"52","Bile secretion","roundrectangle",84,737,80,25,NA,NA
+"66","APOB, FCHL2, FLDB, LDLCQ4, apoB-100, apoB-48","rectangle",1124,611,46,17,"hsa:338",0
+"67","APOB, FCHL2, FLDB, LDLCQ4, apoB-100, apoB-48","rectangle",1262,615,46,17,"hsa:338",0
+"72","APOA4","rectangle",1306,656,46,17,NA,NA
+"73","APOA1, AMYLD3, HPALP2, apo(a)","rectangle",1264,694,46,17,"hsa:335",0
+"74","APOA4","rectangle",1166,650,46,17,NA,NA
+"75","APOA1, AMYLD3, HPALP2, apo(a)","rectangle",1126,692,46,17,"hsa:335",0
+"76","APOA1, AMYLD3, HPALP2, apo(a)","rectangle",898,688,46,17,"hsa:335",0
+"84","APOA4","rectangle",948,640,46,17,NA,NA
+"85","APOB, FCHL2, FLDB, LDLCQ4, apoB-100, apoB-48","rectangle",899,604,46,17,"hsa:338",0

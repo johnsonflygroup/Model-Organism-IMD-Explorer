@@ -1,0 +1,83 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"107","FUT9, Fuc-TIX","rectangle",677,893,46,17,NA,NA
+"108","ABO, A3GALNT, A3GALT1, GTB, NAGAT","rectangle",1103,799,46,17,NA,NA
+"109","ABO, A3GALNT, A3GALT1, GTB, NAGAT","rectangle",752,941,46,17,NA,NA
+"110","FUT1, H, HH, HSC...","rectangle",1072,762,46,17,NA,NA
+"112","FUT9, Fuc-TIX","rectangle",677,822,46,17,NA,NA
+"113","FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1","rectangle",459,912,46,17,NA,NA
+"114","FUT9, Fuc-TIX","rectangle",483,822,46,17,NA,NA
+"115","FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1","rectangle",852,608,46,17,NA,NA
+"116","ST3GAL6, SIAT10, ST3GALVI","rectangle",974,550,46,17,NA,NA
+"119","FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1","rectangle",459,983,46,17,NA,NA
+"120","FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1","rectangle",919,912,46,17,NA,NA
+"121","ABO, A3GALNT, A3GALT1, GTB, NAGAT","rectangle",852,799,46,17,NA,NA
+"122","FUT1, H, HH, HSC...","rectangle",784,901,46,17,NA,NA
+"123","B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3...","rectangle",590,658,46,17,NA,NA
+"126","ABO, A3GALNT, A3GALT1, GTB, NAGAT","rectangle",974,799,46,17,NA,NA
+"127","GCNT2, CCAT, CTRCT13, GCNT2C, GCNT5, IGNT, II, NACGT1, NAGCT1, ULG3, bA360O19.2, bA421M1.1","rectangle",974,657,46,17,NA,NA
+"128","FUT9, Fuc-TIX","rectangle",943,822,46,17,NA,NA
+"130","ST8SIA1, GD3S, SIAT8, SIAT8-A, SIAT8A, ST8SiaI","rectangle",783,157,46,17,NA,NA
+"131","FUT3, CD174, FT3B, FucT-III, LE, Les...","rectangle",852,182,46,17,NA,NA
+"133","ST3GAL6, SIAT10, ST3GALVI","rectangle",713,193,46,17,NA,NA
+"134","FUT9, Fuc-TIX","rectangle",613,343,46,17,NA,NA
+"135","B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3...","rectangle",852,351,46,17,NA,NA
+"136","B4GALT1, B4GAL-T1, CDG2D, CLDLFIB, GGTB2, GT1, GTB, beta4Gal-T1","rectangle",914,410,46,17,"hsa:2683",100
+"137","K00743","rectangle",713,363,46,17,NA,NA
+"138","ABO, A3GALNT, A3GALT1, GTB, NAGAT","rectangle",713,429,46,17,NA,NA
+"139","FUT1, H, HH, HSC...","rectangle",653,394,46,17,NA,NA
+"140","FUT1, H, HH, HSC...","rectangle",784,394,46,17,NA,NA
+"141","B3GNT5, B3GN-T5, beta3Gn-T5","rectangle",399,153,46,17,NA,NA
+"142","FUT9, Fuc-TIX","rectangle",677,464,46,17,NA,NA
+"143","ABO, A3GALNT, A3GALT1, GTB, NAGAT","rectangle",590,429,46,17,NA,NA
+"144","FUT1, H, HH, HSC...","rectangle",919,762,46,17,NA,NA
+"145","ABO, A3GALNT, A3GALT1, GTB, NAGAT","rectangle",488,597,46,17,NA,NA
+"146","B4GALT1, B4GAL-T1, CDG2D, CLDLFIB, GGTB2, GT1, GTB, beta4Gal-T1","rectangle",489,182,46,17,"hsa:2683",100
+"147","FUT1, H, HH, HSC...","rectangle",521,554,46,17,NA,NA
+"148","Sphingolipid metabolism","roundrectangle",276,120,80,34,NA,NA
+"149","TITLE:Glycosphingolipid biosynthesis - lacto and neolacto series","roundrectangle",291,58,501,25,NA,NA
+"156","B3GALT1, beta3Gal-T1","rectangle",252,182,46,17,NA,NA
+"157","B3GALT2, BETA3GALT2, GLCT2, beta3Gal-T2","rectangle",300,182,46,17,NA,NA
+"158","B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1, 3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5","rectangle",277,203,46,17,NA,NA
+"160","FUT1, H, HH, HSC...","rectangle",210,394,46,17,NA,NA
+"165","FUT1, H, HH, HSC...","rectangle",340,394,46,17,NA,NA
+"166","K00743","rectangle",277,352,46,17,NA,NA
+"167","ABO, A3GALNT, A3GALT1, GTB, NAGAT","rectangle",277,429,46,17,NA,NA
+"172","FUT3, CD174, FT3B, FucT-III, LE, Les","rectangle",210,472,46,17,NA,NA
+"173","FUT3, CD174, FT3B, FucT-III, LE, Les","rectangle",340,472,46,17,NA,NA
+"177","ABO, A3GALNT, A3GALT1, GTB, NAGAT","rectangle",142,430,46,17,NA,NA
+"181","FUT3, CD174, FT3B, FucT-III, LE, Les","rectangle",77,472,46,17,NA,NA
+"183","FUT3, CD174, FT3B, FucT-III, LE, Les","rectangle",142,354,46,17,NA,NA
+"186","ST3GAL3, DEE15, EIEE15, MRT12, SIAT6, ST3GALII, ST3Gal_III, ST3GalIII, ST3N","rectangle",277,265,46,17,"hsa:6487",100
+"187","ST3GAL4, CGS23, NANTA3, SAT3, SIAT4, SIAT4C, ST-4, ST3GalA.2, ST3GalIV, STZ, gal-NAc6S","rectangle",277,286,46,17,NA,NA
+"191","FUT3, CD174, FT3B, FucT-III, LE, Les","rectangle",399,276,46,17,NA,NA
+"236","A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK","rectangle",713,280,46,17,"hsa:53947",100
+"239","B3GALNT1, 3-GalNAc-T1, 3-GalTase, B3GALANT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P1, b3Gal-T3, beta-1, beta-3-Gx-T3, beta3Gal-T3, galT3","rectangle",713,316,46,17,NA,NA
+"245","B4GALNT2, B4GALT, GALGT2","rectangle",852,238,46,17,NA,NA
+"247","FUT3, CD174, FT3B, FucT-III, LE, Les","rectangle",784,472,46,17,NA,NA
+"251","FUT3, CD174, FT3B, FucT-III, LE, Les","rectangle",458,472,46,17,NA,NA
+"40","FUT9, Fuc-TIX","rectangle",873,587,46,17,NA,NA
+"41","FUT9, Fuc-TIX","rectangle",483,964,46,17,NA,NA
+"42","FUT9, Fuc-TIX","rectangle",483,893,46,17,NA,NA
+"43","FUT9, Fuc-TIX","rectangle",943,893,46,17,NA,NA
+"44","FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1","rectangle",653,912,46,17,NA,NA
+"45","FUT3, CD174, FT3B, FucT-III, LE, Les...","rectangle",627,893,46,17,NA,NA
+"46","FUT3, CD174, FT3B, FucT-III, LE, Les...","rectangle",433,893,46,17,NA,NA
+"47","FUT3, CD174, FT3B, FucT-III, LE, Les...","rectangle",433,964,46,17,NA,NA
+"48","FUT3, CD174, FT3B, FucT-III, LE, Les...","rectangle",825,587,46,17,NA,NA
+"49","FUT3, CD174, FT3B, FucT-III, LE, Les...","rectangle",893,893,46,17,NA,NA
+"50","B4GALT4, B4Gal-T4, beta4Gal-T4","rectangle",940,429,46,17,NA,NA
+"51","B4GALT3, beta4Gal-T3","rectangle",890,429,46,17,NA,NA
+"52","B4GALT4, B4Gal-T4, beta4Gal-T4","rectangle",537,203,46,17,NA,NA
+"53","B4GALT3, beta4Gal-T3","rectangle",489,203,46,17,NA,NA
+"54","B4GALT2, B4Gal-T2, B4Gal-T3, beta4Gal-T2","rectangle",537,182,46,17,NA,NA
+"55","FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1","rectangle",459,841,46,17,NA,NA
+"56","FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1","rectangle",653,841,46,17,NA,NA
+"57","FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1","rectangle",919,841,46,17,NA,NA
+"58","FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1","rectangle",653,483,46,17,NA,NA
+"59","FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1...","rectangle",852,203,46,17,NA,NA
+"60","FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1","rectangle",590,364,46,17,NA,NA
+"61","FUT3, CD174, FT3B, FucT-III, LE, Les...","rectangle",627,822,46,17,NA,NA
+"62","FUT3, CD174, FT3B, FucT-III, LE, Les...","rectangle",433,822,46,17,NA,NA
+"63","FUT3, CD174, FT3B, FucT-III, LE, Les...","rectangle",893,822,46,17,NA,NA
+"64","FUT3, CD174, FT3B, FucT-III, LE, Les...","rectangle",627,464,46,17,NA,NA
+"65","FUT3, CD174, FT3B, FucT-III, LE, Les...","rectangle",565,343,46,17,NA,NA

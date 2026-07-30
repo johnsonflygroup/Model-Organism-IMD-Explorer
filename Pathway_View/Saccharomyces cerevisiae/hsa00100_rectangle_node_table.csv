@@ -1,0 +1,66 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"100","HSD17B7, PRAP, SDR37C1","rectangle",373,575,46,17,NA,NA,NA,NA
+"131","CEL, BAL, BSDL, BSSL, CELL, CEase, FAP, FAPP, LIPA, MODY8...","rectangle",195,1052,46,17,"hsa:3988","3.1.1.13","LIPA",100
+"133","SOAT1, ACACT, ACAT, ACAT-1, ACAT1, SOAT, STAT...","rectangle",195,1075,46,17,NA,NA,NA,NA
+"137","CYP2R1","rectangle",63,1026,46,17,NA,NA,NA,NA
+"139","CYP27B1, CP2B, CYP1, CYP1alpha, CYP27B, P450c1, PDDR, VDD1, VDDR, VDDRI, VDR","rectangle",63,1082,46,17,NA,NA,NA,NA
+"142","K14424","rectangle",668,825,46,17,NA,NA,NA,NA
+"143","K14423","rectangle",668,475,46,17,NA,NA,NA,NA
+"144","K14424","rectangle",835,825,46,17,NA,NA,NA,NA
+"146","CYP24A1, CP24, CYP24, HCAI, HCINF1, P450-CC24","rectangle",88,1138,46,17,NA,NA,NA,NA
+"149","CYP24A1, CP24, CYP24, HCAI, HCINF1, P450-CC24","rectangle",144,1138,46,17,NA,NA,NA,NA
+"151","Steroid degradation","roundrectangle",359,1120,111,25,NA,NA,NA,NA
+"155","Terpenoid backbone biosynthesis","roundrectangle",373,59,119,34,NA,NA,NA,NA
+"157","FDFT1, DGPT, ERG9, SQS, SQSD, SS","rectangle",372,137,46,17,"hsa:2222","2.5.1.21","FDFT1",100
+"158","FDFT1, DGPT, ERG9, SQS, SQSD, SS","rectangle",372,195,46,17,"hsa:2222","2.5.1.21","FDFT1",100
+"160","SQLE","rectangle",347,256,46,17,NA,NA,NA,NA
+"163","DHCR24, DCE, Nbla03646, SELADIN1, seladin-1","rectangle",748,1075,46,17,"hsa:1718","1.3.1.72","DHCR24",0
+"167","K09832","rectangle",748,1126,46,17,NA,NA,NA,NA
+"168","K21146","rectangle",113,1026,46,17,NA,NA,NA,NA
+"169","K21146","rectangle",113,1082,46,17,NA,NA,NA,NA
+"170","CYP51A1, CP51, CYP51, CYPL1, LDM, P450-14DM, P450L1","rectangle",397,375,46,17,"hsa:1595","1.14.14.154; 1.14.15.36","CYP51A1",100
+"171","K23485","rectangle",397,256,46,17,NA,NA,NA,NA
+"174","K23558","rectangle",668,525,46,17,NA,NA,NA,NA
+"179","K23558","rectangle",668,876,46,17,NA,NA,NA,NA
+"180","K23558","rectangle",835,876,46,17,NA,NA,NA,NA
+"195","MSMO1, DESP4, ERG25, MCCPD, SC4MOL","rectangle",373,625,46,17,"hsa:6307","1.14.18.9","MSMO1",100
+"196","NSDHL, H105E3, SDR31E1, XAP104","rectangle",373,675,46,17,"hsa:50814","1.1.1.170","NSDHL",100
+"197","HSD17B7, PRAP, SDR37C1","rectangle",373,745,46,17,NA,NA,NA,NA
+"44","SC5D, ERG3, S5DES, SC5DL","rectangle",835,975,46,17,"hsa:6309","1.14.19.20","SC5D",100
+"45","EBP, CDPX2, CHO2, CPX, CPXD, MEND","rectangle",373,874,46,17,"hsa:10682","5.3.3.5","EBP",0
+"46","DHCR7, SLOS","rectangle",238,1026,46,17,"hsa:1717","1.3.1.21","DHCR7",0
+"47","SC5D, ERG3, S5DES, SC5DL","rectangle",238,975,46,17,"hsa:6309","1.14.19.20","SC5D",100
+"48","EBP, CDPX2, CHO2, CPX, CPXD, MEND","rectangle",238,874,46,17,"hsa:10682","5.3.3.5","EBP",0
+"49","K00223","rectangle",523,1075,46,17,NA,NA,NA,NA
+"50","K09831","rectangle",523,1026,46,17,NA,NA,NA,NA
+"51","SC5D, ERG3, S5DES, SC5DL","rectangle",523,975,46,17,"hsa:6309","1.14.19.20","SC5D",100
+"52","K09829","rectangle",523,925,46,17,NA,NA,NA,NA
+"53","Brassinosteroid biosynthesis","roundrectangle",669,1197,95,34,NA,NA,NA,NA
+"56","DHCR24, DCE, Nbla03646, SELADIN1, seladin-1","rectangle",668,1075,46,17,"hsa:1718","1.3.1.72","DHCR24",0
+"57","DHCR7, SLOS","rectangle",668,1026,46,17,"hsa:1717","1.3.1.21","DHCR7",0
+"58","SC5D, ERG3, S5DES, SC5DL","rectangle",668,975,46,17,"hsa:6309","1.14.19.20","SC5D",100
+"59","DHCR24, DCE, Nbla03646, SELADIN1, seladin-1","rectangle",306,1055,46,17,"hsa:1718","1.3.1.72","DHCR24",0
+"60","DHCR24, DCE, Nbla03646, SELADIN1, seladin-1","rectangle",306,1005,46,17,"hsa:1718","1.3.1.72","DHCR24",0
+"61","DHCR24, DCE, Nbla03646, SELADIN1, seladin-1","rectangle",306,954,46,17,"hsa:1718","1.3.1.72","DHCR24",0
+"62","DHCR24, DCE, Nbla03646, SELADIN1, seladin-1","rectangle",306,805,46,17,"hsa:1718","1.3.1.72","DHCR24",0
+"63","DHCR24, DCE, Nbla03646, SELADIN1, seladin-1","rectangle",306,455,46,17,"hsa:1718","1.3.1.72","DHCR24",0
+"64","K01853","rectangle",668,317,46,17,NA,NA,NA,NA
+"65","K08246","rectangle",668,625,46,17,NA,NA,NA,NA
+"67","DHCR24, DCE, Nbla03646, SELADIN1, seladin-1","rectangle",835,1075,46,17,"hsa:1718","1.3.1.72","DHCR24",0
+"68","CYP51A1, CP51, CYP51, CYPL1, LDM, P450-14DM, P450L1","rectangle",669,675,46,17,"hsa:1595","1.14.14.154; 1.14.15.36","CYP51A1",100
+"69","K08242","rectangle",750,805,46,17,NA,NA,NA,NA
+"70","TM7SF2, ANG1, C14SR, DHCR14A, NET47","rectangle",668,725,46,17,NA,NA,NA,NA
+"71","K00559","rectangle",668,395,46,17,NA,NA,NA,NA
+"72","DHCR7, SLOS","rectangle",835,1026,46,17,"hsa:1717","1.3.1.21","DHCR7",0
+"88","TITLE:Steroid biosynthesis","roundrectangle",130,58,180,25,NA,NA,NA,NA
+"89","LSS, APMR4, CTRCT44, HYPT14, OSC","rectangle",372,317,46,17,"hsa:4047","5.4.99.7","LSS",100
+"90","LBR, C14SR, DHCR14B, LMN2R, PHA, PHASK, TDRD18...","rectangle",373,425,46,17,"hsa:3930","1.3.1.70","LBR",100
+"91","EBP, CDPX2, CHO2, CPX, CPXD, MEND","rectangle",668,775,46,17,"hsa:10682","5.3.3.5","EBP",0
+"92","NSDHL, H105E3, SDR31E1, XAP104","rectangle",373,525,46,17,"hsa:50814","1.1.1.170","NSDHL",100
+"93","Primary bile acid biosynthesis","roundrectangle",237,1179,102,34,NA,NA,NA,NA
+"94","Steroid hormone biosynthesis","roundrectangle",383,1090,159,25,NA,NA,NA,NA
+"95","K09832","rectangle",835,1126,46,17,NA,NA,NA,NA
+"96","K00559","rectangle",523,848,46,17,NA,NA,NA,NA
+"97","DHCR24, DCE, Nbla03646, SELADIN1, seladin-1","rectangle",306,354,46,17,"hsa:1718","1.3.1.72","DHCR24",0
+"98","MSMO1, DESP4, ERG25, MCCPD, SC4MOL","rectangle",373,475,46,17,"hsa:6307","1.14.18.9","MSMO1",100
+"99","CYP51A1, CP51, CYP51, CYPL1, LDM, P450-14DM, P450L1","rectangle",347,375,46,17,"hsa:1595","1.14.14.154; 1.14.15.36","CYP51A1",100

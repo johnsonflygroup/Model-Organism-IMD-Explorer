@@ -1,0 +1,62 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","TRIM21, RNF81, RO52, Ro/SSA, SSA, SSA1...","rectangle",542,211,46,17,NA,NA
+"101","SNRPB, CCMS, COD, SNRPB1, Sm-B/B', SmB/B', SmB/SmB', snRNP-B","rectangle",636,149,46,17,NA,NA
+"102","SNRPD1, HsT2456, SMD1, SNRPD, Sm-D1...","rectangle",636,171,46,17,NA,NA
+"103","GRIN2A, EPND, FESD, GluN2A, LKS, NMDAR2A, NR2A","rectangle",701,149,46,17,"hsa:2903",0
+"104","ACTN4, ACTININ-4, FSGS, FSGS1...","rectangle",648,211,46,17,NA,NA
+"105","C1QA, C1QD1...","rectangle",701,211,46,17,NA,NA
+"106","SSB, LARP3, La, La/SSB","rectangle",595,211,46,17,NA,NA
+"107","GRIN2B, DEE27, EIEE27, GluN2B, MRD6, NMDAR2B, NR2B, NR3, hNR3","rectangle",701,171,46,17,"hsa:2904",0
+"221","TITLE:Systemic lupus erythematosus","roundrectangle",176,58,272,25,NA,NA
+"222",NA,"rectangle",943,201,46,38,NA,NA
+"223",NA,"rectangle",1050,153,92,34,NA,NA
+"37","102723407","rectangle",636,423,46,17,NA,NA
+"48","FCGR1A, CD64, CD64A, FCG1, FCGR1, FCRI, FcgammaRI, IGFR1...","rectangle",1078,601,46,17,NA,NA
+"49","FCGR1A, CD64, CD64A, FCG1, FCGR1, FCRI, FcgammaRI, IGFR1...","rectangle",1079,702,46,17,NA,NA
+"50","102723407","rectangle",1156,601,46,17,NA,NA
+"51","102723407","rectangle",1158,702,46,17,NA,NA
+"53","102723407","rectangle",1151,153,46,17,NA,NA
+"54","102723407","rectangle",817,449,46,17,NA,NA
+"55","ELANE, ELA2, GE, HLE, HNE, NE, PMN-E, SCN1","rectangle",1145,533,46,17,NA,NA
+"56","CTSG, CATG, CG","rectangle",1145,512,46,17,NA,NA
+"57","C5, C5D, C5a, C5b, CPAMD4, ECLZB","rectangle",965,386,46,17,NA,NA
+"58","C4B_2...","rectangle",943,191,46,17,NA,NA
+"59","C3, AHUS5, ARMD9, ASP, C3a, C3b, CPAMD1, HEL-S-62p","rectangle",943,273,46,17,NA,NA
+"60","C2, ARMD14, CO2","rectangle",943,212,46,17,NA,NA
+"61","C1S, EDSPD2","rectangle",1027,162,46,17,NA,NA
+"62","C1QA, C1QD1...","rectangle",1073,153,46,17,NA,NA
+"63","C1R, EDS8, EDSPD1","rectangle",1027,145,46,17,NA,NA
+"64","C6","rectangle",1109,386,46,17,NA,NA
+"65","C7","rectangle",1158,386,46,17,NA,NA
+"66","C8A...","rectangle",1109,407,46,17,NA,NA
+"67","C5, C5D, C5a, C5b, CPAMD4, ECLZB...","rectangle",1250,355,46,17,NA,NA
+"68","C9, ARMD15, C9D","rectangle",1158,407,46,17,NA,NA
+"69","TNF, DIF, IMD127, TNF-alpha, TNFA, TNFSF2, TNLG1F","rectangle",550,531,46,17,NA,NA
+"70","IFNG, IFG, IFI, IMD69","rectangle",550,558,46,17,NA,NA
+"71","IL10, CSIF, GVHDS, IL-10, IL10A, TGIF","rectangle",550,580,46,17,NA,NA
+"72","C1QA, C1QD1...","rectangle",700,647,46,17,NA,NA
+"73","C4B_2...","rectangle",753,647,46,17,NA,NA
+"74","C1QA, C1QD1...","rectangle",279,150,46,17,NA,NA
+"75","C4B_2...","rectangle",332,150,46,17,NA,NA
+"76","C2, ARMD14, CO2","rectangle",306,127,46,17,NA,NA
+"77","C2, ARMD14, CO2","rectangle",726,670,46,17,NA,NA
+"78","CD80, B7, B7-1, B7.1, BB1, CD28LG, CD28LG1, LAB7...","rectangle",206,480,46,17,NA,NA
+"79","CD28, IMD123, Tp44","rectangle",288,480,46,17,NA,NA
+"80","HLA-DMA, D6S222E, DMA, HLADM, RING6...","rectangle",206,457,46,17,NA,NA
+"81","K10784...","rectangle",288,457,46,17,NA,NA
+"82","HLA-DMA, D6S222E, DMA, HLADM, RING6...","rectangle",594,481,46,17,NA,NA
+"83","K10784...","rectangle",513,481,46,17,NA,NA
+"84","CD40LG, CD154, CD40L, HIGM1, IGM, IMD3, T-BAM, TNFSF5, TRAP, gp39, hCD40L","rectangle",513,455,46,17,NA,NA
+"85","CD40, Bp50, CDW40, TNFRSF5, p50","rectangle",594,455,46,17,NA,NA
+"86","T cell receptor signaling pathway","roundrectangle",343,389,113,34,NA,NA
+"87","Cell adhesion molecule (CAM) interaction","roundrectangle",539,388,113,34,NA,NA
+"88","Antigen processing and presentation","roundrectangle",242,562,113,34,NA,NA
+"89","Cytokine-cytokine receptor interaction","roundrectangle",394,636,113,34,NA,NA
+"90","JAK-STAT signaling pathway","roundrectangle",394,703,113,34,NA,NA
+"91","Complement and coagulation cascades","roundrectangle",1068,213,113,34,NA,NA
+"92","Leukocyte transendothelial migration","roundrectangle",898,655,113,45,NA,NA
+"93","B cell receptor signaling pathway","roundrectangle",703,348,113,34,NA,NA
+"96","H2AL3, H2A.L.3, H2AL1RP...","rectangle",519,149,46,17,NA,NA
+"97","102724334...","rectangle",571,149,46,17,NA,NA
+"98","H3C14, H3, H3.2, H3/M, H3C13, H3C15, H3F2, H3FM, H3FN, HIST2H3C...","rectangle",519,171,46,17,NA,NA
+"99","H4C16, H4-16, H4/p, H4C1, H4C11, H4C12, H4C13, H4C14, H4C15, H4C2, H4C3, H4C4, H4C5, H4C6, H4C8, H4C9, HIST4H4...","rectangle",571,171,46,17,NA,NA

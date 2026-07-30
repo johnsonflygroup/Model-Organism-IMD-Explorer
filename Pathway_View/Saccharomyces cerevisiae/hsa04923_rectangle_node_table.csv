@@ -1,0 +1,51 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"10","ADCY1, AC1, DFNB44...","rectangle",278,271,46,17,NA,NA,NA,NA
+"100","FABP4, A-FABP, AFABP, ALBP, HEL-S-104, aP2","rectangle",952,206,46,17,NA,NA,NA,NA
+"101","FABP4, A-FABP, AFABP, ALBP, HEL-S-104, aP2","rectangle",952,316,46,17,NA,NA,NA,NA
+"102","FABP4, A-FABP, AFABP, ALBP, HEL-S-104, aP2","rectangle",952,395,46,17,NA,NA,NA,NA
+"11","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",511,271,46,17,NA,NA,NA,NA
+"113","CGA, CG-ALPHA, FSHA, GPA1, GPHA1, GPHa, HCG, LHA, TSHA...","rectangle",170,171,46,17,NA,NA,NA,NA
+"116","NPY1R, NPY1-R, NPYR","rectangle",278,836,46,17,NA,NA,NA,NA
+"117","NPY, PYY4","rectangle",170,836,46,17,NA,NA,NA,NA
+"121","LIPE, AOMS4, FPLD6, HSL, LHS, REH","rectangle",645,322,46,17,"hsa:3991","3.1.1.79","LIPE",0
+"125","cAMP signaling pathway","roundrectangle",540,860,128,34,NA,NA,NA,NA
+"126","Arachidonic acid metabolism","roundrectangle",500,702,109,34,NA,NA,NA,NA
+"129","AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...","rectangle",527,619,46,17,"hsa:208","2.7.11.1","AKT2",0
+"131","NPPA, ANF, ANP, ATFB6, ATRST2, CDD, CDD-ANF, CDP, PND","rectangle",170,363,46,17,NA,NA,NA,NA
+"133","CIDEC, CIDE-3, CIDE3, FPLD5, FSP27","rectangle",696,721,46,17,NA,NA,NA,NA
+"134","CIDEC, CIDE-3, CIDE3, FPLD5, FSP27","rectangle",698,205,46,17,NA,NA,NA,NA
+"135","G0S2","rectangle",767,699,46,17,NA,NA,NA,NA
+"16","ADRB1, ADRB1R, B1AR, BETA1AR, FNSS2, RHR...","rectangle",278,214,46,17,NA,NA,NA,NA
+"19","LIPE, AOMS4, FPLD6, HSL, LHS, REH","rectangle",776,322,46,17,"hsa:3991","3.1.1.79","LIPE",0
+"23","NPR1, ANPRA, ANPa, GUC2A, GUCY2A, NPRA","rectangle",278,363,46,17,NA,NA,NA,NA
+"24","PRKG1, AAT8, PKG, PKG1, PRKG1B, PRKGR1B, cGK, cGK 1, cGK1, cGKI, cGKI-BETA, cGKI-alpha...","rectangle",515,363,46,17,NA,NA,NA,NA
+"25","cAMP signaling pathway","roundrectangle",501,233,128,34,NA,NA,NA,NA
+"30","cGMP-PKG signaling pathway","roundrectangle",512,399,128,34,NA,NA,NA,NA
+"31","PLIN1, FPLD4, PERI, PLIN","rectangle",698,222,46,17,"hsa:5346",NA,"PLIN1",0
+"32","AQP7B...","rectangle",278,459,46,17,NA,NA,NA,NA
+"35","Glycerolipid metabolism","roundrectangle",888,274,124,34,NA,NA,NA,NA
+"40","MGLL, HU-K5, HUK5, MAGL, MGL","rectangle",776,426,46,17,NA,NA,NA,NA
+"44","PNPLA2, 1110001C14Rik, ATGL, FP17548, PEDF-R, TTS-2.2, TTS2, iPLA2zeta","rectangle",776,227,46,17,"hsa:57104","3.1.1.3","PNPLA2",0
+"45","ABHD5, CGI58, IECN2, NCIE2","rectangle",759,244,46,17,"hsa:51099","2.3.1.51","ABHD5",100
+"46","PTGER3, EP3, EP3-I, EP3-II, EP3-III, EP3-IV, EP3-VI, EP3e, PGE2-R, lnc003875","rectangle",278,796,46,17,NA,NA,NA,NA
+"47","GNAI1, Gi, HG1B, NEDHISB...","rectangle",387,800,46,17,NA,NA,NA,NA
+"48","ADCY1, AC1, DFNB44...","rectangle",278,896,46,17,NA,NA,NA,NA
+"49","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",514,896,46,17,NA,NA,NA,NA
+"61","INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10, PNDM4","rectangle",170,619,46,17,"hsa:3630",NA,"INS",0
+"62","INSR, CD220, HHF5","rectangle",278,619,46,17,"hsa:3643","2.7.10.1","INSR",0
+"64","PDE3B, HcGIP1, cGIPDE1","rectangle",473,807,46,17,NA,NA,NA,NA
+"65","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",430,619,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296","2.7.1.153","PIK3CA; PIK3CD; PIK3R1; PIK3R2",0
+"67","IRS1, HIRS-1...","rectangle",356,619,46,17,NA,NA,NA,NA
+"69","Insulin signaling pathway","roundrectangle",483,585,128,34,NA,NA,NA,NA
+"70","PLAAT3, AdPLA, FPLD9, H-REV107, H-REV107-1, HRASLS3, HREV107, HREV107-1, HREV107-3, HRSL3, PLA2G16, PLAAT-3...","rectangle",355,680,46,17,NA,NA,NA,NA
+"76","PTGS1, COX1, COX3, PCOX1, PES-1, PGG/HS, PGHS-1, PGHS1, PHS1, PTGHS...","rectangle",409,705,46,17,NA,NA,NA,NA
+"78","LIPE, AOMS4, FPLD6, HSL, LHS, REH","rectangle",642,834,46,17,"hsa:3991","3.1.1.79","LIPE",0
+"79","PLIN1, FPLD4, PERI, PLIN","rectangle",696,738,46,17,"hsa:5346",NA,"PLIN1",0
+"8","TITLE:Regulation of lipolysis in adipocytes","roundrectangle",212,58,344,25,NA,NA,NA,NA
+"80","Glycerolipid metabolism","roundrectangle",883,773,124,34,NA,NA,NA,NA
+"83","MGLL, HU-K5, HUK5, MAGL, MGL","rectangle",776,920,46,17,NA,NA,NA,NA
+"84","PNPLA2, 1110001C14Rik, ATGL, FP17548, PEDF-R, TTS-2.2, TTS2, iPLA2zeta","rectangle",769,737,46,17,"hsa:57104","3.1.1.3","PNPLA2",0
+"85","ABHD5, CGI58, IECN2, NCIE2","rectangle",752,754,46,17,"hsa:51099","2.3.1.51","ABHD5",100
+"88","ADORA1, RDC7","rectangle",278,760,46,17,NA,NA,NA,NA
+"9","GNAS, AHO, AIMAH1, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI","rectangle",384,214,46,17,NA,NA,NA,NA
+"91","TSHR, CHNG1, LGR3, hTSHR-I","rectangle",278,171,46,17,NA,NA,NA,NA

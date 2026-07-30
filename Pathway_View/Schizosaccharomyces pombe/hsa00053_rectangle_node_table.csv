@@ -1,0 +1,66 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","Citrate cycle (TCA cycle)","roundrectangle",1149,223,76,25,NA,NA
+"101","Amino sugar and nucleotide sugar metabolism","roundrectangle",1135,742,95,34,NA,NA
+"102","K13875","rectangle",1190,472,46,17,NA,NA
+"103","K01706","rectangle",973,99,46,17,NA,NA
+"105","K13874...","rectangle",1190,561,46,17,NA,NA
+"124","K18981","rectangle",973,532,46,17,NA,NA
+"129","K18983","rectangle",1024,265,46,17,NA,NA
+"130","K18982","rectangle",973,337,46,17,NA,NA
+"132","K00103","rectangle",624,287,46,17,NA,NA
+"143","K00880","rectangle",829,397,46,17,NA,NA
+"144","K08092","rectangle",829,585,46,17,NA,NA
+"148","K02821...","rectangle",753,444,46,17,NA,NA
+"149","K03476","rectangle",753,360,46,17,NA,NA
+"152","K00225","rectangle",645,581,46,17,NA,NA
+"153","K21888","rectangle",677,554,46,17,NA,NA
+"154","K00434","rectangle",747,509,46,17,NA,NA
+"155","K00423","rectangle",595,581,46,17,NA,NA
+"156","K08232","rectangle",731,538,46,17,NA,NA
+"175","K03077","rectangle",898,503,46,17,NA,NA
+"176","K03078","rectangle",853,311,46,17,NA,NA
+"177","K03079","rectangle",898,367,46,17,NA,NA
+"181","K13873...","rectangle",1214,652,46,17,NA,NA
+"185","K23004","rectangle",408,607,46,17,NA,NA
+"189","K23003","rectangle",371,538,46,17,NA,NA
+"190","K23007...","rectangle",556,662,46,17,NA,NA
+"192","AKR1A1, ALDR1, ALR, ARM, DD3, HEL-S-6","rectangle",430,238,46,17,NA,NA
+"196","UGT2B11...","rectangle",267,134,46,17,"hsa:54658",0
+"197","GUSB, BG, MPS7...","rectangle",394,135,46,17,"hsa:2990",0
+"198","Pentose and glucuronate interconversions","roundrectangle",315,255,139,34,NA,NA
+"205","K08679","rectangle",238,670,46,17,NA,NA
+"217","K14259","rectangle",1081,374,46,17,NA,NA
+"218","K01683","rectangle",1080,472,46,17,NA,NA
+"222","K00062","rectangle",1055,662,46,17,NA,NA
+"223","K00063","rectangle",1105,662,46,17,NA,NA
+"226","K00107","rectangle",1035,609,46,17,NA,NA
+"227","K19590","rectangle",1081,643,46,17,NA,NA
+"229","K25260","rectangle",1265,540,46,17,NA,NA
+"29","K19642","rectangle",455,662,46,17,NA,NA
+"30","HSD17B14, DHRS10, SDR47C1, retSDR3","rectangle",460,471,46,17,NA,NA
+"31","K10047...","rectangle",325,482,46,17,NA,NA
+"32","K14190","rectangle",287,445,46,17,NA,NA
+"33","K10046","rectangle",288,378,46,17,NA,NA
+"34","K10046","rectangle",238,415,46,17,NA,NA
+"35","K10046","rectangle",238,337,46,17,NA,NA
+"36","MIOX, ALDRL6","rectangle",487,151,46,17,NA,NA
+"37","K16190","rectangle",394,194,46,17,NA,NA
+"39","UGDH, DEE84, EIEE84, GDH, UDP-GlcDH, UDPGDH, UGD","rectangle",191,229,46,17,"hsa:7358",0
+"54","TITLE:Ascorbate and aldarate metabolism","roundrectangle",200,58,320,25,NA,NA
+"55","RGN, GNL, HEL-S-41, RC, SMP30","rectangle",514,276,46,17,NA,NA
+"56","Fructose and mannose metabolism","roundrectangle",192,533,128,34,NA,NA
+"58","K00225","rectangle",623,471,46,17,NA,NA
+"70","UGT2B11...","rectangle",325,164,46,17,"hsa:54658",0
+"71","Amino sugar and nucleotide sugar metabolism","roundrectangle",129,310,156,34,NA,NA
+"74","K12447","rectangle",267,204,46,17,NA,NA
+"75","K17744","rectangle",460,492,46,17,NA,NA
+"77","ALDH2, ALDH-E2, ALDHI, ALDM...","rectangle",721,194,46,17,"hsa:219;hsa:224;hsa:501",100
+"91","Glyoxylate and dicarboxylate metabolism","roundrectangle",970,145,139,34,NA,NA
+"92","Pentose and glucuronate interconversions","roundrectangle",510,807,133,34,NA,NA
+"93","K01630","rectangle",1153,99,46,17,NA,NA
+"94","K01706","rectangle",973,194,46,17,NA,NA
+"95","K01630","rectangle",1153,194,46,17,NA,NA
+"96","K01708...","rectangle",973,229,46,17,NA,NA
+"97","K01707","rectangle",1081,281,46,17,NA,NA
+"98","K13877...","rectangle",1150,310,46,17,NA,NA
+"99","K13876","rectangle",1190,374,46,17,NA,NA

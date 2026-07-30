@@ -1,0 +1,140 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"14","MYD88, IMD68, MYD88D, WM1","rectangle",627,337,46,17,NA,NA
+"181","NFKB1, CVID12, EBP-1, KBF1, NF-kB, NF-kB1, NF-kappa-B1, NF-kappaB, NF-kappabeta, NFKB-p105, NFKB-p50, NFkappaB...","rectangle",1076,309,46,17,NA,NA
+"185","IL12A, CLMF, IL-12A, NFSK, NKSF1, P35...","rectangle",1287,292,46,17,NA,NA
+"189","NF-kappa B signaling pathway","roundrectangle",925,456,112,34,NA,NA
+"195","Apoptosis","roundrectangle",871,691,109,25,NA,NA
+"197","Hepatocellular carcinoma","roundrectangle",1507,1283,122,34,NA,NA
+"20","TRAF3, CAP-1, CAP1, CD40bp, CRAF1, IIAE5, LAP1, RNF118","rectangle",798,398,46,17,NA,NA
+"200","PRKAG2, AAKG, AAKG2, CMH6, H91620p, WPWS...","rectangle",668,1085,46,17,"hsa:51422",0
+"204","FOXO1, FKH1, FKHR, FOXO1A...","rectangle",936,1039,46,17,NA,NA
+"205","FOXO1, FKH1, FKHR, FOXO1A...","rectangle",936,1128,46,17,NA,NA
+"209","SIRT1, SIR2, SIR2L1, SIR2alpha","rectangle",981,1085,46,17,NA,NA
+"210","PPARGC1A, LEM6, PGC-1(alpha), PGC-1alpha, PGC-1v, PGC1, PGC1A, PPARGC1","rectangle",1020,1143,46,17,NA,NA
+"211","PPARGC1A, LEM6, PGC-1(alpha), PGC-1alpha, PGC-1v, PGC1, PGC1A, PPARGC1","rectangle",1020,1048,46,17,NA,NA
+"213","ADIPOR1, ACDCR1, CGI-45, CGI45, PAQR1, TESBP1A...","rectangle",437,1085,46,17,NA,NA
+"214","CAMKK2, CAMKK, CAMKKB","rectangle",577,1085,46,17,NA,NA
+"217","ACACA, ACAC, ACACAD, ACACalpha, ACC, ACC1, ACCA, ACCalpha, Acac1, hACC1","rectangle",830,1255,46,17,"hsa:31",100
+"223","CPT1C, CATL1, CPT_I-C, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73...","rectangle",956,1320,46,17,"hsa:126129;hsa:1374",0
+"230","SREBF1, HMD, IFAP2, SREBP1, bHLHd1","rectangle",936,889,46,17,NA,NA
+"233","FASN, FAS, OA-519, SDR27X1","rectangle",1349,870,46,17,NA,NA
+"234","ACACA, ACAC, ACACAD, ACACalpha, ACC, ACC1, ACCA, ACCalpha, Acac1, hACC1","rectangle",1349,892,46,17,"hsa:31",100
+"235","SCD, FADS5, MSTP008, SCD1, SCDOS, hSCD1...","rectangle",1349,914,46,17,NA,NA
+"236","ACACB, ACACbeta, ACC-beta, ACC2, ACCB, ACCbeta, HACC275","rectangle",956,1227,46,17,"hsa:32",100
+"244","Biosynthesis of unsaturated fatty acids","roundrectangle",1475,835,122,34,NA,NA
+"245","Fatty acid biosynthesis","roundrectangle",1345,834,122,34,NA,NA
+"246","Adipocytokine signaling pathway","roundrectangle",359,1049,112,34,NA,NA
+"250","MLYCD, MCD","rectangle",830,1310,46,17,"hsa:23417",0
+"254","AMPK signaling pathway","roundrectangle",638,1047,112,34,NA,NA
+"258","TNF signaling pathway","roundrectangle",342,821,112,34,NA,NA
+"259","CASP3, CPP32, CPP32B, SCA-1","rectangle",936,725,46,17,NA,NA
+"26","IFNB1, IFB, IFF, IFN-beta, IFNB","rectangle",1287,398,46,17,NA,NA
+"260","CASP8, ALPS2B, CAP4, Casp-8, FLICE, MACH, MCH5","rectangle",808,725,46,17,NA,NA
+"261","RIPK1, AIEFL, IMD57, RIP, RIP-1, RIP1","rectangle",634,792,46,17,NA,NA
+"262","TRADD, Hs.89862","rectangle",634,775,46,17,NA,NA
+"263","FADD, GIG3, IMD90, MORT1","rectangle",634,734,46,17,NA,NA
+"264","TRADD, Hs.89862","rectangle",634,717,46,17,NA,NA
+"265","FADD, GIG3, IMD90, MORT1","rectangle",634,676,46,17,NA,NA
+"266","TNFRSF1A, CD120a, FPF, TBP1, TNF-R, TNF-R-I, TNF-R55, TNFAR, TNFR1, TNFR55, TNFR60, p55, p55-R, p60","rectangle",437,784,46,17,NA,NA
+"267","FAS, ALPS1A, APO-1, APT1, CD95, FAS1, FASTM, TNFRSF6","rectangle",437,676,46,17,NA,NA
+"268","TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F","rectangle",347,784,46,17,NA,NA
+"269","FASLG, ALPS1B, APT1LG1, APTL, CD178, CD95-L, CD95L, FASL, TNFSF6, TNLG1A","rectangle",347,676,46,17,NA,NA
+"27","IFNA1, IFL, IFN, IFN-ALPHA, IFN-alphaD, IFNA13, IFNA@, leIF_D...","rectangle",1287,375,46,17,NA,NA
+"277","AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...","rectangle",842,1517,46,17,"hsa:208",0
+"278","MAPK8, JNK, JNK-46, JNK1, JNK1A2, JNK21B1/2, PRKM8, SAPK1, SAPK1c...","rectangle",1039,1563,46,17,NA,NA
+"279","NFKB1, CVID12, EBP-1, KBF1, NF-kB, NF-kB1, NF-kappa-B1, NF-kappaB, NF-kappabeta, NFKB-p105, NFKB-p50, NFkappaB...","rectangle",1039,1707,46,17,NA,NA
+"280","MAP3K14, FTDCR1B, HS, HSNIK, IMD112, NIK","rectangle",840,1677,46,17,NA,NA
+"281","MAP3K5, ASK1, MAPKKK5, MEKK5","rectangle",840,1563,46,17,NA,NA
+"282","MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA...","rectangle",1039,1632,46,17,NA,NA
+"285","MAP2K7, JNKK2, MAPKK7, MEK, MEK_7, MKK7, PRKMK7, SAPKK-4, SAPKK4...","rectangle",936,1563,46,17,NA,NA
+"287","NFKBIA, EDAID2, IKBA, MAD-3, NFKBI","rectangle",1039,1677,46,17,NA,NA
+"290","CHUK, BPS2, IKBKA, IKK-1, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16...","rectangle",936,1677,46,17,NA,NA
+"299","NF-kappa B signaling pathway","roundrectangle",885,1712,112,34,NA,NA
+"302","NOX4, KOX, KOX-1, RENOX","rectangle",437,1486,46,17,NA,NA
+"306","MAP3K7, CSCF, FMD2, MEKK7, TAK1, TGF1a","rectangle",808,775,46,17,NA,NA
+"307","TAB3, MAP3K7IP3, NAP1","rectangle",808,809,46,17,NA,NA
+"308","TAB2, CHTD2, MAP3K7IP2, TAB-2","rectangle",808,792,46,17,NA,NA
+"309","NFKBIA, EDAID2, IKBA, MAD-3, NFKBI","rectangle",1047,792,46,17,NA,NA
+"31","MAP3K7, CSCF, FMD2, MEKK7, TAK1, TGF1a","rectangle",883,337,46,17,NA,NA
+"310","CHUK, BPS2, IKBKA, IKK-1, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16...","rectangle",936,792,46,17,NA,NA
+"317","NFKB1, CVID12, EBP-1, KBF1, NF-kB, NF-kB1, NF-kappa-B1, NF-kappaB, NF-kappabeta, NFKB-p105, NFKB-p50, NFkappaB...","rectangle",1047,764,46,17,NA,NA
+"322","IL-17 signaling pathway","roundrectangle",766,457,104,34,NA,NA
+"33","IRAK1, IRAK, pelle","rectangle",714,345,46,17,NA,NA
+"331","CYP2E1, CPE1, CYP2E, P450-J, P450C2E","rectangle",528,1295,46,17,NA,NA
+"343","CCND1, BCL1, D11S287E, PRAD1, U21B31","rectangle",1349,1517,46,17,NA,NA
+"344","LEF1, LEF-1, TCF10, TCF1ALPHA, TCF7L3...","rectangle",1213,1517,46,17,NA,NA
+"345","CTNNB1, CTNNB, EVR7, MRD19, NEDSDV, armadillo","rectangle",1039,1517,46,17,NA,NA
+"346","GSK3B","rectangle",936,1516,46,17,NA,NA
+"35","CXCL8, GCP-1, GCP1, IL8, LECT, LUCT, LYNAP, MDNCF, MONAP, NAF, NAP-1, NAP1, SCYB8","rectangle",1287,323,46,17,NA,NA
+"356","MAP2K3, MAPKK3, MEK3, MKK3, PRKMK3, SAPKK-2, SAPKK2...","rectangle",936,1631,46,17,NA,NA
+"36","TIRAP, BACTS1, Mal, MyD88-2, wyatt","rectangle",627,320,46,17,NA,NA
+"362","MAPK signaling pathway","roundrectangle",985,1597,112,34,NA,NA
+"363","Wnt signaling pathway","roundrectangle",1066,1464,112,34,NA,NA
+"367","C3, AHUS5, ARMD9, ASP, C3a, C3b, CPAMD1, HEL-S-62p","rectangle",284,155,46,17,NA,NA
+"368","C5, C5D, C5a, C5b, CPAMD4, ECLZB","rectangle",307,213,46,17,NA,NA
+"372","C5AR1, C5A, C5AR, C5R1, CD88","rectangle",536,213,46,17,NA,NA
+"373","C3AR1, AZ3B, C3AR, HNFAG09","rectangle",536,155,46,17,NA,NA
+"383","Toll-like receptor signaling pathway","roundrectangle",457,396,113,34,NA,NA
+"384","ADIPOQ, ACDC, ACRP30, ADIPQTL1, ADPN, APM-1, APM1, GBP28","rectangle",347,1085,46,17,NA,NA
+"386","IL17A, CTLA-8, CTLA8, IL-17, IL-17A, IL17, ILA17","rectangle",443,482,46,17,NA,NA
+"387","IL17RA, CANDF5, CD217, CDw217, IL-17RA, IL17R, IMD51, hIL-17R","rectangle",536,473,46,17,NA,NA
+"388","IL17RC, CANDF9, IL17-RL, IL17RL","rectangle",536,490,46,17,NA,NA
+"389","CXCL8, GCP-1, GCP1, IL8, LECT, LUCT, LYNAP, MDNCF, MONAP, NAF, NAP-1, NAP1, SCYB8","rectangle",1287,442,46,17,NA,NA
+"390","CXCL1, FSP, GRO1, GROa, MGSA, MGSA-a, NAP-3, SCYB1...","rectangle",1287,465,46,17,NA,NA
+"394","NFKBIA, EDAID2, IKBA, MAD-3, NFKBI","rectangle",1076,482,46,17,NA,NA
+"397","NFKB1, CVID12, EBP-1, KBF1, NF-kB, NF-kB1, NF-kappa-B1, NF-kappaB, NF-kappabeta, NFKB-p105, NFKB-p50, NFkappaB...","rectangle",1076,454,46,17,NA,NA
+"40","IL1B, IL-1, IL1-BETA, IL1F2, IL1beta","rectangle",1287,250,46,17,NA,NA
+"402","Alcoholism","roundrectangle",203,485,109,25,NA,NA
+"41","TBK1, AIARV, FTDALS4, IIAE8, NAK, T2K","rectangle",883,398,46,17,"hsa:29110",0
+"411","C1QA, C1QD1...","rectangle",148,275,46,17,NA,NA
+"413","C4B_2...","rectangle",203,230,46,17,NA,NA
+"414","C2, ARMD14, CO2","rectangle",127,230,46,17,NA,NA
+"42","TRAF6, MGC:3310, RNF85","rectangle",798,337,46,17,NA,NA
+"420","TRAF6, MGC:3310, RNF85","rectangle",798,381,46,17,NA,NA
+"424","ADH1A, ADH1...","rectangle",528,1244,46,17,NA,NA
+"425","ALDH2, ALDH-E2, ALDHI, ALDM...","rectangle",528,1204,46,17,"hsa:219;hsa:224;hsa:501",100
+"427","LPIN1, PAP1...","rectangle",1349,939,46,17,"hsa:23175;hsa:9663",100
+"429","MIR217, MIRN217, mir-217","rectangle",548,946,46,17,NA,NA
+"43","IKBKE, IKK-E, IKK-i, IKKE, IKKI","rectangle",883,381,46,17,NA,NA
+"430","SIRT1, SIR2, SIR2L1, SIR2alpha","rectangle",677,938,46,17,NA,NA
+"431","TRA2A, AWMS1, HSU53209...","rectangle",677,960,46,17,NA,NA
+"433","PPARA, NR1C1, PPAR, PPAR-alpha, PPARalpha, hPPAR","rectangle",1213,1031,46,17,NA,NA
+"434","CPT1A, CPT1, CPT1-L, L-CPT1","rectangle",1349,1004,46,17,"hsa:1374",0
+"435","ACADVL, ACAD6, LCACD, VLCAD","rectangle",1349,1026,46,17,"hsa:37",0
+"436","ACADM, ACAD1, MCAD, MCADH","rectangle",1349,1050,46,17,"hsa:34",0
+"437","ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...","rectangle",1349,1074,46,17,"hsa:51",0
+"438","FABP1, FABPL, L-FABP","rectangle",1349,1097,46,17,NA,NA
+"439","Fatty acid degradation","roundrectangle",1349,1132,122,34,NA,NA
+"442","PPARGC1A, LEM6, PGC-1(alpha), PGC-1alpha, PGC-1v, PGC1, PGC1A, PPARGC1","rectangle",1213,1048,46,17,NA,NA
+"444","LPIN1, PAP1...","rectangle",1195,988,46,17,"hsa:23175;hsa:9663",100
+"447","SREBF1, HMD, IFAP2, SREBP1, bHLHd1","rectangle",1211,889,46,17,NA,NA
+"45","IL6, BSF-2, BSF2, CDF, HGF, HSF, IFN-beta-2, IFNB2, IL-6","rectangle",1287,271,46,17,NA,NA
+"450","LPIN1, PAP1...","rectangle",936,960,46,17,"hsa:23175;hsa:9663",100
+"453","LPIN1, PAP1...","rectangle",1020,940,46,17,"hsa:23175;hsa:9663",100
+"460","Spliceosome","roundrectangle",638,991,114,25,NA,NA
+"466","CHUK, BPS2, IKBKA, IKK-1, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16...","rectangle",981,337,46,17,NA,NA
+"47","TAB1, 3'-Tab1, MAP3K7IP1","rectangle",883,303,46,17,NA,NA
+"470",NA,"rectangle",627,328,46,34,NA,NA
+"471",NA,"rectangle",714,336,46,34,NA,NA
+"472",NA,"rectangle",883,320,46,51,NA,NA
+"473",NA,"rectangle",883,389,46,34,NA,NA
+"474",NA,"rectangle",808,792,46,51,NA,NA
+"475",NA,"rectangle",513,332,92,27,NA,NA
+"476",NA,"rectangle",798,389,46,34,NA,NA
+"477",NA,"rectangle",536,481,46,34,NA,NA
+"478",NA,"rectangle",634,725,46,34,NA,NA
+"479",NA,"rectangle",634,783,46,34,NA,NA
+"480",NA,"rectangle",1213,1039,46,34,NA,NA
+"49","TAB2, CHTD2, MAP3K7IP2, TAB-2","rectangle",883,320,46,17,NA,NA
+"51","NFKBIA, EDAID2, IKBA, MAD-3, NFKBI","rectangle",1076,337,46,17,NA,NA
+"52","TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F","rectangle",1287,229,46,17,NA,NA
+"53","IRF3, IIAE7","rectangle",1076,398,46,17,NA,NA
+"56","LY96, ESOP-1, MD-2, MD2, ly-96","rectangle",490,327,46,17,NA,NA
+"62","LBP, BPIFD2","rectangle",455,273,46,17,NA,NA
+"64","TLR4, ARMD10, CD284, TLR-4, TOLL","rectangle",536,337,46,17,NA,NA
+"67","TICAM1, IIAE6, MyD88-3, PRVTIRB, TICAM-1, TRIF","rectangle",714,398,46,17,NA,NA
+"69","CD14","rectangle",536,288,46,17,NA,NA
+"71","IRAK4, IMD67, IPD1, IRAK-4, NY-REN-64, REN64","rectangle",714,328,46,17,NA,NA
+"73","TITLE:Alcoholic liver disease","roundrectangle",159,58,238,25,NA,NA
+"76","Complement and coagulation cascades","roundrectangle",310,248,126,34,NA,NA
+"80","Lipopolysaccharide biosynthesis","roundrectangle",395,324,113,34,NA,NA

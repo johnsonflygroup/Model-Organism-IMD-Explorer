@@ -1,0 +1,47 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"17","CD74, CLIP, DHLAG, HLADG, II, Ia-GAMMA, p33","rectangle",489,576,46,17,NA,NA
+"18","CD74, CLIP, DHLAG, HLADG, II, Ia-GAMMA, p33","rectangle",371,576,46,17,NA,NA
+"19","HLA-DMA, D6S222E, DMA, HLADM, RING6...","rectangle",557,553,46,17,NA,NA
+"20","NFYA, CBF-A, CBF-B, HAP2, NF-YA...","rectangle",336,771,46,17,NA,NA
+"21","RFX5, MHC2D3, MHC2D5...","rectangle",336,731,46,17,NA,NA
+"22","CREB1, CREB, CREB-1","rectangle",336,751,46,17,NA,NA
+"23","CIITA, C2TA, CIITAIV, MHC2D1, MHC2TA, NLRA","rectangle",230,761,46,17,NA,NA
+"24","CTSB, APPS, CPSB, KWE, RECEUP...","rectangle",427,563,46,17,"hsa:1508",100
+"25","LGMN, AEP, LGMN1, PRSC1","rectangle",311,564,46,17,NA,NA
+"26","CD74, CLIP, DHLAG, HLADG, II, Ia-GAMMA, p33","rectangle",457,782,46,17,NA,NA
+"27","CD74, CLIP, DHLAG, HLADG, II, Ia-GAMMA, p33","rectangle",255,576,46,17,NA,NA
+"28","CTSB, APPS, CPSB, KWE, RECEUP","rectangle",355,453,46,17,"hsa:1508",100
+"29","LGMN, AEP, LGMN1, PRSC1","rectangle",305,453,46,17,NA,NA
+"30","IFI30, GILT, IFI-30, IP-30, IP30","rectangle",255,453,46,17,NA,NA
+"31","K10784...","rectangle",769,593,46,17,NA,NA
+"32","K10784...","rectangle",769,231,46,17,NA,NA
+"33","CD4, CD4mut, IMD79, Leu-3, OKT4D, T4","rectangle",769,572,46,17,NA,NA
+"34","KIR2DS2, 183ActI, CD158J, CD158b, KIR-2DS2, KIR2DL1, NKAT-5, NKAT5, cl-49...","rectangle",769,377,46,17,NA,NA
+"35","CD8A, CD8, CD8alpha, IMD116, Leu2, p32...","rectangle",769,209,46,17,NA,NA
+"36","TAPBPL, TAPBP-R, TAPBPR...","rectangle",363,270,46,17,NA,NA
+"37","CALR, CALR1, CRT, HEL-S-99n, RO, SSA, cC1qR","rectangle",287,289,46,17,NA,NA
+"38","PDIA3, ER60, ERp57, ERp60, ERp61, GRP57, GRP58, HEL-S-269, HEL-S-93n, HsT17083, P58, PI-PLC","rectangle",287,272,46,17,NA,NA
+"39","B2M, AMYLD6, IMD43, MHC1D4","rectangle",667,322,46,17,NA,NA
+"40","B2M, AMYLD6, IMD43, MHC1D4","rectangle",508,323,46,17,NA,NA
+"41","B2M, AMYLD6, IMD43, MHC1D4","rectangle",287,323,46,17,NA,NA
+"42","HLA-A, HLAA...","rectangle",457,740,46,17,NA,NA
+"43","HLA-DMA, D6S222E, DMA, HLADM, RING6...","rectangle",457,761,46,17,NA,NA
+"44","HLA-DMA, D6S222E, DMA, HLADM, RING6...","rectangle",667,593,46,17,NA,NA
+"45","HLA-DMA, D6S222E, DMA, HLADM, RING6...","rectangle",255,593,46,17,NA,NA
+"46","HLA-A, HLAA...","rectangle",667,305,46,17,NA,NA
+"47","HLA-A, HLAA...","rectangle",508,306,46,17,NA,NA
+"48","HLA-A, HLAA...","rectangle",287,306,46,17,NA,NA
+"49","TAP1, ABC17, ABCB2, APT1, D6S114E, MHC1D1, PSF-1, PSF1, RING4, TAP1*0102N, TAP1N...","rectangle",432,241,46,17,NA,NA
+"50","HLA-A, HLAA...","rectangle",187,306,46,17,NA,NA
+"51","CANX, CNX, IP90, P90","rectangle",187,289,46,17,NA,NA
+"52","HSPA5, BIP, GRP78, HEL-S-89n","rectangle",187,272,46,17,NA,NA
+"53","HSP90AA1, EL52, HEL-S-65p, HSP86, HSP89A, HSP90A, HSP90N, HSPC1, HSPCA, HSPCAL1, HSPCAL4, HSPN, Hsp103, Hsp89, Hsp90, LAP-2, LAP2...","rectangle",388,216,46,17,NA,NA
+"54","HSPA1A, HEL-S-103, HSP70, HSP70-1, HSP70-1A, HSP70-2, HSP70.1, HSP70.2, HSP70I, HSP72, HSPA1...","rectangle",388,195,46,17,NA,NA
+"55","PSME3, HEL-S-283, Ki, PA28-gamma, PA28G, PA28gamma, REG-GAMMA...","rectangle",305,149,46,17,NA,NA
+"56","TNF, DIF, IMD127, TNF-alpha, TNFA, TNFSF2, TNLG1F","rectangle",329,111,46,17,NA,NA
+"57","IFNG, IFG, IFI, IMD69","rectangle",280,111,46,17,NA,NA
+"58","Proteasome","roundrectangle",306,180,89,25,NA,NA
+"59","T cell receptor signaling pathway","roundrectangle",831,627,117,34,NA,NA
+"60","Natural killer cell mediated cytotoxicity","roundrectangle",831,408,117,34,NA,NA
+"61","T cell receptor signaling pathway","roundrectangle",831,263,117,34,NA,NA
+"62","TITLE:Antigen processing and presentation","roundrectangle",205,58,329,25,NA,NA

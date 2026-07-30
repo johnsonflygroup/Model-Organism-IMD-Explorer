@@ -1,0 +1,73 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","Calcium signaling pathway","roundrectangle",604,721,116,34,NA,NA
+"102","GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI","rectangle",360,237,46,17,NA,NA
+"103","GNAI1, Gi, HG1B, NEDHISB...","rectangle",290,552,46,17,NA,NA
+"107","ADCY1, AC1, DFNB44...","rectangle",204,337,46,17,NA,NA
+"113","HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras...","rectangle",431,875,46,17,NA,NA
+"114","RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf","rectangle",524,875,46,17,NA,NA
+"115","MAP2K1, CFC3, MAPKK1, MEK1, MEL, MKK1, PRKMK1...","rectangle",617,875,46,17,NA,NA
+"116","MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, NS13, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK...","rectangle",710,875,46,17,NA,NA
+"117","CREB3, LUMAN, LZIP, sLZIP...","rectangle",863,875,46,17,NA,NA
+"122","Ovarian steroidogenesis","roundrectangle",93,119,103,34,NA,NA
+"123","ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29...","rectangle",547,670,46,17,"hsa:3708;hsa:3709",0
+"124","CALML6, CAGLP...","rectangle",507,740,46,17,NA,NA
+"129","Vascular smooth muscle contraction","roundrectangle",691,837,116,34,NA,NA
+"133","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",324,427,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296",0
+"134","AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...","rectangle",432,427,46,17,"hsa:208",0
+"14","GPER1, CEPR, CMKRL2, DRY12, FEG-1, GPCR-Br, GPER, GPR30, LERGU, LERGU2, LyGPR, mER","rectangle",476,204,46,17,NA,NA
+"142","OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM","rectangle",204,552,46,17,NA,NA
+"143","GNAI1, Gi, HG1B, NEDHISB...","rectangle",288,466,46,17,NA,NA
+"149","GABAergic synapse","roundrectangle",390,467,116,25,NA,NA
+"15","SRC, ASV, SRC1, THC6, c-SRC, p60-Src","rectangle",282,238,46,17,NA,NA
+"150","GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCA44, SCAR13","rectangle",204,723,46,17,"hsa:2911",0
+"16","MMP2, CLG4, CLG4A, MMP-2, MMP-II, MONA, TBE-1...","rectangle",154,238,46,17,NA,NA
+"165","NCOA2, GRIP1, KAT13C, NCoA-2, SRC2, TIF2, bHLHe75...","rectangle",857,179,46,17,NA,NA
+"166","NCOA2, GRIP1, KAT13C, NCoA-2, SRC2, TIF2, bHLHe75...","rectangle",857,271,46,17,NA,NA
+"17","HBEGF, DTR, DTS, DTSF, HEGFL","rectangle",204,284,46,17,NA,NA
+"174","BCL2, Bcl-2, PPP1R50","rectangle",1019,146,46,17,NA,NA
+"175","EBAG9, EB9, PDAF","rectangle",1071,146,46,17,NA,NA
+"176","100653049...","rectangle",1019,171,46,17,NA,NA
+"177","CTSD, CLN10, CPSD, HEL-S-130P","rectangle",1071,171,46,17,"hsa:1509",100
+"178","TFF1, BCEI, D21S21, HP1.A, HPS2, pNR-2, pS2","rectangle",1019,222,46,17,NA,NA
+"179","PGR, NR3C3, PR","rectangle",1071,222,46,17,NA,NA
+"18","EGFR, ERBB, ERBB1, ERRP, HER1, NISBD2, NNCIS, PIG61, mENA","rectangle",204,381,46,17,NA,NA
+"180","TGFA, TFGA","rectangle",1019,263,46,17,NA,NA
+"181","RARA, NR1B1, RAR, RARalpha","rectangle",1071,263,46,17,NA,NA
+"184","POMC, ACTH, CLIP, LPH, MSH, NPP, OBAIRH, POC","rectangle",111,552,46,17,NA,NA
+"185","GREB1","rectangle",1020,195,46,17,NA,NA
+"186",NA,"rectangle",857,170,46,34,NA,NA
+"187",NA,"rectangle",857,262,46,34,NA,NA
+"19","HBEGF, DTR, DTS, DTSF, HEGFL","rectangle",111,381,46,17,NA,NA
+"28","ESR1, ER, ESR, ESRA, ESTRR, Era, NR3A1...","rectangle",857,254,46,17,"hsa:2099;hsa:2100",0
+"31","FOS, AP-1, C-FOS, p55...","rectangle",857,308,46,17,NA,NA
+"36","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",471,341,46,17,NA,NA
+"4","TITLE:Estrogen signaling pathway","roundrectangle",180,58,279,25,NA,NA
+"40","HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras...","rectangle",506,381,46,17,NA,NA
+"41","RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf","rectangle",581,381,46,17,NA,NA
+"42","MAP2K1, CFC3, MAPKK1, MEK1, MEL, MKK1, PRKMK1...","rectangle",656,381,46,17,NA,NA
+"43","MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, NS13, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK...","rectangle",732,381,46,17,NA,NA
+"44","CREB3, LUMAN, LZIP, sLZIP...","rectangle",857,339,46,17,NA,NA
+"51","ESR1, ER, ESR, ESRA, ESTRR, Era, NR3A1...","rectangle",204,784,46,17,"hsa:2099;hsa:2100",0
+"52","GNAQ, CMAL, CMC1, G-ALPHA-q, GAQ, SWS","rectangle",281,670,46,17,NA,NA
+"53","PLCB1, DEE12, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B...","rectangle",357,670,46,17,"hsa:23236;hsa:5331;hsa:5332",0
+"54","PRKCD, ALPS3, CVID9, MAY1, PKCD, nPKC-delta","rectangle",356,616,46,17,NA,NA
+"55","ADCY1, AC1, DFNB44...","rectangle",204,589,46,17,NA,NA
+"56","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",512,589,46,17,NA,NA
+"57","KCNJ3, GIRK1, KGA, KIR3.1...","rectangle",204,510,46,17,NA,NA
+"58","GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A, NEDLC...","rectangle",204,466,46,17,"hsa:9568",0
+"59","CREB3, LUMAN, LZIP, sLZIP...","rectangle",863,589,46,17,NA,NA
+"61","MAPK signaling pathway","roundrectangle",714,425,116,34,NA,NA
+"76","SRC, ASV, SRC1, THC6, c-SRC, p60-Src","rectangle",280,784,46,17,NA,NA
+"77","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",357,784,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296",0
+"78","AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...","rectangle",433,784,46,17,"hsa:208",0
+"79","NOS3, ECNOS, eNOS","rectangle",507,784,46,17,NA,NA
+"8","ESR1, ER, ESR, ESRA, ESTRR, Era, NR3A1...","rectangle",596,162,46,17,"hsa:2099;hsa:2100",0
+"80","CREB3, LUMAN, LZIP, sLZIP...","rectangle",863,785,46,17,NA,NA
+"88","SHC2, SCK, SHCB, SLI...","rectangle",280,381,46,17,NA,NA
+"89","GRB2, ASH, EGFRBP-GRB2, Grb3-3, MST084, MSTP084, NCKAP2","rectangle",356,381,46,17,NA,NA
+"9","ESR1, ER, ESR, ESRA, ESTRR, Era, NR3A1...","rectangle",857,162,46,17,"hsa:2099;hsa:2100",0
+"90","SOS1, GF1, GGF1, GINGF, HGF, NS4, SOS-1...","rectangle",431,381,46,17,NA,NA
+"94","HSP90AA1, EL52, HEL-S-65p, HSP86, HSP89A, HSP90A, HSP90N, HSPC1, HSPCA, HSPCAL1, HSPCAL4, HSPN, Hsp103, Hsp89, Hsp90, LAP-2, LAP2...","rectangle",667,179,46,17,NA,NA
+"95","FKBP4, FKBP51, FKBP52, FKBP59, HBI, Hsp56, PPIase, p52...","rectangle",667,196,46,17,NA,NA
+"96","HSPA1A, HEL-S-103, HSP70, HSP70-1, HSP70-1A, HSP70-2, HSP70.1, HSP70.2, HSP70I, HSP72, HSPA1...","rectangle",667,213,46,17,NA,NA
+"99","PI3K-Akt signaling pathway","roundrectangle",395,747,116,34,NA,NA

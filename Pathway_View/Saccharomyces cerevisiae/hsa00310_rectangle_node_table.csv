@@ -1,0 +1,69 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"101","K18854","rectangle",280,239,46,17,NA,NA,NA,NA
+"103","TITLE:Lysine degradation","roundrectangle",128,58,175,25,NA,NA,NA,NA
+"106","PIPOX, LPIPOX","rectangle",737,177,46,17,NA,NA,NA,NA
+"129","K01844...","rectangle",322,601,46,17,NA,NA,NA,NA
+"130","K18012","rectangle",552,600,46,17,NA,NA,NA,NA
+"135","BBOX1, BBH, BBOX, G-BBH, gamma-BBH","rectangle",972,706,46,17,"hsa:8424","1.14.11.1","BBOX1",100
+"136","ALDH9A1, ALDH4, ALDH7, ALDH9, E3, TMABA-DH, TMABADH, TMABALDH","rectangle",873,716,46,17,NA,NA,NA,NA
+"137","TMLHE, AUTSX6, BBOX2, TMLD, TMLH, TMLHED, XAP130","rectangle",674,706,46,17,"hsa:55217","1.14.11.8","TMLHE",100
+"139","CAMKMT, C2orf34, CLNMT, CaM KMT, Cam, KMT","rectangle",384,706,46,17,NA,NA,NA,NA
+"140","K18804","rectangle",384,687,46,17,NA,NA,NA,NA
+"141","SETDB2-PHF11...","rectangle",265,725,46,17,NA,NA,NA,NA
+"142","COLGALT2, C1orf17, ColGalT 2, GLT25D2...","rectangle",384,764,46,17,NA,NA,NA,NA
+"143","CAMKMT, C2orf34, CLNMT, CaM KMT, Cam, KMT","rectangle",265,706,46,17,NA,NA,NA,NA
+"144","K18804","rectangle",265,687,46,17,NA,NA,NA,NA
+"145","SETDB2-PHF11...","rectangle",384,725,46,17,NA,NA,NA,NA
+"146","PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD...","rectangle",265,765,46,17,NA,NA,NA,NA
+"147","CAMKMT, C2orf34, CLNMT, CaM KMT, Cam, KMT","rectangle",501,706,46,17,NA,NA,NA,NA
+"148","K18804","rectangle",501,687,46,17,NA,NA,NA,NA
+"149","SETDB2-PHF11...","rectangle",501,725,46,17,NA,NA,NA,NA
+"151","ALDH2, ALDH-E2, ALDHI, ALDM...","rectangle",873,695,46,17,"hsa:219;hsa:224;hsa:501","1.2.1.3; 1.2.1.3; 1.2.1.31; 1.2.1.8","ALDH1B1; ALDH3A2; ALDH7A1",100
+"165","Lysine biosynthesis","roundrectangle",84,373,79,34,NA,NA,NA,NA
+"166","Biotin metabolism","roundrectangle",140,321,77,34,NA,NA,NA,NA
+"174","K18013","rectangle",800,600,46,17,NA,NA,NA,NA
+"176","K18014","rectangle",985,501,46,17,NA,NA,NA,NA
+"178","K01034...","rectangle",1182,416,46,17,NA,NA,NA,NA
+"180","PHYKPL, AGXT2L2, PHLU","rectangle",659,133,46,17,"hsa:85007","4.2.3.134","PHYKPL",0
+"183","HYKK, AGPHD1","rectangle",524,133,46,17,"hsa:123688","2.7.1.81","HYKK",0
+"184","K15737","rectangle",719,396,46,17,NA,NA,NA,NA
+"186","K15736","rectangle",719,454,46,17,NA,NA,NA,NA
+"189","Citrate cycle (TCA cycle)","roundrectangle",819,554,77,25,NA,NA,NA,NA
+"190","K15737","rectangle",720,519,46,17,NA,NA,NA,NA
+"192","K09251","rectangle",364,468,46,17,NA,NA,NA,NA
+"193","K00137","rectangle",459,428,46,17,NA,NA,NA,NA
+"194","K23385","rectangle",269,504,46,17,NA,NA,NA,NA
+"195","K01843","rectangle",148,561,46,17,NA,NA,NA,NA
+"197","K25316...","rectangle",233,449,46,17,NA,NA,NA,NA
+"201","K26064","rectangle",584,319,46,17,NA,NA,NA,NA
+"204","K28522...","rectangle",803,222,46,17,NA,NA,NA,NA
+"205","K26063","rectangle",761,421,46,17,NA,NA,NA,NA
+"206","K26065","rectangle",762,196,46,17,NA,NA,NA,NA
+"207","K26061","rectangle",815,96,46,17,NA,NA,NA,NA
+"208","K01041","rectangle",812,384,46,17,NA,NA,NA,NA
+"220","DLD, DLDD, DLDH, E3, GCSL, LAD, OGDC-E3, PHE3","rectangle",855,301,46,17,"hsa:1738","1.8.1.4","DLD",100
+"221","DHTKD1, AAKAD, AMOXAD, CMT2Q, E1a, OADC-E1, OADH-E1","rectangle",895,264,46,17,"hsa:55526",NA,"DHTKD1",0
+"222","DHTKD1, AAKAD, AMOXAD, CMT2Q, E1a, OADC-E1, OADH-E1","rectangle",895,200,46,17,"hsa:55526",NA,"DHTKD1",0
+"223","DLST, DLTS, KGD2, PGL7, PPGL7","rectangle",895,338,46,17,"hsa:1743","2.3.1.61","DLST",100
+"70","K00824","rectangle",534,319,46,17,NA,NA,NA,NA
+"73","K21672","rectangle",552,640,46,17,NA,NA,NA,NA
+"74","K01844...","rectangle",322,641,46,17,NA,NA,NA,NA
+"75","K19743","rectangle",680,218,46,17,NA,NA,NA,NA
+"76","AASS, LKR/SDH, LKRSDH, LORSDH","rectangle",277,96,46,17,"hsa:10157","1.5.1.8; 1.5.1.9","AASS",100
+"77","K00293...","rectangle",558,96,46,17,NA,NA,NA,NA
+"78","Penicillin and cephalosporin biosynthesis","roundrectangle",1090,85,170,34,NA,NA,NA,NA
+"79","ECHS1, ECHS1D, SCEH, mECH, mECH1...","rectangle",1027,374,46,17,"hsa:1892;hsa:1962;hsa:3030","1.1.1.211; 4.2.1.17; 1.1.1.35; 4.2.1.17; 5.3.3.8; 4.2.1.17","ECHS1; EHHADH; HADHA",0
+"80","EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, MFE1, PBFE...","rectangle",1130,374,46,17,"hsa:1962;hsa:3033","1.1.1.35; 1.1.1.35; 4.2.1.17; 5.3.3.8","EHHADH; HADH",0
+"82","K13609","rectangle",680,239,46,17,NA,NA,NA,NA
+"86","K00290","rectangle",277,75,46,17,NA,NA,NA,NA
+"87","AASS, LKR/SDH, LKRSDH, LORSDH","rectangle",558,75,46,17,"hsa:10157","1.5.1.8; 1.5.1.9","AASS",100
+"88","ALDH7A1, ATQ1, EPD, EPEO4, PDE","rectangle",815,75,46,17,"hsa:501","1.2.1.3; 1.2.1.31; 1.2.1.8","ALDH7A1",66.6666666666667
+"89","AADAT, KAT2, KATII, KYAT2","rectangle",896,126,46,17,NA,NA,NA,NA
+"91","ACAT1, ACAT, MAT, T2, THIL...","rectangle",1226,374,46,17,"hsa:38;hsa:39","2.3.1.9","ACAT1; ACAT2",100
+"92","Citrate cycle (TCA cycle)","roundrectangle",1361,373,80,25,NA,NA,NA,NA
+"93","GCDH, ACAD5, GCD","rectangle",936,374,46,17,"hsa:2639","1.3.8.6","GCDH",0
+"95","K00135","rectangle",662,374,46,17,NA,NA,NA,NA
+"96","K14268...","rectangle",523,374,46,17,NA,NA,NA,NA
+"97","K01506","rectangle",410,375,46,17,NA,NA,NA,NA
+"98","K00468","rectangle",309,375,46,17,NA,NA,NA,NA
+"99","K01582","rectangle",269,420,46,17,NA,NA,NA,NA

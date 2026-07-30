@@ -1,0 +1,77 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"10","VEGFA, L-VEGF, MVCD1, VEGF, VPF","rectangle",1099,363,46,17,NA,NA
+"100","TEK, CD202B, GLC3E, TIE-2, TIE2, VMCM, VMCM1","rectangle",1160,415,46,17,NA,NA
+"101","TIMP1, CLGI, EPA, EPO, HCI, TIMP, TIMP-1","rectangle",1099,442,46,17,NA,NA
+"106","EDN1, ARCND3, ET1, HDLCQ7, PPET1, QME","rectangle",1099,483,46,17,NA,NA
+"107","NOS2, HEP-NOS, INOS, NOS, NOS2A","rectangle",1160,483,46,17,NA,NA
+"108","NOS3, ECNOS, eNOS","rectangle",1099,510,46,17,NA,NA
+"109","HMOX1, HMOX1D, HO-1, HSP32, bK286B10","rectangle",1160,510,46,17,"hsa:3162",0
+"11","EGLN2, EIT-6, EIT6, HIF-PH1, HIFPH1, HPH-1, HPH-3, PHD1...","rectangle",688,351,46,17,NA,NA
+"110","NPPA, ANF, ANP, ATFB6, ATRST2, CDD, CDD-ANF, CDP, PND","rectangle",1099,538,46,17,NA,NA
+"114","TIMP1, CLGI, EPA, EPO, HCI, TIMP, TIMP-1","rectangle",1099,195,46,17,NA,NA
+"115","LTBR, D12S370, LT-BETA-R, TNF-R-III, TNFCR, TNFR-RP, TNFR2-RP, TNFR3, TNFRSF3","rectangle",1099,221,46,17,NA,NA
+"12","VHL, HRCA1, RCA1, VHL1, pVHL","rectangle",700,248,46,17,NA,NA
+"120","TLR4, ARMD10, CD284, TLR-4, TOLL","rectangle",169,156,46,17,NA,NA
+"121","NFKB1, CVID12, EBP-1, KBF1, NF-kB, NF-kB1, NF-kappa-B1, NF-kappaB, NF-kappabeta, NFKB-p105, NFKB-p50, NFkappaB...","rectangle",443,158,46,17,NA,NA
+"126","IFNG, IFG, IFI, IMD69","rectangle",87,196,46,17,NA,NA
+"127","IFNGR1, CD119, IFNGR, IMD27A, IMD27B...","rectangle",169,196,46,17,NA,NA
+"13","ARNT, ARNT1, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2","rectangle",947,417,46,17,NA,NA
+"133","Calcium signaling pathway","roundrectangle",667,510,115,34,NA,NA
+"134","IL6, BSF-2, BSF2, CDF, HGF, HSF, IFN-beta-2, IFNB2, IL-6","rectangle",87,125,46,17,NA,NA
+"135","IL6R, CD126, HIES5, IL-1Ra, IL-6R, IL-6R-1, IL-6RA, IL6Q, IL6QTL, IL6RA, IL6RQ, gp80","rectangle",169,125,46,17,NA,NA
+"136","STAT3, ADMIO, ADMIO1, APRF, HIES","rectangle",443,126,46,17,NA,NA
+"14","CREBBP, CBP, KAT3A, MKHK1, RSTS, RSTS1...","rectangle",959,485,46,17,NA,NA
+"15","HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78","rectangle",550,379,46,17,NA,NA
+"152","EIF4EBP1, 4E-BP1, 4EBP1, BP-1, PHAS-I","rectangle",419,315,46,17,NA,NA
+"153","EIF4E, AUTS19, CBP, EIF4E1, EIF4EL1, EIF4F, eIF-4E...","rectangle",491,315,46,17,NA,NA
+"154","RPS6KB1, PS6K, S6K, S6K-beta-1, S6K1, STK14A, p70_S6KA, p70(S6K)-alpha, p70-S6K, p70-alpha...","rectangle",420,353,46,17,NA,NA
+"155","RPS6, S6, eS6","rectangle",492,353,46,17,NA,NA
+"16","SLC2A1, CSE, DYT17, DYT18, DYT9, EIG12, GLUT, GLUT-1, GLUT1, GLUT1DS, HTLVR, PED, SDCHCN","rectangle",1099,615,46,17,"hsa:6513",0
+"166","MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, NS13, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK...","rectangle",335,254,46,17,NA,NA
+"167","MAP2K1, CFC3, MAPKK1, MEK1, MEL, MKK1, PRKMK1...","rectangle",260,254,46,17,NA,NA
+"168","MKNK2, GPRK7, MNK2...","rectangle",419,254,46,17,NA,NA
+"17","EGF, HOMG4, URG...","rectangle",87,272,46,17,"hsa:3630",0
+"176","MAPK signaling pathway","roundrectangle",345,216,115,34,NA,NA
+"177","BCL2, Bcl-2, PPP1R50","rectangle",1099,845,46,17,NA,NA
+"178","CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1...","rectangle",1099,870,46,17,NA,NA
+"18","TITLE:HIF-1 signaling pathway","roundrectangle",154,58,228,25,NA,NA
+"180","EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73","rectangle",550,401,46,17,NA,NA
+"181",NA,"rectangle",723,265,92,51,NA,NA
+"182",NA,"rectangle",754,432,455,123,NA,NA
+"20","mTOR signaling pathway","roundrectangle",258,398,115,34,NA,NA
+"21","Ubiquitin mediated proteolysis","roundrectangle",836,281,100,34,NA,NA
+"22","VEGF signaling pathway","roundrectangle",1278,429,100,34,NA,NA
+"32","EGFR, ERBB, ERBB1, ERRP, HER1, NISBD2, NNCIS, PIG61, mENA...","rectangle",169,272,46,17,"hsa:3643",0
+"33","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",260,310,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296",0
+"34","AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...","rectangle",260,353,46,17,"hsa:208",0
+"35","MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS","rectangle",333,353,46,17,NA,NA
+"38","PI3K-Akt signaling pathway","roundrectangle",258,440,115,34,NA,NA
+"39","CYBB, AMCBX2, CGD, CGDX, GP91-1, GP91-PHOX, GP91PHOX, IMD34, NOX2, p91-PHOX","rectangle",336,563,46,17,NA,NA
+"40","PLCG1, IDAA, NCKAP3, PLC-II, PLC1, PLC148, PLCgamma1...","rectangle",421,526,46,17,"hsa:5336",0
+"41","PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA...","rectangle",421,433,46,17,NA,NA
+"53","SLC2A1, CSE, DYT17, DYT18, DYT9, EIG12, GLUT, GLUT-1, GLUT1, GLUT1DS, HTLVR, PED, SDCHCN","rectangle",171,710,46,17,"hsa:6513",0
+"54","LDHAL6A, LDH6A...","rectangle",1099,809,46,17,"hsa:3939;hsa:3945",0
+"55","PDK1","rectangle",1099,652,46,17,NA,NA
+"6","CUL2","rectangle",746,265,46,17,NA,NA
+"60","LDHAL6A, LDH6A...","rectangle",353,808,46,17,"hsa:3939;hsa:3945",0
+"62","Citrate cycle (TCA cycle)","roundrectangle",632,713,115,34,NA,NA
+"66","PDHA1, E1alpha, PDHA, PDHAD, PDHCE1A, PHE1A...","rectangle",447,695,46,17,"hsa:5160;hsa:5161;hsa:5162",100
+"67","PDK1","rectangle",447,653,46,17,NA,NA
+"7","RBX1, BA554C12.1, RNF75, ROC1","rectangle",746,248,46,17,NA,NA
+"78","CAMK2A, CAMKA, CaMKIINalpha, CaMKIIalpha, MRD53, MRT63...","rectangle",811,483,46,17,NA,NA
+"8","ELOB, SIII, TCEB2","rectangle",700,282,46,17,NA,NA
+"84","HK1, CNSHA5, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, NEDVIBA, NMSR, RP79, hexokinase...","rectangle",1099,688,46,17,"hsa:3098",100
+"85","PFKL, ATP-PFK, PFK-B, PFK-L...","rectangle",1160,688,46,17,"hsa:5213",100
+"86","GAPDH, G3PD, GAPD, HEL-S-162eP","rectangle",1099,719,46,17,NA,NA
+"87","ALDOA, ALDA, GSD12, HEL-S-87p...","rectangle",1160,719,46,17,"hsa:226;hsa:229",0
+"88","ENO1, ENO1-IT1, ENO1L1, HEL-S-17, MPB1, NNE, PPH...","rectangle",1099,749,46,17,"hsa:2027",100
+"89","PGK1, HEL-S-68p, MIG10, PGKA...","rectangle",1160,749,46,17,"hsa:5230",100
+"9","ELOC, SIII, TCEB1","rectangle",700,265,46,17,NA,NA
+"90","PFKFB3, IPFK2, PFK2, iPFK-2","rectangle",1099,778,46,17,NA,NA
+"93","EPO, DBAL, ECYT5, EP, MVCD2","rectangle",1099,294,46,17,NA,NA
+"94","TF, HEL-S-71p, PRO1557, PRO2086, TFQTL1","rectangle",1099,326,46,17,"hsa:7018",0
+"95","TFRC, CD71, IMD46, T9, TFR, TFR1, TR, TRFR, p90","rectangle",1160,326,46,17,"hsa:7037",0
+"96","FLT1, FLT, FLT-1, VEGFR-1, VEGFR1","rectangle",1160,363,46,17,NA,NA
+"97","EGF, HOMG4, URG","rectangle",1099,389,46,17,NA,NA
+"98","SERPINE1, PAI, PAI-1, PAI1, PLANH1","rectangle",1160,389,46,17,NA,NA
+"99","ANGPT1, AGP1, AGPT, AGPT-1, ANG1, HAE5...","rectangle",1099,415,46,17,NA,NA

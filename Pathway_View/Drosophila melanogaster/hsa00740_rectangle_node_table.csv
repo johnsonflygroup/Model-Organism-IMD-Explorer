@@ -1,0 +1,40 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"36","K02858...","rectangle",430,133,46,17,NA,NA
+"39","FLAD1, FAD1, FADS, LSMFLAD, PP591","rectangle",918,206,46,17,"hsa:80308",100
+"40","K18453","rectangle",918,172,46,17,NA,NA
+"41","RFK, RIFK","rectangle",772,195,46,17,NA,NA
+"42","K01497...","rectangle",128,206,46,17,NA,NA
+"43","K01498...","rectangle",225,206,46,17,NA,NA
+"44","K00082...","rectangle",323,206,46,17,NA,NA
+"45","K00794","rectangle",535,206,46,17,NA,NA
+"46","K00793","rectangle",642,206,46,17,NA,NA
+"47","K22912...","rectangle",430,206,46,17,NA,NA
+"48","K07732","rectangle",796,216,46,17,NA,NA
+"51","K14654","rectangle",225,257,46,17,NA,NA
+"56","K00299...","rectangle",871,258,46,17,NA,NA
+"6","Pentose phosphate pathway","roundrectangle",377,73,148,25,NA,NA
+"60","Porphyrin metabolism","roundrectangle",957,395,125,25,NA,NA
+"63","K04719","rectangle",846,355,46,17,NA,NA
+"64","K14655","rectangle",323,257,46,17,NA,NA
+"66","K08096","rectangle",128,326,46,17,NA,NA
+"68","K14653","rectangle",179,287,46,17,NA,NA
+"69","K19286","rectangle",821,277,46,17,NA,NA
+"7","TITLE:Riboflavin metabolism","roundrectangle",140,58,200,25,NA,NA
+"70","K15245","rectangle",961,277,46,17,NA,NA
+"73","BLVRB, BVRB, FLR, HEL-S-10, SDR43U1","rectangle",700,258,46,17,NA,NA
+"74","K05368","rectangle",725,277,46,17,NA,NA
+"76","K20146...","rectangle",871,277,46,17,NA,NA
+"78","ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1...","rectangle",918,151,46,17,"hsa:5167",0
+"79","ACP1, HAAP, LMW-PTP, LMWPTP...","rectangle",772,151,46,17,NA,NA
+"8","Pentose and glucuronate interconversions","roundrectangle",835,95,138,34,NA,NA
+"80","K20860...","rectangle",772,172,46,17,NA,NA
+"82","K16902","rectangle",1011,277,46,17,NA,NA
+"83","K00484...","rectangle",675,277,46,17,NA,NA
+"84","K00484...","rectangle",821,258,46,17,NA,NA
+"85","K00484...","rectangle",986,258,46,17,NA,NA
+"88","K03186","rectangle",780,402,46,17,NA,NA
+"9","Purine metabolism","roundrectangle",82,138,110,25,NA,NA
+"94","Terpenoid backbone biosynthesis","roundrectangle",467,377,118,34,NA,NA
+"95","K25520","rectangle",648,367,46,17,NA,NA
+"97","K00878","rectangle",701,412,46,17,NA,NA
+"99","K01515...","rectangle",648,388,46,17,NA,NA

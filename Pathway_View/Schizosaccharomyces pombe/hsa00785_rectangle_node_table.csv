@@ -1,0 +1,46 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"10","TITLE:Lipoic acid metabolism","roundrectangle",140,58,200,25,NA,NA
+"102","DLD, DLDD, DLDH, E3, GCSL, LAD, OGDC-E3, PHE3","rectangle",848,653,46,17,"hsa:1738",100
+"106","AMT, GCE, GCE2, GCST, GCVT, NKH","rectangle",908,693,46,17,"hsa:275",100
+"11","Fatty acid biosynthesis","roundrectangle",204,123,86,34,NA,NA
+"110","GLDC, GCE, GCE1, GCSP, HYGN1","rectangle",909,572,46,17,"hsa:2731",100
+"114","GCSH, GCE, MMDS7, NKH","rectangle",878,602,46,17,"hsa:2653",100
+"12","LIAS, HGCLAS, HUSSY-01, LAS, LIP1, LS, PDHLD","rectangle",276,321,46,17,"hsa:11019",100
+"123","DLD, DLDD, DLDH, E3, GCSL, LAD, OGDC-E3, PHE3","rectangle",282,676,46,17,"hsa:1738",100
+"124","OGDH, AKGDH, E1k, E1o, HsOGDH, KGD1, OGDC, OGDH-E1, OGDH2, OGDHD...","rectangle",323,569,46,17,"hsa:4967;hsa:55753",100
+"125","OGDH, AKGDH, E1k, E1o, HsOGDH, KGD1, OGDC, OGDH-E1, OGDH2, OGDHD...","rectangle",323,637,46,17,"hsa:4967;hsa:55753",100
+"126","DLST, DLTS, KGD2, PGL7, PPGL7","rectangle",323,713,46,17,"hsa:1743",100
+"13","K03801...","rectangle",250,226,46,17,NA,NA
+"144","PDHA1, E1alpha, PDHA, PDHAD, PDHCE1A, PHE1A...","rectangle",135,569,46,17,"hsa:5160;hsa:5161;hsa:5162",100
+"146","PDHA1, E1alpha, PDHA, PDHAD, PDHCE1A, PHE1A...","rectangle",135,637,46,17,"hsa:5160;hsa:5161;hsa:5162",100
+"148","DLD, DLDD, DLDH, E3, GCSL, LAD, OGDC-E3, PHE3","rectangle",94,676,46,17,"hsa:1738",100
+"150","DLAT, DLTA, E2, PBC, PDC-E2, PDCE2","rectangle",135,713,46,17,"hsa:1737",100
+"169","Citrate cycle (TCA cycle)","roundrectangle",323,813,84,25,NA,NA
+"170","Pyruvate metabolism","roundrectangle",135,813,120,25,NA,NA
+"171","Lysine degradation","roundrectangle",511,813,113,25,NA,NA
+"172","Glycine, serine and threonine metabolism","roundrectangle",907,813,115,25,NA,NA
+"173","Valine, leucine and isoleucine degradation","roundrectangle",699,816,132,34,NA,NA
+"22","LIPT1, LIPT1D","rectangle",646,321,46,17,"hsa:51601",100
+"23","ACSM1, BUCS1, MACS1","rectangle",646,226,46,17,NA,NA
+"24","K03800","rectangle",746,275,46,17,NA,NA
+"27","K03800","rectangle",139,275,46,17,NA,NA
+"31","K23750","rectangle",165,226,46,17,NA,NA
+"33","K03800","rectangle",846,275,46,17,NA,NA
+"36","K18821","rectangle",785,370,46,17,NA,NA
+"40","LIAS, HGCLAS, HUSSY-01, LAS, LIP1, LS, PDHLD","rectangle",373,321,46,17,"hsa:11019",100
+"42","LIPT1, LIPT1D","rectangle",339,380,46,17,"hsa:51601",100
+"45","LIPT1, LIPT1D","rectangle",300,226,46,17,"hsa:51601",100
+"47","LIPT2","rectangle",423,226,46,17,"hsa:387787",100
+"50","K03800","rectangle",547,226,46,17,NA,NA
+"53","K23763","rectangle",547,321,46,17,NA,NA
+"54","K16869","rectangle",339,359,46,17,NA,NA
+"56","K09711...","rectangle",423,321,46,17,NA,NA
+"69","DLD, DLDD, DLDH, E3, GCSL, LAD, OGDC-E3, PHE3","rectangle",659,676,46,17,"hsa:1738",100
+"70","BCKDHA, BCKDE1A, MSU, MSUD1, MSUD1A, OVD1A...","rectangle",699,637,46,17,"hsa:593;hsa:594",0
+"71","BCKDHA, BCKDE1A, MSU, MSUD1, MSUD1A, OVD1A...","rectangle",699,569,46,17,"hsa:593;hsa:594",0
+"72","DBT, BCATE2, BCKAD-E2, BCKADE2, BCKDH-E2, BCOADC-E2, E2, E2B","rectangle",699,713,46,17,"hsa:1629",0
+"9","K03801","rectangle",373,226,46,17,NA,NA
+"90","DLD, DLDD, DLDH, E3, GCSL, LAD, OGDC-E3, PHE3","rectangle",471,676,46,17,"hsa:1738",100
+"91","DHTKD1, AAKAD, AMOXAD, CMT2Q, E1a, OADC-E1, OADH-E1","rectangle",511,637,46,17,"hsa:55526",0
+"92","DHTKD1, AAKAD, AMOXAD, CMT2Q, E1a, OADC-E1, OADH-E1","rectangle",511,569,46,17,"hsa:55526",0
+"93","DLST, DLTS, KGD2, PGL7, PPGL7","rectangle",511,713,46,17,"hsa:1743",100

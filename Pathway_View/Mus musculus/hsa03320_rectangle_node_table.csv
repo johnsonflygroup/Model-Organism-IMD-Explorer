@@ -1,0 +1,61 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"18","AQP7B...","rectangle",886,821,46,17,NA,NA
+"19","GK, GK1, GKD...","rectangle",836,833,46,17,"hsa:2710",100
+"20","PCK1, PCKDC, PEPCK-C, PEPCK1, PEPCKC...","rectangle",836,810,46,17,"hsa:5105;hsa:5106",100
+"21","PLIN2, ADFP, ADRP...","rectangle",886,626,46,17,"hsa:440503;hsa:5346",100
+"22","CD36, BDPLT10, CHDS7, FAT, GP3B, GP4, GPIV, PASIV, SCARB3","rectangle",143,132,46,17,NA,NA
+"23","SLC27A5, ACSB, ACSVL6, BACS, BAL, FACVL3, FATP-5, FATP5, VLACSR, VLCS-H2, VLCSH2...","rectangle",143,160,46,17,"hsa:10998;hsa:10999",100
+"24","FABP4, A-FABP, AFABP, ALBP, HEL-S-104, aP2...","rectangle",228,133,46,17,NA,NA
+"25","PPARA, NR1C1, PPAR, PPAR-alpha, PPARalpha, hPPAR","rectangle",570,210,46,17,NA,NA
+"26","RXRA, NR2B1, RXR-alpha, RXRalpha...","rectangle",570,227,46,17,NA,NA
+"27","PPARD, FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB","rectangle",570,435,46,17,NA,NA
+"28","RXRA, NR2B1, RXR-alpha, RXRalpha...","rectangle",570,452,46,17,NA,NA
+"29","PPARG, CIMT1, FPLD3, GLM1, NR1C3, PPARG1, PPARG2, PPARG5, PPARgamma","rectangle",570,660,46,17,NA,NA
+"30","RXRA, NR2B1, RXR-alpha, RXRalpha...","rectangle",570,677,46,17,NA,NA
+"31","SCP2, NLTP, NSL-TP, SCOX, SCP-2, SCP-CHI, SCP-X, SCPX","rectangle",836,567,46,17,"hsa:6342",100
+"32","ACAA1, ACAA, Lnc-Myd88, PTHIO, THIO","rectangle",836,544,46,17,NA,NA
+"33","ACADM, ACAD1, MCAD, MCADH","rectangle",886,578,46,17,"hsa:34",100
+"34","ACADL, ACAD4, LCAD","rectangle",886,555,46,17,NA,NA
+"35","K07425","rectangle",836,521,46,17,NA,NA
+"36","EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, MFE1, PBFE","rectangle",836,498,46,17,"hsa:1962",100
+"37","CPT2, CPT1, CPTASE, IIAE4","rectangle",886,532,46,17,"hsa:1376",100
+"38","CPT1C, CATL1, CPT_I-C, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73...","rectangle",886,509,46,17,"hsa:126129;hsa:1374",100
+"39","ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2...","rectangle",836,458,46,17,"hsa:2182",100
+"40","OLR1, CLEC8A, LOX1, LOXIN, SCARE1, SLOX1","rectangle",886,446,46,17,NA,NA
+"41","LPL, HDLCQ11, LIPD","rectangle",836,435,46,17,"hsa:4023",100
+"42","CD36, BDPLT10, CHDS7, FAT, GP3B, GP4, GPIV, PASIV, SCARB3","rectangle",886,423,46,17,NA,NA
+"43","FABP3, FABP11, H-FABP, M-FABP, MDGI, O-FABP","rectangle",836,412,46,17,NA,NA
+"44","CYP7A1, CP7A, CYP7, CYPVII","rectangle",836,303,46,17,"hsa:1581",100
+"45","Adipocytokine signaling pathway","roundrectangle",568,165,127,34,NA,NA
+"46","Fatty acid degradation","roundrectangle",1032,147,138,25,NA,NA
+"47","SLC27A4, ACSVL4, FATP4, IPS...","rectangle",886,400,46,17,"hsa:10999",100
+"48","HMGCS1, HMGCS...","rectangle",836,114,46,17,"hsa:3157;hsa:3158",100
+"49","SORBS1, CAP, FLAF2, R85FL, SH3D5, SH3P12, SORB1","rectangle",836,672,46,17,NA,NA
+"50","MMP1, CLG, CLGN","rectangle",886,672,46,17,NA,NA
+"51","FABP4, A-FABP, AFABP, ALBP, HEL-S-104, aP2","rectangle",836,649,46,17,NA,NA
+"52","ANGPTL4, ARP4, FIAF, HARP, HFARP, NL2, PGAR, TGQTL, UNQ171, pp1158","rectangle",836,626,46,17,NA,NA
+"53","ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...","rectangle",836,590,46,17,"hsa:51;hsa:8309",100
+"54","ILK, HEL-S-28, ILK-1, ILK-2, P59, p59ILK","rectangle",836,740,46,17,NA,NA
+"55","FABP1, FABPL, L-FABP","rectangle",836,389,46,17,NA,NA
+"56","PDPK1, PDK1, PDPK2, PDPK2P, PRO0461","rectangle",886,740,46,17,NA,NA
+"57","APOA2, Apo-AII, ApoA-II, apoAII","rectangle",836,177,46,17,NA,NA
+"58","PLTP, BPIFE, HDLCQ9","rectangle",886,189,46,17,NA,NA
+"62","Primary bile acid biosynthesis","roundrectangle",1032,214,138,25,NA,NA
+"63","Glycerophospholipid metabolism","roundrectangle",1032,281,138,34,NA,NA
+"64","ADIPOQ, ACDC, ACRP30, ADIPQTL1, ADPN, APM-1, APM1, GBP28","rectangle",886,649,46,17,NA,NA
+"66","SCD, FADS5, MSTP008, SCD1, SCDOS, hSCD1...","rectangle",836,263,46,17,NA,NA
+"67","FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13","rectangle",886,252,46,17,NA,NA
+"68","APOC3, APOCIII, Apo-C3, ApoC-3","rectangle",836,200,46,17,"hsa:345",100
+"69","CYP8B1, CP8B, CYP12, CYPVIIIB1","rectangle",836,326,46,17,NA,NA
+"70","NR1H3, LXR-a, LXRA, RLD-1","rectangle",886,303,46,17,NA,NA
+"71","CYP27A1, CP27, CTX, CYP27","rectangle",886,326,46,17,"hsa:1593",100
+"72","APOA1, AMYLD3, HPALP2, apo(a)","rectangle",836,154,46,17,"hsa:335",100
+"73","UBC, HMG20","rectangle",836,774,46,17,NA,NA
+"74","DBI, ACBD1, ACBP, CCK-RP, EP","rectangle",836,366,46,17,NA,NA
+"75","APOA5, APOAV, RAP3","rectangle",886,166,46,17,"hsa:116519",100
+"76","ME3, NADP-ME...","rectangle",836,240,46,17,NA,NA
+"77","UCP1, SLC25A7, UCP","rectangle",836,706,46,17,NA,NA
+"78","TITLE:PPAR signaling pathway","roundrectangle",156,41,215,25,NA,NA
+"79",NA,"rectangle",570,218,46,34,NA,NA
+"80",NA,"rectangle",570,443,46,34,NA,NA
+"81",NA,"rectangle",570,668,46,34,NA,NA

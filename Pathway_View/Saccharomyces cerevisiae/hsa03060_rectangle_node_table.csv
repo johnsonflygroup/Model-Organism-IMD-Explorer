@@ -1,0 +1,50 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"10","K03116","rectangle",105,646,46,17,NA,NA,NA,NA
+"11","K03070","rectangle",105,217,46,17,NA,NA,NA,NA
+"12","K03076","rectangle",105,154,46,17,NA,NA,NA,NA
+"13","K03073","rectangle",151,154,46,17,NA,NA,NA,NA
+"14","K03075","rectangle",197,154,46,17,NA,NA,NA,NA
+"15","K03072...","rectangle",105,175,46,17,NA,NA,NA,NA
+"16","K03210","rectangle",151,175,46,17,NA,NA,NA,NA
+"17","K03100","rectangle",105,742,46,17,NA,NA,NA,NA
+"18","K03101","rectangle",157,742,46,17,NA,NA,NA,NA
+"19","SRP14, ALURBP","rectangle",297,274,46,17,NA,NA,NA,NA
+"20","SRP72, BMFF, BMFS1, HEL103","rectangle",346,257,46,17,NA,NA,NA,NA
+"21","SRP68, SCN10","rectangle",346,274,46,17,NA,NA,NA,NA
+"22","SRP54, SCN8","rectangle",395,274,46,17,NA,NA,NA,NA
+"23","SRP19","rectangle",395,257,46,17,NA,NA,NA,NA
+"24","SRPRA, DP, SRPR, Sralpha","rectangle",297,305,46,17,NA,NA,NA,NA
+"25","SRP9, ALURBP","rectangle",297,257,46,17,NA,NA,NA,NA
+"26","K03071","rectangle",154,217,46,17,NA,NA,NA,NA
+"27","TITLE:Protein export","roundrectangle",108,58,136,25,NA,NA,NA,NA
+"29","SRP54, SCN8","rectangle",105,257,46,17,NA,NA,NA,NA
+"30","K03110","rectangle",105,305,46,17,NA,NA,NA,NA
+"31","SEC62, Dtrp1, HTP1, TLOC1, TP-1","rectangle",297,181,46,17,NA,NA,NA,NA
+"32","SEC63, DNAJC23, ERdj2, PCLD2, PRO2507, SEC63L","rectangle",343,181,46,17,NA,NA,NA,NA
+"33","SPCS1, HSPC033, SPC1, SPC12, YJR010C-A","rectangle",293,742,46,17,NA,NA,NA,NA
+"34","SPCS2","rectangle",338,742,46,17,NA,NA,NA,NA
+"35","SEC61A1, ADTKD5, CVID15, HNFJ4, HSEC61, SEC61, SEC61A...","rectangle",297,154,46,17,NA,NA,NA,NA
+"36","SPCS3, PRO3567, SPC22, SPC22/23, SPC23, SPC3, YLR066W","rectangle",384,742,46,17,NA,NA,NA,NA
+"37","SEC11A, 1810012E07Rik, SEC11L1, SPC18, SPCS4A, sid2895...","rectangle",430,742,46,17,NA,NA,NA,NA
+"38","IMMP1L, IMMP1, IMP1, IMP1-LIKE","rectangle",293,764,46,17,NA,NA,NA,NA
+"39","IMMP2L, IMMP2L-IT1, IMP2, IMP2-LIKE","rectangle",339,764,46,17,NA,NA,NA,NA
+"40","SRPRB, APMCF1, SR-beta","rectangle",297,322,46,17,NA,NA,NA,NA
+"41","SEC61B","rectangle",343,154,46,17,NA,NA,NA,NA
+"42","SEC61G, SSS1","rectangle",389,154,46,17,NA,NA,NA,NA
+"47","HSPA5, BIP, GRP78, HEL-S-89n","rectangle",297,208,46,17,NA,NA,NA,NA
+"5","K03425","rectangle",105,663,46,17,NA,NA,NA,NA
+"51","K13301","rectangle",203,217,46,17,NA,NA,NA,NA
+"6","K01983","rectangle",154,257,46,17,NA,NA,NA,NA
+"7","OXA1L, OXA1, OXA1L1","rectangle",105,196,46,17,"hsa:5018",NA,"OXA1L",100
+"72","GET3, ARSA-I, ARSA1, ASNA-I, ASNA1, CMD2H, TRC40","rectangle",105,398,46,17,NA,NA,NA,NA
+"73","GET4, C7orf20, CDG2Y, CEE, CGI-20, TRC35","rectangle",176,398,46,17,NA,NA,NA,NA
+"74","UBL4B...","rectangle",222,398,46,17,NA,NA,NA,NA
+"75","BAG6, BAG-6, BAT3, D6S52E, G3","rectangle",268,398,46,17,NA,NA,NA,NA
+"76","SGTA, SGT, SGT1, Vpu, alphaSGT, hSGT","rectangle",314,398,46,17,NA,NA,NA,NA
+"77","GET1, CHD5, WRB","rectangle",105,439,46,17,NA,NA,NA,NA
+"78","K22386","rectangle",151,439,46,17,NA,NA,NA,NA
+"79","TMEM208, HSPC171, SND2, hSND2","rectangle",105,562,46,17,NA,NA,NA,NA
+"8","K03117","rectangle",150,646,46,17,NA,NA,NA,NA
+"80","K27165","rectangle",150,562,46,17,NA,NA,NA,NA
+"81","K27163","rectangle",105,519,46,17,NA,NA,NA,NA
+"9","K03118","rectangle",195,646,46,17,NA,NA,NA,NA

@@ -1,0 +1,77 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf","rectangle",512,548,46,17,NA,NA
+"101","MAP2K1, CFC3, MAPKK1, MEK1, MEL, MKK1, PRKMK1...","rectangle",719,548,46,17,NA,NA
+"102","MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, NS13, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK...","rectangle",927,548,46,17,NA,NA
+"108","EGFR, ERBB, ERBB1, ERRP, HER1, NISBD2, NNCIS, PIG61, mENA","rectangle",162,996,46,17,NA,NA
+"109","ERBB2, CD340, HER-2, HER-2/neu, HER2, MLN_19, MLN-19, NEU, NGL, TKR1, VSCN2, c-ERB-2, c-ERB2, p185(erbB2)","rectangle",162,1018,46,17,NA,NA
+"11","TITLE:Central carbon metabolism in cancer","roundrectangle",218,58,355,25,NA,NA
+"110","MET, AUTS9, DA11, DFNB97, HGFR, RCCP2, c-Met","rectangle",162,1040,46,17,NA,NA
+"111","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",383,1017,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296",100
+"112","AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...","rectangle",629,1017,46,17,"hsa:208",100
+"113","MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS","rectangle",875,1017,46,17,NA,NA
+"114","PI3K-Akt signaling pathway","roundrectangle",535,993,112,34,NA,NA
+"115","MAPK signaling pathway","roundrectangle",615,520,112,34,NA,NA
+"119","mTOR signaling pathway","roundrectangle",728,992,112,34,NA,NA
+"12","SLC2A1, CSE, DYT17, DYT18, DYT9, EIG12, GLUT, GLUT-1, GLUT1, GLUT1DS, HTLVR, PED, SDCHCN...","rectangle",162,845,46,17,"hsa:6513;hsa:6514",100
+"121","SLC2A1, CSE, DYT17, DYT18, DYT9, EIG12, GLUT, GLUT-1, GLUT1, GLUT1DS, HTLVR, PED, SDCHCN","rectangle",1475,655,46,17,"hsa:6513",100
+"122","SLC2A2, GLUT2","rectangle",1475,625,46,17,"hsa:6514",100
+"123","HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, NEDVIBA, NMSR, RP79, hexokinase...","rectangle",1480,773,46,17,"hsa:3098",100
+"124","PGAM4, PGAM-B, PGAM1, PGAM3, dJ1000K24.1...","rectangle",1480,796,46,17,"hsa:5224",0
+"125","PKM, CTHBP, HEL-S-30, OIP3, PK3, PKM2, TCB, THBP1, p58","rectangle",1480,820,46,17,NA,NA
+"126","LDHAL6A, LDH6A...","rectangle",1480,845,46,17,"hsa:3939;hsa:3945",100
+"127","PDK1","rectangle",1480,932,46,17,NA,NA
+"129","GLS2, GA, GLS, LGA, hLGA...","rectangle",1475,545,46,17,"hsa:2744",100
+"130","SIRT3, SIR2L3","rectangle",1104,935,46,17,NA,NA
+"134","SIRT6, SIR2L6, hSIRT6","rectangle",1304,784,46,17,NA,NA
+"151","HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, NEDVIBA, NMSR, RP79, hexokinase...","rectangle",248,827,46,17,"hsa:3098",100
+"158","SLC1A5, AAAT, ASCT2, ATBO, M7V1, M7VS1, R16, RDRC","rectangle",1075,434,46,17,NA,NA
+"160","SLC1A5, AAAT, ASCT2, ATBO, M7V1, M7VS1, R16, RDRC","rectangle",1073,100,46,17,NA,NA
+"161","SLC1A5, AAAT, ASCT2, ATBO, M7V1, M7VS1, R16, RDRC","rectangle",1475,573,46,17,NA,NA
+"164","PDHA1, E1alpha, PDHA, PDHAD, PDHCE1A, PHE1A...","rectangle",822,257,46,17,"hsa:5160;hsa:5161;hsa:5162",100
+"165","PDK1","rectangle",812,307,46,17,NA,NA
+"166","SLC16A3, MCT_3, MCT_4, MCT-3, MCT-4, MCT3, MCT4","rectangle",162,345,46,17,NA,NA
+"170","Pentose phosphate pathway","roundrectangle",285,702,112,34,NA,NA
+"176","Fatty acid metabolism","roundrectangle",762,630,112,34,NA,NA
+"196","Glycine, serine and threonine metabolism","roundrectangle",519,788,112,34,NA,NA
+"20","GCK, FGQTL3, GK, GLK, HHF3, HK4, HKIV, HXKP, LGLK, MODY2, PNDM1","rectangle",236,874,46,17,"hsa:2645",100
+"200","TIGAR, C12orf5, FR2BP","rectangle",326,923,46,17,NA,NA
+"201","TP53, BCC7, BMFS5, LFS1, P53, TRP53","rectangle",347,977,46,17,NA,NA
+"214","PFKL, ATP-PFK, PFK-B, PFK-L...","rectangle",399,866,46,17,"hsa:5213",100
+"217","PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, PTENgama, TEP1","rectangle",440,977,46,17,"hsa:5728",100
+"223","PGAM4, PGAM-B, PGAM1, PGAM3, dJ1000K24.1...","rectangle",552,865,46,17,"hsa:5224",0
+"224","SCO2, CEMCOX1, ECGF1, Gliostatin, MC4DN2, MYP6, PD-ECGF, SCO1L, TP, TYMP, TdRPase","rectangle",751,764,46,17,"hsa:9997",100
+"225","TP53, BCC7, BMFS5, LFS1, P53, TRP53","rectangle",733,721,46,17,NA,NA
+"231","Oxidative phosphorylation","roundrectangle",846,725,112,34,NA,NA
+"234","SCO2, CEMCOX1, ECGF1, Gliostatin, MC4DN2, MYP6, PD-ECGF, SCO1L, TP, TYMP, TdRPase","rectangle",741,183,46,17,"hsa:9997",100
+"235","TP53, BCC7, BMFS5, LFS1, P53, TRP53","rectangle",723,140,46,17,NA,NA
+"237","Oxidative phosphorylation","roundrectangle",846,153,112,34,NA,NA
+"241","SLC7A5, 4F2LC, CD98, D16S469E, E16, LAT1, MPE16","rectangle",162,1081,46,17,"hsa:8140",100
+"244","G6PD, G6PD1","rectangle",254,746,46,17,"hsa:2539",100
+"245","TP53, BCC7, BMFS5, LFS1, P53, TRP53","rectangle",237,786,46,17,NA,NA
+"262","IDH1, HEL-216, HEL-S-26, IDCD, IDH, IDP, IDPC, PICD...","rectangle",1017,652,46,17,"hsa:3417;hsa:3418",100
+"276","Alanine, aspartate and glutamate metabolism","roundrectangle",1004,970,133,34,NA,NA
+"28","SLC16A3, MCT_3, MCT_4, MCT-3, MCT-4, MCT3, MCT4","rectangle",162,948,46,17,NA,NA
+"282","Arginine and proline metabolism","roundrectangle",1176,651,112,34,NA,NA
+"287","Alanine, aspartate and glutamate metabolism","roundrectangle",987,504,140,34,NA,NA
+"292","PFKL, ATP-PFK, PFK-B, PFK-L...","rectangle",1480,881,46,17,"hsa:5213",100
+"32","SLC2A1, CSE, DYT17, DYT18, DYT9, EIG12, GLUT, GLUT-1, GLUT1, GLUT1DS, HTLVR, PED, SDCHCN...","rectangle",162,241,46,17,"hsa:6513;hsa:6514",100
+"34","Citrate cycle (TCA cycle)","roundrectangle",1005,237,112,34,NA,NA
+"41","GCK, FGQTL3, GK, GLK, HHF3, HK4, HKIV, HXKP, LGLK, MODY2, PNDM1","rectangle",247,226,46,17,"hsa:2645",100
+"45","Citrate cycle (TCA cycle)","roundrectangle",1006,832,112,34,NA,NA
+"59","GLS2, GA, GLS, LGA, hLGA...","rectangle",1104,522,46,17,"hsa:2744",100
+"63","MYC, MRTL, MYCC, bHLHe39, c-Myc","rectangle",1327,546,46,17,NA,NA
+"64","MYC, MRTL, MYCC, bHLHe39, c-Myc","rectangle",1325,195,46,17,NA,NA
+"69","SIRT6, SIR2L6, hSIRT6","rectangle",1309,252,46,17,NA,NA
+"72","HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78","rectangle",1328,318,46,17,NA,NA
+"73","HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78","rectangle",1323,1012,46,17,NA,NA
+"81","PDHA1, E1alpha, PDHA, PDHAD, PDHCE1A, PHE1A...","rectangle",825,860,46,17,"hsa:5160;hsa:5161;hsa:5162",100
+"82","HIF-1 signaling pathway","roundrectangle",1195,880,112,34,NA,NA
+"83","Glycolysis / Gluconeogenesis","roundrectangle",241,905,112,34,NA,NA
+"84","Glycolysis / Gluconeogenesis","roundrectangle",258,186,112,34,NA,NA
+"90","SIRT3, SIR2L3","rectangle",1101,328,46,17,NA,NA
+"93","PKM, CTHBP, HEL-S-30, OIP3, PK3, PKM2, TCB, THBP1, p58","rectangle",663,226,46,17,NA,NA
+"94","PKM, CTHBP, HEL-S-30, OIP3, PK3, PKM2, TCB, THBP1, p58","rectangle",662,828,46,17,NA,NA
+"95","LDHAL6A, LDH6A...","rectangle",750,887,46,17,"hsa:3939;hsa:3945",100
+"96","PDK1","rectangle",814,909,46,17,NA,NA
+"98","EGFR, ERBB, ERBB1, ERRP, HER1, NISBD2, NNCIS, PIG61, mENA...","rectangle",162,548,46,17,NA,NA
+"99","HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras...","rectangle",303,548,46,17,NA,NA

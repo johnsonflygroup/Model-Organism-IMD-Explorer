@@ -1,0 +1,50 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"17","K23453","rectangle",561,265,46,17,NA,NA
+"23","CSNK1D, ASPS, CKI-delta, CKId, CKIdelta, FASPS2, HCKID","rectangle",356,284,46,17,NA,NA
+"24","PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA...","rectangle",649,479,46,17,NA,NA
+"28","GNAI1, Gi, HG1B, NEDHISB...","rectangle",369,120,46,17,NA,NA
+"29","GJA1, AVSD3, CMDR, CX43, EKVP, EKVP3, GJAL, HLHS1, HSS, ODDD, PPKCA...","rectangle",276,426,46,17,NA,NA
+"30","GJA1, AVSD3, CMDR, CX43, EKVP, EKVP3, GJAL, HLHS1, HSS, ODDD, PPKCA...","rectangle",116,426,46,17,NA,NA
+"31","GJA1, AVSD3, CMDR, CX43, EKVP, EKVP3, GJAL, HLHS1, HSS, ODDD, PPKCA...","rectangle",276,359,46,17,NA,NA
+"32","GJA1, AVSD3, CMDR, CX43, EKVP, EKVP3, GJAL, HLHS1, HSS, ODDD, PPKCA...","rectangle",116,359,46,17,NA,NA
+"33","GJA1, AVSD3, CMDR, CX43, EKVP, EKVP3, GJAL, HLHS1, HSS, ODDD, PPKCA","rectangle",276,258,46,17,NA,NA
+"34","GJA1, AVSD3, CMDR, CX43, EKVP, EKVP3, GJAL, HLHS1, HSS, ODDD, PPKCA","rectangle",276,205,46,17,NA,NA
+"35","GJA1, AVSD3, CMDR, CX43, EKVP, EKVP3, GJAL, HLHS1, HSS, ODDD, PPKCA","rectangle",116,276,46,17,NA,NA
+"38","MAPK7, BMK1, ERK4, ERK5, PRKM7","rectangle",642,277,46,17,NA,NA
+"39","MAP3K2, MEKK2, MEKK2B","rectangle",616,221,46,17,NA,NA
+"40","MAP2K5, HsT17454, MAPKK5, MEK5, PRKMK5","rectangle",694,221,46,17,NA,NA
+"41","PRKG1, AAT8, PKG, PKG1, PRKG1B, PRKGR1B, cGK, cGK 1, cGK1, cGKI, cGKI-BETA, cGKI-alpha...","rectangle",723,466,46,17,NA,NA
+"42","HTR2A, 5-HT2A, HTR2...","rectangle",276,678,46,17,NA,NA
+"43","CDK1, CDC2, CDC28A, P34CDC2","rectangle",345,487,46,17,NA,NA
+"44","LPAR1, EDG2, Gpcr26, LPA1, Mrec1.3, VZG1, edg-2, rec.1.3, vzg-1","rectangle",276,120,46,17,NA,NA
+"45","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",578,491,46,17,NA,NA
+"46","TJP1, ZO-1","rectangle",419,487,46,17,NA,NA
+"47","TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4...","rectangle",356,216,46,17,NA,NA
+"48","ADCY1, AC1, DFNB44...","rectangle",456,590,46,17,NA,NA
+"49","SRC, ASV, SRC1, THC6, c-SRC, p60-Src","rectangle",538,221,46,17,NA,NA
+"50","TUBA1B, K-ALPHA-1...","rectangle",356,194,46,17,NA,NA
+"51","GJA1, AVSD3, CMDR, CX43, EKVP, EKVP3, GJAL, HLHS1, HSS, ODDD, PPKCA","rectangle",116,223,46,17,NA,NA
+"52","GUCY1A2, GC-SA2, GUC1A2...","rectangle",792,765,46,17,NA,NA
+"53","MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, NS13, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK...","rectangle",723,294,46,17,NA,NA
+"54","MAP2K1, CFC3, MAPKK1, MEK1, MEL, MKK1, PRKMK1...","rectangle",792,138,46,17,NA,NA
+"55","RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf","rectangle",671,138,46,17,NA,NA
+"56","HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras...","rectangle",549,138,46,17,NA,NA
+"57","SOS1, GF1, GGF1, GINGF, HGF, NS4, SOS-1...","rectangle",453,153,46,17,NA,NA
+"58","GRB2, ASH, EGFRBP-GRB2, Grb3-3, MST084, MSTP084, NCKAP2","rectangle",369,153,46,17,NA,NA
+"59","EGFR, ERBB, ERBB1, ERRP, HER1, NISBD2, NNCIS, PIG61, mENA...","rectangle",276,153,46,17,NA,NA
+"60","EGF, HOMG4, URG...","rectangle",195,153,46,17,NA,NA
+"61","ADRB1, ADRB1R, B1AR, BETA1AR, FNSS2, RHR","rectangle",276,573,46,17,NA,NA
+"62","GNAS, AHO, AIMAH1, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI","rectangle",368,590,46,17,NA,NA
+"63","GNA11, FBH, FBH2, FHH2, GNA-11, HG1K, HHC2, HYPOC2...","rectangle",368,695,46,17,NA,NA
+"64","GNAI1, Gi, HG1B, NEDHISB...","rectangle",368,643,46,17,NA,NA
+"65","GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCA44, SCAR13...","rectangle",276,709,46,17,"hsa:2911",0
+"66","DRD2, D2DR, D2R","rectangle",276,643,46,17,NA,NA
+"67","PLCB1, DEE12, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B...","rectangle",517,695,46,17,"hsa:23236;hsa:5331;hsa:5332",100
+"68","DRD1, D1R, DADR, DRD1A","rectangle",276,608,46,17,NA,NA
+"69","ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29...","rectangle",680,695,46,17,"hsa:3708;hsa:3709",100
+"70","TITLE:Gap junction","roundrectangle",102,58,124,25,NA,NA
+"71","Cytokine-cytokine receptor interaction","roundrectangle",98,143,110,45,NA,NA
+"72","Neuroactive ligand-receptor interaction","roundrectangle",99,625,114,45,NA,NA
+"73","Phosphatidylinositol signaling system","roundrectangle",500,647,110,34,NA,NA
+"74","Calcium signaling pathway","roundrectangle",590,732,113,34,NA,NA
+"75","MAPK signaling pathway","roundrectangle",628,181,112,34,NA,NA

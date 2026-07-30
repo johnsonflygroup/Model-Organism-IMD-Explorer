@@ -1,0 +1,44 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1...","rectangle",122,546,46,17,NA,NA
+"102","UGT2B11...","rectangle",982,238,46,17,"hsa:54658",100
+"103","CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1, VDDR3","rectangle",818,238,46,17,NA,NA
+"104","GUSB, BG, MPS7","rectangle",1035,238,46,17,"hsa:2990",100
+"105","CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1...","rectangle",915,238,46,17,NA,NA
+"113","CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1...","rectangle",877,189,46,17,NA,NA
+"127","CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK","rectangle",270,773,46,17,NA,NA
+"128","NME6, IPIA-ALPHA, NDK 6, NM23-H6...","rectangle",270,851,46,17,"hsa:4832",100
+"129","CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK","rectangle",392,773,46,17,NA,NA
+"130","NME6, IPIA-ALPHA, NDK 6, NM23-H6...","rectangle",392,851,46,17,"hsa:4832",100
+"132","RRM2B, MTDPS8A, MTDPS8B, P53R2, RCDFRD...","rectangle",331,813,46,17,"hsa:50484;hsa:6240",100
+"134","DUT, BMFDMS, dUTPase","rectangle",516,773,46,17,"hsa:1854",100
+"135","CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB...","rectangle",181,611,46,17,NA,NA
+"139","K03782","rectangle",810,633,46,17,NA,NA
+"146","MPO","rectangle",860,633,46,17,NA,NA
+"149","NAT2, AAC2, NAT-2, PNAT...","rectangle",958,839,46,17,NA,NA
+"151","CYP2E1, CPE1, CYP2E, P450-J, P450C2E","rectangle",1032,890,46,17,NA,NA
+"158","CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1","rectangle",864,768,46,17,NA,NA
+"159","CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1","rectangle",1056,768,46,17,NA,NA
+"164","GSTO2, GSTO 2-2, bA127L20.1...","rectangle",1080,927,46,17,NA,NA
+"40","TITLE:Drug metabolism - other enzymes","roundrectangle",185,58,289,25,NA,NA
+"69","TPMT, TPMTD","rectangle",182,233,46,17,"hsa:7172",100
+"70","TPMT, TPMTD","rectangle",296,233,46,17,"hsa:7172",100
+"71","TPMT, TPMTD","rectangle",503,232,46,17,"hsa:7172",100
+"72","HPRT1, HGPRT, HPRT","rectangle",238,188,46,17,"hsa:3251",100
+"73","HPRT1, HGPRT, HPRT","rectangle",238,271,46,17,"hsa:3251",100
+"74","HPRT1, HGPRT, HPRT","rectangle",503,313,46,17,"hsa:3251",100
+"75","GMPS, GATD7","rectangle",452,272,46,17,NA,NA
+"76","ITPA, C20orf37, DEE35, HLC14-06-P, ITPase, My049, NTPase, dJ794I6.3","rectangle",332,353,46,17,"hsa:3704",100
+"77","XDH, XAN1, XO, XOR","rectangle",182,322,46,17,"hsa:7498",100
+"78","NAT2, AAC2, NAT-2, PNAT...","rectangle",936,731,46,17,NA,NA
+"79","NAT2, AAC2, NAT-2, PNAT...","rectangle",1080,849,46,17,NA,NA
+"83","UPP2, UDRPASE2, UP2, UPASE2...","rectangle",217,671,46,17,NA,NA
+"84","TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF","rectangle",331,663,46,17,"hsa:1890",100
+"85","DPYD, DHP, DHPDHASE, DPD, DYPD","rectangle",319,611,46,17,"hsa:1806",100
+"86","DPYS, DHP, DHPase","rectangle",414,611,46,17,"hsa:1807",100
+"87","UPB1, BUP1","rectangle",515,611,46,17,"hsa:51733",100
+"88","UMPS, ODC, OPRT","rectangle",270,697,46,17,"hsa:7372",100
+"89","UCKL1, UCK1L, URKL1...","rectangle",217,737,46,17,NA,NA
+"90","TK1, TK2...","rectangle",392,697,46,17,"hsa:7084",100
+"91","IMPDH1, IMPD, IMPD1, IMPDH-I, LCA11, RP10, sWSS2608...","rectangle",354,272,46,17,"hsa:3614;hsa:3615",100
+"96","TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF","rectangle",270,579,46,17,"hsa:1890",100
+"99","CDADC1, NYD-SP15, bA103J18.1...","rectangle",217,546,46,17,NA,NA

@@ -1,0 +1,46 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"111","K18857","rectangle",487,427,46,17,NA,NA,NA,NA
+"114","K18858","rectangle",598,427,46,17,NA,NA,NA,NA
+"119","K00224","rectangle",214,615,46,17,NA,NA,NA,NA
+"130","K29093","rectangle",687,557,46,17,NA,NA,NA,NA
+"137","K29095","rectangle",668,165,46,17,NA,NA,NA,NA
+"143","K29097","rectangle",833,194,46,17,NA,NA,NA,NA
+"146","K29098","rectangle",833,255,46,17,NA,NA,NA,NA
+"151","K29096","rectangle",876,166,46,17,NA,NA,NA,NA
+"155","K29097","rectangle",927,194,46,17,NA,NA,NA,NA
+"157","K29098","rectangle",927,254,46,17,NA,NA,NA,NA
+"162","K29094","rectangle",740,514,46,17,NA,NA,NA,NA
+"165","K29099","rectangle",927,320,46,17,NA,NA,NA,NA
+"185","Arachidonic acid metabolism","roundrectangle",128,123,105,34,NA,NA,NA,NA
+"187","Terpenoid backbone biosynthesis","roundrectangle",616,232,116,34,NA,NA,NA,NA
+"188","K29100","rectangle",833,495,46,17,NA,NA,NA,NA
+"189","K29100","rectangle",927,492,46,17,NA,NA,NA,NA
+"190","K29100","rectangle",860,583,46,17,NA,NA,NA,NA
+"191","K29100","rectangle",954,581,46,17,NA,NA,NA,NA
+"192","K29100","rectangle",888,666,46,17,NA,NA,NA,NA
+"193","K29100","rectangle",982,666,46,17,NA,NA,NA,NA
+"194","K29095","rectangle",773,166,46,17,NA,NA,NA,NA
+"26","K10527","rectangle",191,760,46,17,NA,NA,NA,NA
+"27","K10527","rectangle",307,689,46,17,NA,NA,NA,NA
+"28","K10527","rectangle",606,688,46,17,NA,NA,NA,NA
+"29","K10528","rectangle",403,489,46,17,NA,NA,NA,NA
+"30","ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...","rectangle",138,720,46,17,"hsa:51","1.3.3.6","ACOX1",100
+"31","ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...","rectangle",415,688,46,17,"hsa:51","1.3.3.6","ACOX1",100
+"32","ACAA1, ACAA, Lnc-Myd88, PTHIO, THIO","rectangle",299,760,46,17,NA,NA,NA,NA
+"33","ACAA1, ACAA, Lnc-Myd88, PTHIO, THIO","rectangle",201,688,46,17,NA,NA,NA,NA
+"34","K01723","rectangle",354,556,46,17,NA,NA,NA,NA
+"35","K00454","rectangle",299,489,46,17,NA,NA,NA,NA
+"48","K05894","rectangle",505,615,46,17,NA,NA,NA,NA
+"49","K08241","rectangle",557,784,46,17,NA,NA,NA,NA
+"63","ACAA1, ACAA, Lnc-Myd88, PTHIO, THIO","rectangle",514,688,46,17,NA,NA,NA,NA
+"64","ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...","rectangle",644,649,46,17,"hsa:51","1.3.3.6","ACOX1",100
+"67","TITLE:alpha-Linolenic acid metabolism","roundrectangle",163,58,245,25,NA,NA,NA,NA
+"68","K10525","rectangle",403,615,46,17,NA,NA,NA,NA
+"69","K01723","rectangle",353,350,46,17,NA,NA,NA,NA
+"70","PLA2G4B, HsT16992, cPLA2-beta...","rectangle",221,155,46,17,"hsa:5321;hsa:8398","3.1.1.4","PLA2G4A; PLA2G6",100
+"71","K10526","rectangle",600,615,46,17,NA,NA,NA,NA
+"72","K10528","rectangle",403,309,46,17,NA,NA,NA,NA
+"73","FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13","rectangle",299,195,46,17,NA,NA,NA,NA
+"74","K10529","rectangle",191,309,46,17,NA,NA,NA,NA
+"75","PLAAT3, AdPLA, FPLD9, H-REV107, H-REV107-1, HRASLS3, HREV107, HREV107-1, HREV107-3, HRSL3, PLA2G16, PLAAT-3...","rectangle",271,155,46,17,NA,NA,NA,NA
+"76","K00454","rectangle",299,309,46,17,NA,NA,NA,NA

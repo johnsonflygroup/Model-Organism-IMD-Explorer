@@ -1,0 +1,74 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","Glycolysis / Gluconeogenesis","roundrectangle",998,96,70,25,NA,NA
+"101","TITLE:Butanoate metabolism","roundrectangle",144,58,207,25,NA,NA
+"102","Citrate cycle (TCA cycle)","roundrectangle",656,188,83,25,NA,NA
+"103","Vitamin B6 metabolism","roundrectangle",121,477,140,25,NA,NA
+"104","Alanine, aspartate and glutamate metabolism","roundrectangle",828,493,121,34,NA,NA
+"106","K01039...","rectangle",897,415,46,17,NA,NA
+"107","K01615...","rectangle",714,415,46,17,NA,NA
+"108","L2HGDH, C14orf160, L2HGA","rectangle",946,458,46,17,"hsa:79944",100
+"110","K00004","rectangle",824,117,46,17,NA,NA
+"155","K03366...","rectangle",823,62,46,17,NA,NA
+"156","K16871","rectangle",249,422,46,17,NA,NA
+"160","K18122","rectangle",436,412,46,17,NA,NA
+"161","K14534","rectangle",534,412,46,17,NA,NA
+"162","K01652...","rectangle",942,142,46,17,NA,NA
+"165","K18119","rectangle",249,348,46,17,NA,NA
+"167","K18118","rectangle",200,290,46,17,NA,NA
+"168","K00135","rectangle",273,300,46,17,NA,NA
+"169","Arginine and proline metabolism","roundrectangle",111,444,120,34,NA,NA
+"171","K18121","rectangle",343,422,46,17,NA,NA
+"175","K03366...","rectangle",706,117,46,17,NA,NA
+"177","K00004","rectangle",706,87,46,17,NA,NA
+"178","K00209","rectangle",690,366,46,17,NA,NA
+"179","K17829","rectangle",640,366,46,17,NA,NA
+"183","K00174...","rectangle",1084,393,46,17,NA,NA
+"186","K21317...","rectangle",394,329,46,17,NA,NA
+"189","K01574","rectangle",305,624,46,17,NA,NA
+"190","K01034...","rectangle",509,684,46,17,NA,NA
+"192","K18371","rectangle",209,624,46,17,NA,NA
+"197","K18372","rectangle",109,623,46,17,NA,NA
+"199","K23259","rectangle",228,577,46,17,NA,NA
+"201","K18223...","rectangle",192,534,46,17,NA,NA
+"203","K18382...","rectangle",278,577,46,17,NA,NA
+"204","K26318","rectangle",384,235,46,17,NA,NA
+"205","K01715","rectangle",690,456,46,17,NA,NA
+"56","Biosynthesis of type II polyketide backbone","roundrectangle",864,328,127,34,NA,NA
+"58","BDH1, BDH, SDR9C1","rectangle",351,594,46,17,NA,NA
+"59","K07518","rectangle",351,531,46,17,NA,NA
+"60","OXCT1, OXCT, SCOT...","rectangle",509,663,46,17,"hsa:5019",100
+"61","AACS, ACSF1, SUR-5","rectangle",509,609,46,17,NA,NA
+"62","HMGCL, HL, HMGCL1...","rectangle",830,695,46,17,"hsa:3155",100
+"63","HMGCS1, HMGCS...","rectangle",830,647,46,17,"hsa:3157;hsa:3158",100
+"64","ACAT1, ACAT, MAT, T2, THIL...","rectangle",830,609,46,17,"hsa:38;hsa:39",100
+"65","K00074","rectangle",690,552,46,17,NA,NA
+"66","EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, MFE1, PBFE...","rectangle",640,552,46,17,"hsa:1962;hsa:3033",66.6666666666667
+"67","K00023","rectangle",559,553,46,17,NA,NA
+"68","K01782...","rectangle",613,500,46,17,NA,NA
+"69","K03821...","rectangle",506,500,46,17,NA,NA
+"70","K05973","rectangle",401,500,46,17,NA,NA
+"71","ECHS1, ECHS1D, SCEH, mECH, mECH1...","rectangle",640,456,46,17,"hsa:1892;hsa:1962;hsa:3030",100
+"72","K17865","rectangle",559,456,46,17,NA,NA
+"73","K14534","rectangle",584,388,46,17,NA,NA
+"74","K00043...","rectangle",343,401,46,17,NA,NA
+"75","ABAT, GABA-AT, GABAT, NPD009","rectangle",249,401,46,17,"hsa:18",100
+"76","GAD1, CPSQ1, DEE89, GAD, SCP...","rectangle",148,412,46,17,"hsa:2571",100
+"77","K00169...","rectangle",1034,393,46,17,NA,NA
+"78","K00656","rectangle",999,365,46,17,NA,NA
+"79","ACADS, ACAD3, SCAD","rectangle",739,366,46,17,"hsa:35",100
+"80","K00634","rectangle",777,295,46,17,NA,NA
+"82","K00132...","rectangle",604,318,46,17,NA,NA
+"83","K00100","rectangle",504,329,46,17,NA,NA
+"84","ALDH5A1, SSADH, SSDH","rectangle",323,300,46,17,"hsa:7915",100
+"85","K00135...","rectangle",299,281,46,17,NA,NA
+"86","ACSM1, BUCS1, MACS1...","rectangle",689,295,46,17,NA,NA
+"87","K01034...","rectangle",640,295,46,17,NA,NA
+"88","K00929","rectangle",722,264,46,17,NA,NA
+"89","K07246","rectangle",917,225,46,17,NA,NA
+"91","K01799","rectangle",559,225,46,17,NA,NA
+"92","K00239...","rectangle",384,214,46,17,NA,NA
+"93","K01575","rectangle",824,142,46,17,NA,NA
+"95","K00004...","rectangle",706,142,46,17,NA,NA
+"96","K03366...","rectangle",706,62,46,17,NA,NA
+"97","Alanine, aspartate and glutamate metabolism","roundrectangle",104,309,125,34,NA,NA
+"99","Pyruvate metabolism","roundrectangle",770,548,73,34,NA,NA

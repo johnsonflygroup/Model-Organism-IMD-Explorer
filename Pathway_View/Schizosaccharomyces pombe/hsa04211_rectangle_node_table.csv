@@ -1,0 +1,57 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"10","TITLE:Longevity regulating pathway","roundrectangle",186,58,291,25,NA,NA
+"101","SIRT1, SIR2, SIR2L1, SIR2alpha","rectangle",738,581,46,17,NA,NA
+"102","PPARGC1A, LEM6, PGC-1(alpha), PGC-1alpha, PGC-1v, PGC1, PGC1A, PPARGC1","rectangle",1037,696,46,17,NA,NA
+"106","ULK1, ATG1, ATG1A, UNC51, Unc51.1, hATG1","rectangle",733,266,46,17,NA,NA
+"115","KL, HFTC3, KLA","rectangle",346,139,46,17,NA,NA
+"116","KL, HFTC3, KLA","rectangle",195,248,46,17,NA,NA
+"124","CAMKK2, CAMKK, CAMKKB","rectangle",478,581,46,17,NA,NA
+"128","CAMK4, CaMK_IV, CaMK-GR, CaMKIV, caMK","rectangle",596,748,46,17,NA,NA
+"132","PPARGC1A, LEM6, PGC-1(alpha), PGC-1alpha, PGC-1v, PGC1, PGC1A, PPARGC1","rectangle",1210,753,46,17,NA,NA
+"139","NFKB1, CVID12, EBP-1, KBF1, NF-kB, NF-kB1, NF-kappa-B1, NF-kappaB, NF-kappabeta, NFKB-p105, NFKB-p50, NFkappaB...","rectangle",834,586,46,17,NA,NA
+"142","PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARG5, PPARgamma","rectangle",834,659,46,17,NA,NA
+"148","p53 signaling pathway","roundrectangle",889,553,137,25,NA,NA
+"149","NF-kappa B signaling pathway","roundrectangle",888,618,120,34,NA,NA
+"150","Autophagy - animal","roundrectangle",861,257,137,25,NA,NA
+"153","CAT","rectangle",1218,208,46,17,"hsa:847",100
+"154","ATG5, APG5, APG5-LIKE, APG5L, ASP, SCAR25, hAPG5","rectangle",1218,236,46,17,"hsa:9474",100
+"155","APPL1, APPL, DIP13alpha, MODY14","rectangle",347,581,46,17,"hsa:26060",0
+"158","RB1CC1, ATG17, CC1, FIP200, PPP1R131","rectangle",733,300,46,17,NA,NA
+"159","ATG13, KIAA0652, PARATARG8","rectangle",733,283,46,17,NA,NA
+"160","ATG101, C12orf44","rectangle",733,317,46,17,NA,NA
+"161","EHMT2, BAT8, C6orf30, G9A, GAT8, KMT1C, NG36...","rectangle",1039,157,46,17,NA,NA
+"162",NA,"rectangle",443,386,46,34,NA,NA
+"163",NA,"rectangle",733,291,46,68,NA,NA
+"20","IGF1, IGF, IGF-I, IGFI, MGF","rectangle",177,220,46,17,NA,NA
+"21","IGF1R, CD221, IGFIR, IGFR, JTK13","rectangle",266,220,46,17,NA,NA
+"23","IRS1, HIRS-1...","rectangle",355,187,46,17,NA,NA
+"24","HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras...","rectangle",355,228,46,17,NA,NA
+"29","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",660,159,46,17,NA,NA
+"31","ADCY1, AC1, DFNB44...","rectangle",441,161,46,17,NA,NA
+"34","PRKAG2, AAKG, AAKG2, CMH6, H91620p, WPWS...","rectangle",567,581,46,17,"hsa:51422",0
+"39","INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10, PNDM4","rectangle",177,195,46,17,"hsa:3630",0
+"4","FOXO1, FKH1, FKHR, FOXO1A...","rectangle",1039,205,46,17,NA,NA
+"40","INSR, CD220, HHF5","rectangle",266,195,46,17,"hsa:3643",0
+"42","Insulin signaling pathway","roundrectangle",176,150,108,34,NA,NA
+"43","mTOR signaling pathway","roundrectangle",744,389,108,34,NA,NA
+"44","PI3K-Akt signaling pathway","roundrectangle",473,241,120,34,NA,NA
+"48","CREB3, LUMAN, LZIP, sLZIP...","rectangle",1039,126,46,17,NA,NA
+"49","FoxO signaling pathway","roundrectangle",1126,254,108,34,NA,NA
+"5","RPS6KB1, PS6K, S6K, S6K-beta-1, S6K1, STK14A, p70_S6KA, p70(S6K)-alpha, p70-S6K, p70-alpha...","rectangle",733,351,46,17,NA,NA
+"50","SOD2, GC1, GClnc1, IPO-B, IPOB, MNSOD, MVCD6, Mn-SOD","rectangle",1218,188,46,17,NA,NA
+"56","AMPK signaling pathway","roundrectangle",624,620,120,34,NA,NA
+"57","TSC2, LAM, PPP1R160, TSC4","rectangle",443,395,46,17,NA,NA
+"58","TSC1, LAM, TSC","rectangle",443,378,46,17,NA,NA
+"59","RHEB, RHEB2","rectangle",525,389,46,17,NA,NA
+"6","MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS...","rectangle",614,389,46,17,NA,NA
+"66","EIF4EBP1, 4E-BP1, 4EBP1, BP-1, PHAS-I","rectangle",704,428,46,17,NA,NA
+"67","EIF4E, AUTS19, CBP, EIF4E1, EIF4EL1, EIF4F, eIF-4E...","rectangle",778,428,46,17,NA,NA
+"7","AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...","rectangle",660,205,46,17,"hsa:208",0
+"72","STK11, LKB1, PJS, hLKB1","rectangle",437,683,46,17,NA,NA
+"73","TP53, BCC7, BMFS5, LFS1, P53, TRP53","rectangle",423,748,46,17,NA,NA
+"74","SESN3, SEST3...","rectangle",506,748,46,17,NA,NA
+"8","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",443,205,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296",0
+"81","ADIPOQ, ACDC, ACRP30, ADIPQTL1, ADPN, APM-1, APM1, GBP28","rectangle",177,581,46,17,NA,NA
+"82","ADIPOR1, ACDCR1, CGI-45, CGI45, PAQR1, TESBP1A...","rectangle",266,581,46,17,NA,NA
+"91","BAX, BCL2L4","rectangle",834,500,46,17,NA,NA
+"92","TP53, BCC7, BMFS5, LFS1, P53, TRP53","rectangle",834,529,46,17,NA,NA

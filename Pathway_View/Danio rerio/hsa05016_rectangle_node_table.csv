@@ -1,0 +1,124 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"12","TITLE:Huntington disease","roundrectangle",136,58,192,25,NA,NA
+"126","CLTA, LCA...","rectangle",404,180,46,17,"hsa:1213",100
+"127","AP2M1, AP50, CLAPM1, MRD60, mu2...","rectangle",450,188,46,17,"hsa:1175",100
+"128","HTT, HD, IT15, LOMARS","rectangle",521,180,46,17,NA,NA
+"129","HIP1, HIP-I, ILWEQ, SHON, SHONbeta, SHONgamma","rectangle",450,171,46,17,NA,NA
+"133","HIP1, HIP-I, ILWEQ, SHON, SHONbeta, SHONgamma","rectangle",469,419,46,17,NA,NA
+"134","IFT57, ESRRBL1, HIPPI, MHS4R2, OFD18","rectangle",469,436,46,17,NA,NA
+"135","CASP8, ALPS2B, CAP4, Casp-8, FLICE, MACH, MCH5","rectangle",469,453,46,17,NA,NA
+"136","HTT, HD, IT15, LOMARS","rectangle",416,387,46,17,NA,NA
+"137","CASP3, CPP32, CPP32B, SCA-1","rectangle",548,453,46,17,NA,NA
+"142","ACTR1B, ARP1B, CTRN2, PC3...","rectangle",718,204,46,17,NA,NA
+"143","DNAL4, MRMV3, PIG27...","rectangle",698,238,46,17,NA,NA
+"147","TGM2, G(h), TG(C), TGC, hTG2, tTG","rectangle",519,786,46,17,NA,NA
+"149","Calcium signaling pathway","roundrectangle",448,526,116,34,NA,NA
+"15","NDUFC2-KCTD14...","rectangle",744,724,46,17,"hsa:126328;hsa:374291;hsa:4694;hsa:4695;hsa:4697;hsa:4700;hsa:4702;hsa:4704;hsa:4705;hsa:4709;hsa:4714;hsa:4715;hsa:4716;hsa:4718;hsa:4719;hsa:4720;hsa:4722;hsa:4723;hsa:4724;hsa:4726;hsa:4728;hsa:4729;hsa:51079;hsa:54539;hsa:55967",100
+"150","Oxidative phosphorylation","roundrectangle",622,785,120,34,NA,NA
+"152","APAF1, APAF-1, CED4","rectangle",925,956,46,17,NA,NA
+"153","CASP9, APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56","rectangle",1015,941,46,17,NA,NA
+"154","CASP3, CPP32, CPP32B, SCA-1","rectangle",1087,941,46,17,NA,NA
+"159","Apoptosis","roundrectangle",1077,982,116,25,NA,NA
+"16","SDHA, CMD1GG, FP, MC2DN1, NDAXOA, PGL5, PPGL5, SDH1, SDH2, SDHF...","rectangle",744,754,46,17,"hsa:6389;hsa:6390;hsa:6391;hsa:6392",100
+"160","CREB3, LUMAN, LZIP, sLZIP...","rectangle",953,417,46,17,NA,NA
+"161","HTT, HD, IT15, LOMARS","rectangle",935,434,46,17,NA,NA
+"162","TAF4, MRD73, TAF(II)130, TAF(II)135, TAF2C, TAF2C1, TAF4A, TAFII-130, TAFII-135, TAFII130, TAFII135...","rectangle",980,434,46,17,NA,NA
+"167","PPARGC1A, LEM6, PGC-1(alpha), PGC-1alpha, PGC-1v, PGC1, PGC1A, PPARGC1","rectangle",778,461,46,17,NA,NA
+"17","UQCR11, 0710008D09Rik, QCR10, UQCR...","rectangle",744,784,46,17,"hsa:1537;hsa:27089;hsa:7381;hsa:7384;hsa:7385;hsa:7386",100
+"171","PPARG, CIMT1, FPLD3, GLM1, NR1C3, PPARG1, PPARG2, PPARG5, PPARgamma","rectangle",911,520,46,17,NA,NA
+"178","p53 signaling pathway","roundrectangle",1005,595,120,34,NA,NA
+"179","BAX, BCL2L4","rectangle",782,616,46,17,NA,NA
+"18","COX6B2, COXVIB2, CT59...","rectangle",744,814,46,17,"hsa:1327;hsa:1337;hsa:1339;hsa:1340;hsa:1349;hsa:1351;hsa:84701;hsa:9377",100
+"180","BBC3, JFY-1, JFY1, PUMA","rectangle",782,639,46,17,NA,NA
+"183","SP1","rectangle",998,367,46,17,NA,NA
+"184","HTT, HD, IT15, LOMARS","rectangle",980,384,46,17,NA,NA
+"19","ATP5PD, APT5H, ATP5H, ATPQ...","rectangle",744,844,46,17,"hsa:498;hsa:506;hsa:513;hsa:514;hsa:539",100
+"196","HTT, HD, IT15, LOMARS","rectangle",497,372,46,17,NA,NA
+"202","Proteasome","roundrectangle",690,420,116,25,NA,NA
+"204","Basal transcription factors","roundrectangle",935,67,116,34,NA,NA
+"205","RNA polymerase","roundrectangle",1066,67,116,34,NA,NA
+"206","Glutamatergic synapse","roundrectangle",189,575,92,34,NA,NA
+"21","HTT, HD, IT15, LOMARS","rectangle",936,205,46,17,NA,NA
+"215","ERN1, IRE1, IRE1P, IRE1a, hIRE1p","rectangle",560,1018,46,17,NA,NA
+"216","TRAF2, MGC:45012, RNF117, TRAP, TRAP3","rectangle",606,1018,46,17,NA,NA
+"217","MAP3K5, ASK1, MAPKKK5, MEKK5","rectangle",689,1018,46,17,NA,NA
+"218","MAPK8, JNK, JNK-46, JNK1, JNK1A2, JNK21B1/2, PRKM8, SAPK1, SAPK1c...","rectangle",856,1018,46,17,NA,NA
+"219","Proteasome","roundrectangle",596,914,92,25,NA,NA
+"22","HTT, HD, IT15, LOMARS","rectangle",764,221,46,17,NA,NA
+"220","Protein processing in endoplasmic reticulum","roundrectangle",507,1079,151,34,NA,NA
+"23","HTT, HD, IT15, LOMARS","rectangle",387,759,46,17,NA,NA
+"232","MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS","rectangle",477,1188,46,17,NA,NA
+"233","ULK1, ATG1, ATG1A, UNC51, Unc51.1, hATG1...","rectangle",572,1188,46,17,NA,NA
+"234","ATG13, KIAA0652, PARATARG8","rectangle",572,1205,46,17,NA,NA
+"235","RB1CC1, ATG17, CC1, FIP200, PPP1R131","rectangle",618,1205,46,17,NA,NA
+"236","ATG101, C12orf44","rectangle",618,1188,46,17,NA,NA
+"237","ATG2A, BLTP4A...","rectangle",970,1188,46,17,NA,NA
+"238","WIPI2, ATG18B, Atg21, CGI-50, IDDSSA, WIPI-2...","rectangle",970,1223,46,17,NA,NA
+"239","AMBRA1, DCAF3, WDR94","rectangle",696,1153,46,17,NA,NA
+"24","HTT, HD, IT15, LOMARS","rectangle",655,753,46,17,NA,NA
+"240","BECN2, BECN1L1, BECN1P1...","rectangle",781,1206,46,17,NA,NA
+"241","PIK3R4, VPS15, p150","rectangle",781,1223,46,17,NA,NA
+"242","NRBF2, COPR, COPR1, COPR2, NRBF-2","rectangle",827,1206,46,17,NA,NA
+"243","PIK3C3, VPS34, Vps34, hVps34","rectangle",827,1223,46,17,NA,NA
+"244","ATG14, ATG14L, BARKOR, KIAA0831","rectangle",827,1189,46,17,NA,NA
+"246","Autophagy - animal","roundrectangle",477,1224,89,34,NA,NA
+"25","HTT, HD, IT15, LOMARS","rectangle",754,76,46,17,NA,NA
+"259","MAP2K7, JNKK2, MAPKK7, MEK, MEK 7, MKK7, PRKMK7, SAPKK-4, SAPKK4","rectangle",771,1018,46,17,NA,NA
+"26","REST, DFNA27, GINGF5, HGF5, NRSF, WT6, XBR","rectangle",784,119,46,17,NA,NA
+"260","HTT, HD, IT15, LOMARS","rectangle",693,912,46,17,NA,NA
+"261","MAP3K10, MEKK10, MLK2, MST","rectangle",745,973,46,17,NA,NA
+"265","HTT, HD, IT15, LOMARS","rectangle",712,1121,46,17,NA,NA
+"275","KLC3, KLC2, KLC2L, KLCt, KNS2B...","rectangle",461,308,46,17,"hsa:3798;hsa:3800",100
+"276","HTT, HD, IT15, LOMARS","rectangle",615,282,46,17,NA,NA
+"277","MAPK8, JNK, JNK-46, JNK1, JNK1A2, JNK21B1/2, PRKM8, SAPK1, SAPK1c...","rectangle",539,292,46,17,NA,NA
+"286","GRIA1, GLUH1, GLUR1, GLURA, GluA1, HBGR1, MRD67, MRT76...","rectangle",308,784,46,17,"hsa:2891;hsa:2892;hsa:2893",100
+"29","REST, DFNA27, GINGF5, HGF5, NRSF, WT6, XBR","rectangle",912,122,46,17,NA,NA
+"291","KCNJ10, BIRK-10, KCNJ13-PEN, KIR1.2, KIR4.1, SESAME","rectangle",118,1016,46,17,NA,NA
+"292","SLC1A2, DEE41, EAAT2, EIEE41, GLT-1, GLT1, HBGT...","rectangle",174,904,46,17,"hsa:6506;hsa:6507",100
+"293","HTT, HD, IT15, LOMARS","rectangle",75,947,46,17,NA,NA
+"30","RCOR1, COREST, RCOR","rectangle",958,105,46,17,NA,NA
+"31","SIN3A, CHR15DELq24, DEL15Q24, WITKOS","rectangle",912,105,46,17,NA,NA
+"32","HDAC1, GON-10, HD1, KDAC1, RPD3, RPD3L1...","rectangle",958,122,46,17,NA,NA
+"328","CACNA1B, BIII, CACNL1A5, CACNN, Cav2.2, DYT23, NEDNEH","rectangle",308,643,46,17,NA,NA
+"333","STX1A, HPC-1, P35-1, STX1, SYN1A","rectangle",371,613,46,17,NA,NA
+"334","HTT, HD, IT15, LOMARS","rectangle",435,594,46,17,NA,NA
+"341","TUBA1B, K-ALPHA-1...","rectangle",594,252,46,17,NA,NA
+"342","TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4...","rectangle",640,252,46,17,NA,NA
+"343","TUBA1B, K-ALPHA-1...","rectangle",569,331,46,17,NA,NA
+"344","TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4...","rectangle",615,331,46,17,NA,NA
+"345","Endocytosis","roundrectangle",456,138,92,25,NA,NA
+"349","PSMA8, PSMA7L...","rectangle",610,951,46,17,NA,NA
+"350","PSMD14, PAD1, POH1, RPN11...","rectangle",610,968,46,17,NA,NA
+"351",NA,"rectangle",595,1196,92,34,NA,NA
+"352",NA,"rectangle",804,1206,92,51,NA,NA
+"353",NA,"rectangle",935,113,92,34,NA,NA
+"354",NA,"rectangle",902,580,66,34,NA,NA
+"355",NA,"rectangle",427,179,92,34,NA,NA
+"356",NA,"rectangle",957,425,91,34,NA,NA
+"357",NA,"rectangle",583,1018,92,17,NA,NA
+"358",NA,"rectangle",469,436,46,51,NA,NA
+"359",NA,"rectangle",610,959,46,34,NA,NA
+"36","BDNF, ANON2, BULN2","rectangle",716,165,46,17,NA,NA
+"37","HAP1, HAP2, HIP5, HLP, hHLP1","rectangle",718,221,46,17,NA,NA
+"38","CREBBP, CBP, KAT3A, MKHK1, RSTS, RSTS1...","rectangle",956,188,46,17,NA,NA
+"41","POLR2J2, HRPB11B, RPB11b1...","rectangle",1017,150,46,17,NA,NA
+"47","GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1, hNR1...","rectangle",308,690,46,17,"hsa:2902;hsa:2904",100
+"48","DLG4, MRD62, PSD95, SAP-90, SAP90","rectangle",363,722,46,17,NA,NA
+"49","GNAQ, CMAL, CMC1, G-ALPHA-q, GAQ, SWS","rectangle",389,567,46,17,NA,NA
+"51","GRM5, GPRC1E, MGLUR5, PPP1R86, mGlu5","rectangle",308,567,46,17,NA,NA
+"52","PLCB1, DEE12, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B...","rectangle",470,567,46,17,"hsa:23236;hsa:5331;hsa:5332",100
+"53","ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29","rectangle",563,690,46,17,"hsa:3708",100
+"61","HTT, HD, IT15, LOMARS","rectangle",514,723,46,17,NA,NA
+"66","PPIF, CYP3, CyP-M, Cyp-D, CypD...","rectangle",925,887,46,17,"hsa:291",100
+"67","CYCS, CYC, HCS, THC4","rectangle",925,922,46,17,"hsa:54205",100
+"69","TAF4, MRD73, TAF(II)130, TAF(II)135, TAF2C, TAF2C1, TAF4A, TAFII-130, TAFII-135, TAFII130, TAFII135...","rectangle",1015,239,46,17,NA,NA
+"75","TFAM, MTDPS15, MTTF1, MTTFA, TCF6, TCF6L1, TCF6L2, TCF6L3","rectangle",643,508,46,17,"hsa:7019",100
+"76","NRF1, ALPHA-PAL","rectangle",696,508,46,17,NA,NA
+"77","SOD2, GC1, GClnc1, IPO-B, IPOB, MNSOD, MVCD6, Mn-SOD, lncRNA-GC1","rectangle",696,544,46,17,NA,NA
+"78","GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N24.1...","rectangle",752,544,46,17,NA,NA
+"79","UCP1, SLC25A7, UCP","rectangle",643,583,46,17,NA,NA
+"80","SOD1, ALS, ALS1, HEL-S-44, IPOA, SOD, STAHP, hSod1, homodimer","rectangle",643,544,46,17,NA,NA
+"85","HTT, HD, IT15, LOMARS","rectangle",892,589,46,17,NA,NA
+"86","TBPL2, TBP2, TRF3...","rectangle",950,262,46,17,NA,NA
+"87","TP53, BCC7, BMFS5, LFS1, P53, TRP53","rectangle",912,572,46,17,NA,NA
+"88","HTT, HD, IT15, LOMARS","rectangle",931,279,46,17,NA,NA

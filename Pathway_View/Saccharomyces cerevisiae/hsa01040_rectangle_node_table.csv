@@ -1,0 +1,15 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"153","K10806","rectangle",1156,848,46,17,NA,NA,NA,NA
+"154","K10805","rectangle",1108,848,46,17,NA,NA,NA,NA
+"164","ACOT2, CTE-IA, CTE1A, MTE1, PTE2, PTE2A, ZAP128...","rectangle",1133,827,46,17,"hsa:570","2.3.1.65; 3.1.2.2; 3.1.2.27","BAAT",0
+"165","ACOT2, CTE-IA, CTE1A, MTE1, PTE2, PTE2A, ZAP128...","rectangle",1133,895,46,17,"hsa:570","2.3.1.65; 3.1.2.2; 3.1.2.27","BAAT",0
+"166","ACOT2, CTE-IA, CTE1A, MTE1, PTE2, PTE2A, ZAP128...","rectangle",1133,953,46,17,"hsa:570","2.3.1.65; 3.1.2.2; 3.1.2.27","BAAT",0
+"167","ACOT2, CTE-IA, CTE1A, MTE1, PTE2, PTE2A, ZAP128...","rectangle",1133,1124,46,17,NA,NA,NA,NA
+"168","ACOT2, CTE-IA, CTE1A, MTE1, PTE2, PTE2A, ZAP128...","rectangle",1150,438,46,17,NA,NA,NA,NA
+"169","ACOT2, CTE-IA, CTE1A, MTE1, PTE2, PTE2A, ZAP128...","rectangle",1150,723,46,17,NA,NA,NA,NA
+"170","ACOT2, CTE-IA, CTE1A, MTE1, PTE2, PTE2A, ZAP128...","rectangle",1150,666,46,17,NA,NA,NA,NA
+"171","ACOT2, CTE-IA, CTE1A, MTE1, PTE2, PTE2A, ZAP128...","rectangle",1150,609,46,17,NA,NA,NA,NA
+"172","ACOT2, CTE-IA, CTE1A, MTE1, PTE2, PTE2A, ZAP128...","rectangle",1150,381,46,17,NA,NA,NA,NA
+"173","ACOT2, CTE-IA, CTE1A, MTE1, PTE2, PTE2A, ZAP128...","rectangle",1150,267,46,17,NA,NA,NA,NA
+"174","ACOT2, CTE-IA, CTE1A, MTE1, PTE2, PTE2A, ZAP128...","rectangle",1150,153,46,17,NA,NA,NA,NA
+"245","TITLE:Biosynthesis of unsaturated fatty acids","roundrectangle",214,58,348,25,NA,NA,NA,NA

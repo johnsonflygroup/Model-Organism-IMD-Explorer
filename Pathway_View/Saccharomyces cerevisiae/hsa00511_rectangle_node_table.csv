@@ -1,0 +1,4 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"2","TITLE:Other glycan degradation","roundrectangle",158,58,236,25,NA,NA,NA,NA
+"28","N-Glycan biosynthesis","roundrectangle",662,131,123,25,NA,NA,NA,NA
+"29","Glycosphingolipid biosynthesis - ganglio series","roundrectangle",682,338,164,34,NA,NA,NA,NA

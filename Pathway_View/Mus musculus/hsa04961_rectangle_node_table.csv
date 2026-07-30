@@ -1,0 +1,44 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"102","CLTA, LCA...","rectangle",289,495,46,17,"hsa:1213",100
+"106","AP2M1, AP50, CLAPM1, MRD60, mu2...","rectangle",310,469,46,17,"hsa:1175",100
+"11","Tight junction","roundrectangle",252,117,115,25,NA,NA
+"111","RAB11A, YL8","rectangle",458,444,46,17,NA,NA
+"112","DNM1, DEE31, DEE31A, DEE31B, DNM, EIEE31...","rectangle",158,447,46,17,"hsa:1759;hsa:1785",100
+"113","DNM1, DEE31, DEE31A, DEE31B, DNM, EIEE31...","rectangle",158,407,46,17,"hsa:1759;hsa:1785",100
+"114","KL, HFTC3, KLA","rectangle",107,601,46,17,NA,NA
+"118","PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA...","rectangle",245,690,46,17,NA,NA
+"119","GNAQ, CMAL, CMC1, G-ALPHA-q, GAQ, SWS","rectangle",252,749,46,17,NA,NA
+"120","PLCB1, DEE12, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B...","rectangle",343,749,46,17,"hsa:23236;hsa:5331;hsa:5332",100
+"128","KLK1, KLKR, Klk6, hK1...","rectangle",77,749,46,17,NA,NA
+"129","TITLE:Endocrine and other factor-regulated calcium reabsorption","roundrectangle",315,58,549,25,NA,NA
+"130","ESR1, ER, ESR, ESRA, ESTRR, Era, NR3A1","rectangle",832,317,46,17,"hsa:2099",100
+"134","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",278,586,46,17,NA,NA
+"138","ADCY6, AC6, LCCS8...","rectangle",470,508,46,17,NA,NA
+"141","GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI","rectangle",570,458,46,17,NA,NA
+"143","ATP1B4...","rectangle",896,538,46,17,NA,NA
+"144","KL, HFTC3, KLA","rectangle",839,491,46,17,NA,NA
+"149","RAB11A, YL8","rectangle",617,385,46,17,NA,NA
+"150","RAB11A, YL8","rectangle",617,322,46,17,NA,NA
+"151","RAB11A, YL8","rectangle",502,385,46,17,NA,NA
+"152","RAB11A, YL8","rectangle",502,322,46,17,NA,NA
+"161","PTH, FIH1, PTH1","rectangle",652,172,46,17,NA,NA
+"25","TRPV5, CAT2, ECAC1, OTRPC3","rectangle",158,651,46,17,NA,NA
+"26","PTH1R, EKNS, PFE, PTHR, PTHR1","rectangle",652,231,46,17,NA,NA
+"28","TRPV5, CAT2, ECAC1, OTRPC3","rectangle",424,595,46,17,NA,NA
+"29","VDR, NR1I1, PPP1R163","rectangle",757,317,46,17,NA,NA
+"39","SLC8A2, NCX2...","rectangle",896,615,46,17,NA,NA
+"40","ATP2B1, MRD66, PMCA1, PMCA1kb...","rectangle",896,725,46,17,NA,NA
+"46","CALB1, CALB, D-28K","rectangle",637,625,46,17,NA,NA
+"47","CALB1, CALB, D-28K","rectangle",548,679,46,17,NA,NA
+"48","CALB1, CALB, D-28K","rectangle",638,708,46,17,NA,NA
+"49","CALB1, CALB, D-28K","rectangle",716,680,46,17,NA,NA
+"50","BDKRB2, B2R, BK-2, BK2, BKR2, BRB2","rectangle",158,749,46,17,NA,NA
+"68","Endocytosis","roundrectangle",371,390,92,25,NA,NA
+"71","TRPV5, CAT2, ECAC1, OTRPC3","rectangle",593,545,46,17,NA,NA
+"78","TRPV5, CAT2, ECAC1, OTRPC3","rectangle",265,424,46,17,NA,NA
+"79","TRPV5, CAT2, ECAC1, OTRPC3","rectangle",407,330,46,17,NA,NA
+"80","TRPV5, CAT2, ECAC1, OTRPC3","rectangle",426,461,46,17,NA,NA
+"81","TRPV5, CAT2, ECAC1, OTRPC3","rectangle",589,339,46,17,NA,NA
+"82","TRPV5, CAT2, ECAC1, OTRPC3","rectangle",589,368,46,17,NA,NA
+"83","TRPV5, CAT2, ECAC1, OTRPC3","rectangle",528,339,46,17,NA,NA
+"84","TRPV5, CAT2, ECAC1, OTRPC3","rectangle",528,368,46,17,NA,NA

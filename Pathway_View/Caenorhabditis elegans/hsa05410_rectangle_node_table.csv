@@ -1,0 +1,54 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"106","ACTB, BKRNS, BNS, BRWS1, CSMH, DDS1, PS1TP5BP1, THC8...","rectangle",393,330,46,17,NA,NA
+"107","ACTB, BKRNS, BNS, BRWS1, CSMH, DDS1, PS1TP5BP1, THC8...","rectangle",204,307,46,17,NA,NA
+"108","Renin-angiotensin system","roundrectangle",943,550,118,34,NA,NA
+"109","DES, CDCD3, CSM1, CSM2, LGMD1D, LGMD1E, LGMD2R","rectangle",464,477,46,17,NA,NA
+"19","TITLE:Hypertrophic cardiomyopathy","roundrectangle",181,58,281,25,NA,NA
+"204","MYH6, ASD3, CMD1EE, CMH14, MYHC, MYHCA, SSS3, alpha-MHC...","rectangle",361,625,46,17,NA,NA
+"21","CACNG3...","rectangle",669,322,46,17,NA,NA
+"211","EDN1, ARCND3, ET1, HDLCQ7, PPET1, QME","rectangle",968,654,46,17,NA,NA
+"212","AGT, ANHU, SERPINA8, hFLT1","rectangle",1022,654,46,17,NA,NA
+"213","SNTA1, LQT12, SNT1, TACIP1, dJ1187J4.5...","rectangle",496,275,46,17,NA,NA
+"214","DTNA, D18S892E, DRP3, DTN, DTN-A, LVNC1","rectangle",496,292,46,17,NA,NA
+"215","NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS","rectangle",542,284,46,17,NA,NA
+"217","CAV3, LGMD1C, LQT9, MPDT, RMD2, VIP-21, VIP21","rectangle",536,209,46,17,NA,NA
+"22","RYR2, ARVC2, ARVD2, RYR-2, RyR, VACRDS, VTSIP","rectangle",744,323,46,17,NA,NA
+"220","SSPN, DAGA5, KRAG, NSPN, SPN1, SPN2","rectangle",303,209,46,17,NA,NA
+"224","SGCD, 35DAG, CMD1L, DAGD, LGMDR6, SG-delta, SGCDP, SGD","rectangle",414,201,46,17,NA,NA
+"225","SGCZ, ZSG1...","rectangle",414,218,46,17,NA,NA
+"226","SGCB, A3b, LGMD2E, LGMDR4, SGC","rectangle",368,218,46,17,NA,NA
+"227","SGCA, 50DAG, ADL, DAG2, DMDA2, LGMD2D, LGMDR3, SCARMD1, adhalin...","rectangle",368,201,46,17,NA,NA
+"228",NA,"rectangle",496,279,138,26,NA,NA
+"229",NA,"rectangle",391,209,92,34,NA,NA
+"23","ATP2A1, ATP2A, SERCA1...","rectangle",862,359,46,17,NA,NA
+"25","SLC8A2, NCX2...","rectangle",836,209,46,17,NA,NA
+"26","Cardiac muscle contraction","roundrectangle",500,371,118,34,NA,NA
+"30","ITGA11, HsT18964...","rectangle",149,209,46,17,NA,NA
+"31","ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB...","rectangle",193,209,46,17,NA,NA
+"35","DAG1, 156DAG, A3a, AGRNR, DAG, LGMDR16, MDDGA9, MDDGC7, MDDGC9","rectangle",479,162,46,17,NA,NA
+"36","DAG1, 156DAG, A3a, AGRNR, DAG, LGMDR16, MDDGA9, MDDGC7, MDDGC9","rectangle",480,209,46,17,NA,NA
+"38","LAMA1, LAMA, PTBHS, S-LAM-alpha...","rectangle",480,123,46,17,NA,NA
+"39","ECM-receptor interaction","roundrectangle",376,141,118,34,NA,NA
+"42","EMD, EDMD, LEMD5, STA","rectangle",614,513,46,17,NA,NA
+"43","LMNA, CDCD1, CDDC, CMD1A, CMT2B1, EMD2, FPL, FPLD, FPLD2, HGPS, IDC, LDP1, LFP, LGMD1B, LMN1, LMNC, LMNL1, MADA, PRO1","rectangle",582,538,46,17,NA,NA
+"44","TNNI3, CMD1FF, CMD2A, CMH7, RCM1, TNNC1, cTnI","rectangle",389,497,46,17,NA,NA
+"45","TNNC1, CMD1Z, CMH13, TN-C, TNC, TNNC","rectangle",335,481,46,17,NA,NA
+"46","TNNT2, CMD1D, CMH2, CMPD2, LVNC6, RCM3, TnTC, cTnT","rectangle",171,575,46,17,NA,NA
+"47","TPM1, C15orf13, CMD1Y, CMH3, HEL-S-265, HTM-alpha, LVNC9, TMSA...","rectangle",457,556,46,17,NA,NA
+"48","DMD, BMD, CMD3B, DXS142, DXS164, DXS206, DXS230, DXS239, DXS268, DXS269, DXS270, DXS272, MRX85","rectangle",450,284,46,17,NA,NA
+"49","ACTC1, ACTC, ASD5, CMD1R, CMH11, LVNC4","rectangle",437,526,46,17,NA,NA
+"50","MYL2, CMH10, MFM12, MLC-2, MLC-2s/v, MLC-2v, MLC2","rectangle",391,592,46,17,NA,NA
+"51","TTN, CMD1G, CMH9, CMPD4, CMYP5, EOMFC, HMERF, LGMD2J, LGMDR10, MYLK5, SALMY, TMD","rectangle",186,478,46,17,NA,NA
+"57","MYBPC3, CMD1MM, CMH4, FHC, LVNC10, MYBP-C, cMyBP-C","rectangle",205,676,46,17,NA,NA
+"58","DES, CDCD3, CSM1, CSM2, LGMD1D, LGMD1E, LGMD2R","rectangle",130,302,46,17,NA,NA
+"59","PRKAA1, AMPK, AMPK_alpha_1, AMPKa1...","rectangle",986,456,46,17,NA,NA
+"60","PRKAB1, AMPK, HAMPKb...","rectangle",986,473,46,17,NA,NA
+"61","PRKAG2, AAKG, AAKG2, CMH6, H91620p, WPWS...","rectangle",986,490,46,17,"hsa:51422",100
+"74","ACE, ACE1, CD143, DCP, DCP1","rectangle",880,628,46,17,NA,NA
+"75","IGF1, IGF, IGF-I, IGFI, MGF","rectangle",933,628,46,17,NA,NA
+"76","TGFB1, CED, DPD1, IBDIMDE, LAP, TGF-beta1, TGFB, TGFbeta...","rectangle",986,628,46,17,NA,NA
+"77","TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F","rectangle",860,654,46,17,NA,NA
+"78","IL6, BSF-2, BSF2, CDF, HGF, HSF, IFN-beta-2, IFNB2, IL-6","rectangle",914,654,46,17,NA,NA
+"80","JAK-STAT signaling pathway","roundrectangle",879,591,118,34,NA,NA
+"81","TGF-beta signaling pathway","roundrectangle",1009,592,118,34,NA,NA
+"82","MYL3, CMH8, MLC-lV/sb, MLC1SB, MLC1V, VLC1, VLCl","rectangle",391,570,46,17,NA,NA

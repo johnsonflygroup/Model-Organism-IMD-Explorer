@@ -1,0 +1,22 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"102","ABO, A3GALNT, A3GALT1, GTB, NAGAT","rectangle",180,488,46,17,NA,NA,NA,NA
+"34","B3GALT5, 3-GalTase 5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1, beta-3-Gx-T5, beta3Gal-T5","rectangle",334,359,46,17,NA,NA,NA,NA
+"36","NAGA, D22S674, GALB","rectangle",387,264,46,17,"hsa:4668","3.2.1.49","NAGA",0
+"37","A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK","rectangle",162,250,46,17,"hsa:53947","2.4.1.228","A4GALT",0
+"39","HEXA, TSD...","rectangle",274,265,46,17,"hsa:3073;hsa:3074","3.2.1.52","HEXA; HEXB",0
+"4","ST3GAL1, 1, Gal-NAc6S, SIAT4A, SIATFL, ST3GalA, ST3GalA.1, ST3GalIA, ST3O...","rectangle",333,479,46,17,NA,NA,NA,NA
+"41","ST8SIA1, GD3S, SIAT8, SIAT8-A, SIAT8A, ST8SiaI","rectangle",333,572,46,17,NA,NA,NA,NA
+"42","FUT9, Fuc-TIX","rectangle",608,436,46,17,NA,NA,NA,NA
+"43","FUT1, H, HH, HSC...","rectangle",282,436,46,17,NA,NA,NA,NA
+"44","GLA, GALA","rectangle",162,208,46,17,"hsa:2717","3.2.1.22","GLA",0
+"45","B3GALNT1, 3-GalNAc-T1, 3-GalTase, B3GALANT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P1, b3Gal-T3, beta-1, beta-3-Gx-T3, beta3Gal-T3, galT3","rectangle",274,237,46,17,NA,NA,NA,NA
+"46","GBGT1, A3GALNT, FS, UNQ2513","rectangle",386,237,46,17,NA,NA,NA,NA
+"47","Sphingolipid metabolism","roundrectangle",107,117,77,34,NA,NA,NA,NA
+"70","A3GALT2, A3GALT2P, IGB3S, IGBS3S","rectangle",162,163,46,17,NA,NA,NA,NA
+"75","B3GALNT1, 3-GalNAc-T1, 3-GalTase, B3GALANT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P1, b3Gal-T3, beta-1, beta-3-Gx-T3, beta3Gal-T3, galT3","rectangle",274,163,46,17,NA,NA,NA,NA
+"76","GBGT1, A3GALNT, FS, UNQ2513","rectangle",386,162,46,17,NA,NA,NA,NA
+"83","TITLE:Glycosphingolipid biosynthesis - globo and isoglobo series","roundrectangle",289,58,497,25,NA,NA,NA,NA
+"85","A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK","rectangle",388,292,46,17,"hsa:53947","2.4.1.228","A4GALT",0
+"89","B3GALNT1, 3-GalNAc-T1, 3-GalTase, B3GALANT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P1, b3Gal-T3, beta-1, beta-3-Gx-T3, beta3Gal-T3, galT3","rectangle",497,292,46,17,NA,NA,NA,NA
+"92","A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK","rectangle",610,292,46,17,"hsa:53947","2.4.1.228","A4GALT",0
+"97","ABO, A3GALNT, A3GALT1, GTB, NAGAT","rectangle",180,436,46,17,NA,NA,NA,NA

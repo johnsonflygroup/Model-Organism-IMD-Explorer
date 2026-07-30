@@ -1,0 +1,35 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"10","ACE, ACE1, CD143, DCP, DCP1","rectangle",302,437,46,17,NA,NA
+"18","AGTR1, AG2S, AGTR1B, AT1, AT1AR, AT1B, AT1BR, AT1R, AT2R1, ATR1, HAT1R","rectangle",603,402,46,17,NA,NA
+"19","AGTR2, AT2, ATGR2, MRX88","rectangle",603,317,46,17,NA,NA
+"20","NLN, AGTBP, EP24.16, MEP, MOP","rectangle",368,267,46,17,NA,NA
+"21","THOP1, EP24.15, MEPD_HUMAN, MP78, TOP","rectangle",368,247,46,17,NA,NA
+"22","MME, CALLA, CD10, CMT2T, NEP, SCA43, SFE","rectangle",368,287,46,17,NA,NA
+"23","ANPEP, AP-M, AP-N, APN, CD13, GP150, LAP1, P150, PEPN, hAPN","rectangle",430,499,46,17,NA,NA
+"24","ENPEP, APA, CD249, gp160","rectangle",430,423,46,17,NA,NA
+"25","CTSA, GLB2, GSL, NGBE, PPCA, PPGB","rectangle",292,258,46,17,"hsa:5476",0
+"26","CPA3, MC-CPA","rectangle",292,278,46,17,NA,NA
+"27","MAS1, MAS, MGRA","rectangle",603,189,46,17,NA,NA
+"28","MME, CALLA, CD10, CMT2T, NEP, SCA43, SFE","rectangle",392,177,46,17,NA,NA
+"29","LNPEP, CAP, IRAP, P-LAP, PLAP","rectangle",603,544,46,17,NA,NA
+"30","CMA1, CYH, MCT1, chymase","rectangle",303,391,46,17,NA,NA
+"31","CTSG, CATG, CG","rectangle",303,411,46,17,NA,NA
+"32","AGT, ANHU, SERPINA8, hFLT1","rectangle",96,378,46,17,NA,NA
+"33","REN, ADTKD4, HNFJ2, RTD","rectangle",171,390,46,17,NA,NA
+"34","TITLE:Renin-angiotensin system","roundrectangle",159,58,237,25,NA,NA
+"35","Complement and coagulation cascades","roundrectangle",293,605,126,35,NA,NA
+"50","ATP6AP2, APT6M8-9, ATP6IP2, ATP6M8-9, CDG2R, ELDF10, HT028, M8-9, MRXE, MRXSH, MSTP009, PRR, RENR, XMRE, XPDS","rectangle",603,680,46,17,"hsa:10159",100
+"54","KLK1, KLKR, Klk6, hK1...","rectangle",225,487,46,17,NA,NA
+"55","CTSG, CATG, CG","rectangle",225,509,46,17,NA,NA
+"56","Vascular smooth muscle contraction","roundrectangle",741,435,126,35,NA,NA
+"59","Renin secretion","roundrectangle",136,295,112,25,NA,NA
+"6","ACE2, ACEH","rectangle",430,309,46,17,NA,NA
+"64","MRGPRD, MRGD, TGR7","rectangle",603,244,46,17,NA,NA
+"7","ACE2, ACEH","rectangle",292,238,46,17,NA,NA
+"71","ACE2, ACEH","rectangle",540,285,46,17,NA,NA
+"76","Aldosterone synthesis and secretion","roundrectangle",741,475,126,35,NA,NA
+"77","ANPEP, AP-M, AP-N, APN, CD13, GP150, LAP1, P150, PEPN, hAPN","rectangle",430,565,46,17,NA,NA
+"78","PREP, PE, PEP","rectangle",430,614,46,17,NA,NA
+"79","PRCP, HUMPCP, PCP","rectangle",430,332,46,17,NA,NA
+"8","ACE, ACE1, CD143, DCP, DCP1","rectangle",430,124,46,17,NA,NA
+"9","ACE, ACE1, CD143, DCP, DCP1","rectangle",392,157,46,17,NA,NA

@@ -1,0 +1,72 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"120","K03336","rectangle",814,546,46,17,NA,NA,NA,NA
+"121","K03337","rectangle",910,546,46,17,NA,NA,NA,NA
+"123","K03338","rectangle",1001,546,46,17,NA,NA,NA,NA
+"133","K03339","rectangle",1055,580,46,17,NA,NA,NA,NA
+"134","ALDH6A1, MMSADHA, MMSDH","rectangle",953,622,46,17,"hsa:4329","1.2.1.18; 1.2.1.27","ALDH6A1",0
+"135","TPI1, HEL-S-49, TIM, TPI, TPID","rectangle",953,669,46,17,"hsa:7167","5.3.1.1","TPI1",100
+"136","Glycolysis / Gluconeogenesis","roundrectangle",805,669,97,34,NA,NA,NA,NA
+"139","PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29","rectangle",839,128,46,17,"hsa:200576","2.7.1.150","PIKFYVE",100
+"141","CDIPT, PIS, PIS1","rectangle",716,330,46,17,NA,NA,NA,NA
+"144","INPP4A, INPP4, TVAS1...","rectangle",745,181,46,17,NA,NA,NA,NA
+"146","PIK3C2A, CPK, OCSKD, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha...","rectangle",675,229,46,17,"hsa:5286","2.7.1.154","PIK3C2A",0
+"148","INPP5D, SHIP, SHIP-1, SHIP1, SIP-145, hp51CN, p150Ship...","rectangle",675,150,46,17,"hsa:3636","3.1.3.86","INPPL1",0
+"149","Citrate cycle (TCA cycle)","roundrectangle",819,622,68,25,NA,NA,NA,NA
+"154","K06606","rectangle",660,638,46,17,NA,NA,NA,NA
+"155","K00010","rectangle",604,685,46,17,NA,NA,NA,NA
+"159","K16043","rectangle",604,606,46,17,NA,NA,NA,NA
+"160","K16044","rectangle",604,627,46,17,NA,NA,NA,NA
+"161","K23992...","rectangle",399,437,46,17,NA,NA,NA,NA
+"164","K23992...","rectangle",438,483,46,17,NA,NA,NA,NA
+"167","MTM1, CNM, CNMX, MTMX, XLMTM...","rectangle",675,73,46,17,"hsa:4534;hsa:8898","3.1.3.64; 3.1.3.95","MTM1; MTMR2",100
+"169","INPP5F, MSTP007, MSTPO47, SAC2, hSAC2...","rectangle",716,304,46,17,NA,NA,NA,NA
+"172","K22231","rectangle",717,502,46,17,NA,NA,NA,NA
+"177","K22232","rectangle",814,502,46,17,NA,NA,NA,NA
+"178","K22233","rectangle",909,501,46,17,NA,NA,NA,NA
+"179","Pentose and glucuronate interconversions","roundrectangle",1064,500,135,34,NA,NA,NA,NA
+"181","K22230","rectangle",604,578,46,17,NA,NA,NA,NA
+"184","FIG4, ALS11, BOP, BTOP, CMT4J, KIAA0274, SAC3, YVS, dJ249I4.1","rectangle",889,128,46,17,"hsa:9896",NA,"FIG4",100
+"187","K27681","rectangle",950,330,46,17,NA,NA,NA,NA
+"194","IP6K3, IHPK3, INSP6K3...","rectangle",311,647,46,17,NA,NA,NA,NA
+"195","PPIP5K2, CFAP160, DFNB100, HISPPD1, IP7K2, VIP2...","rectangle",264,693,46,17,NA,NA,NA,NA
+"196","PPIP5K2, CFAP160, DFNB100, HISPPD1, IP7K2, VIP2...","rectangle",264,612,46,17,NA,NA,NA,NA
+"199","IP6K3, IHPK3, INSP6K3...","rectangle",223,647,46,17,NA,NA,NA,NA
+"47","PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK...","rectangle",552,114,46,17,NA,NA,NA,NA
+"49","INPP5B, 5PTase...","rectangle",502,229,46,17,"hsa:4952;hsa:56623;hsa:8867","3.1.3.36","INPP5E; OCRL; SYNJ1",100
+"50","IPMK","rectangle",139,240,46,17,NA,NA,NA,NA
+"51","IPMK","rectangle",139,512,46,17,NA,NA,NA,NA
+"52","PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, PTENgama, TEP1","rectangle",608,126,46,17,"hsa:5728","3.1.3.16; 3.1.3.48; 3.1.3.67","PTEN",100
+"53","MINPP1, HIPER1, MINPP2, MIPP, PCH16","rectangle",139,310,46,17,NA,NA,NA,NA
+"54","INPP5J, INPP5, PIB5PA, PIPP...","rectangle",139,366,46,17,"hsa:51763","3.1.3.56","INPP5K",0
+"55","ITPKA, IP3-3KA, IP3KA...","rectangle",139,270,46,17,NA,NA,NA,NA
+"56","ITPK1, ITRPK1","rectangle",139,394,46,17,NA,NA,NA,NA
+"57","K01083","rectangle",168,571,46,17,NA,NA,NA,NA
+"58","K01093","rectangle",168,612,46,17,NA,NA,NA,NA
+"59","ITPK1, ITRPK1","rectangle",223,409,46,17,NA,NA,NA,NA
+"60","IPMK","rectangle",223,476,46,17,NA,NA,NA,NA
+"61","ITPK1, ITRPK1","rectangle",278,512,46,17,NA,NA,NA,NA
+"62","INPP5J, INPP5, PIB5PA, PIPP...","rectangle",278,270,46,17,"hsa:51763","3.1.3.56","INPP5K",0
+"63","INPP1","rectangle",278,366,46,17,NA,NA,NA,NA
+"64","INPP1","rectangle",383,270,46,17,NA,NA,NA,NA
+"65","INPP4A, INPP4, TVAS1...","rectangle",383,366,46,17,NA,NA,NA,NA
+"66","MTM1, CNM, CNMX, MTMX, XLMTM","rectangle",724,398,46,17,"hsa:4534","3.1.3.64; 3.1.3.95","MTM1",100
+"67","TITLE:Inositol phosphate metabolism","roundrectangle",173,58,266,25,NA,NA,NA,NA
+"68","ISYNA1, INO1, INOS, IPS, IPS 1, IPS-1","rectangle",383,326,46,17,NA,NA,NA,NA
+"69","IMPA1, IMP, IMPA, MRT59...","rectangle",492,270,46,17,NA,NA,NA,NA
+"70","IMPA1, IMP, IMPA, MRT59...","rectangle",492,366,46,17,NA,NA,NA,NA
+"71","MIOX, ALDRL6","rectangle",498,586,46,17,NA,NA,NA,NA
+"72","K19517","rectangle",492,403,46,17,NA,NA,NA,NA
+"73","PI4KA, GIDID2, PI4K-ALPHA, PIK4CA, PMGYCHA, SPG84, pi4K230...","rectangle",716,260,46,17,"hsa:5297;hsa:55361","2.7.1.67","PI4K2A; PI4KA",100
+"74","K01114...","rectangle",790,355,46,17,NA,NA,NA,NA
+"75","PIP5KL1, PIPKH...","rectangle",552,229,46,17,"hsa:23396","2.7.1.68","PIP5K1C",100
+"76","PIK3C3, VPS34, Vps34, hVps34","rectangle",839,238,46,17,NA,NA,NA,NA
+"77","MTM1, CNM, CNMX, MTMX, XLMTM...","rectangle",889,238,46,17,"hsa:4534;hsa:8898","3.1.3.64; 3.1.3.95","MTM1; MTMR2",100
+"78","Pentose and glucuronate interconversions","roundrectangle",434,669,136,34,NA,NA,NA,NA
+"79","Glycerophospholipid metabolism","roundrectangle",841,428,121,34,NA,NA,NA,NA
+"80","IMPA1, IMP, IMPA, MRT59...","rectangle",636,366,46,17,NA,NA,NA,NA
+"81","PLCD3, PLC-delta-3...","rectangle",391,182,46,17,"hsa:23236;hsa:51196;hsa:5331;hsa:5332;hsa:5333;hsa:5336","3.1.4.11","PLCB1; PLCB3; PLCB4; PLCD1; PLCE1; PLCG2",100
+"82","K01771","rectangle",790,376,46,17,NA,NA,NA,NA
+"85","IPPK, C9orf12, INSP5K2, IP5K, IPK1, bA476B13.1","rectangle",223,552,46,17,NA,NA,NA,NA
+"86","PIK3CA, CCM4, CLAPO, CLOVE, CWS5, HMH, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha...","rectangle",609,182,46,17,"hsa:5290;hsa:5293","2.7.1.153","PIK3CA; PIK3CD",0
+"87","K00010","rectangle",604,546,46,17,NA,NA,NA,NA
+"88","K03335","rectangle",717,546,46,17,NA,NA,NA,NA

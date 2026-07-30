@@ -1,0 +1,66 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"203","APEX1, APE, APE1, APEN, APEX, APX, HAP1, REF1","rectangle",898,957,46,17,NA,NA
+"204","FEN1, FEN-1, MF1, RAD2","rectangle",944,967,46,17,NA,NA
+"206","LIG1, IMD96, LIGI, hLig1","rectangle",852,974,46,17,NA,NA
+"207","LIG3, LIG2, LIG3alpha, MTDPS20","rectangle",944,786,46,17,NA,NA
+"208","LIG1, IMD96, LIGI, hLig1","rectangle",565,928,46,17,NA,NA
+"209","POLE3, CHARAC17, CHRAC17, CHRAC2, YBL1, p17...","rectangle",944,991,46,17,NA,NA
+"210","POLD3, IMD122, P66, P68, PPP1R128...","rectangle",898,991,46,17,NA,NA
+"211","POLB","rectangle",852,957,46,17,NA,NA
+"212","POLB","rectangle",852,794,46,17,NA,NA
+"213","POLB","rectangle",635,614,46,17,NA,NA
+"214","POLB","rectangle",398,589,46,17,NA,NA
+"215","PCNA, ATLD2","rectangle",898,974,46,17,NA,NA
+"216","PCNA, ATLD2","rectangle",635,911,46,17,NA,NA
+"217","PCNA, ATLD2","rectangle",635,796,46,17,NA,NA
+"218","K02335","rectangle",565,813,46,17,NA,NA
+"219","K02335","rectangle",565,640,46,17,NA,NA
+"220","K02335","rectangle",398,516,46,17,NA,NA
+"222","APEX1, APE, APE1, APEN, APEX, APX, HAP1, REF1","rectangle",635,419,46,17,NA,NA
+"223","K01151","rectangle",565,444,46,17,NA,NA
+"224","K01142","rectangle",565,419,46,17,NA,NA
+"225","MUTYH, MYH","rectangle",691,219,46,17,NA,NA
+"226","UNG, DGU, HIGM4, HIGM5, UDG, UNG1, UNG15, UNG2","rectangle",635,219,46,17,"hsa:7374",100
+"227","NTHL1, FAP3, NTH1, OCTS3, hNTH1","rectangle",260,244,46,17,NA,NA
+"228","K05522","rectangle",449,489,46,17,NA,NA
+"229","K10563","rectangle",398,489,46,17,NA,NA
+"230","K10563","rectangle",190,219,46,17,NA,NA
+"231","POLB","rectangle",260,657,46,17,NA,NA
+"232","LIG1, IMD96, LIGI, hLig1","rectangle",190,870,46,17,NA,NA
+"233","XRCC1, RCC, SCAR26","rectangle",260,853,46,17,NA,NA
+"234","LIG3, LIG2, LIG3alpha, MTDPS20","rectangle",260,870,46,17,NA,NA
+"235","HMGB1, HMG-1, HMG1, HMG3, SBP-1","rectangle",424,614,46,17,NA,NA
+"236","LIG1, IMD96, LIGI, hLig1","rectangle",635,928,46,17,NA,NA
+"237","PCNA, ATLD2","rectangle",682,640,46,17,NA,NA
+"238","POLL, BETAN, POLKAPPA","rectangle",449,589,46,17,NA,NA
+"239","K07462","rectangle",449,516,46,17,NA,NA
+"240","FEN1, FEN-1, MF1, RAD2","rectangle",635,813,46,17,NA,NA
+"241","XRCC1, RCC, SCAR26","rectangle",898,794,46,17,NA,NA
+"243","OGG1, HMMH, HOGG1, MUTM, OGH1","rectangle",260,219,46,17,NA,NA
+"244","TITLE:Base excision repair","roundrectangle",135,58,189,25,NA,NA
+"245","MBD4, MED1, TPDS2, UVM1","rectangle",747,219,46,17,NA,NA
+"246","K01246","rectangle",507,244,46,17,NA,NA
+"247","MPG, AAG, ADPG, APNG, CRA36.1, MDG, Mid1, PIG11, PIG16, anpg","rectangle",691,244,46,17,NA,NA
+"248","K03649","rectangle",565,219,46,17,NA,NA
+"249","SMUG1, FDG, HMUDG, UNG3","rectangle",635,244,46,17,NA,NA
+"250","NEIL2, NEH2, NEI2...","rectangle",317,219,46,17,NA,NA
+"252","K01142","rectangle",190,419,46,17,NA,NA
+"253","APEX1, APE, APE1, APEN, APEX, APX, HAP1, REF1","rectangle",260,419,46,17,NA,NA
+"254","K01151","rectangle",190,444,46,17,NA,NA
+"255","POLD3, IMD122, P66, P68, PPP1R128...","rectangle",636,640,46,17,NA,NA
+"258","PARP2, ADPRT2, ADPRTL2, ADPRTL3, ARTD2, PARP-2, pADPRT-2...","rectangle",898,777,46,17,NA,NA
+"259","K01247...","rectangle",507,219,46,17,NA,NA
+"260","APEX1, APE, APE1, APEN, APEX, APX, HAP1, REF1","rectangle",852,777,46,17,NA,NA
+"261","XRCC1, RCC, SCAR26","rectangle",260,640,46,17,NA,NA
+"262","K02335","rectangle",190,640,46,17,NA,NA
+"263","K05522","rectangle",190,244,46,17,NA,NA
+"450","TDG, hTDG","rectangle",747,244,46,17,NA,NA
+"451","K21929","rectangle",565,244,46,17,NA,NA
+"452","RFC1, A1, CANVAS, MHCBFB, PO-GA, RECC1, RFC, RFC140...","rectangle",682,657,46,17,NA,NA
+"453","TDP1","rectangle",317,444,46,17,NA,NA
+"454","PNKP, AOA4, CMT2B2, EIEE10, MCSZ, PNK","rectangle",317,419,46,17,NA,NA
+"455","PARP2, ADPRT2, ADPRTL2, ADPRTL3, ARTD2, PARP-2, pADPRT-2...","rectangle",260,489,46,17,NA,NA
+"456","PARG, PARG99","rectangle",317,489,46,17,NA,NA
+"457","ADPRS, ADPRHL2, ARH3, CONDSIAS","rectangle",317,516,46,17,NA,NA
+"459","POLG2, HP55, MTDPS16, MTDPS16A, MTDPS16B, MTPOLB, PEOA4, POLB, POLG-BETA, POLGB...","rectangle",317,657,46,17,"hsa:11232;hsa:5428",100
+"460","APTX, AOA, AOA1, AXA1, EAOH, EOAHA, FHA-HIT","rectangle",291,589,46,17,NA,NA

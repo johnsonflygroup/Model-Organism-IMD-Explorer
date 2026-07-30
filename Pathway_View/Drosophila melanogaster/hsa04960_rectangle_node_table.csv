@@ -1,0 +1,24 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"11","SCNN1A, BESC2, ENaCa, ENaCalpha, LIDLS3, PHA1B1, SCNEA, SCNN1...","rectangle",158,530,46,17,NA,NA
+"12","ATP1B4...","rectangle",582,568,46,17,NA,NA
+"13","SGK1, SGK","rectangle",294,498,46,17,NA,NA
+"15","Ubiquitin mediated proteolysis","roundrectangle",334,663,115,34,NA,NA
+"18","NR3C2, MCR, MLR, MR, NR3C2VIT","rectangle",516,357,46,17,"hsa:4306",0
+"19","KRAS, 'C-K-RAS, C-K-RAS, CFC2, K-RAS2A, K-RAS2B, K-RAS4A, K-RAS4B, K-Ras, K-Ras_2, KI-RAS, KRAS1, KRAS2, NS, NS3, OES, RALD, RASK2, c-Ki-ras, c-Ki-ras2","rectangle",465,535,46,17,NA,NA
+"20","NEDD4L, NEDD4-2, NEDD4.2, PVNH7, RSP5, hNEDD4-2","rectangle",241,581,46,17,NA,NA
+"26","FXYD4, CHIF","rectangle",582,525,46,17,NA,NA
+"31","HSD11B2, AME, AME1, HSD11K, HSD2, SDR9C3","rectangle",529,278,46,17,"hsa:3291",0
+"32","Steroid hormone biosynthesis","roundrectangle",378,284,115,34,NA,NA
+"38","INSR, CD220, HHF5","rectangle",582,652,46,17,"hsa:3643",100
+"39","IRS1, HIRS-1","rectangle",486,650,46,17,NA,NA
+"40","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",416,614,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296",100
+"41","PDPK1, PDK1, PDPK2, PDPK2P, PRO0461","rectangle",337,546,46,17,NA,NA
+"42","INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10, PNDM4","rectangle",664,636,46,17,"hsa:3630",0
+"58","Tight junction","roundrectangle",252,117,115,25,NA,NA
+"60","IGF1, IGF, IGF-I, IGFI, MGF","rectangle",665,666,46,17,NA,NA
+"64","KCNJ1, KIR1.1, ROMK, ROMK1","rectangle",157,391,46,17,NA,NA
+"66","SFN, YWHAS","rectangle",306,581,46,17,NA,NA
+"77","MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, NS13, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK...","rectangle",534,458,46,17,NA,NA
+"81","PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA...","rectangle",504,404,46,17,NA,NA
+"83","NHERF2, E3KARP, NHE3RF2, NHERF-2, OCTS2, SIP-1, SIP1, SLC9A3R2, TKA-1","rectangle",158,415,46,17,NA,NA
+"9","TITLE:Aldosterone-regulated sodium reabsorption","roundrectangle",237,58,393,25,NA,NA

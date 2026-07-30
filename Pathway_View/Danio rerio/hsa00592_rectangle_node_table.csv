@@ -1,0 +1,28 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"111","K18857","rectangle",487,422,46,17,NA,NA
+"114","K18858","rectangle",598,422,46,17,NA,NA
+"119","K00224","rectangle",214,556,46,17,NA,NA
+"26","K10527","rectangle",191,701,46,17,NA,NA
+"27","K10527","rectangle",299,628,46,17,NA,NA
+"28","K10527","rectangle",600,628,46,17,NA,NA
+"29","K10528","rectangle",403,484,46,17,NA,NA
+"30","ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...","rectangle",139,661,46,17,"hsa:51",100
+"31","ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...","rectangle",403,628,46,17,"hsa:51",100
+"32","ACAA1, ACAA, Lnc-Myd88, PTHIO, THIO","rectangle",299,701,46,17,NA,NA
+"33","ACAA1, ACAA, Lnc-Myd88, PTHIO, THIO","rectangle",191,628,46,17,NA,NA
+"34","K01723","rectangle",353,524,46,17,NA,NA
+"35","K00454","rectangle",299,484,46,17,NA,NA
+"48","K05894","rectangle",505,556,46,17,NA,NA
+"49","K08241","rectangle",558,725,46,17,NA,NA
+"63","ACAA1, ACAA, Lnc-Myd88, PTHIO, THIO","rectangle",505,628,46,17,NA,NA
+"64","ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...","rectangle",644,590,46,17,"hsa:51",100
+"67","TITLE:alpha-Linolenic acid metabolism","roundrectangle",166,58,252,25,NA,NA
+"68","K10525","rectangle",403,556,46,17,NA,NA
+"69","K01723","rectangle",353,345,46,17,NA,NA
+"70","PLA2G4B, HsT16992, cPLA2-beta...","rectangle",221,148,46,17,"hsa:5321;hsa:8398",100
+"71","K10526","rectangle",600,556,46,17,NA,NA
+"72","K10528","rectangle",403,304,46,17,NA,NA
+"73","FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13","rectangle",299,190,46,17,NA,NA
+"74","K10529","rectangle",191,304,46,17,NA,NA
+"75","PLAAT3, AdPLA, H-REV107, H-REV107-1, HRASLS3, HREV107, HREV107-1, HREV107-3, HRSL3, PLA2G16, PLAAT-3...","rectangle",271,148,46,17,NA,NA
+"76","K00454","rectangle",299,304,46,17,NA,NA

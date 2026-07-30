@@ -1,0 +1,80 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","NMNAT2, C1orf15, PNAT2...","rectangle",935,221,46,17,"hsa:64802",100
+"101","NMNAT2, C1orf15, PNAT2...","rectangle",935,200,46,17,"hsa:64802",100
+"102","K18550...","rectangle",789,279,46,17,NA,NA
+"103","NMRK2, ITGB1BP3, MIBP, NRK2...","rectangle",789,211,46,17,NA,NA
+"105","PNP, NP, PRO1837, PUNP","rectangle",653,211,46,17,"hsa:4860",100
+"107","NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN","rectangle",722,159,46,17,NA,NA
+"108","SARM1, HsTIR, MyD88-5, SAMD2, SARM, hSARM1...","rectangle",789,126,46,17,NA,NA
+"109","K18153...","rectangle",789,107,46,17,NA,NA
+"110","NNMT","rectangle",532,242,46,17,NA,NA
+"111","NADK2, C5orf33, DECRD, MNADK, NADKD1...","rectangle",1086,180,46,17,"hsa:133686",100
+"112","K00322","rectangle",1114,158,46,17,NA,NA
+"113","NNT, GCCD4","rectangle",1164,158,46,17,"hsa:23530",100
+"117","AOX1, AO, AOH1","rectangle",420,203,46,17,NA,NA
+"118","AOX1, AO, AOH1","rectangle",419,241,46,17,NA,NA
+"133","K19818...","rectangle",151,409,46,17,NA,NA
+"172","Tropane, piperidine and pyridine alkaloid biosynthesis","roundrectangle",361,310,166,34,NA,NA
+"184","K15359...","rectangle",303,561,46,17,NA,NA
+"188","K15357","rectangle",537,699,46,17,NA,NA
+"189","SIRT2, SIR2, SIR2L, SIR2L2...","rectangle",789,145,46,17,NA,NA
+"191","K01240","rectangle",653,387,46,17,NA,NA
+"192","K01240","rectangle",653,268,46,17,NA,NA
+"193","K18029...","rectangle",555,414,46,17,NA,NA
+"194","BST1, CD157, cADPR2...","rectangle",893,87,46,17,NA,NA
+"196","K19190","rectangle",364,801,46,17,NA,NA
+"199","K19191","rectangle",247,700,46,17,NA,NA
+"202","K20155","rectangle",247,638,46,17,NA,NA
+"204","NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B...","rectangle",789,258,46,17,"hsa:4907",0
+"205","NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B...","rectangle",789,383,46,17,"hsa:4907",0
+"207","K20169","rectangle",199,390,46,17,NA,NA
+"211","K20170","rectangle",303,426,46,17,NA,NA
+"212","K20171...","rectangle",303,495,46,17,NA,NA
+"215","K20158","rectangle",350,390,46,17,NA,NA
+"216","K19700","rectangle",400,426,46,17,NA,NA
+"220","Alanine, aspartate and glutamate metabolism","roundrectangle",399,699,72,34,NA,NA
+"222","K00135","rectangle",346,657,46,17,NA,NA
+"223","K08324","rectangle",346,638,46,17,NA,NA
+"224","K00135...","rectangle",346,619,46,17,NA,NA
+"225","Citrate cycle (TCA cycle)","roundrectangle",472,638,77,25,NA,NA
+"57","K19818...","rectangle",96,409,46,17,NA,NA
+"58","Pyruvate metabolism","roundrectangle",795,680,73,34,NA,NA
+"59","C5-Branched dibasic acid metabolism","roundrectangle",716,720,139,34,NA,NA
+"60","K20454","rectangle",714,624,46,17,NA,NA
+"61","K20452...","rectangle",663,594,46,17,NA,NA
+"62","K20451","rectangle",618,558,46,17,NA,NA
+"63","K20450","rectangle",669,530,46,17,NA,NA
+"64","K19647","rectangle",777,486,46,17,NA,NA
+"65","K15358","rectangle",724,451,46,17,NA,NA
+"66","K20449","rectangle",624,450,46,17,NA,NA
+"68","K19189","rectangle",223,754,46,17,NA,NA
+"69","K19188","rectangle",152,618,46,17,NA,NA
+"70","K19185...","rectangle",151,561,46,17,NA,NA
+"71","K19826","rectangle",151,465,46,17,NA,NA
+"72","K19890","rectangle",96,465,46,17,NA,NA
+"73","ASPDH","rectangle",894,567,46,17,NA,NA
+"74","NUDT13...","rectangle",935,401,46,17,NA,NA
+"75","TITLE:Nicotinate and nicotinamide metabolism","roundrectangle",210,58,340,25,NA,NA
+"76","Alanine, aspartate and glutamate metabolism","roundrectangle",870,753,124,34,NA,NA
+"77","Tryptophan metabolism","roundrectangle",1013,436,138,25,NA,NA
+"78","K00278","rectangle",844,567,46,17,NA,NA
+"79","K03517","rectangle",870,471,46,17,NA,NA
+"80","QPRT, HEL-S-90n, QPRTase","rectangle",869,412,46,17,NA,NA
+"81","K01799","rectangle",707,754,46,17,NA,NA
+"82","K13995","rectangle",618,754,46,17,NA,NA
+"83","K18028","rectangle",537,621,46,17,NA,NA
+"84","K14974","rectangle",537,506,46,17,NA,NA
+"85","K20445...","rectangle",605,414,46,17,NA,NA
+"86","ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1...","rectangle",935,380,46,17,"hsa:5167",100
+"87","K18550...","rectangle",789,404,46,17,NA,NA
+"88","NMRK2, ITGB1BP3, MIBP, NRK2...","rectangle",789,359,46,17,NA,NA
+"89","PNP, NP, PRO1837, PUNP","rectangle",653,359,46,17,"hsa:4860",100
+"90","NMNAT2, C1orf15, PNAT2...","rectangle",935,339,46,17,"hsa:64802",100
+"91","NMNAT2, C1orf15, PNAT2...","rectangle",935,318,46,17,"hsa:64802",100
+"92","NADSYN1, VCRL3","rectangle",1037,293,46,17,"hsa:55191",100
+"93","K01916","rectangle",987,293,46,17,NA,NA
+"94","K03742...","rectangle",868,293,46,17,NA,NA
+"95","NAPRT, NAPRT1, PP3856","rectangle",718,316,46,17,NA,NA
+"96","K01440...","rectangle",580,293,46,17,NA,NA
+"98","NUDT13...","rectangle",935,278,46,17,NA,NA
+"99","ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1...","rectangle",935,257,46,17,"hsa:5167",100

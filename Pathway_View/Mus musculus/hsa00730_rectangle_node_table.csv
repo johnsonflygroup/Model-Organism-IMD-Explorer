@@ -1,0 +1,42 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"101","K00788...","rectangle",578,602,46,17,NA,NA
+"102","K03147","rectangle",260,159,46,17,NA,NA
+"105","K00788...","rectangle",578,537,46,17,NA,NA
+"107","Cysteine and methionine metabolism","roundrectangle",111,255,71,34,NA,NA
+"111","ALPI, IAP...","rectangle",598,633,46,17,"hsa:248;hsa:249",100
+"112","ACP1, HAAP, LMW-PTP, LMWPTP","rectangle",648,633,46,17,NA,NA
+"118","K03707...","rectangle",371,721,46,17,NA,NA
+"119","K20896","rectangle",371,741,46,17,NA,NA
+"120","K20896","rectangle",503,751,46,17,NA,NA
+"121","K20895","rectangle",503,730,46,17,NA,NA
+"122","K06949","rectangle",704,567,46,17,NA,NA
+"123","K22699","rectangle",206,547,46,17,NA,NA
+"124","K22911","rectangle",371,760,46,17,NA,NA
+"29","Glycine, serine and threonine metabolism","roundrectangle",493,246,73,34,NA,NA
+"31","Phenylalanine, tyrosine and tryptophan biosynthesis","roundrectangle",412,246,75,34,NA,NA
+"32","TITLE:Thiamine metabolism","roundrectangle",134,58,188,25,NA,NA
+"33","Glycolysis / Gluconeogenesis","roundrectangle",116,406,71,25,NA,NA
+"34","Purine metabolism","roundrectangle",85,158,108,25,NA,NA
+"64","THTPA, THTP, THTPASE","rectangle",835,557,46,17,NA,NA
+"65","AK7, AK_7, CFAP75, FAP75, SPGF27...","rectangle",835,612,46,17,"hsa:122481;hsa:203;hsa:204",100
+"68","NTPCR, C1orf57, HCR-NTPase, THEP1","rectangle",704,546,46,17,NA,NA
+"69","K00946","rectangle",704,602,46,17,NA,NA
+"70","TPK1, HTPK1, PP20, THMD5","rectangle",705,700,46,17,"hsa:27010",100
+"71","K07251","rectangle",678,657,46,17,NA,NA
+"72","K06949...","rectangle",623,652,46,17,NA,NA
+"73","K10811","rectangle",371,670,46,17,NA,NA
+"74","K03707...","rectangle",371,696,46,17,NA,NA
+"75","K03149","rectangle",371,432,46,17,NA,NA
+"76","K03153","rectangle",492,353,46,17,NA,NA
+"77","K03151","rectangle",316,323,46,17,NA,NA
+"78","NFS1, COXPD52, HUSSY-08, IscS, NIFS","rectangle",223,285,46,17,"hsa:9054",100
+"79","K03148","rectangle",204,323,46,17,NA,NA
+"80","K00878...","rectangle",293,602,46,17,NA,NA
+"81","K00877...","rectangle",432,195,46,17,NA,NA
+"82","K00877...","rectangle",185,195,46,17,NA,NA
+"85","K01662","rectangle",262,407,46,17,NA,NA
+"89","K03146","rectangle",206,526,46,17,NA,NA
+"93","K18278","rectangle",317,141,46,17,NA,NA
+"95","Vitamin B6 metabolism","roundrectangle",185,102,140,25,NA,NA
+"97","K10810","rectangle",371,503,46,17,NA,NA
+"99","K03150","rectangle",411,353,46,17,NA,NA

@@ -1,0 +1,39 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"10","ONECUT1, HNF-6, HNF6, HNF6A","rectangle",400,353,46,17,NA,NA
+"11","GCK, FGQTL3, GK, GLK, HHF3, HK4, HKIV, HXKP, LGLK, MODY2, PNDM1","rectangle",580,853,46,17,"hsa:2645",100
+"12","PDX1, GSF, IDX-1, IPF1, IUF1, MODY4, PAGEN1, PDX-1, STF-1","rectangle",442,715,46,17,"hsa:3651",100
+"125","RFX6, MTCHRS, MTFS, RFXDC1, dJ955L16.1","rectangle",644,463,46,17,"hsa:222546",100
+"13","FOXA3, FKHH3, HNF3G, TCF3G","rectangle",383,807,46,17,NA,NA
+"14","NEUROD1, BETA2, BHF-1, MODY6, NEUROD, T2D, bHLHa3","rectangle",596,463,46,17,"hsa:4760",100
+"15","HES1, HES-1, HHL, HRY, bHLHb39","rectangle",102,381,46,17,NA,NA
+"16","MAFA, INSDM, RIPE3b1, hMafA","rectangle",457,669,46,17,NA,NA
+"17","HNF4G, NR2A2, NR2A3","rectangle",335,807,46,17,NA,NA
+"18","NKX2-2, NKX2.2, NKX2B","rectangle",580,761,46,17,NA,NA
+"19","INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10, PNDM4","rectangle",524,853,46,17,"hsa:3630",100
+"20","HNF1A, HNF-1-alpha, HNF-1A, HNF1, HNF1alpha, HNF4A, IDDM20, LFB1, MODY3, TCF-1, TCF1","rectangle",359,761,46,17,"hsa:6927",100
+"21","IAPP, DAP, IAP","rectangle",629,853,46,17,NA,NA
+"22","PAX4, KPD, MODY9","rectangle",548,463,46,17,"hsa:5078",100
+"23","PAX6, AN, AN1, AN2, ASGD5, D11S812E, FVH1, MGDA, WAGR","rectangle",156,478,46,17,NA,NA
+"24","SLC2A2, GLUT2","rectangle",465,853,46,17,"hsa:6514",100
+"25","NEUROD1, BETA2, BHF-1, MODY6, NEUROD, T2D, bHLHa3","rectangle",629,761,46,17,"hsa:4760",100
+"26","NKX6-1, NKX6.1, NKX6A","rectangle",276,761,46,17,NA,NA
+"27","PKLR, PK1, PKL, PKRL, RPK","rectangle",417,853,46,17,"hsa:5313",100
+"28","NR5A2, B1F, B1F2, CPF, FTF, FTZ-F1, FTZ-F1beta, LRH-1, LRH1, hB1F-2","rectangle",442,248,46,17,NA,NA
+"29","NEUROG3, Atoh5, Math4B, NGN-3, bHLHa7, ngn3","rectangle",442,399,46,17,NA,NA
+"30","PAX6, AN, AN1, AN2, ASGD5, D11S812E, FVH1, MGDA, WAGR","rectangle",506,669,46,17,NA,NA
+"31","HNF4A, FRTS4, HNF4, HNF4a7, HNF4a8, HNF4a9, HNF4alpha, MODY, MODY1, NR2A1, NR2A21, TCF, TCF-14, TCF14","rectangle",442,761,46,17,"hsa:3172",100
+"32","PDX1, GSF, IDX-1, IPF1, IUF1, MODY4, PAGEN1, PDX-1, STF-1","rectangle",442,202,46,17,"hsa:3651",100
+"33","NKX2-2, NKX2.2, NKX2B","rectangle",442,463,46,17,NA,NA
+"34","HHEX, HEX, HMPH, HOX11L-PEN, PRH, PRHX","rectangle",459,110,46,17,NA,NA
+"35","MNX1, HB9, HLXB9, HOXHB9, SCRA1","rectangle",508,110,46,17,NA,NA
+"36","PAX6, AN, AN1, AN2, ASGD5, D11S812E, FVH1, MGDA, WAGR","rectangle",500,463,46,17,NA,NA
+"37","NKX6-1, NKX6.1, NKX6A","rectangle",442,555,46,17,NA,NA
+"38","FOXA2, HNF-3-beta, HNF3B, TCF3B","rectangle",400,669,46,17,NA,NA
+"39","PDX1, GSF, IDX-1, IPF1, IUF1, MODY4, PAGEN1, PDX-1, STF-1","rectangle",212,478,46,17,"hsa:3651",100
+"40","ONECUT1, HNF-6, HNF6, HNF6A","rectangle",400,156,46,17,NA,NA
+"41","TITLE:Maturity onset diabetes of the young","roundrectangle",214,58,347,25,NA,NA
+"42","Type II diabetes mellitus","roundrectangle",441,917,106,34,NA,NA
+"43","Insulin signaling pathway","roundrectangle",553,917,104,34,NA,NA
+"7","HNF1B, ADTKD3, FJHN, HNF-1-beta, HNF-1B, HNF1beta, HNF2, HPC11, LF-B3, LFB3, MODY5, RCAD, T2D, TCF-2, TCF2, VHNF1","rectangle",359,399,46,17,"hsa:6928",100
+"8","HES1, HES-1, HHL, HRY, bHLHb39","rectangle",484,353,46,17,NA,NA
+"9","BHLHA15, BHLHB8, MIST1","rectangle",102,400,46,17,NA,NA

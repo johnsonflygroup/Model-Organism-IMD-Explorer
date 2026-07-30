@@ -1,0 +1,31 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"102","K15515","rectangle",408,502,46,17,NA,NA
+"104","K26005","rectangle",499,502,46,17,NA,NA
+"28","K03119","rectangle",274,365,46,17,NA,NA
+"29","Sulfur metabolism","roundrectangle",149,395,73,34,NA,NA
+"32","K00259...","rectangle",413,368,46,17,NA,NA
+"38","K13788...","rectangle",213,433,46,17,NA,NA
+"40","K03852","rectangle",326,433,46,17,NA,NA
+"41","Pyruvate metabolism","roundrectangle",167,502,73,34,NA,NA
+"43","K03851","rectangle",362,368,46,17,NA,NA
+"44","TITLE:Taurine and hypotaurine metabolism","roundrectangle",200,58,319,25,NA,NA
+"45","Glutathione metabolism","roundrectangle",70,166,75,34,NA,NA
+"46","Cyanoamino acid metabolism","roundrectangle",136,112,104,34,NA,NA
+"47","Cysteine and methionine metabolism","roundrectangle",196,253,79,45,NA,NA
+"48","K07255...","rectangle",571,368,46,17,NA,NA
+"50","GADL1, ADC, CSADC, HuADC, HuCSADC...","rectangle",300,313,46,17,NA,NA
+"51","GAD1, CPSQ1, DEE89, GAD, SCP...","rectangle",300,292,46,17,"hsa:2571",0
+"53","FMO1...","rectangle",363,244,46,17,"hsa:2328",0
+"54","CDO1, CDO-I","rectangle",181,195,46,17,NA,NA
+"55","ADO, C10orf22","rectangle",300,145,46,17,NA,NA
+"56","GADL1, ADC, CSADC, HuADC, HuCSADC...","rectangle",300,204,46,17,NA,NA
+"57","GAD1, CPSQ1, DEE89, GAD, SCP...","rectangle",300,183,46,17,"hsa:2571",0
+"58","GGT2...","rectangle",446,231,46,17,"hsa:2678",100
+"59","BAAT, BACAT, BACD1, BAT, HCHO","rectangle",274,340,46,17,"hsa:570",0
+"60","K00925","rectangle",259,486,46,17,NA,NA
+"84","K15373","rectangle",387,536,46,17,NA,NA
+"85","K15372","rectangle",521,368,46,17,NA,NA
+"86","K00260...","rectangle",471,368,46,17,NA,NA
+"92","K25261...","rectangle",261,580,46,17,NA,NA
+"96","K25985","rectangle",337,536,46,17,NA,NA
+"98","K19699","rectangle",539,464,46,17,NA,NA

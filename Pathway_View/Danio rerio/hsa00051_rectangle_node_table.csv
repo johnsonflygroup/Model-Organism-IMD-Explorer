@@ -1,0 +1,85 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","ALDOA, ALDA, GSD12, HEL-S-87p...","rectangle",638,1007,46,17,"hsa:226;hsa:229",100
+"101","TKFC, DAK, NET45, TKFCD","rectangle",999,756,46,17,"hsa:26007",100
+"102","ALDOA, ALDA, GSD12, HEL-S-87p...","rectangle",945,611,46,17,"hsa:226;hsa:229",100
+"103","Glycolysis / Gluconeogenesis","roundrectangle",1091,338,70,25,NA,NA
+"104","K01813...","rectangle",243,953,46,17,NA,NA
+"105","K00848","rectangle",333,982,46,17,NA,NA
+"106","K18337","rectangle",282,879,46,17,NA,NA
+"107","K01629","rectangle",638,982,46,17,NA,NA
+"108","K18338","rectangle",374,880,46,17,NA,NA
+"109","K12661","rectangle",470,880,46,17,NA,NA
+"110","K12660...","rectangle",638,881,46,17,NA,NA
+"111","FBP1, FBP...","rectangle",901,436,46,17,"hsa:2203;hsa:8789",100
+"112","TITLE:Fructose and mannose metabolism","roundrectangle",190,58,300,25,NA,NA
+"113","Amino sugar and nucleotide sugar metabolism","roundrectangle",106,341,103,45,NA,NA
+"114","K00066","rectangle",545,461,46,17,NA,NA
+"119","K18447","rectangle",369,405,46,17,NA,NA
+"121","K19956","rectangle",1070,436,46,17,NA,NA
+"122","K02812...","rectangle",1071,514,46,17,NA,NA
+"123","FCSK, 1110046B12Rik, CDGF2, FUK","rectangle",333,701,46,17,"hsa:197258",100
+"156","K15856","rectangle",571,646,46,17,NA,NA
+"157","K22252","rectangle",570,575,46,17,NA,NA
+"172","K00879","rectangle",333,760,46,17,NA,NA
+"173","K01628","rectangle",638,760,46,17,NA,NA
+"174","K01818","rectangle",246,731,46,17,NA,NA
+"186","N-Glycan biosynthesis","roundrectangle",353,575,80,34,NA,NA
+"189","K03332","rectangle",301,288,46,17,NA,NA
+"193","K17195","rectangle",1048,301,46,17,NA,NA
+"196","K01808","rectangle",1048,234,46,17,NA,NA
+"198","K00881","rectangle",1048,170,46,17,NA,NA
+"201","HSD17B14, DHRS10, SDR47C1, retSDR3","rectangle",282,779,46,17,NA,NA
+"205","K07046","rectangle",374,806,46,17,NA,NA
+"208","ENOSF1, FUCD, RTS, TYMSAS","rectangle",470,806,46,17,NA,NA
+"211","K18335","rectangle",565,806,46,17,NA,NA
+"213","K18336","rectangle",662,806,46,17,NA,NA
+"215","Pyruvate metabolism","roundrectangle",779,806,69,34,NA,NA
+"217","Amino sugar and nucleotide sugar metabolism","roundrectangle",546,367,153,34,NA,NA
+"218","Glycolysis / Gluconeogenesis","roundrectangle",867,654,70,25,NA,NA
+"222","K05947","rectangle",584,490,46,17,NA,NA
+"225","K07026","rectangle",686,489,46,17,NA,NA
+"227","K18818","rectangle",584,522,46,17,NA,NA
+"229","K18337","rectangle",282,933,46,17,NA,NA
+"230","K18337","rectangle",282,912,46,17,NA,NA
+"232","K17742...","rectangle",247,123,46,17,NA,NA
+"235","K01795","rectangle",686,428,46,17,NA,NA
+"237","K00594","rectangle",202,182,46,17,NA,NA
+"238","K21883","rectangle",564,850,46,17,NA,NA
+"239","Ascorbate and aldarate metabolism","roundrectangle",258,531,132,34,NA,NA
+"245","K18333","rectangle",282,806,46,17,NA,NA
+"248","K26911","rectangle",638,782,46,17,NA,NA
+"250","K21620","rectangle",245,225,46,17,NA,NA
+"60","K02768...","rectangle",333,1024,46,17,NA,NA
+"61","Galactose metabolism","roundrectangle",76,152,76,34,NA,NA
+"62","K08261...","rectangle",299,123,46,17,NA,NA
+"63","AKR1B1, ADR, ALDR1, ALR2, AR...","rectangle",202,153,46,17,NA,NA
+"64","SORD, HEL-S-95n, HMNR8, RDH, SDH, SORD1, SORDD, XDH","rectangle",221,206,46,17,"hsa:6652",100
+"65","K01805","rectangle",157,207,46,17,NA,NA
+"66","KHK, FRUCTU","rectangle",333,1003,46,17,"hsa:3795",100
+"68","K00007","rectangle",432,190,46,17,NA,NA
+"69","K00045...","rectangle",432,209,46,17,NA,NA
+"70","K28607","rectangle",432,228,46,17,NA,NA
+"72","K19270...","rectangle",753,204,46,17,NA,NA
+"73","K02798...","rectangle",803,216,46,17,NA,NA
+"75","K01218...","rectangle",172,409,46,17,NA,NA
+"76","HK1, CNSHA5, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, NEDVIBA, NMSR, RP79, hexokinase...","rectangle",333,341,46,17,"hsa:3098",100
+"78","K02793...","rectangle",333,322,46,17,NA,NA
+"79","HK1, CNSHA5, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, NEDVIBA, NMSR, RP79, hexokinase...","rectangle",496,300,46,17,"hsa:3098",100
+"80","K00847","rectangle",546,300,46,17,NA,NA
+"81","PFKFB1, F6PK, HL2K, PFRX...","rectangle",923,287,46,17,NA,NA
+"82","K00900","rectangle",966,306,46,17,NA,NA
+"83","K00009","rectangle",1000,271,46,17,NA,NA
+"84","MPI, CDG1B, PMI, PMI1","rectangle",705,342,46,17,"hsa:4351",100
+"85","PMM1, PMM 1, PMMH-22, Sec53...","rectangle",420,373,46,17,"hsa:5373",100
+"87","FPGT, GFPP","rectangle",420,668,46,17,NA,NA
+"88","GFUS, FX, P35B, SDR4E1, TSTA3","rectangle",420,601,46,17,"hsa:7264",100
+"89","GMDS, GMD, SDR3E1","rectangle",420,536,46,17,NA,NA
+"90","GMPPB, LGMDR19, MDDGA14, MDDGB14, MDDGC14...","rectangle",395,444,46,17,"hsa:29925;hsa:29926",100
+"92","K00068","rectangle",1017,375,46,17,NA,NA
+"93","K02781...","rectangle",1018,469,46,17,NA,NA
+"94","PFKL, ATP-PFK, PFK-B, PFK-L...","rectangle",986,436,46,17,"hsa:5213",100
+"95","K00895...","rectangle",945,465,46,17,NA,NA
+"96","K01729","rectangle",791,418,46,17,NA,NA
+"97","K19290...","rectangle",591,429,46,17,NA,NA
+"98","K00882","rectangle",1064,756,46,17,NA,NA
+"99","TPI1, HEL-S-49, TIM, TPI, TPID","rectangle",945,705,46,17,"hsa:7167",100

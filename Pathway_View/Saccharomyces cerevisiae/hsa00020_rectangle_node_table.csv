@@ -1,0 +1,50 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"105","K17753","rectangle",816,463,46,17,NA,NA,NA,NA
+"106","K18118","rectangle",260,598,46,17,NA,NA,NA,NA
+"107","SDHA, CMD1GG, FP, MC2DN1, NDAXOA, PGL5, PPGL5, SDH1, SDH2, SDHF...","rectangle",165,535,46,17,"hsa:6389;hsa:6390;hsa:6391;hsa:6392","1.3.5.1","SDHA; SDHB; SDHC; SDHD",100
+"109","K00116","rectangle",253,398,46,17,NA,NA,NA,NA
+"111","Arginine biosynthesis","roundrectangle",80,486,120,25,NA,NA,NA,NA
+"113","Arginine biosynthesis","roundrectangle",861,583,119,25,NA,NA,NA,NA
+"115","K00174...","rectangle",530,656,46,17,NA,NA,NA,NA
+"117","K00169...","rectangle",535,157,46,17,NA,NA,NA,NA
+"118","K00174...","rectangle",535,179,46,17,NA,NA,NA,NA
+"119","K00174...","rectangle",530,678,46,17,NA,NA,NA,NA
+"120","K05942","rectangle",472,339,46,17,NA,NA,NA,NA
+"122","Oxidative phosphorylation","roundrectangle",73,579,99,34,NA,NA,NA,NA
+"123","K26318","rectangle",215,535,46,17,NA,NA,NA,NA
+"124","K01659...","rectangle",424,360,46,17,NA,NA,NA,NA
+"33","DLD, DLDD, DLDH, E3, GCSL, LAD, OGDC-E3, PHE3","rectangle",467,623,46,17,"hsa:1738","1.8.1.4","DLD",100
+"34","OGDH, AKGDH, E1k, E1o, HsOGDH, KGD1, OGDC, OGDH-E1, OGDH2, OGDHD...","rectangle",661,579,46,17,"hsa:4967;hsa:55753","1.2.4.2","OGDH; OGDHL",100
+"35","OGDH, AKGDH, E1k, E1o, HsOGDH, KGD1, OGDC, OGDH-E1, OGDH2, OGDHD...","rectangle",530,580,46,17,"hsa:4967;hsa:55753","1.2.4.2","OGDH; OGDHL",100
+"36","DLST, DLTS, KGD2, PGL7, PPGL7","rectangle",403,579,46,17,"hsa:1743","2.3.1.61","DLST",100
+"37","SUCLG2, G-SCS, GBETA, GTPSCS...","rectangle",260,579,46,17,"hsa:8802;hsa:8803","6.2.1.4; 6.2.1.5","SUCLA2; SUCLG1",100
+"38","SUCLG2, G-SCS, GBETA, GTPSCS...","rectangle",260,560,46,17,"hsa:8802;hsa:8803","6.2.1.4; 6.2.1.5","SUCLA2; SUCLG1",100
+"39","IDH1, HEL-216, HEL-S-26, IDCD, IDH, IDP, IDPC, PICD...","rectangle",718,510,46,17,"hsa:3417;hsa:3418","1.1.1.42","IDH1; IDH2",100
+"40","IDH3A, RP90...","rectangle",766,463,46,17,"hsa:3419;hsa:3420;hsa:3421","1.1.1.41","IDH3A; IDH3B; IDH3G",100
+"41","IDH1, HEL-216, HEL-S-26, IDCD, IDH, IDP, IDPC, PICD...","rectangle",718,405,46,17,"hsa:3417;hsa:3418","1.1.1.42","IDH1; IDH2",100
+"42","ACLY, ACL, ATPCL, CLATP","rectangle",472,360,46,17,NA,NA,NA,NA
+"43","FH, FMRD, HLRCC, HsFH, LRCC, MCL, MCUL1","rectangle",191,441,46,17,"hsa:2271","4.2.1.2","FH",100
+"44","ACO1, ACONS, HEL60, IREB1, IREBP, IREBP1, IRP1...","rectangle",670,350,46,17,"hsa:50","4.2.1.3","ACO2",100
+"45","ACO1, ACONS, HEL60, IREB1, IREBP, IREBP1, IRP1...","rectangle",571,350,46,17,"hsa:50","4.2.1.3","ACO2",100
+"46","CS","rectangle",424,339,46,17,NA,NA,NA,NA
+"47","MDH1, DEE88, EIEE88, HEL-S-32, KAR, MDH-s, MDHA, MGC:1375, MOR2...","rectangle",253,349,46,17,"hsa:4190;hsa:4191","1.1.1.37","MDH1; MDH2",100
+"48","PC, PCB","rectangle",736,278,46,17,"hsa:5091","6.4.1.1","PC",100
+"49","Glyoxylate and dicarboxylate metabolism","roundrectangle",149,312,158,34,NA,NA,NA,NA
+"50","Glycolysis / Gluconeogenesis","roundrectangle",692,116,216,46,NA,NA,NA,NA
+"51","Fatty acid biosynthesis","roundrectangle",163,153,126,25,NA,NA,NA,NA
+"52","Fatty acid elongation","roundrectangle",129,181,194,25,NA,NA,NA,NA
+"53","Fatty acid degradation","roundrectangle",166,239,121,25,NA,NA,NA,NA
+"54","Ascorbate and aldarate metabolism","roundrectangle",864,615,126,34,NA,NA,NA,NA
+"55","Alanine, aspartate and glutamate metabolism","roundrectangle",862,652,121,34,NA,NA,NA,NA
+"56","TITLE:Citrate cycle (TCA cycle)","roundrectangle",154,58,227,25,NA,NA,NA,NA
+"57","Tyrosine metabolism","roundrectangle",102,448,76,34,NA,NA,NA,NA
+"58","Valine, leucine and isoleucine degradation","roundrectangle",266,641,85,34,NA,NA,NA,NA
+"59","Alanine, aspartate and glutamate metabolism","roundrectangle",167,275,121,34,NA,NA,NA,NA
+"60","D-Amino acid metabolism","roundrectangle",872,685,141,25,NA,NA,NA,NA
+"84","PDHA1, E1alpha, PDHA, PDHAD, PDHCE1A, PHE1A...","rectangle",681,241,46,17,"hsa:5160;hsa:5161;hsa:5162","1.2.4.1","PDHA1; PDHA2; PDHB",100
+"86","PDHA1, E1alpha, PDHA, PDHAD, PDHCE1A, PHE1A...","rectangle",577,241,46,17,"hsa:5160;hsa:5161;hsa:5162","1.2.4.1","PDHA1; PDHA2; PDHB",100
+"89","DLD, DLDD, DLDH, E3, GCSL, LAD, OGDC-E3, PHE3","rectangle",524,285,46,17,"hsa:1738","1.8.1.4","DLD",100
+"91","DLAT, DLTA, E2, PBC, PDC-E2, PDCE2","rectangle",459,242,46,17,"hsa:1737","2.3.1.12","DLAT",100
+"94","Valine, leucine and isoleucine degradation","roundrectangle",154,211,144,25,NA,NA,NA,NA
+"96","K01610","rectangle",371,126,46,17,NA,NA,NA,NA
+"97","PCK1, PCKDC, PEPCK-C, PEPCK1, PEPCKC...","rectangle",371,105,46,17,"hsa:5105;hsa:5106","4.1.1.32","PCK1; PCK2",0

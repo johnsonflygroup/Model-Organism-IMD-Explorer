@@ -1,0 +1,52 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"10","K20018","rectangle",535,471,46,17,NA,NA
+"100","CASP8, ALPS2B, CAP4, Casp-8, FLICE, MACH, MCH5","rectangle",746,196,46,17,NA,NA
+"103","TNFRSF1A, CD120a, FPF, TBP1, TNF-R, TNF-R-I, TNF-R55, TNFAR, TNFR1, TNFR55, TNFR60, p55, p55-R, p60","rectangle",230,130,46,17,NA,NA
+"105","K16679","rectangle",230,364,46,17,NA,NA
+"106","MAPK8, JNK, JNK-46, JNK1, JNK1A2, JNK21B1/2, PRKM8, SAPK1, SAPK1c...","rectangle",459,364,46,17,NA,NA
+"109","FADD, GIG3, IMD90, MORT1","rectangle",685,784,46,17,NA,NA
+"11","K20014","rectangle",535,494,46,17,NA,NA
+"110","CASP8, ALPS2B, CAP4, Casp-8, FLICE, MACH, MCH5","rectangle",746,830,46,17,NA,NA
+"111","CASP7, CASP-7, CMH-1, ICE-LAP3, LICE2, MCH3","rectangle",746,852,46,17,NA,NA
+"112","NGFR, CD271, Gp80-LNGFR, TNFRSF16, p75(NTR), p75NTR","rectangle",230,784,46,17,NA,NA
+"114","K20017","rectangle",380,499,46,17,NA,NA
+"117","K20094","rectangle",380,670,46,17,NA,NA
+"12","K20016","rectangle",535,518,46,17,NA,NA
+"122","BCL2L11, BAM, BIM, BOD...","rectangle",230,243,46,17,NA,NA
+"14","APAF1, APAF-1, CED4","rectangle",685,408,46,17,NA,NA
+"17","K20008","rectangle",844,508,46,17,NA,NA
+"18","BOK, BCL2L9, BOKL","rectangle",305,499,46,17,NA,NA
+"19","CYCS, CYC, HCS, THC4","rectangle",590,173,46,17,"hsa:54205",100
+"2","TITLE:Apoptosis - multiple species","roundrectangle",172,58,263,25,NA,NA
+"21","CASP9, APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56","rectangle",746,243,46,17,NA,NA
+"22","CASP7, CASP-7, CMH-1, ICE-LAP3, LICE2, MCH3","rectangle",844,233,46,17,NA,NA
+"23","CASP3, CPP32, CPP32B, SCA-1","rectangle",844,256,46,17,NA,NA
+"24","BIRC2, API1, HIAP2, Hiap-2, MIHB, RNF48, c-IAP1, cIAP1...","rectangle",638,243,46,17,NA,NA
+"25","APAF1, APAF-1, CED4","rectangle",685,173,46,17,NA,NA
+"26","DIABLO, DFNA64, SMAC","rectangle",535,220,46,17,"hsa:56616",100
+"27","HTRA2, MGCA8, OMI, PARK13, PRSS25","rectangle",535,243,46,17,"hsa:27429",100
+"28","SEPTIN4, ARTS, BRADEION, C17orf47, CE5B3, H5, MART, PNUTL2, SEP4, SEPT4, hCDCREL-2, hucep-7","rectangle",535,266,46,17,NA,NA
+"3","BIRC7, KIAP, LIVIN, ML-IAP, MLIAP, RNF50","rectangle",638,495,46,17,NA,NA
+"4","K20009","rectangle",746,447,46,17,NA,NA
+"42","K20104","rectangle",230,670,46,17,NA,NA
+"43","K20105","rectangle",685,631,46,17,NA,NA
+"44","K20106","rectangle",746,669,46,17,NA,NA
+"46","Apoptosis","roundrectangle",225,167,133,25,NA,NA
+"47","Apoptosis - fly","roundrectangle",229,395,133,25,NA,NA
+"5","CASP7, CASP-7, CMH-1, ICE-LAP3, LICE2, MCH3","rectangle",844,484,46,17,NA,NA
+"54","BAX, BCL2L4","rectangle",380,234,46,17,NA,NA
+"55","BAK1, BAK, BAK-LIKE, BCL2L7, CDN1","rectangle",380,256,46,17,NA,NA
+"56","BCL2, Bcl-2, PPP1R50...","rectangle",305,243,46,17,NA,NA
+"62","CYCS, CYC, HCS, THC4","rectangle",1,1,1,1,"hsa:54205",100
+"79","CYCS, CYC, HCS, THC4","rectangle",590,837,46,17,"hsa:54205",100
+"80","K04489","rectangle",746,885,46,17,NA,NA
+"81","CASP3, CPP32, CPP32B, SCA-1","rectangle",844,908,46,17,NA,NA
+"82","BIRC5, API4, EPR-1...","rectangle",638,909,46,17,NA,NA
+"83","APAF1, APAF-1, CED4","rectangle",685,837,46,17,NA,NA
+"88","BAK1, BAK, BAK-LIKE, BCL2L7, CDN1","rectangle",380,911,46,17,NA,NA
+"89","BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52","rectangle",305,911,46,17,NA,NA
+"90","BECN2, BECN1L1, BECN1P1...","rectangle",230,911,46,17,NA,NA
+"94","CASP9, APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56","rectangle",746,908,46,17,NA,NA
+"95","CASP7, CASP-7, CMH-1, ICE-LAP3, LICE2, MCH3","rectangle",746,931,46,17,NA,NA
+"96","BIRC5, API4, EPR-1","rectangle",638,669,46,17,NA,NA
+"99","FADD, GIG3, IMD90, MORT1","rectangle",685,130,46,17,NA,NA

@@ -1,0 +1,52 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"100","K12915","rectangle",944,925,46,17,NA,NA,NA,NA
+"101","K12904","rectangle",348,415,46,17,NA,NA,NA,NA
+"104","K21195","rectangle",550,363,46,17,NA,NA,NA,NA
+"115","K03430","rectangle",428,352,46,17,NA,NA,NA,NA
+"116","K12905","rectangle",324,498,46,17,NA,NA,NA,NA
+"118","PCYT2, ET, SPG82","rectangle",550,463,46,17,"hsa:5833","2.7.7.14","PCYT2",100
+"125","K18049","rectangle",222,498,46,17,NA,NA,NA,NA
+"128","K06164...","rectangle",222,576,46,17,NA,NA,NA,NA
+"131","K06162","rectangle",222,641,46,17,NA,NA,NA,NA
+"134","K06163","rectangle",222,704,46,17,NA,NA,NA,NA
+"136","K19669","rectangle",186,186,46,17,NA,NA,NA,NA
+"142","K06167","rectangle",222,794,46,17,NA,NA,NA,NA
+"143","Pentose phosphate pathway","roundrectangle",186,918,109,34,NA,NA,NA,NA
+"144","K20859","rectangle",158,763,46,17,NA,NA,NA,NA
+"146","K20859","rectangle",158,820,46,17,NA,NA,NA,NA
+"149","K20930","rectangle",531,802,46,17,NA,NA,NA,NA
+"151","K03823","rectangle",771,925,46,17,NA,NA,NA,NA
+"154","K21196...","rectangle",658,363,46,17,NA,NA,NA,NA
+"159","Glycine, serine and threonine metabolism","roundrectangle",890,362,124,34,NA,NA,NA,NA
+"162","K09994","rectangle",550,284,46,17,NA,NA,NA,NA
+"168","K21934","rectangle",376,226,46,17,NA,NA,NA,NA
+"169","K00206","rectangle",283,363,46,17,NA,NA,NA,NA
+"171","K23996","rectangle",271,549,46,17,NA,NA,NA,NA
+"173","K05915","rectangle",367,549,46,17,NA,NA,NA,NA
+"175","K25574","rectangle",550,484,46,17,NA,NA,NA,NA
+"177","K27877","rectangle",428,373,46,17,NA,NA,NA,NA
+"178","K27877","rectangle",403,436,46,17,NA,NA,NA,NA
+"181","K26913","rectangle",253,314,46,17,NA,NA,NA,NA
+"182","K28018","rectangle",453,436,46,17,NA,NA,NA,NA
+"23","TITLE:Phosphonate and phosphinate metabolism","roundrectangle",215,58,349,25,NA,NA,NA,NA
+"24","Glycolysis / Gluconeogenesis","roundrectangle",94,124,92,25,NA,NA,NA,NA
+"68","K01841...","rectangle",323,165,46,17,NA,NA,NA,NA
+"69","K09459","rectangle",323,253,46,17,NA,NA,NA,NA
+"70","K19670","rectangle",166,363,46,17,NA,NA,NA,NA
+"71","K05306","rectangle",186,273,46,17,NA,NA,NA,NA
+"75","K12914","rectangle",825,849,46,17,NA,NA,NA,NA
+"76","K12915","rectangle",824,925,46,17,NA,NA,NA,NA
+"77","K12906","rectangle",324,576,46,17,NA,NA,NA,NA
+"78","K12907","rectangle",324,641,46,17,NA,NA,NA,NA
+"79","K12908","rectangle",324,704,46,17,NA,NA,NA,NA
+"82","PCYT1A, CCTA, CCTalpha, CGL5, CT, CTA, CTPCT, PCYT1, SMDCRD...","rectangle",550,619,46,17,"hsa:5130","2.7.7.15","PCYT1A",100
+"83","CEPT1...","rectangle",658,474,46,17,"hsa:85465","2.7.8.1","SELENOI",100
+"85","CEPT1...","rectangle",658,619,46,17,NA,NA,NA,NA
+"87","K12901","rectangle",298,415,46,17,NA,NA,NA,NA
+"89","K12909","rectangle",361,802,46,17,NA,NA,NA,NA
+"91","K12910","rectangle",446,802,46,17,NA,NA,NA,NA
+"94","K03823","rectangle",776,802,46,17,NA,NA,NA,NA
+"96","K12912","rectangle",879,802,46,17,NA,NA,NA,NA
+"97","K12913","rectangle",879,819,46,17,NA,NA,NA,NA
+"98","K12911","rectangle",879,785,46,17,NA,NA,NA,NA
+"99","K12914","rectangle",945,849,46,17,NA,NA,NA,NA

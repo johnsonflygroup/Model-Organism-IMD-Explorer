@@ -1,0 +1,90 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"101","K02810","rectangle",264,171,46,17,NA,NA
+"102","K00695","rectangle",511,229,46,17,NA,NA
+"104","K00706","rectangle",511,390,46,17,NA,NA
+"105","K00694","rectangle",512,457,46,17,NA,NA
+"106","K00696","rectangle",575,156,46,17,NA,NA
+"107","ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1...","rectangle",668,376,46,17,"hsa:5167",100
+"109","K00978","rectangle",575,610,46,17,NA,NA
+"112","PGM2L1, BM32A, NEDHFS, PMMLP","rectangle",693,700,46,17,"hsa:283209",100
+"113","UGP2, DEE83, EIEE83, SVUGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379","rectangle",632,348,46,17,"hsa:7360",100
+"114","K00697...","rectangle",801,156,46,17,NA,NA
+"115","GYG1, GSD15, GYG...","rectangle",835,330,46,17,"hsa:2992;hsa:2997;hsa:2998;hsa:8908",100
+"116","K00975","rectangle",694,497,46,17,NA,NA
+"117","PGM1, CDG1T, GSD14...","rectangle",485,649,46,17,"hsa:5236",100
+"118","Glycolysis / Gluconeogenesis","roundrectangle",522,686,100,34,NA,NA
+"119","G6PC1, G6PC, G6PT, G6Pase, GSD1, GSD1a...","rectangle",486,781,46,17,"hsa:92579",0
+"120","HK1, CNSHA5, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, NEDVIBA, NMSR, RP79, hexokinase...","rectangle",486,735,46,17,"hsa:3098",100
+"121","GCK, FGQTL3, GK, GLK, HHF3, HK4, HKIV, HXKP, LGLK, MODY2, PNDM1","rectangle",486,756,46,17,"hsa:2645",100
+"122","GPI, AMF, CNSHA4, GNPI, NLK, PGI, PHI, SA-36, SA36","rectangle",206,746,46,17,"hsa:2821",100
+"123","GBE1, APBD, GBE, GSD4","rectangle",916,497,46,17,"hsa:2632",100
+"124","K01087...","rectangle",926,156,46,17,NA,NA
+"125","K01208","rectangle",940,403,46,17,NA,NA
+"126","TREH, TRE, TREA, TREHD","rectangle",1088,123,46,17,"hsa:11181",100
+"127","K05342","rectangle",1088,156,46,17,NA,NA
+"128","K01226","rectangle",1088,88,46,17,NA,NA
+"129","K01838","rectangle",1106,192,46,17,NA,NA
+"130","K01232","rectangle",1247,204,46,17,NA,NA
+"131","K00691","rectangle",1195,314,46,17,NA,NA
+"132","K01177","rectangle",1038,495,46,17,NA,NA
+"133","AMY1A, AMY1...","rectangle",1038,357,46,17,NA,NA
+"134","MGAM, MG, MGA...","rectangle",1038,577,46,17,NA,NA
+"135","GAA, LYAG...","rectangle",1167,434,46,17,"hsa:2548",100
+"136","AGL, GDE...","rectangle",801,577,46,17,"hsa:178;hsa:5836;hsa:5837",100
+"137","K00705...","rectangle",1195,534,46,17,NA,NA
+"138","K05341","rectangle",474,262,46,17,NA,NA
+"139","K00689","rectangle",474,310,46,17,NA,NA
+"140","K00703","rectangle",801,486,46,17,NA,NA
+"141","K01225...","rectangle",323,569,46,17,NA,NA
+"142","K01210","rectangle",264,400,46,17,NA,NA
+"143","K00692","rectangle",354,310,46,17,NA,NA
+"144","K01212","rectangle",330,355,46,17,NA,NA
+"145","K00690","rectangle",511,365,46,17,NA,NA
+"146","K18447","rectangle",696,541,46,17,NA,NA
+"147","SI","rectangle",1138,534,46,17,"hsa:6476",100
+"148","MGAM, MG, MGA...","rectangle",1088,534,46,17,NA,NA
+"149","SI","rectangle",1114,622,46,17,"hsa:6476",100
+"150","K02777...","rectangle",926,100,46,17,NA,NA
+"151","K02777...","rectangle",1308,314,46,17,NA,NA
+"152","K05343","rectangle",1088,314,46,17,NA,NA
+"192","Amino sugar and nucleotide sugar metabolism","roundrectangle",388,605,153,34,NA,NA
+"193","Amino sugar and nucleotide sugar metabolism","roundrectangle",629,67,153,34,NA,NA
+"198","K16146","rectangle",1247,434,46,17,NA,NA
+"199","K16147","rectangle",860,634,46,17,NA,NA
+"202","K13057","rectangle",801,208,46,17,NA,NA
+"203","K06896","rectangle",1247,314,46,17,NA,NA
+"204","K18775","rectangle",330,334,46,17,NA,NA
+"205","K05992...","rectangle",1038,514,46,17,NA,NA
+"208","K01214","rectangle",983,434,46,17,NA,NA
+"210","K01236","rectangle",983,229,46,17,NA,NA
+"211","K06044","rectangle",983,314,46,17,NA,NA
+"212","K01177","rectangle",1038,376,46,17,NA,NA
+"213","K05992...","rectangle",1038,395,46,17,NA,NA
+"214","K00701","rectangle",940,463,46,17,NA,NA
+"221","K13057","rectangle",801,186,46,17,NA,NA
+"223","K20811","rectangle",354,262,46,17,NA,NA
+"227","K05988","rectangle",1061,647,46,17,NA,NA
+"231","K01179...","rectangle",264,530,46,17,NA,NA
+"234","K00702","rectangle",154,497,46,17,NA,NA
+"237","K01222...","rectangle",104,676,46,17,NA,NA
+"238","K02759...","rectangle",157,700,46,17,NA,NA
+"242","K01225...","rectangle",264,551,46,17,NA,NA
+"243","AMY1A, AMY1...","rectangle",1038,476,46,17,NA,NA
+"247","K13679...","rectangle",801,507,46,17,NA,NA
+"248","K13679...","rectangle",885,330,46,17,NA,NA
+"251","K16148","rectangle",801,665,46,17,NA,NA
+"252","Mycolic acid biosynthesis","roundrectangle",1324,107,85,34,NA,NA
+"85","GBA3, CBG, CBGL1, GLUC, KLRP","rectangle",264,486,46,17,NA,NA
+"86","GBA3, CBG, CBGL1, GLUC, KLRP","rectangle",192,464,46,17,NA,NA
+"87","HK1, CNSHA5, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, NEDVIBA, NMSR, RP79, hexokinase...","rectangle",38,356,46,17,"hsa:3098",100
+"88","K01232","rectangle",1088,67,46,17,NA,NA
+"89","TITLE:Starch and sucrose metabolism","roundrectangle",180,58,280,25,NA,NA
+"90","K01193","rectangle",139,171,46,17,NA,NA
+"91","K00847","rectangle",88,356,46,17,NA,NA
+"93","GAA, LYAG...","rectangle",264,210,46,17,"hsa:2548",100
+"94","K01193","rectangle",264,229,46,17,NA,NA
+"95","SI","rectangle",264,248,46,17,"hsa:6476",100
+"96","GBA3, CBG, CBGL1, GLUC, KLRP","rectangle",264,424,46,17,NA,NA
+"97","K01199...","rectangle",264,379,46,17,NA,NA
+"98","K01179...","rectangle",373,497,46,17,NA,NA
+"99","K07024","rectangle",474,156,46,17,NA,NA

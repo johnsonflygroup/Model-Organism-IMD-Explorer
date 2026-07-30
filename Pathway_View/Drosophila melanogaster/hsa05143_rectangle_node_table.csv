@@ -1,0 +1,46 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"102","ICAM1, BB2, CD54, P3.58","rectangle",982,289,46,17,NA,NA
+"104","Complement and coagulation cascades","roundrectangle",475,418,113,25,NA,NA
+"105","THOP1, EP24.15, MEPD_HUMAN, MP78, TOP","rectangle",399,472,46,17,NA,NA
+"106","K01354","rectangle",399,506,46,17,NA,NA
+"115","K14475","rectangle",409,564,46,17,NA,NA
+"116","K13537","rectangle",409,605,46,17,NA,NA
+"122","K14478","rectangle",296,423,46,17,NA,NA
+"123","K23584","rectangle",310,486,46,17,NA,NA
+"124","HPR, A-259H10.2, HP","rectangle",205,499,46,17,NA,NA
+"125","APOA1, HPALP2, apo(a)","rectangle",205,516,46,17,"hsa:335",0
+"126","HBA1, ECYT7, HBA-T3, HBH, METHBA...","rectangle",180,450,46,17,NA,NA
+"131","IDO2, INDOL1...","rectangle",1173,515,46,17,NA,NA
+"132","K13537","rectangle",810,685,46,17,NA,NA
+"138","FAS, ALPS1A, APO-1, APT1, CD95, FAS1, FASTM, TNFRSF6","rectangle",982,156,46,17,NA,NA
+"139","K14479","rectangle",840,174,46,17,NA,NA
+"140","FASLG, ALPS1B, APT1LG1, APTL, CD178, CD95-L, CD95L, FASL, TNFSF6, TNLG1A","rectangle",923,156,46,17,NA,NA
+"143","Apoptosis","roundrectangle",1401,175,92,25,NA,NA
+"150","F2RL1, GPR11, PAR2","rectangle",884,685,46,17,NA,NA
+"151","Tryptophan metabolism","roundrectangle",1180,566,127,25,NA,NA
+"153","GNAQ, CMAL, CMC1, G-ALPHA-q, GAQ, SWS","rectangle",946,685,46,17,NA,NA
+"154","PLCB1, DEE12, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B...","rectangle",1043,685,46,17,"hsa:23236;hsa:5331;hsa:5332",100
+"164","PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA...","rectangle",1230,685,46,17,NA,NA
+"173","Circadian rhythm","roundrectangle",1411,450,92,25,NA,NA
+"174","Toll-like receptor signaling pathway","roundrectangle",704,305,100,34,NA,NA
+"175","KNG1, BDK, BK, HAE6, HK, HMWK, KNG","rectangle",487,472,46,17,NA,NA
+"176","NPPA, ANF, ANP, ATFB6, ATRST2, CDD, CDD-ANF, CDP, PND","rectangle",487,506,46,17,NA,NA
+"23","TITLE:African trypanosomiasis","roundrectangle",158,58,236,25,NA,NA
+"38","TLR9, CD289","rectangle",546,317,46,17,NA,NA
+"39","MYD88, IMD68, MYD88D, WM1","rectangle",611,317,46,17,NA,NA
+"40","IL12A, CLMF, IL-12A, NFSK, NKSF1, P35...","rectangle",655,372,46,17,NA,NA
+"41","IL18, IGIF, IL-18, IL-1g, IL1F4","rectangle",655,392,46,17,NA,NA
+"45","IFNG, IFG, IFI, IMD69","rectangle",790,457,46,17,NA,NA
+"46","TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F","rectangle",790,210,46,17,NA,NA
+"47","K14473","rectangle",372,290,46,17,NA,NA
+"48","APOL1, APO-L, APOL, APOL-I, FSGS4","rectangle",205,533,46,17,NA,NA
+"59","K14474","rectangle",464,358,46,17,NA,NA
+"60","SELE, CD62E, ELAM, ELAM1, ESEL, LECAM2, selectin-e","rectangle",982,268,46,17,NA,NA
+"61","VCAM1, CD106, INCAM-100","rectangle",982,248,46,17,NA,NA
+"62","LAMA4, CMD1JJ, LAMA3, LAMA4*-1","rectangle",1065,248,46,17,NA,NA
+"71","IL1B, IL-1, IL1-BETA, IL1F2, IL1beta","rectangle",790,230,46,17,NA,NA
+"83","IGH, IGH@, IGHV4, IGHV4-30, IGHV4-38-2, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv","rectangle",482,242,46,17,NA,NA
+"87","IGH, IGH@, IGHV4, IGHV4-30, IGHV4-38-2, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv","rectangle",482,262,46,17,NA,NA
+"91","IL10, CSIF, GVHDS, IL-10, IL10A, TGIF","rectangle",574,141,46,17,NA,NA
+"93","K01404","rectangle",347,393,46,17,NA,NA
+"96","IL6, BSF-2, BSF2, CDF, HGF, HSF, IFN-beta-2, IFNB2, IL-6","rectangle",790,250,46,17,NA,NA

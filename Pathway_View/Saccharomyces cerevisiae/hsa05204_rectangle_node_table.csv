@@ -1,0 +1,66 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"107","AKR1C2, AKR1C-pseudo, BABP, DD, DD-2, DD/BABP, DD2, DDH2, HAKRD, HBAB, MCDR2, SRXY8, TDD","rectangle",145,1375,46,17,"hsa:1646","1.1.1.213; 1.1.1.357","AKR1C2",100
+"108","CBR1, CBR, PG-9-KR, SDR21C1, hCBR1","rectangle",170,1394,46,17,NA,NA,NA,NA
+"113","UGT2B11...","rectangle",213,1579,46,17,"hsa:54658","2.4.1.17","UGT1A1",0
+"117","CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB...","rectangle",234,1221,46,17,NA,NA,NA,NA
+"118","CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB...","rectangle",233,1343,46,17,NA,NA,NA,NA
+"119","CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB...","rectangle",233,1431,46,17,NA,NA,NA,NA
+"120","CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB...","rectangle",233,1519,46,17,NA,NA,NA,NA
+"131","NAT2, AAC2, NAT-2, PNAT...","rectangle",184,162,46,17,NA,NA,NA,NA
+"132","CYP1A2, CP12, CYPIA2, P3-450, P450(PA)","rectangle",184,215,46,17,NA,NA,NA,NA
+"133","NAT2, AAC2, NAT-2, PNAT...","rectangle",316,215,46,17,NA,NA,NA,NA
+"142","CYP1A2, CP12, CYPIA2, P3-450, P450(PA)","rectangle",758,145,46,17,NA,NA,NA,NA
+"143","NAT2, AAC2, NAT-2, PNAT...","rectangle",871,146,46,17,NA,NA,NA,NA
+"144","SULT1A4, HAST3, M-PST, ST1A3, ST1A3/ST1A4, ST1A4, STM, TL-PST...","rectangle",871,188,46,17,NA,NA,NA,NA
+"153","CYP1A2, CP12, CYPIA2, P3-450, P450(PA)","rectangle",758,250,46,17,NA,NA,NA,NA
+"154","CYP1A2, CP12, CYPIA2, P3-450, P450(PA)","rectangle",758,326,46,17,NA,NA,NA,NA
+"155","NAT2, AAC2, NAT-2, PNAT...","rectangle",871,326,46,17,NA,NA,NA,NA
+"162","CYP3A7-CYP3A51P, CYP3A7, CYP3A7-3AP1, CYP3A7-CYP3AP1, CYP3A7.1L, CYPIIIA7...","rectangle",237,711,46,17,NA,NA,NA,NA
+"163","CYP3A7-CYP3A51P, CYP3A7, CYP3A7-3AP1, CYP3A7-CYP3AP1, CYP3A7.1L, CYPIIIA7...","rectangle",237,760,46,17,NA,NA,NA,NA
+"164","CYP3A7-CYP3A51P, CYP3A7, CYP3A7-3AP1, CYP3A7-CYP3AP1, CYP3A7.1L, CYPIIIA7...","rectangle",237,814,46,17,NA,NA,NA,NA
+"221","CYP2E1, CPE1, CYP2E, P450-J, P450C2E","rectangle",823,1485,46,17,NA,NA,NA,NA
+"233","CYP2E1, CPE1, CYP2E, P450-J, P450C2E","rectangle",807,1678,46,17,NA,NA,NA,NA
+"237","GSTO2, GSTO 2-2, bA127L20.1...","rectangle",202,1859,46,17,NA,NA,NA,NA
+"238","CYP2E1, CPE1, CYP2E, P450-J, P450C2E","rectangle",212,1906,46,17,NA,NA,NA,NA
+"256","PTGS2, COX-2, COX2, GRIPGHS, PGG/HS, PGHS-2, PHS-2, hCox-2","rectangle",372,866,46,17,NA,NA,NA,NA
+"257","Acute myeloid leukemia","roundrectangle",1204,762,104,34,NA,NA,NA,NA
+"258","Bladder cancer","roundrectangle",711,844,104,25,NA,NA,NA,NA
+"259","Bladder cancer","roundrectangle",547,249,104,25,NA,NA,NA,NA
+"260","Prostate cancer","roundrectangle",1205,133,104,25,NA,NA,NA,NA
+"261","Colorectal cancer","roundrectangle",1204,203,104,25,NA,NA,NA,NA
+"266","Non-small cell lung cancer","roundrectangle",805,428,113,34,NA,NA,NA,NA
+"267","Small cell lung cancer","roundrectangle",937,428,113,34,NA,NA,NA,NA
+"268","Non-small cell lung cancer","roundrectangle",541,1007,113,34,NA,NA,NA,NA
+"270","Non-small cell lung cancer","roundrectangle",1045,1050,113,34,NA,NA,NA,NA
+"271","Small cell lung cancer","roundrectangle",1170,1050,113,34,NA,NA,NA,NA
+"272","Non-small cell lung cancer","roundrectangle",843,1344,113,34,NA,NA,NA,NA
+"273","Small cell lung cancer","roundrectangle",965,1344,113,34,NA,NA,NA,NA
+"274","Non-small cell lung cancer","roundrectangle",724,1907,113,34,NA,NA,NA,NA
+"275","Small cell lung cancer","roundrectangle",846,1907,113,34,NA,NA,NA,NA
+"286","Acute myeloid leukemia","roundrectangle",551,1677,104,34,NA,NA,NA,NA
+"295","Metabolism of xenobiotics by cytochrome P450","roundrectangle",908,1179,158,34,NA,NA,NA,NA
+"321","NAT2, AAC2, NAT-2, PNAT...","rectangle",871,249,46,17,NA,NA,NA,NA
+"343","Small cell lung cancer","roundrectangle",541,1050,113,34,NA,NA,NA,NA
+"344","Hepatocellular carcinoma","roundrectangle",1108,1092,113,34,NA,NA,NA,NA
+"345","Hepatocellular carcinoma","roundrectangle",724,1948,113,34,NA,NA,NA,NA
+"346","Breast cancer","roundrectangle",846,1950,113,25,NA,NA,NA,NA
+"347","Gastric cancer","roundrectangle",872,467,124,25,NA,NA,NA,NA
+"348","Breast cancer","roundrectangle",1204,285,104,25,NA,NA,NA,NA
+"349","Breast cancer","roundrectangle",1204,525,104,25,NA,NA,NA,NA
+"350","Hepatocellular carcinoma","roundrectangle",711,805,113,34,NA,NA,NA,NA
+"351","Hepatocellular carcinoma","roundrectangle",1132,1344,113,34,NA,NA,NA,NA
+"352","Renal cell carcinoma","roundrectangle",1132,1570,113,34,NA,NA,NA,NA
+"54","TITLE:Chemical carcinogenesis - DNA adducts","roundrectangle",220,58,360,25,NA,NA,NA,NA
+"58","CYP1A2, CP12, CYPIA2, P3-450, P450(PA)...","rectangle",759,972,46,17,NA,NA,NA,NA
+"59","CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX...","rectangle",406,481,46,17,NA,NA,NA,NA
+"60","CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX...","rectangle",348,432,46,17,NA,NA,NA,NA
+"61","CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX...","rectangle",131,482,46,17,NA,NA,NA,NA
+"72","GSTO2, GSTO 2-2, bA127L20.1...","rectangle",357,509,46,17,NA,NA,NA,NA
+"73","GSTO2, GSTO 2-2, bA127L20.1...","rectangle",251,547,46,17,NA,NA,NA,NA
+"74","EPHX1, EPHX, EPOX, HYL1, MEH","rectangle",300,482,46,17,"hsa:2052","3.3.2.9","EPHX1",0
+"77","CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX...","rectangle",689,527,46,17,NA,NA,NA,NA
+"78","EPHX1, EPHX, EPOX, HYL1, MEH","rectangle",795,527,46,17,"hsa:2052","3.3.2.9","EPHX1",0
+"79","SULT2A1, DHEA-ST, DHEA-ST8, DHEAS, HST, ST2, ST2A1, ST2A3, STD, SULT2A3, hSTa","rectangle",845,580,46,17,NA,NA,NA,NA
+"88","CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX...","rectangle",689,580,46,17,NA,NA,NA,NA
+"89","CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX...","rectangle",914,526,46,17,NA,NA,NA,NA
+"99","HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1...","rectangle",195,1375,46,17,"hsa:3290","1.1.1.146","HSD11B1",0

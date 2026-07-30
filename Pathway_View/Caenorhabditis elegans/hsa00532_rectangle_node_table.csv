@@ -1,0 +1,22 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","Glycosaminoglycan degradation","roundrectangle",1098,772,116,34,NA,NA
+"103","UST, 2OST","rectangle",544,605,46,17,NA,NA
+"115","CHST15, BRAG, GALNAC4S-6ST","rectangle",719,605,46,17,NA,NA
+"118","CHST14, ATCS, D4ST1, EDSMC1, HNK1ST","rectangle",694,397,46,17,"hsa:113189",0
+"119","CHST7, C6ST-2, GST-5...","rectangle",890,397,46,17,"hsa:9469",0
+"128","CHST12, C4S-2, C4ST-2, C4ST2","rectangle",744,397,46,17,NA,NA
+"17","B3GAT3, GLCATI, JDSCD, glcUAT-I","rectangle",1135,283,46,17,"hsa:26229",100
+"18","XYLT1, DBQD2, PXYLT1, XT-I, XT1, XTI, XYLTI, xylT-I...","rectangle",1135,133,46,17,"hsa:64131;hsa:64132",100
+"19","B4GALT7, EDSP1, EDSSLA, EDSSPD1, XGALT1, XGPT, XGPT1","rectangle",1135,184,46,17,"hsa:11285",100
+"20","TITLE:Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate","roundrectangle",346,58,611,25,NA,NA
+"37","CHST13, C4ST3...","rectangle",199,397,46,17,"hsa:50515",0
+"47","CHST7, C6ST-2, GST-5...","rectangle",370,397,46,17,"hsa:9469",0
+"49","CHST15, BRAG, GALNAC4S-6ST","rectangle",197,605,46,17,NA,NA
+"56","UST, 2OST","rectangle",368,605,46,17,NA,NA
+"63","DSE, DS-epi1, DSEP, DSEPI, EDSMC2, SART-2, SART2...","rectangle",544,303,46,17,"hsa:29940",0
+"76","UST, 2OST","rectangle",890,605,46,17,NA,NA
+"85","B3GALT6, ALGAZ, EDSP2, EDSSPD2, SEMDJL1, beta3GalT6","rectangle",1135,234,46,17,"hsa:126792",100
+"89","CSGALNACT2, CHGN2, ChGn-2, GALNACT-2, GALNACT2, PRO0082, beta4GalNAcT...","rectangle",1135,332,46,17,"hsa:55790",50
+"90","CHSY1, CHSY, CSS1, ChSy-1, TPBS...","rectangle",1135,383,46,17,"hsa:22856",100
+"91","CHSY1, CHSY, CSS1, ChSy-1, TPBS...","rectangle",1135,434,46,17,"hsa:22856;hsa:55790",100
+"98","DSE, DS-epi1, DSEP, DSEPI, EDSMC2, SART-2, SART2...","rectangle",1062,593,46,17,"hsa:29940",0

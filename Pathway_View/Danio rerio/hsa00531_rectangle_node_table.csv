@@ -1,0 +1,27 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"14","SGSH, HSS, MPS3A, SFMD","rectangle",512,412,46,17,"hsa:6448",100
+"178","HYAL4, CSHY, HYAL-4...","rectangle",74,235,46,17,"hsa:3373",100
+"181","GUSB, BG, MPS7","rectangle",74,291,46,17,"hsa:2990",100
+"185","K01207","rectangle",74,353,46,17,NA,NA
+"41","HPSE2, HPA2, HPR2, UFS, UFS1","rectangle",536,235,46,17,NA,NA
+"42","HPSE, HPA, HPA1, HPR1, HPSE1, HSE1","rectangle",486,235,46,17,NA,NA
+"43","Glycosaminoglycan biosynthesis - heparan sulfate / heparin","roundrectangle",512,130,93,34,NA,NA
+"44","Glycosaminoglycan biosynthesis - keratan sulfate","roundrectangle",648,130,93,34,NA,NA
+"45","Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate","roundrectangle",392,130,112,34,NA,NA
+"46","GNS, G6S","rectangle",648,412,46,17,"hsa:2799",100
+"47","TITLE:Glycosaminoglycan degradation","roundrectangle",184,58,287,25,NA,NA
+"50","IDS, ID2S, MPS2, SIDS","rectangle",295,291,46,17,"hsa:3423",100
+"51","IDS, ID2S, MPS2, SIDS","rectangle",512,291,46,17,"hsa:3423",100
+"52","GALNS, GALNAC6S, GAS, GalN6S, MPS4A","rectangle",648,291,46,17,"hsa:2588",100
+"53","IDUA, IDA, MPS1, MPSI","rectangle",295,353,46,17,"hsa:3425",100
+"54","IDUA, IDA, MPS1, MPSI","rectangle",512,353,46,17,"hsa:3425",100
+"55","ARSB, ASB, G4S, MPS6","rectangle",295,412,46,17,"hsa:411",100
+"56","GLB1, EBP, ELNR1, MPS4B","rectangle",648,353,46,17,"hsa:2720",100
+"57","HYAL4, CSHY, HYAL-4...","rectangle",295,475,46,17,"hsa:3373",100
+"58","HGSNAT, HGNAT, MPS3C, RP73, TMEM76","rectangle",512,475,46,17,"hsa:138050",100
+"59","HEXA, TSD...","rectangle",715,475,46,17,"hsa:3073;hsa:3074",100
+"60","HYAL4, CSHY, HYAL-4...","rectangle",225,475,46,17,"hsa:3373",100
+"61","NAGLU, CMT2V, MPS-IIIB, MPS3B, NAG, UFHSD","rectangle",512,536,46,17,"hsa:4669",100
+"63","HEXA, TSD...","rectangle",648,475,46,17,"hsa:3073;hsa:3074",100
+"64","GUSB, BG, MPS7","rectangle",512,657,46,17,"hsa:2990",100
+"65","GNS, G6S","rectangle",512,719,46,17,"hsa:2799",100

@@ -1,0 +1,54 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","Steroid biosynthesis","roundrectangle",354,118,107,25,NA,NA
+"101","TITLE:Primary bile acid biosynthesis","roundrectangle",171,58,261,25,NA,NA
+"105","K01442","rectangle",121,1228,46,17,NA,NA
+"106","AKR1D1, 3o5bred, CBAS2, SRD5B1","rectangle",516,523,46,17,"hsa:6718",0
+"109","HSD17B4, DBP, MFE-2, MFP-2, MPF-2, PRLTS1, SDR8C1","rectangle",202,1022,46,17,"hsa:3295",0
+"110","HSD17B4, DBP, MFE-2, MFP-2, MPF-2, PRLTS1, SDR8C1","rectangle",516,1023,46,17,"hsa:3295",0
+"111","CYP7B1, CBAS3, CP7B, SPG5A","rectangle",638,289,46,17,"hsa:9420",0
+"112","HSD3B7, CBAS1, PFIC4, SDR11E3","rectangle",176,351,46,17,"hsa:80270",0
+"113","Secondary bile acid biosynthesis","roundrectangle",357,1342,123,32,NA,NA
+"14","CYP7B1, CBAS3, CP7B, SPG5A","rectangle",539,289,46,17,"hsa:9420",0
+"15","CYP7A1, CP7A, CYP7, CYPVII","rectangle",489,289,46,17,"hsa:1581",0
+"16","CYP7B1, CBAS3, CP7B, SPG5A","rectangle",299,289,46,17,"hsa:9420",0
+"170","ACOT8, HNAACTE, NAP1, PTE-1, PTE-2, PTE1, PTE2, hACTE-III, hTE...","rectangle",538,1175,46,17,"hsa:570",0
+"172","ACOT8, HNAACTE, NAP1, PTE-1, PTE-2, PTE1, PTE2, hACTE-III, hTE...","rectangle",222,1175,46,17,"hsa:570",0
+"174","CYP8B1, CP8B, CYP12, CYPVIIIB1","rectangle",398,615,46,17,NA,NA
+"24","AKR1D1, 3o5bred, CBAS2, SRD5B1","rectangle",202,524,46,17,"hsa:6718",0
+"26","AKR1C4, 3-alpha-HSD, C11, CDR, CHDR, DD-4, DD4, HAKRA","rectangle",516,581,46,17,NA,NA
+"28","CYP27A1, CP27, CTX, CYP27","rectangle",516,636,46,17,"hsa:1593",0
+"33","AMACR, AMACRD, CBAS4, P504S, RACE, RM","rectangle",516,856,46,17,"hsa:23600",0
+"35","ACOX2, BCOX, BRCACOX, BRCOX, CBAS6, THCCox","rectangle",516,913,46,17,"hsa:8309",0
+"40","AKR1C4, 3-alpha-HSD, C11, CDR, CHDR, DD-4, DD4, HAKRA","rectangle",202,582,46,17,NA,NA
+"47","CH25H, C25H","rectangle",297,209,46,17,NA,NA
+"49","CYP7A1, CP7A, CYP7, CYPVII","rectangle",352,289,46,17,"hsa:1581",0
+"50","HSD17B4, DBP, MFE-2, MFP-2, MPF-2, PRLTS1, SDR8C1","rectangle",518,969,46,17,"hsa:3295",0
+"52","SCP2, NLTP, NSL-TP, SCOX, SCP-2, SCP-CHI, SCP-X, SCPX","rectangle",516,1081,46,17,"hsa:6342",0
+"54","SCP2, NLTP, NSL-TP, SCOX, SCP-2, SCP-CHI, SCP-X, SCPX","rectangle",202,1080,46,17,"hsa:6342",0
+"60","SLC27A5, ACSB, ACSVL6, BACS, BAL, FACVL3, FATP-5, FATP5, VLACSR, VLCS-H2, VLCSH2","rectangle",180,1208,46,17,"hsa:10998",0
+"61","BAAT, BACAT, BACD1, BAT, FHCA3, HCHO","rectangle",280,1159,46,17,"hsa:570",0
+"62","K01442","rectangle",280,1228,46,17,NA,NA
+"63","CYP27A1, CP27, CTX, CYP27","rectangle",516,693,46,17,"hsa:1593",0
+"64","CYP27A1, CP27, CTX, CYP27","rectangle",516,748,46,17,"hsa:1593",0
+"67","CYP27A1, CP27, CTX, CYP27","rectangle",514,209,46,17,"hsa:1593",0
+"68","HSD3B7, CBAS1, PFIC4, SDR11E3","rectangle",637,351,46,17,"hsa:80270",0
+"69","HSD3B7, CBAS1, PFIC4, SDR11E3","rectangle",514,351,46,17,"hsa:80270",0
+"70","HSD3B7, CBAS1, PFIC4, SDR11E3","rectangle",352,351,46,17,"hsa:80270",0
+"71","HSD3B7, CBAS1, PFIC4, SDR11E3","rectangle",298,351,46,17,"hsa:80270",0
+"73","BAAT, BACAT, BACD1, BAT, FHCA3, HCHO","rectangle",121,1159,46,17,"hsa:570",0
+"81","SLC27A5, ACSB, ACSVL6, BACS, BAL, FACVL3, FATP-5, FATP5, VLACSR, VLCS-H2, VLCSH2","rectangle",496,1208,46,17,"hsa:10998",0
+"82","BAAT, BACAT, BACD1, BAT, FHCA3, HCHO","rectangle",593,1160,46,17,"hsa:570",0
+"83","K01442","rectangle",592,1230,46,17,NA,NA
+"84","K01442","rectangle",444,1229,46,17,NA,NA
+"86","BAAT, BACAT, BACD1, BAT, FHCA3, HCHO","rectangle",444,1160,46,17,"hsa:570",0
+"9","CYP46A1, CP46, CYP46","rectangle",178,209,46,17,NA,NA
+"90","CYP8B1, CP8B, CYP12, CYPVIIIB1","rectangle",398,475,46,17,NA,NA
+"91","CYP39A1","rectangle",175,289,46,17,NA,NA
+"92","SLC27A5, ACSB, ACSVL6, BACS, BAL, FACVL3, FATP-5, FATP5, VLACSR, VLCS-H2, VLCSH2","rectangle",202,800,46,17,"hsa:10998",0
+"93","CYP27A1, CP27, CTX, CYP27","rectangle",202,634,46,17,"hsa:1593",0
+"94","CYP27A1, CP27, CTX, CYP27","rectangle",202,691,46,17,"hsa:1593",0
+"95","CYP27A1, CP27, CTX, CYP27","rectangle",202,746,46,17,"hsa:1593",0
+"96","AMACR, AMACRD, CBAS4, P504S, RACE, RM","rectangle",202,857,46,17,"hsa:23600",0
+"97","ACOX2, BCOX, BRCACOX, BRCOX, CBAS6, THCCox","rectangle",202,911,46,17,"hsa:8309",0
+"98","HSD17B4, DBP, MFE-2, MFP-2, MPF-2, PRLTS1, SDR8C1","rectangle",202,966,46,17,"hsa:3295",0
+"99","SLC27A5, ACSB, ACSVL6, BACS, BAL, FACVL3, FATP-5, FATP5, VLACSR, VLCS-H2, VLCSH2","rectangle",516,800,46,17,"hsa:10998",0

@@ -1,0 +1,9 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"12","TITLE:Collecting duct acid secretion","roundrectangle",187,58,294,25,NA,NA
+"21","Tight junction","roundrectangle",252,117,115,25,NA,NA
+"27","ATP6V1FP2...","rectangle",159,334,46,17,"hsa:23545;hsa:523;hsa:529",100
+"28","SLC4A1, AE1, BND3, CD233, CHC, DI, EMPB3, EPB3, FR, RTA1A, SAO, SPH4, SW, WD, WD1, WR","rectangle",544,339,46,17,NA,NA
+"29","ATP4A, ATP6A...","rectangle",159,415,46,17,NA,NA
+"36","CA2, CA-II, CAC, CAII, Car2, HEL-76, HEL-S-282","rectangle",392,502,46,17,NA,NA
+"46","SLC12A7, KCC4","rectangle",542,470,46,17,NA,NA
+"47","CLCNKB, CLCKB, ClC-K2, ClC-Kb","rectangle",543,517,46,17,NA,NA

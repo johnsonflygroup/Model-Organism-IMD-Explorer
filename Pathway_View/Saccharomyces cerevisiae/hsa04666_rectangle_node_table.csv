@@ -1,0 +1,58 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"100","MARCKS, 80K-L, MACS, PKCSL, PRKCSL...","rectangle",811,330,46,17,NA,NA,NA,NA
+"103","MYO10, MyoX","rectangle",561,236,46,17,NA,NA,NA,NA
+"107","GSN, ADF, AGEL, AMYLD4...","rectangle",834,575,46,17,NA,NA,NA,NA
+"109","PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma...","rectangle",607,600,46,17,"hsa:23396","2.7.1.68","PIP5K1C",100
+"112","PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A...","rectangle",582,404,46,17,NA,NA,NA,NA
+"117","GAB2","rectangle",360,273,46,17,NA,NA,NA,NA
+"120","ARF6","rectangle",506,629,46,17,NA,NA,NA,NA
+"123","ARF6","rectangle",735,816,46,17,NA,NA,NA,NA
+"125","DNM2, CMT2M, CMTDI1, CMTDIB, DI-CMTB, DYN2, DYNII, LCCS5","rectangle",561,175,46,17,"hsa:1785","3.6.5.5","DNM2",0
+"128","NCF1, CGD1, NCF-1, NCF-47K, NCF1A, NOXO2, SH3PXD1A, p47-phox, p47phox","rectangle",972,518,46,17,NA,NA,NA,NA
+"131","AMPH, AMPH1...","rectangle",561,197,46,17,NA,NA,NA,NA
+"132","Regulation of actin cytoskeleton","roundrectangle",1150,263,100,34,NA,NA,NA,NA
+"135","Regulation of actin cytoskeleton","roundrectangle",1150,701,100,34,NA,NA,NA,NA
+"140","Calcium signaling pathway","roundrectangle",672,465,118,34,NA,NA,NA,NA
+"141","Endocytosis","roundrectangle",1150,374,100,25,NA,NA,NA,NA
+"145","SPHK2, SK 2, SK-2, SPK 2, SPK-2...","rectangle",617,540,46,17,NA,NA,NA,NA
+"152","Lysosome biogenesis","roundrectangle",1150,817,100,34,NA,NA,NA,NA
+"157","PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA...","rectangle",830,488,46,17,NA,NA,NA,NA
+"160","TITLE:Fc gamma R-mediated phagosome formation","roundrectangle",198,58,315,25,NA,NA,NA,NA
+"161","Phagosome","roundrectangle",1150,225,100,25,NA,NA,NA,NA
+"162","Phagosome","roundrectangle",1150,662,100,25,NA,NA,NA,NA
+"163",NA,"rectangle",735,664,46,34,NA,NA,NA,NA
+"164",NA,"rectangle",561,186,46,39,NA,NA,NA,NA
+"17","FCGR3A, CD16, CD16-II, CD16A, FCG3, FCGR3, FCGRIII, FCR-10, FCRIII, FCRIIIA, FcGRIIIA, IGFR3, IMD20...","rectangle",249,398,46,17,NA,NA,NA,NA
+"18","FCGR2B, CD32, CD32B, FCG2, FCGR2, FCGR2C, FcGRIIB, FcRII-c, FcgammaRIIb, IGFR2","rectangle",249,182,46,17,NA,NA,NA,NA
+"19","FCGR2A, CD32, CD32A, CDw32, FCG2, FCGR2, FCGR2A1, FcGR, FcgammaRIIa, IGFR2","rectangle",249,373,46,17,NA,NA,NA,NA
+"20","FCGR1A, CD64, CD64A, FCG1, FCGR1, FCRI, FcgammaRI, IGFR1","rectangle",249,348,46,17,NA,NA,NA,NA
+"21","HCK, AIPCV, JTK9, p59Hck, p61Hck...","rectangle",302,296,46,17,NA,NA,NA,NA
+"22","SYK, IMD82, p72-Syk","rectangle",319,373,46,17,NA,NA,NA,NA
+"23","PTPRC, B220, CD45, CD45R, GP180, IMD105, L-CA, LCA, LY5, T200","rectangle",249,224,46,17,NA,NA,NA,NA
+"28","102723407","rectangle",182,373,46,17,NA,NA,NA,NA
+"29","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",419,296,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296","2.7.1.153","PIK3CA; PIK3CD; PIK3R1; PIK3R2",0
+"31","INPP5D, SHIP, SHIP-1, SHIP1, SIP-145, hp51CN, p150Ship...","rectangle",412,182,46,17,"hsa:3636","3.1.3.86","INPPL1",0
+"32","LAT, IMD52, LAT1, pp36","rectangle",396,243,46,17,NA,NA,NA,NA
+"40","PLCG1, IDAA, NCKAP3, PLC-II, PLC1, PLC148, PLCgamma1...","rectangle",539,340,46,17,"hsa:5336","3.1.4.11","PLCG2",0
+"46","PRKCD, ALPS3, CVID9, MAY1, PKCD, nPKC-delta...","rectangle",682,358,46,17,NA,NA,NA,NA
+"47","RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf","rectangle",762,377,46,17,NA,NA,NA,NA
+"48","MAP2K1, CFC3, MAPKK1, MEK1, MEL, MKK1, PRKMK1","rectangle",832,377,46,17,NA,NA,NA,NA
+"49","MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, NS13, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK...","rectangle",902,377,46,17,NA,NA,NA,NA
+"50","PLA2G4B, HsT16992, cPLA2-beta...","rectangle",972,377,46,17,"hsa:5321","3.1.1.4","PLA2G4A",100
+"58","AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...","rectangle",611,278,46,17,"hsa:208","2.7.11.1","AKT2",0
+"59","RPS6KB1, PS6K, S6K, S6K-beta-1, S6K1, STK14A, p70 S6KA, p70(S6K)-alpha, p70-S6K, p70-alpha...","rectangle",697,278,46,17,NA,NA,NA,NA
+"65","VAV3...","rectangle",501,766,46,17,NA,NA,NA,NA
+"66","RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1...","rectangle",650,766,46,17,NA,NA,NA,NA
+"67","WASF2, IMD2, SCAR2, WASF4, WAVE2, dJ393P12.2...","rectangle",735,716,46,17,NA,NA,NA,NA
+"68","ARPC5, ARC16, IMD113, dJ127C7.3, p16-Arc...","rectangle",820,681,46,17,NA,NA,NA,NA
+"73","CDC42, CDC42Hs, G25K, TKS","rectangle",650,678,46,17,NA,NA,NA,NA
+"74","WAS, IMD2, SCNX, THC, THC1, WASP, WASPA","rectangle",735,656,46,17,NA,NA,NA,NA
+"80","DOCK1, DOCK180, ced5","rectangle",548,829,46,17,NA,NA,NA,NA
+"81","CRK, CRKII, p38...","rectangle",492,829,46,17,NA,NA,NA,NA
+"86","PLD1, CVDD, CVDP1...","rectangle",466,479,46,17,NA,NA,NA,NA
+"87","PAK1, IDDMSSD, PAKalpha, alpha-PAK, p65-PAK","rectangle",735,766,46,17,NA,NA,NA,NA
+"89","VASP","rectangle",735,673,46,17,NA,NA,NA,NA
+"90","LIMK1, LIMK, LIMK-1...","rectangle",820,766,46,17,NA,NA,NA,NA
+"93","CFL1, CFL, HEL-S-15, cofilin...","rectangle",905,766,46,17,NA,NA,NA,NA
+"96","ASAP1, AMAP1, CENTB4, DDEF1, PAG2, PAP, ZG14P...","rectangle",650,848,46,17,NA,NA,NA,NA
+"98","PLA2G6, CaI-PLA2, GVI, INAD1, IPLA2-VIA, NBIA2, NBIA2A, NBIA2B, PARK14, PLA2, PNPLA9, iPLA2, iPLA2beta","rectangle",972,428,46,17,"hsa:8398","3.1.1.4","PLA2G6",50

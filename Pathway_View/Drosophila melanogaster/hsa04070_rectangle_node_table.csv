@@ -1,0 +1,55 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","INPP5A, 5PTASE","rectangle",771,460,46,17,NA,NA
+"101","ITPK1, ITRPK1","rectangle",877,287,46,17,NA,NA
+"102","ITPKA, IP3-3KA, IP3KA...","rectangle",772,501,46,17,NA,NA
+"103","PLCD3, PLC-delta-3...","rectangle",721,575,46,17,"hsa:23236;hsa:51196;hsa:5331;hsa:5332;hsa:5333;hsa:5336",100
+"104","INPP5D, SHIP, SHIP-1, SHIP1, SIP-145, hp51CN, p150Ship...","rectangle",653,597,46,17,"hsa:3636",0
+"105","MTM1, CNM, CNMX, MTMX, XLMTM...","rectangle",222,658,46,17,"hsa:4534;hsa:8898",100
+"106","PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, PTENgama, TEP1","rectangle",603,192,46,17,"hsa:5728",100
+"107","TITLE:Phosphatidylinositol signaling system","roundrectangle",213,58,346,25,NA,NA
+"225","PIP4P2, TMEM55A...","rectangle",350,152,46,17,NA,NA
+"226","INPP4A, INPP4, TVAS1...","rectangle",877,431,46,17,NA,NA
+"228","MTM1, CNM, CNMX, MTMX, XLMTM...","rectangle",350,219,46,17,"hsa:4534;hsa:8898",100
+"229","PI3K-Akt signaling pathway","roundrectangle",569,267,100,34,NA,NA
+"230","Calcium signaling pathway","roundrectangle",1085,794,117,34,NA,NA
+"232","IPMK","rectangle",986,342,46,17,NA,NA
+"233","IPMK","rectangle",877,342,46,17,NA,NA
+"236","IP6K3, IHPK3, INSP6K3...","rectangle",1173,342,46,17,NA,NA
+"238","IP6K3, IHPK3, INSP6K3...","rectangle",1173,288,46,17,NA,NA
+"239","PPIP5K2, CFAP160, DFNB100, HISPPD1, IP7K2, VIP2...","rectangle",1133,317,46,17,NA,NA
+"241","PPIP5K2, CFAP160, DFNB100, HISPPD1, IP7K2, VIP2...","rectangle",1222,317,46,17,NA,NA
+"265","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",222,589,46,17,"hsa:5295;hsa:5296",100
+"266","PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA...","rectangle",994,794,46,17,NA,NA
+"267","INPP5B, 5PTase...","rectangle",603,597,46,17,"hsa:4952;hsa:56623;hsa:8867",100
+"268","Endocytosis","roundrectangle",520,545,92,25,NA,NA
+"283","IPMK","rectangle",877,234,46,17,NA,NA
+"285","INPP5F, MSTP007, MSTPO47, SAC2, hSAC2...","rectangle",180,380,46,17,NA,NA
+"45","PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, PTENgama, TEP1","rectangle",222,637,46,17,"hsa:5728",100
+"46","IPPK, C9orf12, INSP5K2, IP5K, IPK1, bA476B13.1","rectangle",1083,342,46,17,NA,NA
+"50","PLCD3, PLC-delta-3...","rectangle",731,342,46,17,"hsa:23236;hsa:51196;hsa:5331;hsa:5332;hsa:5333;hsa:5336",100
+"51","PLCD3, PLC-delta-3...","rectangle",681,342,46,17,"hsa:23236;hsa:51196;hsa:5331;hsa:5332;hsa:5333;hsa:5336",100
+"54","Focal adhesion","roundrectangle",572,234,94,25,NA,NA
+"76","CALML6, CAGLP...","rectangle",909,830,46,17,NA,NA
+"77","ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29...","rectangle",841,794,46,17,"hsa:3708;hsa:3709",100
+"78","CDIPT, PIS, PIS1","rectangle",434,854,46,17,NA,NA
+"79","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",651,192,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296",100
+"80","PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma...","rectangle",434,186,46,17,"hsa:23396",100
+"81","PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29","rectangle",222,144,46,17,"hsa:200576",100
+"82","PI4KA, GIDID2, PI4K-ALPHA, PIK4CA, PMGYCHA, SPG84, pi4K230...","rectangle",230,364,46,17,"hsa:5297;hsa:55361",100
+"83","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",222,610,46,17,"hsa:5286;hsa:5295;hsa:5296",100
+"84","CDS1, CDS_1...","rectangle",1062,659,46,17,NA,NA
+"85","DGKK...","rectangle",931,659,46,17,"hsa:8526",100
+"86","INPP4A, INPP4, TVAS1...","rectangle",391,648,46,17,NA,NA
+"87","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",434,560,46,17,"hsa:5286;hsa:5295;hsa:5296",100
+"88","PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29","rectangle",434,458,46,17,"hsa:200576",100
+"89","INPP5B, 5PTase...","rectangle",350,331,46,17,"hsa:4952;hsa:56623;hsa:8867",100
+"90","PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK...","rectangle",434,135,46,17,NA,NA
+"91","IPMK","rectangle",986,288,46,17,NA,NA
+"92","MTM1, CNM, CNMX, MTMX, XLMTM","rectangle",986,430,46,17,"hsa:4534",100
+"93","IMPA1, IMP, IMPA, MRT59...","rectangle",1079,538,46,17,"hsa:54928",100
+"94","IMPA1, IMP, IMPA, MRT59...","rectangle",1079,430,46,17,"hsa:54928",100
+"95","IMPA1, IMP, IMPA, MRT59...","rectangle",1079,488,46,17,"hsa:54928",100
+"96","INPP4A, INPP4, TVAS1...","rectangle",986,488,46,17,NA,NA
+"97","INPP1","rectangle",986,538,46,17,NA,NA
+"98","INPP5A, 5PTASE","rectangle",877,538,46,17,NA,NA
+"99","INPP1","rectangle",877,488,46,17,NA,NA

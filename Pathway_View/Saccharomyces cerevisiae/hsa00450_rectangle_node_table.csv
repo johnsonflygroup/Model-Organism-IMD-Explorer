@@ -1,0 +1,23 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"11","TITLE:Selenocompound metabolism","roundrectangle",166,58,252,25,NA,NA,NA,NA
+"12","TXNRD2, GCCD5, SELZ, TR, TR-BETA, TR3, TRXR2, TXNR2...","rectangle",570,459,46,17,"hsa:10587","1.8.1.9","TXNRD2",0
+"13","SEPHS2, SPS2...","rectangle",328,459,46,17,NA,NA,NA,NA
+"14","K08247","rectangle",199,143,46,17,NA,NA,NA,NA
+"15","K01761","rectangle",248,185,46,17,NA,NA,NA,NA
+"16","MARS1, CMT2U, ILFS2, ILLD, MARS, METRS, MRS, MTRNS, SPG70, TTD9...","rectangle",118,176,46,17,"hsa:4141;hsa:92935","6.1.1.10","MARS1; MARS2",100
+"36","K17050...","rectangle",764,381,46,17,NA,NA,NA,NA
+"45","KYAT3, CCBL2, KAT3, KATIII...","rectangle",328,331,46,17,NA,NA,NA,NA
+"49","PSTK, C10orf89","rectangle",170,525,46,17,NA,NA,NA,NA
+"51","SEPSECS, LP, PCH2D, SLA, SLA-p35, SLA/LP, SecS","rectangle",125,469,46,17,"hsa:51091","2.9.1.2","SEPSECS",0
+"59","CTH, CGL, CSE","rectangle",248,164,46,17,"hsa:1491","4.4.1.1","CTH",100
+"60","K01739","rectangle",199,364,46,17,NA,NA,NA,NA
+"61","SCLY, SCL, hSCL","rectangle",328,395,46,17,NA,NA,NA,NA
+"73","PAPSS2, ATPSK2, BCYM4, SK2...","rectangle",824,365,46,17,"hsa:9060","2.7.1.25; 2.7.7.4","PAPSS2",100
+"76","KYAT3, CCBL2, KAT3, KATIII...","rectangle",307,219,46,17,NA,NA,NA,NA
+"81","K01042","rectangle",125,450,46,17,NA,NA,NA,NA
+"82","KYAT3, CCBL2, KAT3, KATIII...","rectangle",199,299,46,17,NA,NA,NA,NA
+"83","MTR, HMAG, MS, cblG","rectangle",199,219,46,17,"hsa:4548","2.1.1.13","MTR",0
+"90","TXNRD2, GCCD5, SELZ, TR, TR-BETA, TR3, TRXR2, TXNR2...","rectangle",472,176,46,17,"hsa:10587","1.8.1.9","TXNRD2",0
+"91","INMT, TEMT","rectangle",570,238,46,17,NA,NA,NA,NA
+"92","CTH, CGL, CSE","rectangle",257,219,46,17,"hsa:1491","4.4.1.1","CTH",100
+"93","K27874...","rectangle",764,402,46,17,NA,NA,NA,NA

@@ -1,0 +1,43 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"113","K08505","rectangle",433,457,46,17,NA,NA
+"114","SEC22B, ERS-24, SEC22L1","rectangle",429,644,46,17,NA,NA
+"115","VAMP4, VAMP-4, VAMP24","rectangle",291,260,46,17,NA,NA
+"116","VAMP8, EDB, VAMP-8","rectangle",162,335,46,17,NA,NA
+"117","VAMP1, CMS25, SAX1, SPAX1, SYB1, VAMP-1...","rectangle",143,297,46,17,"hsa:6843;hsa:6844",0
+"118","VAMP7, SYBL1, TI-VAMP, TIVAMP, VAMP-7","rectangle",415,356,46,17,NA,NA
+"126","STX16, SYN-16, SYN16","rectangle",460,218,46,17,NA,NA
+"127","STX6","rectangle",460,235,46,17,NA,NA
+"128","VTI1B, VTI1, VTI1-LIKE, VTI1L, VTI2, v-SNARE, vti1-rp1...","rectangle",460,252,46,17,NA,NA
+"129",NA,"rectangle",131,200,91,17,NA,NA
+"130",NA,"rectangle",279,167,91,17,NA,NA
+"131",NA,"rectangle",460,235,46,51,NA,NA
+"132",NA,"rectangle",546,367,46,51,NA,NA
+"133",NA,"rectangle",281,547,46,51,NA,NA
+"134",NA,"rectangle",354,710,46,51,NA,NA
+"45","BNIP1, NIP1, SEC20, TRG-8","rectangle",354,727,46,17,NA,NA
+"46","USE1, D12, MDS032, P31, SLT1","rectangle",354,710,46,17,NA,NA
+"47","STX18, Ufe1","rectangle",354,693,46,17,NA,NA
+"48","STX17","rectangle",254,696,46,17,NA,NA
+"49","BET1, HBET1, MDRP...","rectangle",234,646,46,17,NA,NA
+"50","YKT6","rectangle",330,564,46,17,NA,NA
+"51","GOSR1, GOLIM2, GOS-28, GOS28, GOS28/P28, GS28, P28","rectangle",330,547,46,17,NA,NA
+"52","STX5, CDG2AA, SED5, STX5A","rectangle",330,530,46,17,NA,NA
+"53","SEC22B, ERS-24, SEC22L1","rectangle",281,564,46,17,NA,NA
+"54","GOSR2, Bos1, EPM6, GS27, MYOS","rectangle",281,547,46,17,"hsa:9570",100
+"55","STX5, CDG2AA, SED5, STX5A","rectangle",281,530,46,17,NA,NA
+"56","SNAP29, CEDNIK, SNAP-29","rectangle",330,453,46,17,"hsa:9342",0
+"57","STX6","rectangle",281,473,46,17,NA,NA
+"58","STX16, SYN-16, SYN16","rectangle",281,453,46,17,NA,NA
+"59","STX19...","rectangle",281,433,46,17,"hsa:8676",0
+"60","YKT6","rectangle",457,409,46,17,NA,NA
+"61","VTI1B, VTI1, VTI1-LIKE, VTI1L, VTI2, v-SNARE, vti1-rp1...","rectangle",546,384,46,17,NA,NA
+"62","STX8, CARB","rectangle",546,367,46,17,NA,NA
+"63","STX7","rectangle",546,350,46,17,NA,NA
+"64","VAMP4, VAMP-4, VAMP24","rectangle",392,198,46,17,NA,NA
+"65","VAMP5","rectangle",377,165,46,17,NA,NA
+"66","SNAP23, HsT17016, SNAP-23, SNAP23A, SNAP23B","rectangle",302,167,46,17,NA,NA
+"67","K08506","rectangle",305,710,46,17,NA,NA
+"68","SNAP23, HsT17016, SNAP-23, SNAP23A, SNAP23B","rectangle",154,200,46,17,NA,NA
+"69","STX1B, GEFSP9, STX1B1, STX1B2...","rectangle",257,167,46,17,"hsa:112755",100
+"70","STX1B, GEFSP9, STX1B1, STX1B2...","rectangle",109,200,46,17,"hsa:112755",100
+"71","TITLE:SNARE interactions in vesicular transport","roundrectangle",228,58,375,25,NA,NA

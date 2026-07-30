@@ -1,0 +1,43 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"146","K17363","rectangle",899,444,46,17,NA,NA,NA,NA
+"147","K20246...","rectangle",886,342,46,17,NA,NA,NA,NA
+"148","K18912","rectangle",1033,341,46,17,NA,NA,NA,NA
+"151","K07008","rectangle",1138,341,46,17,NA,NA,NA,NA
+"154","K20247...","rectangle",1236,341,46,17,NA,NA,NA,NA
+"156","K20246","rectangle",1001,293,46,17,NA,NA,NA,NA
+"157","HDC","rectangle",657,341,46,17,NA,NA,NA,NA
+"159","K28982","rectangle",1115,382,46,17,NA,NA,NA,NA
+"164","K01919","rectangle",949,412,46,17,NA,NA,NA,NA
+"39","K05603","rectangle",885,590,46,17,NA,NA,NA,NA
+"40","K01458","rectangle",944,629,46,17,NA,NA,NA,NA
+"41","K01479","rectangle",806,639,46,17,NA,NA,NA,NA
+"42","FTCD, LCHC1","rectangle",849,620,46,17,"hsa:10841","2.1.2.5; 4.3.1.4","FTCD",0
+"43","AMDHD1, HMFT1272","rectangle",829,548,46,17,NA,NA,NA,NA
+"44","UROC1, HMFN0320, UROCD","rectangle",829,475,46,17,"hsa:131669","4.2.1.49","UROC1",0
+"45","HAL, HIS, HSTD","rectangle",828,373,46,17,"hsa:3034","4.3.1.3","HAL",0
+"47","CARNMT1, C9orf41, UPF0586","rectangle",685,249,46,17,NA,NA,NA,NA
+"48","CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA","rectangle",659,297,46,17,NA,NA,NA,NA
+"49","CARNS1, ATPGD1","rectangle",758,267,46,17,NA,NA,NA,NA
+"53","ALDH2, ALDH-E2, ALDHI, ALDM...","rectangle",422,341,46,17,"hsa:219;hsa:224;hsa:501","1.2.1.3; 1.2.1.3; 1.2.1.31; 1.2.1.8","ALDH1B1; ALDH3A2; ALDH7A1",100
+"54","MAOA, BRNRS, MAO-A...","rectangle",574,445,46,17,"hsa:4128","1.4.3.4","MAOA",0
+"55","ALDH3A1, ALDH3, ALDHIII...","rectangle",574,520,46,17,NA,NA,NA,NA
+"56","AOC1, ABP, ABP1, DAO, DAO1, KAO, KDAO","rectangle",523,341,46,17,NA,NA,NA,NA
+"57","HNMT, HMT, HNMT-S1, HNMT-S2, MRT51","rectangle",573,378,46,17,NA,NA,NA,NA
+"58","Pentose phosphate pathway","roundrectangle",114,215,155,26,NA,NA,NA,NA
+"59","K00765...","rectangle",147,136,46,17,NA,NA,NA,NA
+"60","K00013...","rectangle",848,273,46,17,NA,NA,NA,NA
+"61","K00013...","rectangle",829,168,46,17,NA,NA,NA,NA
+"62","K01089...","rectangle",782,136,46,17,NA,NA,NA,NA
+"63","K00817","rectangle",695,136,46,17,NA,NA,NA,NA
+"64","K01693...","rectangle",605,136,46,17,NA,NA,NA,NA
+"65","Alanine, aspartate and glutamate metabolism","roundrectangle",1036,675,126,34,NA,NA,NA,NA
+"66","K01814...","rectangle",409,135,46,17,NA,NA,NA,NA
+"67","K01496...","rectangle",321,136,46,17,NA,NA,NA,NA
+"68","K01523...","rectangle",234,136,46,17,NA,NA,NA,NA
+"69","TITLE:Histidine metabolism","roundrectangle",130,58,179,25,NA,NA,NA,NA
+"70","K02500...","rectangle",500,135,46,17,NA,NA,NA,NA
+"71","Purine metabolism","roundrectangle",538,245,115,24,NA,NA,NA,NA
+"72","Alanine, aspartate and glutamate metabolism","roundrectangle",99,472,123,34,NA,NA,NA,NA
+"74","CNDP1, CN1, CPGL2, HsT2308","rectangle",709,297,46,17,"hsa:84735","3.4.13.20","CNDP1",100
+"75","CARNS1, ATPGD1","rectangle",733,230,46,17,NA,NA,NA,NA
+"77","ASPA, ACY2, ASP","rectangle",67,373,46,17,"hsa:443","3.5.1.15","ASPA",0

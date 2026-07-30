@@ -1,0 +1,86 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA","rectangle",293,582,46,17,"hsa:3030",100
+"102","ACADL, ACAD4, LCAD","rectangle",293,404,46,17,NA,NA
+"103","CYP2U1, P450TEC, SPG49, SPG56","rectangle",656,925,46,17,"hsa:113612",100
+"104","K14338","rectangle",656,947,46,17,NA,NA
+"105","ACAA2, DSAEC, T1...","rectangle",178,659,46,17,"hsa:3032",100
+"106","EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, MFE1, PBFE...","rectangle",118,582,46,17,"hsa:1962;hsa:3033",100
+"107","ECHS1, ECHS1D, SCEH, mECH, mECH1...","rectangle",118,498,46,17,"hsa:1892;hsa:1962;hsa:3030",100
+"108","ACADM, ACAD1, MCAD, MCADH","rectangle",118,404,46,17,"hsa:34",100
+"109","ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2...","rectangle",143,210,46,17,"hsa:2182",100
+"110","HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA","rectangle",168,582,46,17,"hsa:3030",100
+"112","ACADL, ACAD4, LCAD","rectangle",168,404,46,17,NA,NA
+"115","ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...","rectangle",873,385,46,17,"hsa:51",100
+"116","ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...","rectangle",797,385,46,17,"hsa:51",100
+"117","ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...","rectangle",621,398,46,17,"hsa:51",100
+"118","ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...","rectangle",495,399,46,17,"hsa:51",100
+"119","ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...","rectangle",369,399,46,17,"hsa:51",100
+"120","ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...","rectangle",243,385,46,17,"hsa:51",100
+"121","ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...","rectangle",118,385,46,17,"hsa:51",100
+"122","K00529","rectangle",335,937,46,17,NA,NA
+"123","K00530","rectangle",335,958,46,17,NA,NA
+"202","ACAT1, ACAT, MAT, T2, THIL...","rectangle",923,659,46,17,"hsa:38;hsa:39",100
+"203","ACADVL, ACAD6, LCACD, VLCAD","rectangle",143,423,46,17,"hsa:37",100
+"204","ACADVL, ACAD6, LCACD, VLCAD","rectangle",268,423,46,17,"hsa:37",100
+"206","Butanoate metabolism","roundrectangle",1041,780,123,25,NA,NA
+"208","CPT1C, CATL1, CPT_I-C, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73...","rectangle",143,268,46,17,"hsa:126129;hsa:1374",100
+"211","CPT2, CPT1, CPTASE, IIAE4","rectangle",143,330,46,17,"hsa:1376",100
+"213","ALDH2, ALDH-E2, ALDHI, ALDM...","rectangle",557,905,46,17,"hsa:219;hsa:224;hsa:501",100
+"215","Glyoxylate and dicarboxylate metabolism","roundrectangle",1051,813,143,34,NA,NA
+"216","K00496","rectangle",656,904,46,17,NA,NA
+"217","ACAA2, DSAEC, T1...","rectangle",873,659,46,17,"hsa:3032",100
+"225","ACADSB, 2-MEBCAD, ACAD7, SBCAD","rectangle",747,423,46,17,"hsa:36",100
+"226","ACADSB, 2-MEBCAD, ACAD7, SBCAD","rectangle",923,385,46,17,"hsa:36",100
+"38","K06445","rectangle",168,385,46,17,NA,NA
+"39","K06445","rectangle",293,385,46,17,NA,NA
+"40","K06445","rectangle",419,399,46,17,NA,NA
+"41","K06445","rectangle",545,399,46,17,NA,NA
+"42","K06445","rectangle",671,398,46,17,NA,NA
+"43","K06445","rectangle",797,423,46,17,NA,NA
+"44","K06445","rectangle",898,423,46,17,NA,NA
+"45","ACADS, ACAD3, SCAD","rectangle",873,404,46,17,"hsa:35",100
+"46","EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, MFE1, PBFE...","rectangle",898,578,46,17,"hsa:1962;hsa:3033",100
+"47","ECHS1, ECHS1D, SCEH, mECH, mECH1...","rectangle",898,495,46,17,"hsa:1892;hsa:1962;hsa:3030",100
+"49","ACADM, ACAD1, MCAD, MCADH","rectangle",923,404,46,17,"hsa:34",100
+"50","K01909...","rectangle",470,776,46,17,NA,NA
+"51","ECI2, ACBD2, DRS-1, DRS1, HCA88, PECI, dJ1013A10.3...","rectangle",470,825,46,17,"hsa:1962",100
+"52","K01782...","rectangle",470,850,46,17,NA,NA
+"53","ACAT1, ACAT, MAT, T2, THIL...","rectangle",808,648,46,17,"hsa:38;hsa:39",100
+"54","ACAA2, DSAEC, T1...","rectangle",808,669,46,17,"hsa:3032",100
+"55","EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, MFE1, PBFE...","rectangle",747,580,46,17,"hsa:1962;hsa:3033",100
+"56","ECHS1, ECHS1D, SCEH, mECH, mECH1...","rectangle",747,496,46,17,"hsa:1892;hsa:1962;hsa:3030",100
+"57","ACADS, ACAD3, SCAD","rectangle",747,385,46,17,"hsa:35",100
+"58","ACADM, ACAD1, MCAD, MCADH","rectangle",747,404,46,17,"hsa:34",100
+"59","HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA","rectangle",797,580,46,17,"hsa:3030",100
+"61","ACADL, ACAD4, LCAD","rectangle",797,404,46,17,NA,NA
+"62","ACAA2, DSAEC, T1...","rectangle",683,659,46,17,"hsa:3032",100
+"63","EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, MFE1, PBFE...","rectangle",621,581,46,17,"hsa:1962;hsa:3033",100
+"64","ECHS1, ECHS1D, SCEH, mECH, mECH1...","rectangle",621,497,46,17,"hsa:1892;hsa:1962;hsa:3030",100
+"65","ACADM, ACAD1, MCAD, MCADH","rectangle",621,417,46,17,"hsa:34",100
+"66","HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA","rectangle",671,581,46,17,"hsa:3030",100
+"68","ACADL, ACAD4, LCAD","rectangle",671,417,46,17,NA,NA
+"69","ACAA2, DSAEC, T1...","rectangle",555,659,46,17,"hsa:3032",100
+"70","EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, MFE1, PBFE...","rectangle",495,581,46,17,"hsa:1962;hsa:3033",100
+"71","ECHS1, ECHS1D, SCEH, mECH, mECH1...","rectangle",495,497,46,17,"hsa:1892;hsa:1962;hsa:3030",100
+"72","ACADM, ACAD1, MCAD, MCADH","rectangle",495,418,46,17,"hsa:34",100
+"73","ACADL, ACAD4, LCAD","rectangle",545,418,46,17,NA,NA
+"74","HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA","rectangle",545,581,46,17,"hsa:3030",100
+"76","K00496","rectangle",335,915,46,17,NA,NA
+"77","K05297...","rectangle",335,980,46,17,NA,NA
+"79","ACAA2, DSAEC, T1...","rectangle",429,659,46,17,"hsa:3032",100
+"80","EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, MFE1, PBFE...","rectangle",369,582,46,17,"hsa:1962;hsa:3033",100
+"81","ECHS1, ECHS1D, SCEH, mECH, mECH1...","rectangle",369,498,46,17,"hsa:1892;hsa:1962;hsa:3030",100
+"82","ACADM, ACAD1, MCAD, MCADH","rectangle",369,418,46,17,"hsa:34",100
+"83","Citrate cycle (TCA cycle)","roundrectangle",897,876,81,25,NA,NA
+"84","ADH1A, ADH1...","rectangle",455,905,46,17,NA,NA
+"86","GCDH, ACAD5, GCD","rectangle",977,421,46,17,"hsa:2639",100
+"88","HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA","rectangle",419,582,46,17,"hsa:3030",100
+"90","ACADL, ACAD4, LCAD","rectangle",419,418,46,17,NA,NA
+"91","Fatty acid biosynthesis","roundrectangle",143,114,78,34,NA,NA
+"92","Fatty acid elongation","roundrectangle",299,114,118,25,NA,NA
+"93","Glycerolipid metabolism","roundrectangle",309,142,137,25,NA,NA
+"94","ACAA2, DSAEC, T1...","rectangle",304,659,46,17,"hsa:3032",100
+"95","ECHS1, ECHS1D, SCEH, mECH, mECH1...","rectangle",243,498,46,17,"hsa:1892;hsa:1962;hsa:3030",100
+"96","ACADM, ACAD1, MCAD, MCADH","rectangle",243,404,46,17,"hsa:34",100
+"97","EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, MFE1, PBFE...","rectangle",243,582,46,17,"hsa:1962;hsa:3033",100
+"99","TITLE:Fatty acid degradation","roundrectangle",148,58,216,25,NA,NA

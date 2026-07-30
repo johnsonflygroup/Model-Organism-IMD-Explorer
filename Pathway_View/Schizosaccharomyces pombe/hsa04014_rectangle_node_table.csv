@@ -1,0 +1,98 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"10","MAP2K1, CFC3, MAPKK1, MEK1, MEL, MKK1, PRKMK1...","rectangle",972,572,46,17,NA,NA
+"102","RHOA, ARH12, ARHA, EDFAOB, RHO12, RHOH12","rectangle",1025,208,46,17,NA,NA
+"109","AFDN, AF6, MLL-AF6, MLLT4, l-afadin","rectangle",807,493,46,17,NA,NA
+"11","RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf","rectangle",854,572,46,17,NA,NA
+"113","RASSF5, Maxp1, NORE1, NORE1A, NORE1B, RAPL, RASSF3","rectangle",807,133,46,17,NA,NA
+"114","RASSF1, 123F2, NORE2A, RASSF1A, RDA32, REH3P21","rectangle",807,105,46,17,NA,NA
+"115","STK4, KRS2, MST1, YSK3","rectangle",881,105,46,17,NA,NA
+"116","STK4, KRS2, MST1, YSK3","rectangle",881,133,46,17,NA,NA
+"119","RAPGEF5, GFR, MR-GEF, MRGEF, REPAC","rectangle",807,647,46,17,NA,NA
+"12","RRAS2, NS12, TC21...","rectangle",683,450,46,17,NA,NA
+"120","RAP1A, C21KG, G-22K, KREV-1, KREV1, RAP1, SMGP21...","rectangle",885,647,46,17,NA,NA
+"125","RASSF5, Maxp1, NORE1, NORE1A, NORE1B, RAPL, RASSF3","rectangle",596,522,46,17,NA,NA
+"126","TIAM1, NEDLDS, TIAM-1","rectangle",596,554,46,17,NA,NA
+"127","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",596,581,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296",0
+"128","AFDN, AF6, MLL-AF6, MLLT4, l-afadin","rectangle",596,611,46,17,NA,NA
+"129","RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf","rectangle",596,641,46,17,NA,NA
+"130","RAPGEF5, GFR, MR-GEF, MRGEF, REPAC","rectangle",596,688,46,17,NA,NA
+"131","RALGDS, RGDS, RGF, RalGEF","rectangle",596,717,46,17,NA,NA
+"132","PLCE1, NPHS3, PLCE, PPLC","rectangle",596,745,46,17,"hsa:51196",0
+"133","RIN1","rectangle",596,775,46,17,NA,NA
+"134","HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras...","rectangle",477,602,46,17,NA,NA
+"135","MRAS, M-RAs, NS11, R-RAS3, RRAS3","rectangle",477,666,46,17,NA,NA
+"154","Endocytosis","roundrectangle",1137,793,92,25,NA,NA
+"155","Regulation of actin cytoskeleton","roundrectangle",1117,162,110,34,NA,NA
+"156","RRAS, R-Ras, RRAS1","rectangle",478,711,46,17,NA,NA
+"16","PI3K-Akt signaling pathway","roundrectangle",847,329,110,34,NA,NA
+"161","RALBP1, RIP1, RLIP1, RLIP76","rectangle",596,801,46,17,NA,NA
+"163","RALBP1, RIP1, RLIP1, RLIP76","rectangle",807,852,46,17,NA,NA
+"164","ARF6","rectangle",889,852,46,17,NA,NA
+"165","RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1","rectangle",970,852,46,17,NA,NA
+"176","SOS1, GF1, GGF1, GINGF, HGF, NS4, SOS-1...","rectangle",390,602,46,17,NA,NA
+"177","RASGRF1, CDC25, CDC25L, GNRP, GRF1, GRF55, H-GRF55, PP13187, ras-GRF1","rectangle",390,711,46,17,NA,NA
+"178","RASGRP1, CALDAG-GEFI, CALDAG-GEFII, IMD64, RASGRP...","rectangle",390,666,46,17,NA,NA
+"18","GRB2, ASH, EGFRBP-GRB2, Grb3-3, MST084, MSTP084, NCKAP2","rectangle",271,220,46,17,NA,NA
+"185","GRIN1, DEE101, GluN1, MRD8, NDHMSD, NDHMSR, NMD-R1, NMDA1, NMDAR1, NR1...","rectangle",200,467,46,17,"hsa:2902;hsa:2903;hsa:2904",0
+"186","CALML6, CAGLP...","rectangle",350,465,46,17,NA,NA
+"187","GNB5, GB5, HG2E, IDDCA, LADCI, LDMLS1, LDMLS2, gbeta5...","rectangle",311,388,46,17,NA,NA
+"19","SOS1, GF1, GGF1, GINGF, HGF, NS4, SOS-1...","rectangle",398,233,46,17,NA,NA
+"194","HTR7, 5-HT7","rectangle",200,388,46,17,NA,NA
+"195","PLCG1, IDAA, NCKAP3, PLC-II, PLC1, PLC148, PLCgamma1...","rectangle",333,305,46,17,"hsa:5336",0
+"205","Long-term potentiation","roundrectangle",549,443,136,25,NA,NA
+"206","K10784...","rectangle",200,343,46,17,NA,NA
+"207","ZAP70, ADMIO2, IMD48, SRK, STCD, STD, TZK, ZAP-70","rectangle",271,343,46,17,NA,NA
+"208","LAT, IMD52, LAT1, pp36","rectangle",341,343,46,17,NA,NA
+"212","T cell receptor signaling pathway","roundrectangle",443,348,110,34,NA,NA
+"215","PAK4...","rectangle",1025,176,46,17,NA,NA
+"216","EXOC2, NEDFACH, SEC5, SEC5L1, Sec5p","rectangle",1002,401,46,17,NA,NA
+"217","TBK1, AIARV, FTDALS4, IIAE8, NAK, T2K","rectangle",1075,399,46,17,"hsa:29110",0
+"218","REL, C-Rel, HIVEN86A, IMD92","rectangle",1149,399,46,17,NA,NA
+"223","Rap1 signaling pathway","roundrectangle",985,646,110,34,NA,NA
+"224","BRAP, BRAP2, IMP, RNF52","rectangle",807,608,46,17,NA,NA
+"225","KSR2...","rectangle",932,592,46,17,NA,NA
+"23","AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...","rectangle",934,283,46,17,"hsa:208",0
+"230","BRAP, BRAP2, IMP, RNF52","rectangle",596,665,46,17,NA,NA
+"236","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",351,425,46,17,NA,NA
+"238","SHOC2, NSLH1, SIAA0862, SOC2, SUR8","rectangle",840,530,46,17,NA,NA
+"24","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",807,283,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296",0
+"240","RALGAPA1, GARNL1, GRIPE, NEDHRIT, RalGAPalpha1, TULIP1, p240...","rectangle",934,352,46,17,NA,NA
+"27","SHC2, SCK, SHCB, SLI...","rectangle",271,246,46,17,NA,NA
+"30","EFNA4-EFNA3...","rectangle",122,305,46,17,"hsa:3630",0
+"31","CSF1R, BANDDOS, C-FMS, CD115, CSF-1R, CSFR, FIM2, FMS, GPSC, HDLS, HDLS1, M-CSF-R...","rectangle",200,305,46,17,"hsa:3643",0
+"32","GAB1, DFNB26...","rectangle",323,220,46,17,NA,NA
+"33","PTPN11, BPTP3, CFC, JMML, METCDS, NS1, PTP-1D, PTP2C, SH-PTP2, SH-PTP3, SHP2","rectangle",323,246,46,17,NA,NA
+"35","TIAM1, NEDLDS, TIAM-1","rectangle",807,189,46,17,NA,NA
+"36","RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1...","rectangle",881,189,46,17,NA,NA
+"37","RALGDS, RGDS, RGF, RalGEF","rectangle",807,393,46,17,NA,NA
+"38","RGL1, RGL","rectangle",807,416,46,17,NA,NA
+"39","RGL2, HKE1.5, KE1.5, RAB2L","rectangle",807,440,46,17,NA,NA
+"40","RALA, HINCONS, RAL...","rectangle",902,416,46,17,NA,NA
+"41","PLD1, CVDD, CVDP1...","rectangle",1002,371,46,17,NA,NA
+"42","PLCE1, NPHS3, PLCE, PPLC","rectangle",807,712,46,17,"hsa:51196",0
+"43","PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA...","rectangle",963,692,46,17,NA,NA
+"48","ABL1, ABL, BCR-ABL, CHDSKM, JTK7, bcr/abl, c-ABL, c-ABL1, p150, v-abl...","rectangle",889,776,46,17,NA,NA
+"49","RIN1","rectangle",807,791,46,17,NA,NA
+"57","BAD, BBC2, BCL2L8","rectangle",1025,283,46,17,NA,NA
+"58","BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52","rectangle",1106,283,46,17,NA,NA
+"59","CHUK, BPS2, IKBKA, IKK-1, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16...","rectangle",1025,245,46,17,NA,NA
+"60","NFKB1, CVID12, EBP-1, KBF1, NF-kB, NF-kB1, NF-kappa-B1, NF-kappaB, NF-kappabeta, NFKB-p105, NFKB-p50, NFkappaB...","rectangle",1105,245,46,17,NA,NA
+"61","FOXO4, AFX, AFX1, MLLT7","rectangle",1026,320,46,17,NA,NA
+"62","FASLG, ALPS1B, APT1LG1, APTL, CD178, CD95-L, CD95L, FASL, TNFSF6, TNLG1A","rectangle",1107,320,46,17,NA,NA
+"7","MAPK signaling pathway","roundrectangle",953,533,110,34,NA,NA
+"70","MAPK8, JNK, JNK-46, JNK1, JNK1A2, JNK21B1/2, PRKM8, SAPK1, SAPK1c...","rectangle",1002,428,46,17,NA,NA
+"71","RALBP1, RIP1, RLIP1, RLIP76","rectangle",1002,455,46,17,NA,NA
+"72","CDC42, CDC42Hs, G25K, TKS","rectangle",1107,445,46,17,NA,NA
+"73","RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1...","rectangle",1107,467,46,17,NA,NA
+"78","PLA2G4B, HsT16992, cPLA2-beta...","rectangle",1137,533,46,17,"hsa:5321;hsa:8398",0
+"79","ELK1","rectangle",1137,563,46,17,NA,NA
+"8","TITLE:Ras signaling pathway","roundrectangle",157,58,233,25,NA,NA
+"80","ETS1, ETS-1, EWSR2, c-ets-1, p54...","rectangle",1137,584,46,17,NA,NA
+"86","RAB5A, RAB5...","rectangle",889,812,46,17,NA,NA
+"88","Calcium signaling pathway","roundrectangle",1051,716,110,34,NA,NA
+"89","RRAS2, NS12, TC21...","rectangle",357,145,46,17,NA,NA
+"9","MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, NS13, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK...","rectangle",1045,572,46,17,NA,NA
+"96","RASGRP1, CALDAG-GEFI, CALDAG-GEFII, IMD64, RASGRP...","rectangle",461,305,46,17,NA,NA
+"97","RASGRF1, CDC25, CDC25L, GNRP, GRF1, GRF55, H-GRF55, PP13187, ras-GRF1...","rectangle",546,388,46,17,NA,NA
+"98","RASA4B...","rectangle",535,231,46,17,NA,NA
+"99","NF1, NFNS, VRNF, WSS","rectangle",507,200,46,17,NA,NA

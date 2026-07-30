@@ -1,0 +1,49 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"12","IGH, IGH@, IGHV4, IGHV4-30, IGHV4-38-2, IGHV4-39, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv","rectangle",112,364,46,17,NA,NA
+"13","IGH, IGH@, IGHV4, IGHV4-30, IGHV4-38-2, IGHV4-39, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv","rectangle",112,291,46,17,NA,NA
+"131","ALOX5, 5-LO, 5-LOX, 5LPG, LOG5","rectangle",741,546,46,17,NA,NA
+"132","ALOX5AP, FLAP","rectangle",741,563,46,17,NA,NA
+"133",NA,"rectangle",179,307,46,51,NA,NA
+"134",NA,"rectangle",179,381,46,51,NA,NA
+"14","FCER1G, FCRG","rectangle",179,398,46,17,NA,NA
+"15","MS4A2, APY, ATOPY, FCER1B, FCERI, IGEL, IGER, IGHER","rectangle",179,381,46,17,NA,NA
+"16","FCER1A, FCE1A, FCERIA, FcERI","rectangle",179,364,46,17,NA,NA
+"26","MS4A2, APY, ATOPY, FCER1B, FCERI, IGEL, IGER, IGHER","rectangle",179,307,46,17,NA,NA
+"27","FCER1A, FCE1A, FCERIA, FcERI","rectangle",179,290,46,17,NA,NA
+"28","FYN, SLK, SYN, p59-FYN","rectangle",288,284,46,17,NA,NA
+"29","TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F","rectangle",785,401,46,17,NA,NA
+"32","IL13, IL-13, P600","rectangle",810,283,46,17,NA,NA
+"33","IL4, BCGF-1, BCGF1, BSF-1, BSF1, IL-4","rectangle",756,283,46,17,NA,NA
+"34","AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...","rectangle",621,257,46,17,"hsa:208",100
+"35","CSF2, CSF, GMCSF","rectangle",783,342,46,17,NA,NA
+"36","MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA...","rectangle",621,379,46,17,NA,NA
+"37","MAP2K7, JNKK2, MAPKK7, MEK, MEK_7, MKK7, PRKMK7, SAPKK-4, SAPKK4...","rectangle",548,318,46,17,NA,NA
+"38","MAP2K3, MAPKK3, MEK3, MKK3, PRKMK3, SAPKK-2, SAPKK2...","rectangle",548,379,46,17,NA,NA
+"39","PDPK1, PDK1, PDPK2, PDPK2P, PRO0461","rectangle",510,256,46,17,NA,NA
+"40","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",423,311,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296",100
+"41","PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA","rectangle",625,198,46,17,NA,NA
+"42","GAB2","rectangle",332,232,46,17,NA,NA
+"43","LCP2, IMD81, SLP-76, SLP76","rectangle",364,355,46,17,NA,NA
+"44","BTK, AGMX1, AT, ATK, BPK, IGHD3, IMD1, PSCTK1, XLA","rectangle",305,140,46,17,NA,NA
+"45","SYK, IMD82, p72-Syk","rectangle",274,355,46,17,NA,NA
+"46","LYN, JTK8, SAIDV, p53Lyn, p56Lyn","rectangle",251,237,46,17,NA,NA
+"47","LAT, IMD52, LAT1, pp36","rectangle",303,510,46,17,NA,NA
+"48","PLCG1, IDAA, NCKAP3, PLC-II, PLC1, PLC148, PLCgamma1...","rectangle",439,170,46,17,"hsa:5336",100
+"49","INPP5D, SHIP, SHIP-1, SHIP1, SIP-145, hp51CN, p150Ship","rectangle",233,181,46,17,NA,NA
+"50","FCER1G, FCRG","rectangle",179,324,46,17,NA,NA
+"51","MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, NS13, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK...","rectangle",625,444,46,17,NA,NA
+"52","MAP2K1, CFC3, MAPKK1, MEK1, MEL, MKK1, PRKMK1...","rectangle",557,444,46,17,NA,NA
+"53","RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf","rectangle",489,444,46,17,NA,NA
+"54","HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras...","rectangle",458,509,46,17,NA,NA
+"55","SOS1, GF1, GGF1, GINGF, HGF, NS4, SOS-1...","rectangle",407,554,46,17,NA,NA
+"56","GRB2, ASH, EGFRBP-GRB2, Grb3-3, MST084, MSTP084, NCKAP2","rectangle",339,554,46,17,NA,NA
+"57","PLA2G4B, HsT16992, cPLA2-beta...","rectangle",671,491,46,17,"hsa:5321",100
+"58","MAPK8, JNK, JNK-46, JNK1, JNK1A2, JNK21B1/2, PRKM8, SAPK1, SAPK1c...","rectangle",621,318,46,17,NA,NA
+"59","RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1...","rectangle",472,349,46,17,NA,NA
+"60","VAV3...","rectangle",407,444,46,17,NA,NA
+"61","IL5, EDF, IL-5, TRF","rectangle",810,319,46,17,NA,NA
+"62","IL3, IL-3, MCGF, MULTI-CSF","rectangle",756,319,46,17,NA,NA
+"63","Phosphatidylinositol signaling system","roundrectangle",458,124,113,34,NA,NA
+"64","MAPK signaling pathway","roundrectangle",564,498,112,34,NA,NA
+"65","Arachidonic acid metabolism","roundrectangle",729,596,111,34,NA,NA
+"66","TITLE:Fc epsilon RI signaling pathway","roundrectangle",147,58,214,25,NA,NA

@@ -1,0 +1,43 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","Citrate cycle (TCA cycle)","roundrectangle",567,120,92,34,NA,NA
+"102","ABAT, GABA-AT, GABAT, NPD009","rectangle",236,639,46,17,"hsa:18",100
+"106","GNB5, GB5, HG2E, IDDCA, LADCI, LDMLS1, LDMLS2, gbeta5...","rectangle",531,380,46,17,NA,NA
+"114","Synaptic vesicle cycle","roundrectangle",446,612,92,34,NA,NA
+"116","ADCY1, AC1, DFNB44...","rectangle",468,421,46,17,NA,NA
+"117","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",514,515,46,17,NA,NA
+"124","GPHN, GEPH, GPH, GPHRYN, HKPX1, MOCODC","rectangle",834,619,46,17,"hsa:10243",100
+"128","GABRA1, DEE19, ECA4, EIEE19, EJM, EJM5...","rectangle",1128,545,46,17,"hsa:2554;hsa:2559;hsa:2560;hsa:2561;hsa:2562;hsa:2563;hsa:2566",100
+"129","GABARAP, ATG8A, GABARAP-a, MM46...","rectangle",1111,528,46,17,NA,NA
+"130","NSF, DEE96, SEC18, SKD2","rectangle",1111,562,46,17,NA,NA
+"131","GABRA1, DEE19, ECA4, EIEE19, EJM, EJM5...","rectangle",970,548,46,17,"hsa:2554;hsa:2559;hsa:2560;hsa:2561;hsa:2562;hsa:2563;hsa:2566",100
+"132","TRAK2, ALS2CR3, CALS-C, GRIF-1, GRIF1, MILT2, OIP98","rectangle",951,531,46,17,NA,NA
+"133","PLCL1, PLCE, PLCL, PLDL1, PPP1R127, PRIP","rectangle",951,565,46,17,NA,NA
+"141","GABRA1, DEE19, ECA4, EIEE19, EJM, EJM5...","rectangle",825,450,46,17,"hsa:2554;hsa:2559;hsa:2560;hsa:2561;hsa:2562;hsa:2563;hsa:2566",100
+"142","GABRA1, DEE19, ECA4, EIEE19, EJM, EJM5...","rectangle",1032,452,46,17,"hsa:2554;hsa:2559;hsa:2560;hsa:2561;hsa:2562;hsa:2563;hsa:2566",100
+"146","HAP1, HAP2, HIP5, HLP, hHLP1","rectangle",1012,469,46,17,NA,NA
+"147","CACNA1A, APCA, BI, CACNL1A4, CAV2.1, DEE42, EA2, EIEE42, FHM, HPCA, MHP, MHP1, SCA6...","rectangle",757,717,46,17,NA,NA
+"154","GABRR3...","rectangle",757,679,46,17,NA,NA
+"155","SLC12A5, DEE34, EIEE34, EIG14, KCC2, hKCC2","rectangle",757,643,46,17,NA,NA
+"17","TITLE:GABAergic synapse","roundrectangle",130,58,180,25,NA,NA
+"225","Endocytosis","roundrectangle",909,456,92,25,NA,NA
+"226","GABRA1, DEE19, ECA4, EIEE19, EJM, EJM5...","rectangle",877,384,46,17,"hsa:2554;hsa:2559;hsa:2560;hsa:2561;hsa:2562;hsa:2563;hsa:2566",100
+"227","PRKACA, CAFD1, PKACA, PPNAD4...","rectangle",812,509,46,17,NA,NA
+"228","PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA...","rectangle",812,530,46,17,NA,NA
+"229","SRC, ASV, SRC1, THC6, c-SRC, p60-Src","rectangle",862,509,46,17,NA,NA
+"23","GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A, NEDLC...","rectangle",757,762,46,17,"hsa:9568",100
+"236","SLC38A3, DEE102, G17, NAT1, SN1, SNAT3...","rectangle",341,219,46,17,NA,NA
+"237","SLC38A2, ATA2, PRO1068, SAT2, SNAT2...","rectangle",123,395,46,17,NA,NA
+"25","SLC6A11, GAT-3, GAT3, GAT4...","rectangle",718,219,46,17,NA,NA
+"28","SLC32A1, VGAT, VIAAT","rectangle",244,556,46,17,NA,NA
+"32","ADCY1, AC1, DFNB44...","rectangle",935,762,46,17,NA,NA
+"37","GAD1, CPSQ1, DEE89, GAD, SCP...","rectangle",152,570,46,17,"hsa:2571",100
+"38","SLC6A1, GABATHG, GABATR, GAT1, MAE, hGAT-1...","rectangle",623,794,46,17,"hsa:6529",100
+"48","CACNA1A, APCA, BI, CACNL1A4, CAV2.1, DEE42, EA2, EIEE42, FHM, HPCA, MHP, MHP1, SCA6...","rectangle",623,497,46,17,NA,NA
+"72","GNB5, GB5, HG2E, IDDCA, LADCI, LDMLS1, LDMLS2, gbeta5...","rectangle",848,762,46,17,NA,NA
+"75","GABRA1, DEE19, ECA4, EIEE19, EJM, EJM5...","rectangle",757,598,46,17,"hsa:2554;hsa:2559;hsa:2560;hsa:2561;hsa:2562;hsa:2563;hsa:2566",100
+"76","Alanine, aspartate and glutamate metabolism","roundrectangle",203,493,136,34,NA,NA
+"79","GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A, NEDLC...","rectangle",532,321,46,17,"hsa:9568",100
+"84","ABAT, GABA-AT, GABAT, NPD009","rectangle",679,136,46,17,"hsa:18",100
+"85","GLUL, GLNS, GS, PIG43, PIG59","rectangle",399,133,46,17,"hsa:2752",100
+"90","KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR3.2, KPLBS, hiGIRK2","rectangle",757,810,46,17,NA,NA
+"93","GLS2, GA, GLS, LGA, hLGA...","rectangle",87,492,46,17,"hsa:2744",100

@@ -1,0 +1,85 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"10","Endocytosis","roundrectangle",136,119,92,25,NA,NA
+"100","CYBB, AMCBX2, CGD, CGDX, GP91-1, GP91-PHOX, GP91PHOX, IMD34, NOX2, p91-PHOX","rectangle",1009,629,46,17,NA,NA
+"101","CYBA, CGD4, p22-PHOX","rectangle",963,629,46,17,NA,NA
+"102","NCF1, CGD1, NCF-1, NCF-47K, NCF1A, NOXO2, SH3PXD1A, p47-phox, p47phox","rectangle",784,689,46,17,NA,NA
+"103","NCF2, NCF-2, NOXA2, P67-PHOX, P67PHOX","rectangle",830,689,46,17,NA,NA
+"104","NCF4, CGD3, NCF, P40PHOX, SH3PXD4","rectangle",876,689,46,17,NA,NA
+"105","RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1","rectangle",988,663,46,17,NA,NA
+"108","DYNC1H1, CDCBM13, CMT2O, DHC1, DHC1a, DNCH1, DNCL, DNECL, DYHC, Dnchc1, HL-3, SMALED1, p22...","rectangle",353,495,46,17,"hsa:1778",100
+"110","TUBA1B, K-ALPHA-1...","rectangle",376,525,46,17,NA,NA
+"111","TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4...","rectangle",376,542,46,17,NA,NA
+"114","HGS, HRS","rectangle",353,406,46,17,NA,NA
+"117","M6PR, CD-M6PR, CD-MPR, MPR 46, MPR-46, MPR46, SMPR","rectangle",353,664,46,17,NA,NA
+"118","ATP6V1FP2...","rectangle",438,358,46,17,"hsa:23545;hsa:523;hsa:529;hsa:537",100
+"119","LAMP1, CD107a, LAMPA, LGP120...","rectangle",353,614,46,17,"hsa:3920",0
+"120","ATP6V1FP2...","rectangle",439,702,46,17,"hsa:23545;hsa:523;hsa:529;hsa:537",100
+"122","MPO","rectangle",518,655,46,17,NA,NA
+"125","PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29","rectangle",353,639,46,17,"hsa:200576",100
+"127","STX12, STX13, STX14","rectangle",223,316,46,17,NA,NA
+"128","STX7","rectangle",223,491,46,17,NA,NA
+"141","CD36, BDPLT10, CHDS7, FAT, GP3B, GP4, GPIV, PASIV, SCARB3","rectangle",920,456,46,17,NA,NA
+"142","MARCO, SCARA2, SR-A6","rectangle",920,432,46,17,NA,NA
+"143","OLR1, CLEC8A, LOX1, LOXIN, SCARE1, SLOX1","rectangle",970,432,46,17,NA,NA
+"144","CD14","rectangle",970,321,46,17,NA,NA
+"145","TLR2, CD282, TIL4","rectangle",870,321,46,17,NA,NA
+"147","TLR6, CD286","rectangle",870,338,46,17,NA,NA
+"148","TLR4, ARMD10, CD284, TLR-4, TOLL","rectangle",920,321,46,17,NA,NA
+"152","Lysosome","roundrectangle",126,692,92,25,NA,NA
+"154","NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS","rectangle",411,614,46,17,NA,NA
+"155","SCARB1, CD36L1, CLA-1, CLA1, HDLCQ6, HDLQTL6, SR-BI, SRB1","rectangle",870,456,46,17,"hsa:949",0
+"158","102723407","rectangle",1035,131,46,17,NA,NA
+"159","C3, AHUS5, ARMD9, ASP, C3a, C3b, CPAMD1, HEL-S-62p","rectangle",1035,176,46,17,NA,NA
+"160","COMP, CTS2, EDM1, EPD1, MED, PSACH, THBS5, TSP-5, TSP5...","rectangle",1035,252,46,17,NA,NA
+"161","Complement and coagulation cascades","roundrectangle",911,207,105,34,NA,NA
+"162","MBL2, COLEC1, HSMBPC, MBL, MBL2D, MBP, MBP-C, MBP1, MBPD...","rectangle",1035,198,46,17,NA,NA
+"163","Toll-like receptor signaling pathway","roundrectangle",996,357,105,34,NA,NA
+"186","Antigen processing and presentation","roundrectangle",717,428,100,34,NA,NA
+"187","SEC61B...","rectangle",630,688,46,17,NA,NA
+"188","CALR, CALR1, CRT, HEL-S-99n, RO, SSA, cC1qR","rectangle",628,298,46,17,NA,NA
+"189","CANX, CNX, IP90, P90","rectangle",628,320,46,17,NA,NA
+"199","HLA-DMA, D6S222E, DMA, HLADM, RING6...","rectangle",719,473,46,17,NA,NA
+"213","HLA-DMA, D6S222E, DMA, HLADM, RING6...","rectangle",801,171,46,17,NA,NA
+"214","CLEC4M, CD209L, CD299, DC-SIGN2, DC-SIGNR, DCSIGNR, HP10347, L-SIGN, LSIGN...","rectangle",921,392,46,17,NA,NA
+"215","CLEC7A, BGR, CANDF4, CD369, CLECSF12, DECTIN1, SCARE2","rectangle",973,391,46,17,NA,NA
+"216","TAP1, ABC17, ABCB2, APT1, D6S114E, MHC1D1, PSF-1, PSF1, RING4, TAP1*0102N, TAP1N...","rectangle",644,664,46,17,NA,NA
+"217","CTSL, CATL, CTSL1, MEP...","rectangle",522,702,46,17,NA,NA
+"219","HLA-A, HLAA...","rectangle",750,171,46,17,NA,NA
+"224","TAP1, ABC17, ABCB2, APT1, D6S114E, MHC1D1, PSF-1, PSF1, RING4, TAP1*0102N, TAP1N...","rectangle",705,300,46,17,NA,NA
+"225","HLA-A, HLAA...","rectangle",688,330,46,17,NA,NA
+"233","HLA-A, HLAA...","rectangle",625,608,46,17,NA,NA
+"240","TFRC, CD71, IMD46, T9, TFR, TFR1, TR, TRFR, p90","rectangle",353,330,46,17,"hsa:7037",0
+"241","CORO1A, CLABP, CLIPINA, HCORO1, IMD8, TACO, p57","rectangle",421,160,46,17,NA,NA
+"245","ATP6V1FP2...","rectangle",438,512,46,17,"hsa:23545;hsa:523;hsa:529;hsa:537",100
+"248",NA,"rectangle",353,291,46,34,NA,NA
+"249",NA,"rectangle",353,478,46,51,NA,NA
+"250",NA,"rectangle",376,533,46,34,NA,NA
+"33","SEC22B, ERS-24, SEC22L1","rectangle",667,196,46,17,NA,NA
+"34","STX18, Ufe1","rectangle",667,175,46,17,NA,NA
+"48","VAMP3, CEB","rectangle",320,192,46,17,NA,NA
+"60","FCAR, CD89, CTB-61M7.2, FcalphaR, FcalphaRI","rectangle",870,131,46,17,NA,NA
+"61","FCGR1A, CD64, CD64A, FCG1, FCGR1, FCRI, FcgammaRI, IGFR1...","rectangle",920,131,46,17,NA,NA
+"62","C1R, EDS8, EDSPD1","rectangle",870,176,46,17,NA,NA
+"63","ITGAM, CD11B, CR3A, MAC-1, MAC1A, MO1A, SLEB6...","rectangle",920,176,46,17,NA,NA
+"64","ITGAV, CD51, MSK8, VNRA, VTNR...","rectangle",920,252,46,17,NA,NA
+"65","ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB","rectangle",970,273,46,17,NA,NA
+"66","PLA2R1, CLEC13C, PLA2-R, PLA2G1R, PLA2IR, PLA2R...","rectangle",870,392,46,17,NA,NA
+"67","MSR1, CD204, SCARA1, SR-A, SR-AI, SR-AII, SR-AIII, SRA, phSR1, phSR2","rectangle",870,432,46,17,NA,NA
+"68","ITGAV, CD51, MSK8, VNRA, VTNR...","rectangle",970,252,46,17,NA,NA
+"69","ITGAM, CD11B, CR3A, MAC-1, MAC1A, MO1A, SLEB6...","rectangle",870,252,46,17,NA,NA
+"70","ITGA2, BR, CD49B, GPIa, HPA-5, VLA-2, VLAA2...","rectangle",870,273,46,17,NA,NA
+"71","ITGA5, CD49e, FNRA, VLA-5, VLA5A...","rectangle",920,273,46,17,NA,NA
+"8","TITLE:Phagosome","roundrectangle",90,58,100,25,NA,NA
+"86","ACTB, BKRNS, BNS, BRWS1, CSMH, DDS1, PS1TP5BP1, THC8...","rectangle",462,106,46,17,NA,NA
+"87","PIK3C3, VPS34, Vps34, hVps34","rectangle",442,283,46,17,NA,NA
+"88","EEA1, MST105, MSTP105, ZFYVE2","rectangle",353,300,46,17,NA,NA
+"89","RAB5A, RAB5...","rectangle",353,283,46,17,NA,NA
+"9","Fc gamma R-mediated phagocytosis","roundrectangle",338,85,116,34,NA,NA
+"90","RAB7B, RAB7...","rectangle",353,461,46,17,"hsa:7879",100
+"91","CYBB, AMCBX2, CGD, CGDX, GP91-1, GP91-PHOX, GP91PHOX, IMD34, NOX2, p91-PHOX","rectangle",856,629,46,17,NA,NA
+"92","RILP, PP10141","rectangle",353,478,46,17,NA,NA
+"93","CYBA, CGD4, p22-PHOX","rectangle",811,629,46,17,NA,NA
+"94","NCF4, CGD3, NCF, P40PHOX, SH3PXD4","rectangle",1055,641,46,17,NA,NA
+"95","NCF1, CGD1, NCF-1, NCF-47K, NCF1A, NOXO2, SH3PXD1A, p47-phox, p47phox","rectangle",963,646,46,17,NA,NA
+"96","NCF2, NCF-2, NOXA2, P67-PHOX, P67PHOX","rectangle",1009,646,46,17,NA,NA
+"97","RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1","rectangle",885,657,46,17,NA,NA

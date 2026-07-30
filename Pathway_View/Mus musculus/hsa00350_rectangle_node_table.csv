@@ -1,0 +1,102 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"100","K00151","rectangle",694,656,46,17,NA,NA
+"102","K00055","rectangle",636,426,46,17,NA,NA
+"103","AOC2, DAO2, RAO, SSAO...","rectangle",555,368,46,17,NA,NA
+"104","K13371...","rectangle",505,387,46,17,NA,NA
+"105","AOX1, AO, AOH1","rectangle",200,551,46,17,NA,NA
+"106","K00422","rectangle",594,142,46,17,NA,NA
+"108","Isoquinoline alkaloid biosynthesis","roundrectangle",503,197,119,34,NA,NA
+"109","K05921","rectangle",961,696,46,17,NA,NA
+"111","K00817","rectangle",311,336,46,17,NA,NA
+"112","K00832...","rectangle",361,336,46,17,NA,NA
+"113","K02509","rectangle",1056,697,46,17,NA,NA
+"159","FAH","rectangle",336,714,46,17,"hsa:2184",100
+"160","Pyruvate metabolism","roundrectangle",153,843,76,34,NA,NA
+"161","Citrate cycle (TCA cycle)","roundrectangle",251,828,77,25,NA,NA
+"165","Phenylpropanoid biosynthesis","roundrectangle",390,197,98,34,NA,NA
+"171","Phenylalanine metabolism","roundrectangle",645,457,89,34,NA,NA
+"172","K05821","rectangle",311,355,46,17,NA,NA
+"209","DCT, OCA8, TRP-2, TYRP2","rectangle",1082,144,46,17,NA,NA
+"210","Isoquinoline alkaloid biosynthesis","roundrectangle",1183,330,121,34,NA,NA
+"211","MAOA, BRNRS, MAO-A...","rectangle",1345,359,46,17,"hsa:4128",100
+"212","ALDH3A1, ALDH3, ALDHIII...","rectangle",1408,469,46,17,NA,NA
+"213","MAOA, BRNRS, MAO-A...","rectangle",1269,359,46,17,"hsa:4128",100
+"214","TOMT, COMT2...","rectangle",1307,290,46,17,NA,NA
+"215","TOMT, COMT2...","rectangle",1408,290,46,17,NA,NA
+"216","TOMT, COMT2...","rectangle",1269,541,46,17,NA,NA
+"217","ALDH3A1, ALDH3, ALDHIII...","rectangle",1269,469,46,17,NA,NA
+"218","ADH1A, ADH1...","rectangle",1206,469,46,17,NA,NA
+"219","TOMT, COMT2...","rectangle",1206,541,46,17,NA,NA
+"220","MAOA, BRNRS, MAO-A...","rectangle",1409,359,46,17,"hsa:4128",100
+"221","PNMT, PENT, PNMTase","rectangle",1351,266,46,17,NA,NA
+"222","MAOA, BRNRS, MAO-A...","rectangle",1487,359,46,17,"hsa:4128",100
+"223","DBH, DBM, ORTHYP1","rectangle",1208,265,46,17,"hsa:1621",100
+"224","ALDH3A1, ALDH3, ALDHIII...","rectangle",976,469,46,17,NA,NA
+"225","TOMT, COMT2...","rectangle",1033,541,46,17,NA,NA
+"226","MAOA, BRNRS, MAO-A...","rectangle",976,368,46,17,"hsa:4128",100
+"227","ALDH3A1, ALDH3, ALDHIII...","rectangle",1089,469,46,17,NA,NA
+"228","TOMT, COMT2...","rectangle",1088,290,46,17,NA,NA
+"229","K01592","rectangle",951,255,46,17,NA,NA
+"230","DDC, AADC","rectangle",951,276,46,17,"hsa:1644",100
+"231","TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3","rectangle",1198,98,46,17,"hsa:7299",100
+"233","TH, DYT14, DYT5b, TYH","rectangle",701,276,46,17,"hsa:7054",100
+"234","TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3","rectangle",749,255,46,17,"hsa:7299",100
+"235","K00422","rectangle",701,255,46,17,NA,NA
+"240","K18606","rectangle",824,390,46,17,NA,NA
+"241","K21425","rectangle",824,483,46,17,NA,NA
+"242","AOC2, DAO2, RAO, SSAO...","rectangle",1026,368,46,17,NA,NA
+"243","K13371...","rectangle",976,387,46,17,NA,NA
+"279","TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3","rectangle",798,142,46,17,"hsa:7299",100
+"280","K00422","rectangle",848,142,46,17,NA,NA
+"282","TYRP1, CAS2, CATB, GP75, OCA3, TRP, TRP1, TYRP, b-PROTEIN","rectangle",1198,144,46,17,NA,NA
+"294","K00270","rectangle",361,355,46,17,NA,NA
+"295","K16165","rectangle",178,714,46,17,NA,NA
+"298","K10774","rectangle",236,294,46,17,NA,NA
+"300","K20758","rectangle",72,714,46,17,NA,NA
+"302","Butanoate metabolism","roundrectangle",72,842,76,34,NA,NA
+"303","MAOA, BRNRS, MAO-A...","rectangle",1088,368,46,17,"hsa:4128",100
+"305","K01618","rectangle",919,352,46,17,NA,NA
+"307","K22327","rectangle",454,352,46,17,NA,NA
+"308","K24287","rectangle",749,276,46,17,NA,NA
+"310","K00146","rectangle",530,488,46,17,NA,NA
+"311","K00146","rectangle",1000,488,46,17,NA,NA
+"313","Phenylalanine metabolism","roundrectangle",435,574,89,34,NA,NA
+"314","Citrate cycle (TCA cycle)","roundrectangle",1387,696,78,25,NA,NA
+"317","K25271...","rectangle",1026,387,46,17,NA,NA
+"318","K25271...","rectangle",555,387,46,17,NA,NA
+"321","K28347","rectangle",282,458,46,17,NA,NA
+"54","Isoquinoline alkaloid biosynthesis","roundrectangle",651,359,118,34,NA,NA
+"57","Dioxin degradation","roundrectangle",912,601,72,34,NA,NA
+"58","TITLE:Tyrosine metabolism","roundrectangle",133,58,186,25,NA,NA
+"59","Phenylalanine, tyrosine and tryptophan biosynthesis","roundrectangle",337,131,153,34,NA,NA
+"60","TPO, MSA, TDH2A, TPX","rectangle",114,267,46,17,NA,NA
+"61","TPO, MSA, TDH2A, TPX","rectangle",199,242,46,17,NA,NA
+"62","TPO, MSA, TDH2A, TPX","rectangle",290,241,46,17,NA,NA
+"63","FAHD1, C16orf36, ODx, YISKL","rectangle",128,714,46,17,NA,NA
+"64","K01801...","rectangle",154,644,46,17,NA,NA
+"66","K00450","rectangle",153,575,46,17,NA,NA
+"69","GSTZ1, GSTZ1-1, MAAI, MAAID, MAI","rectangle",336,644,46,17,"hsa:2954",100
+"70","HGD, AKU, HGO","rectangle",336,575,46,17,"hsa:3081",100
+"71","K00455","rectangle",719,575,46,17,NA,NA
+"72","K00483...","rectangle",628,541,46,17,NA,NA
+"73","GOT1L1...","rectangle",311,317,46,17,"hsa:2806",100
+"74","MIF, GIF, GLIF, MMIF","rectangle",224,458,46,17,NA,NA
+"75","HPD, 4-HPPD, 4HPPD, GLOD3, HPPD, HPPDASE, PPD","rectangle",336,480,46,17,"hsa:3242",100
+"80","ALDH3A1, ALDH3, ALDHIII...","rectangle",505,469,46,17,NA,NA
+"81","MAOA, BRNRS, MAO-A...","rectangle",505,368,46,17,"hsa:4128",100
+"83","TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3","rectangle",544,142,46,17,"hsa:7299",100
+"84","TPO, MSA, TDH2A, TPX","rectangle",114,242,46,17,NA,NA
+"85","IL4I1, FIG1, LAAO, LAO, hIL4I1","rectangle",391,379,46,17,NA,NA
+"86","TAT","rectangle",361,317,46,17,"hsa:6898",100
+"87","K01668","rectangle",629,235,46,17,NA,NA
+"88","DDC, AADC","rectangle",555,291,46,17,"hsa:1644",100
+"89","K22329...","rectangle",505,291,46,17,NA,NA
+"91","K00483...","rectangle",719,490,46,17,NA,NA
+"92","K10219","rectangle",744,656,46,17,NA,NA
+"93","K01826","rectangle",760,697,46,17,NA,NA
+"94","K05921","rectangle",854,697,46,17,NA,NA
+"95","K02509","rectangle",1004,660,46,17,NA,NA
+"96","K02510","rectangle",1150,696,46,17,NA,NA
+"97","K00135","rectangle",1243,696,46,17,NA,NA
+"98","K18606...","rectangle",182,435,46,17,NA,NA
+"99","K23109","rectangle",182,414,46,17,NA,NA

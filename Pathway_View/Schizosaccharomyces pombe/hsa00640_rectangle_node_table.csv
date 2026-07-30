@@ -1,0 +1,78 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","percent"
+"103","Cysteine and methionine metabolism","roundrectangle",920,30,136,34,NA,NA
+"104","K13923","rectangle",936,229,46,17,NA,NA
+"105","ACADS, ACAD3, SCAD","rectangle",593,317,46,17,"hsa:35",0
+"108","K01720","rectangle",1041,485,46,17,NA,NA
+"110","MMUT, MCM, MUT","rectangle",807,577,46,17,"hsa:4594",0
+"111","K01659...","rectangle",1041,393,46,17,NA,NA
+"118","K01682...","rectangle",1041,576,46,17,NA,NA
+"119","SUCLG2, G-SCS, GBETA, GTPSCS...","rectangle",865,630,46,17,"hsa:8802;hsa:8803",100
+"120","SUCLG2, G-SCS, GBETA, GTPSCS...","rectangle",865,609,46,17,"hsa:8802;hsa:8803",100
+"121","K03417...","rectangle",981,620,46,17,NA,NA
+"130","Pyruvate metabolism","roundrectangle",91,161,122,25,NA,NA
+"154","K13922","rectangle",638,409,46,17,NA,NA
+"156","K00086","rectangle",612,521,46,17,NA,NA
+"158","K13921","rectangle",662,521,46,17,NA,NA
+"159","K01699...","rectangle",569,469,46,17,NA,NA
+"16","ALDH6A1, MMSADHA, MMSDH","rectangle",159,325,46,17,"hsa:4329",0
+"165","Glycolysis / Gluconeogenesis","roundrectangle",201,581,68,25,NA,NA
+"166","K01734","rectangle",340,581,46,17,NA,NA
+"167","K00048","rectangle",501,521,46,17,NA,NA
+"168","K00005","rectangle",445,592,46,17,NA,NA
+"17","K03416...","rectangle",159,228,46,17,NA,NA
+"173","K18471","rectangle",371,521,46,17,NA,NA
+"177","K17741...","rectangle",445,571,46,17,NA,NA
+"178","K00005","rectangle",442,468,46,17,NA,NA
+"179","K08325","rectangle",421,521,46,17,NA,NA
+"18","ACACA, ACAC, ACACAD, ACACalpha, ACC, ACC1, ACCA, ACCalpha, Acac1, hACC1...","rectangle",159,262,46,17,"hsa:31;hsa:32",100
+"181","Citrate cycle (TCA cycle)","roundrectangle",808,673,73,25,NA,NA
+"182","Pyruvate metabolism","roundrectangle",918,673,118,25,NA,NA
+"185","Valine, leucine and isoleucine degradation","roundrectangle",882,496,75,34,NA,NA
+"19","MLYCD, MCD","rectangle",159,195,46,17,"hsa:23417",0
+"197","DLD, DLDD, DLDH, E3, GCSL, LAD, OGDC-E3, PHE3","rectangle",769,241,46,17,"hsa:1738",100
+"198","BCKDHA, BCKDE1A, MSU, MSUD1, MSUD1A, OVD1A...","rectangle",806,209,46,17,"hsa:593;hsa:594",0
+"199","BCKDHA, BCKDE1A, MSU, MSUD1, MSUD1A, OVD1A...","rectangle",806,138,46,17,"hsa:593;hsa:594",0
+"20","K14468","rectangle",225,283,46,17,NA,NA
+"200","DBT, BCATE2, BCKAD-E2, BCKADE2, BCKDH-E2, BCOADC-E2, E2, E2B","rectangle",806,275,46,17,"hsa:1629",0
+"202","Glycine, serine and threonine metabolism","roundrectangle",925,65,146,25,NA,NA
+"205","K19745","rectangle",593,360,46,17,NA,NA
+"206","K20143","rectangle",593,381,46,17,NA,NA
+"208","K20455","rectangle",1127,485,46,17,NA,NA
+"210","K09788","rectangle",1089,533,46,17,NA,NA
+"212","K22214","rectangle",691,560,46,17,NA,NA
+"213","K14729","rectangle",468,338,46,17,NA,NA
+"214","ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...","rectangle",593,338,46,17,"hsa:51",0
+"216","K25571","rectangle",276,419,46,17,NA,NA
+"219","K26355","rectangle",1083,106,46,17,NA,NA
+"222","Citrate cycle (TCA cycle)","roundrectangle",1164,412,73,25,NA,NA
+"225","K28060...","rectangle",276,355,46,17,NA,NA
+"25","K00822","rectangle",276,400,46,17,NA,NA
+"26","ABAT, GABA-AT, GABAT, NPD009","rectangle",276,381,46,17,"hsa:18",100
+"27","K23146","rectangle",276,328,46,17,NA,NA
+"29","Pantothenate and CoA biosynthesis","roundrectangle",325,459,102,34,NA,NA
+"35","HIBCH, HIBYLCOAH","rectangle",377,327,46,17,"hsa:26275",100
+"57","K13788...","rectangle",886,229,46,17,NA,NA
+"58","K00656","rectangle",666,195,46,17,NA,NA
+"59","K00932...","rectangle",968,116,46,17,NA,NA
+"60","ALDH6A1, MMSADHA, MMSDH","rectangle",951,409,46,17,"hsa:4329",0
+"63","MCEE, GLOD2, MCE, MMCE","rectangle",807,494,46,17,"hsa:84693",0
+"64","PCCA...","rectangle",721,390,46,17,"hsa:5095;hsa:5096",66.6666666666667
+"65","K03416","rectangle",782,390,46,17,NA,NA
+"66","ECHDC1, HEL-S-76, MMCD, dJ351K20.2","rectangle",831,390,46,17,NA,NA
+"67","K01026","rectangle",942,195,46,17,NA,NA
+"68","ACSS3","rectangle",1051,229,46,17,NA,NA
+"69","ACSS3","rectangle",1051,143,46,17,NA,NA
+"70","K01905...","rectangle",992,195,46,17,NA,NA
+"71","ACSS2, ACAS2, ACECS, ACS, ACSA, AceCS1, dJ1161H23.1...","rectangle",1001,229,46,17,NA,NA
+"72","ACSS2, ACAS2, ACECS, ACS, ACSA, AceCS1, dJ1161H23.1...","rectangle",1001,143,46,17,NA,NA
+"73","K00925","rectangle",968,95,46,17,NA,NA
+"74","K20626...","rectangle",523,274,46,17,NA,NA
+"75","K01026","rectangle",523,196,46,17,NA,NA
+"76","K00169...","rectangle",697,229,46,17,NA,NA
+"77","LDHAL6A, LDH6A...","rectangle",743,64,46,17,"hsa:3939;hsa:3945",0
+"79","Glycolysis / Gluconeogenesis","roundrectangle",445,157,67,25,NA,NA
+"80","Valine, leucine and isoleucine degradation","roundrectangle",1138,324,125,25,NA,NA
+"81","C5-Branched dibasic acid metabolism","roundrectangle",1141,259,131,34,NA,NA
+"82","beta-Alanine metabolism","roundrectangle",1138,294,125,25,NA,NA
+"83","ECHS1, ECHS1D, SCEH, mECH, mECH1...","rectangle",468,317,46,17,"hsa:1892;hsa:1962;hsa:3030",0
+"9","TITLE:Propanoate metabolism","roundrectangle",143,58,205,25,NA,NA

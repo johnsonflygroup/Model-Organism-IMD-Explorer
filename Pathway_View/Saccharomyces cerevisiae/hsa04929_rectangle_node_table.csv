@@ -1,0 +1,41 @@
+"entry_id","graphics_name","graphics_type","x","y","width","height","matched_ids","Correlated_EC","Gene","percent"
+"103","Ovarian steroidogenesis","roundrectangle",101,770,141,25,NA,NA,NA,NA
+"107","PI3K-Akt signaling pathway","roundrectangle",589,533,121,34,NA,NA,NA,NA
+"109","GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A, NEDLC...","rectangle",850,104,46,17,"hsa:9568",NA,"GABBR2",0
+"110","HCN1, BCNG-1, BCNG1, DEE24, EIEE24, GEFSP10, HAC-2...","rectangle",455,191,46,17,NA,NA,NA,NA
+"113","CGA, CG-ALPHA, FSHA, GPA1, GPHA1, GPHa, HCG, LHA, TSHA...","rectangle",760,749,46,17,NA,NA,NA,NA
+"114","CGA, CG-ALPHA, FSHA, GPA1, GPHA1, GPHa, HCG, LHA, TSHA...","rectangle",760,727,46,17,NA,NA,NA,NA
+"126","GPER1, CEPR, CMKRL2, DRY12, FEG-1, GPCR-Br, GPER, GPR30, LERGU, LERGU2, LyGPR, mER","rectangle",457,615,46,17,NA,NA,NA,NA
+"127","ESR2, ER-BETA, ESR-BETA, ESRB, ESTRB, Erb, NR3A2, ODG8","rectangle",671,568,46,17,"hsa:2100",NA,"ESR2",0
+"134","CACNA1G, Ca(V)T.1, Cav3.1, NBR13, SCA42, SCA42ND","rectangle",972,570,46,17,NA,NA,NA,NA
+"135","CACNA1H, CACNA1HB, Cav3.2, ECA6, EIG6, HALD4","rectangle",972,592,46,17,NA,NA,NA,NA
+"136","CACNA1I, Cav3.3, NEDSIS, ca(v)3.3","rectangle",972,614,46,17,NA,NA,NA,NA
+"137","Estrogen signaling pathway","roundrectangle",761,632,110,34,NA,NA,NA,NA
+"139","KCNN1, KCa2.1, SK1, SKCA1, hSK1...","rectangle",985,104,46,17,NA,NA,NA,NA
+"15","TITLE:GnRH secretion","roundrectangle",120,58,159,25,NA,NA,NA,NA
+"152","CACNA1C, CACH2, CACN2, CACNA1C-IT2, CACNL1A1, CCHL1A1, CaV1.2, LQT8, NEDHLSS, TS, TS. LQT8...","rectangle",1149,104,46,17,NA,NA,NA,NA
+"155","RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf","rectangle",668,459,46,17,NA,NA,NA,NA
+"18","GNA11, FBH, FBH2, FHH2, GNA-11, HG1K, HHC2, HYPOC2...","rectangle",559,270,46,17,NA,NA,NA,NA
+"19","PLCB1, DEE12, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B...","rectangle",662,270,46,17,"hsa:23236;hsa:5331;hsa:5332","3.1.4.11","PLCB1; PLCB3; PLCB4",0
+"25","ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29...","rectangle",847,341,46,17,"hsa:3708;hsa:3709",NA,"ITPR1; ITPR2",0
+"28","PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA...","rectangle",847,261,46,17,NA,NA,NA,NA
+"32","Calcium signaling pathway","roundrectangle",603,229,123,34,NA,NA,NA,NA
+"33","P3R3URF-PIK3R3, LOC110117498-PIK3R3...","rectangle",668,502,46,17,"hsa:5290;hsa:5293;hsa:5295;hsa:5296","2.7.1.153","PIK3CA; PIK3CD; PIK3R1; PIK3R2",0
+"34","AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...","rectangle",739,502,46,17,"hsa:208","2.7.11.1","AKT2",0
+"36","CACNA1I, Cav3.3, NEDSIS, ca(v)3.3...","rectangle",659,104,46,17,NA,NA,NA,NA
+"38","HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras...","rectangle",595,459,46,17,NA,NA,NA,NA
+"39","MAP2K1, CFC3, MAPKK1, MEK1, MEL, MKK1, PRKMK1...","rectangle",739,459,46,17,NA,NA,NA,NA
+"40","MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, NS13, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK...","rectangle",812,459,46,17,NA,NA,NA,NA
+"44","KCNJ3, GIRK1, KGA, KIR3.1...","rectangle",790,104,46,17,"hsa:3767",NA,"KCNJ11",0
+"47","MAPK signaling pathway","roundrectangle",586,408,110,34,NA,NA,NA,NA
+"48","KISS1R, AXOR12, CPPB1, GPR54, HH8, HOT7T175, KISS-1R","rectangle",455,270,46,17,NA,NA,NA,NA
+"49","ARRB1, ARB1, ARR1...","rectangle",616,327,46,17,NA,NA,NA,NA
+"50","ARRB1, ARB1, ARR1...","rectangle",616,352,46,17,NA,NA,NA,NA
+"51","KISS1, HH13, KiSS-1","rectangle",377,270,46,17,NA,NA,NA,NA
+"53","TRPC1, HTRP-1, TRP1...","rectangle",714,104,46,17,NA,NA,NA,NA
+"56","GnRH signaling pathway","roundrectangle",1429,766,110,34,NA,NA,NA,NA
+"84","GNRH1, GNRH, GRH, LHRH, LNRH...","rectangle",1091,477,46,17,NA,NA,NA,NA
+"85","GNRH1, GNRH, GRH, LHRH, LNRH...","rectangle",1384,477,46,17,NA,NA,NA,NA
+"87","GNRH1, GNRH, GRH, LHRH, LNRH...","rectangle",972,477,46,17,NA,NA,NA,NA
+"97","KISS1, HH13, KiSS-1","rectangle",241,215,46,17,NA,NA,NA,NA
+"98","KISS1, HH13, KiSS-1","rectangle",241,414,46,17,NA,NA,NA,NA
