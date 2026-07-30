@@ -61,7 +61,6 @@ Increasing the threshold retains more strongly supported orthology predictions. 
 Users can browse IMD-associated genes according to orthology support in each model organism and distinguish:
 
 - one-to-one orthology;
-- one-to-two orthology;
 - complex orthology; and
 - no detected ortholog support.
 
